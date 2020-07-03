@@ -430,7 +430,7 @@ app.on('ready', () => {
     // console.log("ready");
     // createBrowserWindow(true)
     // console.log(process.argv);
-    BrowserWindow.addExtension("./app/Extensions/jsonview/0.0.32.3_0");
+    // BrowserWindow.addExtension("./app/Extensions/jsonview/0.0.32.3_0");
 
     // console.log(BrowserWindow.getExtensions());
     var data = handleArgv(process.argv);
