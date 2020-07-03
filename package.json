@@ -1,0 +1,121 @@
+{
+  "name": "HowardBrowser",
+  "version": "0.20.0403",
+  "description": "Howard Browser",
+  "main": "app.js",
+  "author": {
+    "name": "Howard"
+  },
+  "build": {
+    "productName": "HowardBrowser",
+    "appId": "top.howardyun.browser",
+    "directories": {
+      "output": "build"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowElevation": true,
+      "allowToChangeInstallationDirectory": true,
+      "installerIcon": "./app/imgs/logo.ico",
+      "uninstallerIcon": "./app/imgs/unlogo.ico",
+      "installerHeaderIcon": "./app/imgs/logo.ico",
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "HowardBrowser"
+    },
+    "protocols": {
+      "name": "HowardBrowser",
+      "schemes": [
+        "HowardBrowser"
+      ]
+    },
+    "fileAssociations": [
+      {
+        "ext": [
+          "pdf"
+        ],
+        "description": "Howard Browser Open PDF",
+        "icon": "./app/imgs/pdf.ico"
+      },
+      {
+        "ext": [
+          "html"
+        ],
+        "description": "Howard Browser Open HTML",
+        "icon": "./app/imgs/html.ico"
+      },
+      {
+        "ext": [
+          "htm"
+        ],
+        "description": "Howard Browser Open HTM",
+        "icon": "./app/imgs/html.ico"
+      }
+    ],
+    "mac": {
+      "target": [
+        "dmg",
+        "zip"
+      ]
+    },
+    "win": {
+      "icon": "./app/imgs/logo.ico",
+      "protocols": [
+        {
+          "name": "http server URL",
+          "schemes": [
+            "http",
+            "https"
+          ]
+        },
+        {
+          "name": "file server URL",
+          "schemes": [
+            "file",
+            "ftp"
+          ]
+        }
+      ],
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64",
+            "ia32"
+          ]
+        }
+      ]
+    }
+  },
+  "scripts": {
+    "start": "electron .",
+    "build": "concurrently \"yarn build-main\" \"yarn build-renderer\"",
+    "build-dll": "cross-env NODE_ENV=development webpack --config ./configs/webpack.config.renderer.dev.dll.babel.js --colors",
+    "build-e2e": "cross-env E2E_BUILD=true yarn build",
+    "build-main": "cross-env NODE_ENV=production webpack --config ./configs/webpack.config.main.prod.babel.js --colors",
+    "build-renderer": "cross-env NODE_ENV=production webpack --config ./configs/webpack.config.renderer.prod.babel.js --colors",
+    "dev": "cross-env START_HOT=1 node -r @babel/register ./internals/scripts/CheckPortInUse.js && cross-env START_HOT=1 yarn start-renderer-dev",
+    "electron-rebuild": "electron-rebuild --parallel --force --types prod,dev,optional --module-dir app",
+    "ts": "tsc",
+    "lint": "cross-env NODE_ENV=development eslint . --cache --ext .js,.jsx,.ts,.tsx",
+    "lint-fix": "yarn --silent lint --fix; exit 0",
+    "lint-styles": "stylelint --ignore-path .eslintignore '**/*.*(css|scss)' --syntax scss",
+    "lint-styles-fix": "yarn --silent lint-styles --fix; exit 0",
+    "package": "yarn build && electron-builder build --publish never --icon=logo.ico",
+    "package-all": "yarn build && electron-builder build -mwl",
+    "package-ci": "yarn postinstall && yarn build && electron-builder --publish always",
+    "package-linux": "yarn build && electron-builder build --linux",
+    "package-win": "yarn build && electron-builder build --win --x64",
+    "": "electron-packager ./app HelloWorld --all --out ./OutApp --version 1.4.0 --overwrite --icon=./app/img/icon/icon.ico"
+  },
+  "devDependencies": {
+    "electron": "^8.2.0",
+    "node-localstorage": "^2.1.5"
+  },
+  "dependencies": {
+    "electron-pdf-window": "^1.0.12",
+    "node-localstorage": "^2.1.5",
+    "node-uuid": "^1.4.8",
+    "regedit": "^3.0.3"
+  }
+}
