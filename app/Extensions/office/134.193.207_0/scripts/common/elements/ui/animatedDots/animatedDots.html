@@ -1,0 +1,77 @@
+<!-- Must always load the Polymer core first.-->
+<link rel="import" href="../../../../third_party/polymer/polymer.html"/>
+<link rel="import" href="../polymerCoreDepsVulcanized.html">
+
+<!--
+  'qowt-animated-dots' is a series of three dots that pulse if animation is
+  enabled. The "animated" attribute controls if animation is enabled and is
+  true by default.
+
+  Example 1 (animated):
+    <qowt-animated-dots></qowt-animated-dots>
+
+  Example 2 (not animated):
+    <qowt-animated-dots animated=false></qowt-animated-dots>
+
+  You can easily start and stop the animation by changing the animated value:
+    var node = new QowtAnimatedDots();
+    node.animated = false; // Stop animation.
+    node.animated = true;  // Start animation.
+-->
+<dom-module id="qowt-animated-dots">
+  <template>
+    <style>
+      :host {
+        height: 6px;
+        width: 28px;
+        @apply(--layout-horizontal);
+        @apply(--layout-center);
+        @apply(--layout-justified);
+      }
+
+
+      /* Style of a single dot */
+      div {
+        width: 6px;
+        height: 6px;
+        background-color: rgba(0, 0, 0, .2);
+        border-radius: 3px;
+        -webkit-transform: scale(1);
+      }
+
+
+      /* Add in animation CSS if animated attribute exists */
+      div[animated]:nth-of-type(1) {
+        -webkit-animation: pulse 1s ease-in-out infinite 0s;
+      }
+
+
+      div[animated]:nth-of-type(2) {
+        -webkit-animation: pulse 1s ease-in-out infinite .33s;
+      }
+
+
+      div[animated]:nth-of-type(3) {
+        -webkit-animation: pulse 1s ease-in-out infinite .66s;
+      }
+
+
+      /* Pulse the dots */
+      @-webkit-keyframes pulse {
+        0%, 40%, 100% {
+          background-color: rgba(0, 0, 0, .2);
+          -webkit-transform:scale(1);
+        }
+
+        15% {
+          background-color: rgba(0, 0, 0, 1);
+          -webkit-transform:scale(1.2);
+        }
+      }
+    </style>
+
+    <div animated$={{animated}}></div>
+    <div animated$={{animated}}></div>
+    <div animated$={{animated}}></div>
+  </template>
+</dom-module>

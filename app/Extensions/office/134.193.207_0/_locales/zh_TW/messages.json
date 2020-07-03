@@ -1,0 +1,2192 @@
+{
+   "action_create_user_feedback": {
+      "message": "回報問題"
+   },
+   "alt_key": {
+      "message": "Alt 鍵"
+   },
+   "app_error_learn_more": {
+      "message": "瞭解詳情"
+   },
+   "app_error_report_feedback": {
+      "message": "提供意見"
+   },
+   "app_icon_aria_spoken_word": {
+      "message": " 主畫面"
+   },
+   "app_nacl_crash_msg": {
+      "message": "請回報這個問題，協助我們修正相關錯誤。"
+   },
+   "app_nacl_crash_report": {
+      "message": "回報問題..."
+   },
+   "app_nacl_crash_title": {
+      "message": "糟糕，發生未預期的錯誤。請重新載入網頁以還原變更。"
+   },
+   "app_nacl_error_load_failed": {
+      "message": "很抱歉，無法開啟檔案。請關閉其他 Chrome 分頁或重新啟動 Chrome，然後再試一次。如果問題持續發生，請在下方回報問題。"
+   },
+   "app_nacl_error_title": {
+      "message": "無法開啟檔案。"
+   },
+   "app_nacl_error_unsupported_device": {
+      "message": "這個裝置不支援「文件、試算表和簡報的 Office 檔案編輯功能」Chrome 擴充功能。"
+   },
+   "app_saving_failed_error_msg": {
+      "message": "很抱歉，儲存檔案時發生問題，請再試一次。如果問題持續發生，請回報問題。"
+   },
+   "app_saving_failed_error_short_msg": {
+      "message": "無法儲存檔案。"
+   },
+   "backgroundcolor_aria_spoken_word": {
+      "message": "儲存格背景顏色下拉式清單"
+   },
+   "bold_aria_spoken_word": {
+      "message": "粗體"
+   },
+   "border_all_aria_spoken_word": {
+      "message": "所有框線"
+   },
+   "border_aria_spoken_word": {
+      "message": "框線下拉式清單"
+   },
+   "border_bottom_aria_spoken_word": {
+      "message": "下框線"
+   },
+   "border_horizontal_aria_spoken_word": {
+      "message": "水平框線"
+   },
+   "border_inner_aria_spoken_word": {
+      "message": "內框線"
+   },
+   "border_left_aria_spoken_word": {
+      "message": "左框線"
+   },
+   "border_none_aria_spoken_word": {
+      "message": "無框線"
+   },
+   "border_outer_aria_spoken_word": {
+      "message": "外框線"
+   },
+   "border_right_aria_spoken_word": {
+      "message": "右框線"
+   },
+   "border_top_aria_spoken_word": {
+      "message": "上框線"
+   },
+   "border_vertical_aria_spoken_word": {
+      "message": "垂直框線"
+   },
+   "button_ocm_convert_cancel": {
+      "message": "取消"
+   },
+   "button_ocm_promo_conversion_point": {
+      "message": "儲存為 Google 簡報"
+   },
+   "button_ocm_promo_conversion_sheet": {
+      "message": "儲存為 Google 試算表"
+   },
+   "button_ocm_promo_conversion_word": {
+      "message": "儲存為 Google 文件"
+   },
+   "button_share_convert_cancel": {
+      "message": "取消"
+   },
+   "button_share_promo_conversion_point": {
+      "message": "儲存為 Google 簡報"
+   },
+   "button_share_promo_conversion_sheet": {
+      "message": "儲存為 Google 試算表"
+   },
+   "button_share_promo_conversion_word": {
+      "message": "儲存為 Google 文件"
+   },
+   "cell_align_aria_spoken_word": {
+      "message": "儲存格對齊"
+   },
+   "cellalign_aria_spoken_word": {
+      "message": "儲存格對齊下拉式清單"
+   },
+   "cellhaligncenter_aria_spoken_word": {
+      "message": "水平置中"
+   },
+   "cellhalignleft_aria_spoken_word": {
+      "message": "水平靠左"
+   },
+   "cellhalignright_aria_spoken_word": {
+      "message": "水平靠右"
+   },
+   "cellvalignbottom_aria_spoken_word": {
+      "message": "垂直靠下"
+   },
+   "cellvaligncenter_aria_spoken_word": {
+      "message": "垂直置中"
+   },
+   "cellvaligntop_aria_spoken_word": {
+      "message": "垂直靠上"
+   },
+   "char_count_label": {
+      "message": "字元數"
+   },
+   "char_no_spaces_count_label": {
+      "message": "字元數 (不含空格)"
+   },
+   "close_dialog_aria_spoken_word": {
+      "message": "關閉對話方塊"
+   },
+   "cmd_dropdown_initaddshape_aria_spoken_word": {
+      "message": "圖形下拉式清單"
+   },
+   "collapsed": {
+      "message": "已收合"
+   },
+   "collapsed_menu": {
+      "message": "$1及其子選單已收合。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "color_black": {
+      "message": "黑色"
+   },
+   "color_blaze_orange": {
+      "message": "鮮橘色"
+   },
+   "color_blue": {
+      "message": "藍色"
+   },
+   "color_brown": {
+      "message": "棕色"
+   },
+   "color_cornflower_blue": {
+      "message": "寶藍色"
+   },
+   "color_cyan": {
+      "message": "青色"
+   },
+   "color_dark_blue": {
+      "message": "深藍色"
+   },
+   "color_dark_blue_1": {
+      "message": "深藍色 1"
+   },
+   "color_dark_blue_2": {
+      "message": "深藍色 2"
+   },
+   "color_dark_blue_3": {
+      "message": "深藍色 3"
+   },
+   "color_dark_blue_grey": {
+      "message": "深藍灰色"
+   },
+   "color_dark_cornflower_blue_1": {
+      "message": "深寶藍色 1"
+   },
+   "color_dark_cornflower_blue_2": {
+      "message": "深寶藍色 2"
+   },
+   "color_dark_cornflower_blue_3": {
+      "message": "深寶藍色 3"
+   },
+   "color_dark_cyan": {
+      "message": "深青色"
+   },
+   "color_dark_cyan_1": {
+      "message": "深青色 1"
+   },
+   "color_dark_cyan_2": {
+      "message": "深青色 2"
+   },
+   "color_dark_cyan_3": {
+      "message": "深青色 3"
+   },
+   "color_dark_gray": {
+      "message": "深灰色"
+   },
+   "color_dark_gray_1": {
+      "message": "深灰色 1"
+   },
+   "color_dark_gray_2": {
+      "message": "深灰色 2"
+   },
+   "color_dark_gray_3": {
+      "message": "深灰色 3"
+   },
+   "color_dark_gray_4": {
+      "message": "深灰色 4"
+   },
+   "color_dark_green": {
+      "message": "深綠色"
+   },
+   "color_dark_green_1": {
+      "message": "深綠色 1"
+   },
+   "color_dark_green_2": {
+      "message": "深綠色 2"
+   },
+   "color_dark_green_3": {
+      "message": "深綠色 3"
+   },
+   "color_dark_green_5": {
+      "message": "深綠色 5"
+   },
+   "color_dark_grey_2": {
+      "message": "深灰色 2"
+   },
+   "color_dark_grey_5": {
+      "message": "深灰色 5"
+   },
+   "color_dark_magenta_1": {
+      "message": "深洋紅色 1"
+   },
+   "color_dark_magenta_2": {
+      "message": "深洋紅色 2"
+   },
+   "color_dark_magenta_3": {
+      "message": "深洋紅色 3"
+   },
+   "color_dark_olive_green": {
+      "message": "深橄欖綠"
+   },
+   "color_dark_orange_1": {
+      "message": "深橘色 1"
+   },
+   "color_dark_orange_2": {
+      "message": "深橘色 2"
+   },
+   "color_dark_orange_3": {
+      "message": "深橘色 3"
+   },
+   "color_dark_purple_1": {
+      "message": "深紫色 1"
+   },
+   "color_dark_purple_2": {
+      "message": "深紫色 2"
+   },
+   "color_dark_purple_3": {
+      "message": "深紫色 3"
+   },
+   "color_dark_red": {
+      "message": "深紅色"
+   },
+   "color_dark_red_1": {
+      "message": "深紅色 1"
+   },
+   "color_dark_red_2": {
+      "message": "深紅色 2"
+   },
+   "color_dark_red_3": {
+      "message": "深紅色 3"
+   },
+   "color_dark_red_berry_1": {
+      "message": "深紅莓色 1"
+   },
+   "color_dark_red_berry_2": {
+      "message": "深紅莓色 2"
+   },
+   "color_dark_red_berry_3": {
+      "message": "深紅莓色 3"
+   },
+   "color_dark_slate_blue": {
+      "message": "深灰藍色"
+   },
+   "color_dark_yellow_1": {
+      "message": "深黃色 1"
+   },
+   "color_dark_yellow_2": {
+      "message": "深黃色 2"
+   },
+   "color_dark_yellow_3": {
+      "message": "深黃色 3"
+   },
+   "color_deep_pink": {
+      "message": "深粉紅色"
+   },
+   "color_deep_sky_blue": {
+      "message": "深天藍色"
+   },
+   "color_eucalyptus_green": {
+      "message": "桉樹綠"
+   },
+   "color_gold": {
+      "message": "金色"
+   },
+   "color_gray": {
+      "message": "灰色"
+   },
+   "color_green": {
+      "message": "綠色"
+   },
+   "color_light_blue": {
+      "message": "淺藍色"
+   },
+   "color_light_blue_1": {
+      "message": "淺藍色 1"
+   },
+   "color_light_blue_2": {
+      "message": "淺藍色 2"
+   },
+   "color_light_blue_3": {
+      "message": "淺藍色 3"
+   },
+   "color_light_cornflower_blue_1": {
+      "message": "淺寶藍色 1"
+   },
+   "color_light_cornflower_blue_2": {
+      "message": "淺寶藍色 2"
+   },
+   "color_light_cornflower_blue_3": {
+      "message": "淺寶藍色 3"
+   },
+   "color_light_cyan": {
+      "message": "淺青色"
+   },
+   "color_light_cyan_1": {
+      "message": "淺青色 1"
+   },
+   "color_light_cyan_2": {
+      "message": "淺青色 2"
+   },
+   "color_light_cyan_3": {
+      "message": "淺青色 3"
+   },
+   "color_light_gray": {
+      "message": "淺灰色"
+   },
+   "color_light_gray_1": {
+      "message": "淺灰色 1"
+   },
+   "color_light_gray_2": {
+      "message": "淺灰色 2"
+   },
+   "color_light_gray_3": {
+      "message": "淺灰色 2"
+   },
+   "color_light_green": {
+      "message": "淺綠色"
+   },
+   "color_light_green_1": {
+      "message": "淺綠色 1"
+   },
+   "color_light_green_2": {
+      "message": "淺綠色 2"
+   },
+   "color_light_green_3": {
+      "message": "淺綠色 3"
+   },
+   "color_light_magenta_1": {
+      "message": "淺洋紅色 1"
+   },
+   "color_light_magenta_2": {
+      "message": "淺洋紅色 2"
+   },
+   "color_light_magenta_3": {
+      "message": "淺洋紅色 3"
+   },
+   "color_light_orange_1": {
+      "message": "淺橘色 1"
+   },
+   "color_light_orange_2": {
+      "message": "淺橘色 2"
+   },
+   "color_light_orange_3": {
+      "message": "淺橘色 3"
+   },
+   "color_light_purple": {
+      "message": "淺紫色"
+   },
+   "color_light_purple_1": {
+      "message": "淺紫色 1"
+   },
+   "color_light_purple_2": {
+      "message": "淺紫色 2"
+   },
+   "color_light_purple_3": {
+      "message": "淺紫色 3"
+   },
+   "color_light_red_1": {
+      "message": "淺紅色 1"
+   },
+   "color_light_red_2": {
+      "message": "淺紅色 2"
+   },
+   "color_light_red_3": {
+      "message": "淺紅色 3"
+   },
+   "color_light_red_berry_1": {
+      "message": "淺紅莓色 1"
+   },
+   "color_light_red_berry_2": {
+      "message": "淺紅莓色 2"
+   },
+   "color_light_red_berry_3": {
+      "message": "淺紅莓色 3"
+   },
+   "color_light_yellow": {
+      "message": "淺黃色"
+   },
+   "color_light_yellow_1": {
+      "message": "淺黃色 1"
+   },
+   "color_light_yellow_2": {
+      "message": "淺黃色 2"
+   },
+   "color_light_yellow_3": {
+      "message": "淺黃色 3"
+   },
+   "color_magenta": {
+      "message": "洋紅色"
+   },
+   "color_maroon": {
+      "message": "暗紅色"
+   },
+   "color_midnight_blue": {
+      "message": "午夜藍"
+   },
+   "color_navy": {
+      "message": "海軍藍"
+   },
+   "color_olive": {
+      "message": "橄欖綠"
+   },
+   "color_orange": {
+      "message": "橘色"
+   },
+   "color_peach": {
+      "message": "蜜桃色"
+   },
+   "color_pink": {
+      "message": "粉紅色"
+   },
+   "color_pistachio": {
+      "message": "開心果黃"
+   },
+   "color_purple": {
+      "message": "紫色"
+   },
+   "color_red": {
+      "message": "紅色"
+   },
+   "color_red_berry": {
+      "message": "紅莓色"
+   },
+   "color_royal_blue": {
+      "message": "皇家藍"
+   },
+   "color_teal": {
+      "message": "藍綠色"
+   },
+   "color_turquiose": {
+      "message": "綠松色"
+   },
+   "color_white": {
+      "message": "白色"
+   },
+   "color_yellow": {
+      "message": "黃色"
+   },
+   "command_key": {
+      "message": "Command 鍵"
+   },
+   "content_msg_merging_horizontally_across_vertical_section": {
+      "message": "無法水平合併現有的垂直合併區塊。"
+   },
+   "content_msg_merging_multiple_cells_with_text": {
+      "message": "如果合併儲存格，將只會保留最左上方的值。仍要合併嗎？"
+   },
+   "content_msg_merging_partially_selected_merged_cells": {
+      "message": "您必須選取已合併範圍內的所有儲存格，才能合併或取消合併這些儲存格。"
+   },
+   "content_msg_merging_vertically_across_horizontal_section": {
+      "message": "無法垂直合併現有的水平合併區塊。"
+   },
+   "content_render_error_msg": {
+      "message": "這份文件的內容有問題。"
+   },
+   "context_menu_clipboard_copy": {
+      "message": "複製"
+   },
+   "context_menu_delete": {
+      "message": "刪除"
+   },
+   "context_menu_freeze": {
+      "message": "凍結"
+   },
+   "context_menu_insert": {
+      "message": "插入"
+   },
+   "context_menu_sort_collation_ascending": {
+      "message": "依 A-Z 字母順序排序"
+   },
+   "context_menu_sort_collation_descending": {
+      "message": "依 Z-A 字母順序排序"
+   },
+   "context_menu_unfreeze": {
+      "message": "取消凍結"
+   },
+   "control_key": {
+      "message": "Ctrl 鍵"
+   },
+   "convert_attempt_when_offline": {
+      "message": "上線時才能儲存為 Google 文件，請於連線恢復後再試一次。"
+   },
+   "convert_attempt_with_invalid_creds": {
+      "message": "您必須登入 Google 帳戶才能轉換這個檔案。"
+   },
+   "convert_cancel": {
+      "message": "取消"
+   },
+   "convert_to_google_docs_failed": {
+      "message": "將您的文件轉換成 Google 文件時發生問題。"
+   },
+   "convert_to_google_point_fail_short_msg": {
+      "message": "糟糕"
+   },
+   "convert_to_google_point_short_msg": {
+      "message": "正在儲存為 Google 簡報"
+   },
+   "convert_to_google_sheet_fail_short_msg": {
+      "message": "糟糕"
+   },
+   "convert_to_google_sheet_short_msg": {
+      "message": "正在儲存為 Google 試算表"
+   },
+   "convert_to_google_word_fail_short_msg": {
+      "message": "糟糕"
+   },
+   "convert_to_google_word_short_msg": {
+      "message": "正在儲存為 Google 文件"
+   },
+   "convert_try_again": {
+      "message": "再試一次"
+   },
+   "converting_to_google_point_fail_msg": {
+      "message": "目前系統無法將您的檔案儲存為 Google 簡報。"
+   },
+   "converting_to_google_point_msg": {
+      "message": "正在將您的簡報另存為新的 Google 簡報版本。"
+   },
+   "converting_to_google_sheet_fail_msg": {
+      "message": "目前系統無法將您的檔案儲存為 Google 試算表。"
+   },
+   "converting_to_google_sheet_msg": {
+      "message": "正在將您的試算表另存為新的 Google 試算表版本。"
+   },
+   "converting_to_google_word_fail_msg": {
+      "message": "目前系統無法將您的檔案儲存為 Google 文件。"
+   },
+   "converting_to_google_word_msg": {
+      "message": "正在將您的文件另存為新的 Google 文件版本。"
+   },
+   "copy_attempt_when_offline": {
+      "message": "需要連上網路才能在 Google 雲端硬碟中建立副本，請於恢復連線後再試一次。"
+   },
+   "copy_attempt_with_invalid_creds": {
+      "message": "您必須登入 Google 帳戶才能建立副本。"
+   },
+   "disabled_share_button": {
+      "message": "啟用巨集的檔案只能透過 Google 雲端硬碟共用。共用功能已停用。"
+   },
+   "disallowed_cut_copy_paste_cmd_copy": {
+      "message": "複製"
+   },
+   "disallowed_cut_copy_paste_cmd_cut": {
+      "message": "剪下"
+   },
+   "disallowed_cut_copy_paste_cmd_paste": {
+      "message": "貼上"
+   },
+   "disallowed_cut_copy_paste_msg": {
+      "message": "您無法透過 [編輯] 和內容選單執行這些動作，但仍然可以使用以下方式進行操作："
+   },
+   "disallowed_cut_copy_paste_title": {
+      "message": "在 Office 相容模式中複製及貼上"
+   },
+   "dismiss": {
+      "message": "關閉"
+   },
+   "document_title_aria_spoken_word": {
+      "message": "文件標題："
+   },
+   "down_key": {
+      "message": "向下鍵"
+   },
+   "download_button": {
+      "message": "下載"
+   },
+   "download_file_timeout_error_msg": {
+      "message": "您要開啟的檔案的載入時間已超過預期時間。請檢查您的網路連線，然後再試一次。"
+   },
+   "download_file_timeout_error_short_msg": {
+      "message": "檔案下載時間超過預期時間"
+   },
+   "drive_open_timeout_error_msg": {
+      "message": "您的網際網路連線發生問題。請檢查連線狀態，再重新嘗試開啟檔案。如果您已連上網路，但這個錯誤仍持續發生，請在下方回報問題。"
+   },
+   "drive_open_timeout_error_short_msg": {
+      "message": "糟糕，系統無法開啟您所要求的檔案。"
+   },
+   "duplicate_sheet_name_message": {
+      "message": "輸入其他工作表未使用的工作表名稱"
+   },
+   "duplicate_sheet_name_title": {
+      "message": "其他工作表已使用該名稱"
+   },
+   "edits_not_being_saved": {
+      "message": "編輯內容不會自動儲存。"
+   },
+   "edits_now_being_auto_saved": {
+      "message": "檔案已儲存，現在所有編輯內容都將自動儲存。"
+   },
+   "entry_point_error_msg": {
+      "message": "請再試一次，或是在下方回報問題。"
+   },
+   "entry_point_error_short_msg": {
+      "message": "糟糕，系統無法判定您要開啟哪個檔案。"
+   },
+   "error_occurred": {
+      "message": "發生錯誤。"
+   },
+   "error_password_required_msg": {
+      "message": "目前我們尚不支援受保護的檔案，不過我們已開始研究如何提供相關支援。"
+   },
+   "error_password_required_short_msg": {
+      "message": "這個檔案受到密碼保護。"
+   },
+   "expanded": {
+      "message": "已展開"
+   },
+   "expanded_menu": {
+      "message": "$1及其子選單已展開。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "extension_description": {
+      "message": "使用 Google 文件、試算表和簡報檢視及編輯 Microsoft Word、Excel 和 PowerPoint"
+   },
+   "extension_name": {
+      "message": "文件、試算表及簡報的 Office 編輯擴充功能"
+   },
+   "extension_popup_message_body": {
+      "message": "將現有的檔案拖曳到瀏覽器中，即可開啟檔案"
+   },
+   "extension_popup_new_document_header": {
+      "message": "新文件…"
+   },
+   "extension_popup_new_presentation_document": {
+      "message": "PowerPoint 簡報"
+   },
+   "extension_popup_new_spreadsheet_document": {
+      "message": "Excel 試算表"
+   },
+   "extension_popup_new_word_document": {
+      "message": "Word 文件"
+   },
+   "feedback_textbox_editing": {
+      "message": "請提供可在文字方塊中編輯文字的功能。"
+   },
+   "feedback_ui_template": {
+      "message": "1- 請說明您遇到的問題。\n2- 您是在嘗試開啟檔案或編輯檔案時遇到問題？\n3- 每次嘗試開啟或編輯檔案時都會發生這個問題嗎？還是開啟或編輯特定檔案時才會發生這個問題？\n\n如果這個問題與特定檔案有關，請在回報問題時一併附加該檔案，以便我們更徹底排解問題。"
+   },
+   "file_does_not_exist_error_details": {
+      "message": "這個檔案不存在。您嘗試開啟的項目可能是分享的連結或已加上書籤的文件，請試著從該項目的原始來源重新開啟檔案。"
+   },
+   "file_does_not_exist_error_title": {
+      "message": "找不到檔案。"
+   },
+   "file_loading_spinner_label": {
+      "message": "載入中"
+   },
+   "file_missing_content_msg": {
+      "message": "讀取這個檔案的完整內容時發生問題；建議您為檔案重新命名，再重新開啟檔案"
+   },
+   "file_missing_content_short_msg": {
+      "message": "檔案遺失部分內容。"
+   },
+   "file_not_found_error_msg": {
+      "message": "請洽詢檔案擁有者，確認您擁有檔案的存取權限。如果確實您擁有權限，但這個錯誤仍持續發生，請在下方回報問題。"
+   },
+   "file_not_found_error_short_msg": {
+      "message": "糟糕，系統無法開啟您所要求的檔案。"
+   },
+   "file_not_found_exception": {
+      "message": "要求的檔案可能已被刪除、重新命名或移至其他位置。請按一下 [立即儲存] 以繼續作業。"
+   },
+   "file_not_found_link_text": {
+      "message": "如需多重帳戶相關說明，請參閱這篇文章"
+   },
+   "file_not_found_msg": {
+      "message": "您所要求的檔案已遭移除。"
+   },
+   "file_not_found_title": {
+      "message": "找不到檔案。"
+   },
+   "file_open_crash_error_msg": {
+      "message": "如果持續發生錯誤，請在下方回報問題。"
+   },
+   "file_open_crash_error_short_msg": {
+      "message": "糟糕，系統無法開啟您所要求的檔案。"
+   },
+   "file_open_error_msg": {
+      "message": "無法存取這個檔案的內容。"
+   },
+   "file_open_error_short_msg": {
+      "message": "這個檔案可能已毀損。"
+   },
+   "file_open_fail_download_link_text": {
+      "message": "下載檔案"
+   },
+   "file_opened_in_incognito_mode_error_details": {
+      "message": "無法在無痕模式中使用 Office 檔案編輯模式擴充功能。請改用一般的 Chrome 視窗開啟這個檔案。如果使用訪客模式，檔案會無法開啟。請確認檔案未損毀，而且屬於有效的文件類型，然後再試一次。"
+   },
+   "file_opened_in_incognito_mode_error_title": {
+      "message": "糟糕！不支援無痕模式"
+   },
+   "file_pdf_type_rename_msg": {
+      "message": "請將檔案重新命名為 $1.pdf，然後再試一次。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_rtf_type_rename_msg": {
+      "message": "請將檔案重新命名為 $1.rtf",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_type_unsupported_msg": {
+      "message": "不支援這種檔案類型。"
+   },
+   "fillcolor_aria_spoken_word": {
+      "message": "文字顏色下拉式清單"
+   },
+   "fontface_aria_spoken_word": {
+      "message": "字型下拉式清單"
+   },
+   "fontsize_aria_spoken_word": {
+      "message": "字型大小下拉式清單"
+   },
+   "forbidden_access_level_error_msg": {
+      "message": "請洽詢檔案擁有者，確認您擁有開啟這個檔案的權限。如果您確實擁有權限，但這個錯誤仍持續發生，請在下方回報問題。"
+   },
+   "forbidden_access_level_error_short_msg": {
+      "message": "糟糕，系統無法開啟您所要求的檔案。"
+   },
+   "forbidden_app_access_error_msg": {
+      "message": "出於某些原因，我們沒有開啟這個檔案的權限。請嘗試透過 Google 雲端硬碟開啟檔案，或是在下方回報問題。"
+   },
+   "forbidden_app_access_error_short_msg": {
+      "message": "糟糕，系統無法開啟您所要求的檔案。"
+   },
+   "forbidden_app_id_error_msg": {
+      "message": "Chrome 擴充功能的設定不正確，這種情況可能發生嗎？我們無法完全確定這是造成問題的根本原因，請視情況在下方回報問題。"
+   },
+   "forbidden_app_id_error_short_msg": {
+      "message": "糟糕，系統無法開啟您所要求的檔案。"
+   },
+   "forbidden_blacklist_error_msg": {
+      "message": "這個 Chrome 擴充功能已被列入黑名單。這個錯誤十分明顯，請在下方回報問題內容，幫助我們瞭解情況。"
+   },
+   "forbidden_blacklist_error_short_msg": {
+      "message": "糟糕，系統無法開啟您所要求的檔案。"
+   },
+   "forbidden_domain_error_msg": {
+      "message": "您的網域遭到禁止，無法存取這個檔案。請與您的網域管理員聯絡，或是在下方回報問題。"
+   },
+   "forbidden_domain_error_short_msg": {
+      "message": "糟糕，系統無法開啟您所要求的檔案。"
+   },
+   "forbidden_internal_error_msg": {
+      "message": "很抱歉，Google 雲端硬碟無法正常運作。請嘗試重新開啟檔案，或是在下方回報問題。"
+   },
+   "forbidden_internal_error_short_msg": {
+      "message": "糟糕，系統無法開啟您所要求的檔案。"
+   },
+   "forbidden_not_installed_error_msg": {
+      "message": "Chrome 擴充功能未正確安裝，這種情況可能發生嗎？我們無法完全確定這是造成問題的根本原因，但仍請您在下方回報問題。"
+   },
+   "forbidden_not_installed_error_short_msg": {
+      "message": "糟糕，系統無法開啟您所要求的檔案。"
+   },
+   "generic_error_msg": {
+      "message": "這份文件的內容有問題。"
+   },
+   "generic_error_short_msg": {
+      "message": "糟糕，發生未預期的錯誤。請重新載入網頁以還原變更。"
+   },
+   "get_lists_data_error_msg": {
+      "message": "文件顯示的清單格式可能不正確。"
+   },
+   "get_lists_data_error_short_msg": {
+      "message": "無法擷取文件格式。"
+   },
+   "highlightcolor_aria_spoken_word": {
+      "message": "文字醒目顯示顏色下拉式清單"
+   },
+   "http_error_zero_msg": {
+      "message": "如果是網路發生問題，請檢查連線狀態或再試一次。如果問題持續發生，請在下方回報問題。"
+   },
+   "http_error_zero_short_msg": {
+      "message": "很抱歉，無法開啟檔案。"
+   },
+   "info_file_copied": {
+      "message": "已儲存"
+   },
+   "info_file_save_cancelled": {
+      "message": "已取消儲存。"
+   },
+   "info_file_save_failed": {
+      "message": "儲存失敗。"
+   },
+   "info_file_saved_at_location": {
+      "message": "所有變更都已儲存在 $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "info_file_saved_in_drive": {
+      "message": "所有變更皆已儲存在雲端硬碟"
+   },
+   "info_file_saved_locally": {
+      "message": "所有變更皆已儲存在本機"
+   },
+   "info_file_saved_offline": {
+      "message": "所有變更皆已離線儲存"
+   },
+   "info_file_saving": {
+      "message": "儲存中…"
+   },
+   "initaddshape_aria_spoken_word": {
+      "message": "新增文字方塊"
+   },
+   "invalid_credentials_error_msg": {
+      "message": "您必須登入您的 Google 帳戶，才能存取這個檔案。"
+   },
+   "invalid_credentials_error_short_msg": {
+      "message": "糟糕，系統無法開啟您所要求的檔案。"
+   },
+   "invalid_file_format_msg": {
+      "message": "雖然這個檔案看似 Office 文件，而且具有 Office 檔案類型的副檔名，實際上卻是經過重新命名或變更的其他檔案類型，或是我們不支援的檔案類型。"
+   },
+   "invalid_file_format_short_msg": {
+      "message": "糟糕！我們無法開啟這類文件。"
+   },
+   "italic_aria_spoken_word": {
+      "message": "斜體"
+   },
+   "keyboard_shortcut_group_actions": {
+      "message": "動作"
+   },
+   "keyboard_shortcut_group_other": {
+      "message": "其他"
+   },
+   "keyboard_shortcut_group_paragraph_formatting": {
+      "message": "設定段落格式"
+   },
+   "keyboard_shortcut_group_text_formatting": {
+      "message": "設定文字格式"
+   },
+   "keyboard_shortcut_group_top_menus": {
+      "message": "選單"
+   },
+   "keyboard_shortcut_group_with_slides": {
+      "message": "設定投影片"
+   },
+   "keyboard_shortcut_title": {
+      "message": "鍵盤快速鍵"
+   },
+   "make_a_copy_fail_msg": {
+      "message": "目前系統無法建立副本。"
+   },
+   "menu_button_data": {
+      "message": "資料"
+   },
+   "menu_button_edit": {
+      "message": "編輯"
+   },
+   "menu_button_file": {
+      "message": "檔案"
+   },
+   "menu_button_format": {
+      "message": "格式"
+   },
+   "menu_button_help": {
+      "message": "說明"
+   },
+   "menu_button_insert": {
+      "message": "插入"
+   },
+   "menu_button_slide": {
+      "message": "投影片"
+   },
+   "menu_button_tools": {
+      "message": "工具"
+   },
+   "menu_button_view": {
+      "message": "檢視"
+   },
+   "menu_item_10_point_star": {
+      "message": "10 角星形"
+   },
+   "menu_item_12_point_star": {
+      "message": "12 角星形"
+   },
+   "menu_item_16_point_star": {
+      "message": "16 角星形"
+   },
+   "menu_item_24_point_star": {
+      "message": "24 角星形"
+   },
+   "menu_item_32_point_star": {
+      "message": "32 角星形"
+   },
+   "menu_item_4_point_star": {
+      "message": "4 角星形"
+   },
+   "menu_item_5_point_star": {
+      "message": "5 角星形"
+   },
+   "menu_item_6_point_star": {
+      "message": "6 角星形"
+   },
+   "menu_item_7_point_star": {
+      "message": "7 角星形"
+   },
+   "menu_item_8_point_star": {
+      "message": "8 角星形"
+   },
+   "menu_item_align": {
+      "message": "對齊"
+   },
+   "menu_item_align_center": {
+      "message": "置中"
+   },
+   "menu_item_align_justified": {
+      "message": "左右對齊"
+   },
+   "menu_item_align_left": {
+      "message": "靠左對齊"
+   },
+   "menu_item_align_right": {
+      "message": "靠右對齊"
+   },
+   "menu_item_arrows": {
+      "message": "箭頭"
+   },
+   "menu_item_bent_arrow": {
+      "message": "轉彎箭號"
+   },
+   "menu_item_bent_up_arrow": {
+      "message": "上彎箭號"
+   },
+   "menu_item_bevel": {
+      "message": "斜面形"
+   },
+   "menu_item_block_arc": {
+      "message": "拱形"
+   },
+   "menu_item_bold": {
+      "message": "粗體"
+   },
+   "menu_item_callouts": {
+      "message": "圖說"
+   },
+   "menu_item_can": {
+      "message": "罐頭形"
+   },
+   "menu_item_chevron": {
+      "message": "雙箭號"
+   },
+   "menu_item_chord": {
+      "message": "弦"
+   },
+   "menu_item_clear_formatting": {
+      "message": "清除格式設定"
+   },
+   "menu_item_cloud": {
+      "message": "雲朵"
+   },
+   "menu_item_cloud_callout": {
+      "message": "雲朵圖說"
+   },
+   "menu_item_color_none": {
+      "message": "無"
+   },
+   "menu_item_color_transparent": {
+      "message": "透明"
+   },
+   "menu_item_convert_to_docs": {
+      "message": "儲存為 Google 文件"
+   },
+   "menu_item_convert_to_sheets": {
+      "message": "儲存為 Google 試算表"
+   },
+   "menu_item_convert_to_slides": {
+      "message": "儲存為 Google 簡報"
+   },
+   "menu_item_copy": {
+      "message": "複製"
+   },
+   "menu_item_cross": {
+      "message": "十字形"
+   },
+   "menu_item_cube": {
+      "message": "立方體"
+   },
+   "menu_item_curved_down_arrow": {
+      "message": "向下彎曲箭號"
+   },
+   "menu_item_curved_left_arrow": {
+      "message": "向左彎曲箭號"
+   },
+   "menu_item_curved_right_arrow": {
+      "message": "向右彎曲箭號"
+   },
+   "menu_item_curved_up_arrow": {
+      "message": "向上彎曲箭號"
+   },
+   "menu_item_cut": {
+      "message": "剪下"
+   },
+   "menu_item_decagon": {
+      "message": "十邊形"
+   },
+   "menu_item_delete_column": {
+      "message": "刪除欄"
+   },
+   "menu_item_delete_row": {
+      "message": "刪除列"
+   },
+   "menu_item_delete_value": {
+      "message": "刪除值"
+   },
+   "menu_item_deleteslide": {
+      "message": "刪除投影片"
+   },
+   "menu_item_diagonal_stripe": {
+      "message": "對角線"
+   },
+   "menu_item_diamond": {
+      "message": "菱形"
+   },
+   "menu_item_divide": {
+      "message": "除號"
+   },
+   "menu_item_dodecagon": {
+      "message": "十二邊形"
+   },
+   "menu_item_donut": {
+      "message": "甜甜圈形"
+   },
+   "menu_item_double_brace": {
+      "message": "雙大括號"
+   },
+   "menu_item_double_bracket": {
+      "message": "雙括弧"
+   },
+   "menu_item_down_arrow": {
+      "message": "向下箭號"
+   },
+   "menu_item_down_arrow_callout": {
+      "message": "向下箭號圖說"
+   },
+   "menu_item_duplicateslide": {
+      "message": "複製簡報"
+   },
+   "menu_item_equal": {
+      "message": "等號"
+   },
+   "menu_item_equation": {
+      "message": "方程式"
+   },
+   "menu_item_explosion_1": {
+      "message": "爆炸 1"
+   },
+   "menu_item_explosion_2": {
+      "message": "爆炸 2"
+   },
+   "menu_item_flowchart_alternate_process": {
+      "message": "流程圖：替代程序"
+   },
+   "menu_item_flowchart_card": {
+      "message": "流程圖：卡片"
+   },
+   "menu_item_flowchart_collate": {
+      "message": "流程圖：定序"
+   },
+   "menu_item_flowchart_connector": {
+      "message": "流程圖：連接點"
+   },
+   "menu_item_flowchart_data": {
+      "message": "流程圖：資料"
+   },
+   "menu_item_flowchart_decision": {
+      "message": "流程圖：決策"
+   },
+   "menu_item_flowchart_delay": {
+      "message": "流程圖：延遲"
+   },
+   "menu_item_flowchart_direct_access_storage": {
+      "message": "流程圖：直接存取儲存裝置"
+   },
+   "menu_item_flowchart_display": {
+      "message": "流程圖：顯示"
+   },
+   "menu_item_flowchart_document": {
+      "message": "流程圖：文件"
+   },
+   "menu_item_flowchart_extract": {
+      "message": "流程圖：分支"
+   },
+   "menu_item_flowchart_internal_storage": {
+      "message": "流程圖：內部儲存裝置"
+   },
+   "menu_item_flowchart_magnetic_disk": {
+      "message": "流程圖：磁碟"
+   },
+   "menu_item_flowchart_manual_input": {
+      "message": "流程圖：人工輸入"
+   },
+   "menu_item_flowchart_manual_operation": {
+      "message": "流程圖：人工作業"
+   },
+   "menu_item_flowchart_merge": {
+      "message": "流程圖：合併"
+   },
+   "menu_item_flowchart_multidocument": {
+      "message": "流程圖：多重文件"
+   },
+   "menu_item_flowchart_off_page_connector": {
+      "message": "流程圖：換頁連接點"
+   },
+   "menu_item_flowchart_or": {
+      "message": "流程圖：或"
+   },
+   "menu_item_flowchart_predefined_process": {
+      "message": "流程圖：預先定義程序"
+   },
+   "menu_item_flowchart_preparation": {
+      "message": "流程圖：準備作業"
+   },
+   "menu_item_flowchart_process": {
+      "message": "流程圖：程序"
+   },
+   "menu_item_flowchart_punched_tape": {
+      "message": "流程圖：打孔紙帶"
+   },
+   "menu_item_flowchart_sequential_access_storage": {
+      "message": "流程圖：循序存取儲存裝置"
+   },
+   "menu_item_flowchart_sort": {
+      "message": "流程圖：排序"
+   },
+   "menu_item_flowchart_stored_data": {
+      "message": "流程圖：儲存的資料"
+   },
+   "menu_item_flowchart_summing_junction": {
+      "message": "流程圖：匯集點"
+   },
+   "menu_item_flowchart_terminator": {
+      "message": "流程圖：結束點"
+   },
+   "menu_item_folded_corner": {
+      "message": "折角"
+   },
+   "menu_item_frame": {
+      "message": "框架"
+   },
+   "menu_item_half_frame": {
+      "message": "半框"
+   },
+   "menu_item_heart": {
+      "message": "心形"
+   },
+   "menu_item_help_center": {
+      "message": "說明中心"
+   },
+   "menu_item_heptagon": {
+      "message": "七邊形"
+   },
+   "menu_item_hexagon": {
+      "message": "六邊形"
+   },
+   "menu_item_hideslide": {
+      "message": "隱藏投影片"
+   },
+   "menu_item_insert_column": {
+      "message": "欄"
+   },
+   "menu_item_insert_image": {
+      "message": "圖片"
+   },
+   "menu_item_insert_row": {
+      "message": "列"
+   },
+   "menu_item_insert_text_box": {
+      "message": "文字方塊"
+   },
+   "menu_item_insertslide": {
+      "message": "新投影片"
+   },
+   "menu_item_italic": {
+      "message": "斜體"
+   },
+   "menu_item_keyboard_shortcuts": {
+      "message": "鍵盤快速鍵"
+   },
+   "menu_item_l_shape": {
+      "message": "L 形"
+   },
+   "menu_item_left_arrow": {
+      "message": "向左箭號"
+   },
+   "menu_item_left_arrow_callout": {
+      "message": "向左箭號圖說"
+   },
+   "menu_item_left_brace": {
+      "message": "左大括號"
+   },
+   "menu_item_left_bracket": {
+      "message": "左括弧"
+   },
+   "menu_item_left_right_arrow": {
+      "message": "左右箭號"
+   },
+   "menu_item_left_right_arrow_callout": {
+      "message": "左右箭號圖說"
+   },
+   "menu_item_left_right_up_arrow": {
+      "message": "左右及向上箭號"
+   },
+   "menu_item_left_up_arrow": {
+      "message": "向左向上箭號"
+   },
+   "menu_item_lightning_bolt": {
+      "message": "閃電形"
+   },
+   "menu_item_make_a_copy": {
+      "message": "建立副本…"
+   },
+   "menu_item_merge_all": {
+      "message": "全部合併"
+   },
+   "menu_item_merge_cells": {
+      "message": "合併儲存格"
+   },
+   "menu_item_merge_horizontally": {
+      "message": "水平合併"
+   },
+   "menu_item_merge_vertically": {
+      "message": "垂直合併"
+   },
+   "menu_item_minus": {
+      "message": "減號"
+   },
+   "menu_item_moon": {
+      "message": "月亮"
+   },
+   "menu_item_moveslidedown": {
+      "message": "將投影片下移"
+   },
+   "menu_item_moveslidetoend": {
+      "message": "將投影片移至結尾"
+   },
+   "menu_item_moveslidetostart": {
+      "message": "將投影片移至開頭"
+   },
+   "menu_item_moveslideup": {
+      "message": "將投影片上移"
+   },
+   "menu_item_multiply": {
+      "message": "乘號"
+   },
+   "menu_item_new": {
+      "message": "新增"
+   },
+   "menu_item_no_symbol": {
+      "message": "「禁止」符號"
+   },
+   "menu_item_not_equal": {
+      "message": "不等號"
+   },
+   "menu_item_notched_right_arrow": {
+      "message": "底部凹口向右箭號"
+   },
+   "menu_item_number_format": {
+      "message": "數字格式"
+   },
+   "menu_item_number_menu": {
+      "message": "數字"
+   },
+   "menu_item_numbering": {
+      "message": "第 $1 項 (共 $2 項)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "menu_item_octagon": {
+      "message": "八邊形"
+   },
+   "menu_item_open": {
+      "message": "開啟"
+   },
+   "menu_item_oval": {
+      "message": "橢圓形"
+   },
+   "menu_item_oval_callout": {
+      "message": "橢圓形圖說"
+   },
+   "menu_item_parallelogram": {
+      "message": "平行四邊形"
+   },
+   "menu_item_paste": {
+      "message": "貼上"
+   },
+   "menu_item_pentagon": {
+      "message": "五邊形"
+   },
+   "menu_item_pie": {
+      "message": "圓餅圖"
+   },
+   "menu_item_plaque": {
+      "message": "匾額形狀"
+   },
+   "menu_item_plus": {
+      "message": "加號"
+   },
+   "menu_item_present": {
+      "message": "展示"
+   },
+   "menu_item_print": {
+      "message": "列印"
+   },
+   "menu_item_quad_arrow": {
+      "message": "十字箭號"
+   },
+   "menu_item_quad_arrow_callout": {
+      "message": "十字箭號圖說"
+   },
+   "menu_item_rectangle": {
+      "message": "矩形"
+   },
+   "menu_item_rectangular_callout": {
+      "message": "矩形圖說"
+   },
+   "menu_item_redo": {
+      "message": "重做"
+   },
+   "menu_item_regular_pentagon": {
+      "message": "正五邊形"
+   },
+   "menu_item_report_abuse": {
+      "message": "檢舉濫用情形"
+   },
+   "menu_item_report_issue": {
+      "message": "回報問題"
+   },
+   "menu_item_right_arrow": {
+      "message": "向右箭號"
+   },
+   "menu_item_right_arrow_callout": {
+      "message": "向右箭號圖說"
+   },
+   "menu_item_right_brace": {
+      "message": "右大括號"
+   },
+   "menu_item_right_bracket": {
+      "message": "右括弧"
+   },
+   "menu_item_right_triangle": {
+      "message": "右側斜面三角形"
+   },
+   "menu_item_round_diagonal_corner_rectangle": {
+      "message": "對角圓角矩形"
+   },
+   "menu_item_round_same_side_corner_rectangle": {
+      "message": "同側圓角矩形"
+   },
+   "menu_item_round_single_corner_rectangle": {
+      "message": "單邊圓角矩形"
+   },
+   "menu_item_rounded_rectangle": {
+      "message": "圓角矩形"
+   },
+   "menu_item_rounded_rectangular_callout": {
+      "message": "圓角矩形圖說"
+   },
+   "menu_item_save": {
+      "message": "儲存"
+   },
+   "menu_item_save_as": {
+      "message": "另存為…"
+   },
+   "menu_item_shapes": {
+      "message": "形狀"
+   },
+   "menu_item_share": {
+      "message": "共用"
+   },
+   "menu_item_smiley_face": {
+      "message": "笑臉"
+   },
+   "menu_item_snip_and_round_single_corner_rectangle": {
+      "message": "單邊斜角和圓角矩形"
+   },
+   "menu_item_snip_diagonal_corner_rectangle": {
+      "message": "對角斜角矩形"
+   },
+   "menu_item_snip_same_side_corner_rectangle": {
+      "message": "同側斜角矩形"
+   },
+   "menu_item_snip_single_corner_rectangle": {
+      "message": "單邊斜角矩形"
+   },
+   "menu_item_strikethrough": {
+      "message": "刪除線"
+   },
+   "menu_item_striped_right_arrow": {
+      "message": "條紋向右箭號"
+   },
+   "menu_item_subscript": {
+      "message": "下標"
+   },
+   "menu_item_sun": {
+      "message": "太陽"
+   },
+   "menu_item_superscript": {
+      "message": "上標"
+   },
+   "menu_item_teardrop": {
+      "message": "淚珠形"
+   },
+   "menu_item_trapezoid": {
+      "message": "梯形"
+   },
+   "menu_item_triangle": {
+      "message": "三角形"
+   },
+   "menu_item_u_turn_arrow": {
+      "message": "U 形迴轉箭號"
+   },
+   "menu_item_underline": {
+      "message": "底線"
+   },
+   "menu_item_undo": {
+      "message": "復原"
+   },
+   "menu_item_unhideslide": {
+      "message": "取消隱藏投影片"
+   },
+   "menu_item_unmerge": {
+      "message": "取消合併"
+   },
+   "menu_item_up_arrow": {
+      "message": "向上箭號"
+   },
+   "menu_item_up_arrow_callout": {
+      "message": "向上箭號圖說"
+   },
+   "menu_item_up_down_arrow": {
+      "message": "向上向下箭號"
+   },
+   "menu_item_version_info": {
+      "message": "版本資訊"
+   },
+   "menu_item_word_count": {
+      "message": "字數統計"
+   },
+   "menu_item_wrap_text": {
+      "message": "自動換行"
+   },
+   "menu_item_zoom_in": {
+      "message": "放大"
+   },
+   "menu_item_zoom_out": {
+      "message": "縮小"
+   },
+   "merge_all_aria_spoken_word": {
+      "message": "全部合併"
+   },
+   "merge_aria_spoken_word": {
+      "message": "合併"
+   },
+   "merge_dropdown_aria_spoken_word": {
+      "message": "合併下拉式選單"
+   },
+   "merge_horizontally_aria_spoken_word": {
+      "message": "水平合併"
+   },
+   "merge_vertically_aria_spoken_word": {
+      "message": "垂直合併"
+   },
+   "modify_shape_transform_error_msg": {
+      "message": "執行圖形轉換修改作業時發生錯誤。"
+   },
+   "modify_shape_transform_error_short_msg": {
+      "message": "修改圖形轉換時發生錯誤。"
+   },
+   "modifyshapefillcolor_aria_spoken_word": {
+      "message": "圖形填滿顏色下拉式清單"
+   },
+   "modifyshapeoutlinecolor_aria_spoken_word": {
+      "message": "圖形外框顏色下拉式清單"
+   },
+   "modifyshapeoutlinestyle_aria_spoken_word": {
+      "message": "圖形外框樣式下拉式清單"
+   },
+   "modifyshapeoutlinewidth_aria_spoken_word": {
+      "message": "圖形外框寬度下拉式清單"
+   },
+   "nacl_load_error_details": {
+      "message": "請重新安裝擴充功能。"
+   },
+   "nacl_load_error_title": {
+      "message": "載入應用程式時發生問題。"
+   },
+   "non_permissible_sheet_name_details": {
+      "message": "* ? [ ] ' ; : 屬於禁止使用的字元。工作表名稱的長度上限為 31 個字元，且工作表名稱不可保留空白"
+   },
+   "non_permissible_sheet_name_title": {
+      "message": "您為工作表重新命名時輸入的名稱無效"
+   },
+   "not_pressed": {
+      "message": "未按下"
+   },
+   "notselected": {
+      "message": "未選取"
+   },
+   "number_format_label_currency_symbol": {
+      "message": "貨幣符號"
+   },
+   "number_format_label_date_type": {
+      "message": "類型"
+   },
+   "number_format_label_decimal_places": {
+      "message": "小數點位數"
+   },
+   "number_format_label_general": {
+      "message": "一般"
+   },
+   "number_format_label_negative_numbers": {
+      "message": "負數"
+   },
+   "number_format_label_other": {
+      "message": "其他"
+   },
+   "number_format_label_red": {
+      "message": "紅色"
+   },
+   "number_format_label_text": {
+      "message": "文字"
+   },
+   "number_format_label_use_1000_separator": {
+      "message": "使用千位分隔符"
+   },
+   "number_format_tab_accounting": {
+      "message": "會計"
+   },
+   "number_format_tab_currency": {
+      "message": "貨幣"
+   },
+   "number_format_tab_date_time": {
+      "message": "日期和時間"
+   },
+   "number_format_tab_general": {
+      "message": "一般"
+   },
+   "number_format_tab_number": {
+      "message": "數字"
+   },
+   "number_format_tab_percentage": {
+      "message": "百分比"
+   },
+   "number_format_tab_scientific": {
+      "message": "科學"
+   },
+   "number_format_title": {
+      "message": "數字格式"
+   },
+   "ocm_promo_conversion_shortmsg": {
+      "message": "目前使用的是 Office 相容模式"
+   },
+   "office_compatibility_mode": {
+      "message": "Office 相容模式"
+   },
+   "office_first_time_confirm": {
+      "message": "我知道了"
+   },
+   "office_first_time_message_p1": {
+      "message": "現在使用 Google 文件、試算表和簡報，即可直接編輯放在本機硬碟、Google 雲端硬碟、Gmail 等位置的 Word、Excel 和 PowerPoint 檔案。"
+   },
+   "office_first_time_message_p2": {
+      "message": "您的編輯內容全部都會自動儲存，您也可以隨時選擇另存為原始格式。"
+   },
+   "office_first_time_title": {
+      "message": "文件、試算表和簡報的 Office 編輯功能"
+   },
+   "offline_error_msg": {
+      "message": "您目前已離線。請檢查您的網際網路連線，然後再試一次。如果您已連上網路，但這個錯誤仍持續發生，請在下方回報問題。"
+   },
+   "offline_error_short_msg": {
+      "message": "糟糕，系統無法開啟您所要求的檔案。"
+   },
+   "option_key": {
+      "message": "Option 鍵"
+   },
+   "out_of_memory_error_msg": {
+      "message": "請關閉這個分頁再重新開啟檔案，或是關閉瀏覽器中開啟的其他分頁。如果問題持續發生，請在下方回報問題。"
+   },
+   "out_of_memory_error_short_msg": {
+      "message": "糟糕！記憶體不足。"
+   },
+   "page_count_label": {
+      "message": "頁數"
+   },
+   "partial_cell_merge_error_msg": {
+      "message": "無法變更合併儲存格的一部分。"
+   },
+   "partial_cell_merge_error_short_msg": {
+      "message": "錯誤"
+   },
+   "point_ocm_promo_conversion_msg": {
+      "message": "您可以直接在簡報中編輯並儲存 Office 檔案。只要另存為 Google 簡報檔案，即可邀請他人一起編輯檔案或為檔案加上註解。您也可以隨時將檔案重新儲存為原始格式。"
+   },
+   "point_printing_warning_msg": {
+      "message": "我們正設法修復這個問題。"
+   },
+   "point_printing_warning_short_msg": {
+      "message": "目前您只能列印自己正在檢視的投影片。"
+   },
+   "point_share_promo_conversion_msg": {
+      "message": "想要共用這份簡報嗎？只要轉換成 Google 簡報，即可邀請其他人與您共同編輯檔案。"
+   },
+   "pointtogglebullet_aria_spoken_word": {
+      "message": "項目符號清單"
+   },
+   "pointtogglenumber_aria_spoken_word": {
+      "message": "編號清單"
+   },
+   "present_button": {
+      "message": "播放簡報"
+   },
+   "pressed": {
+      "message": "已按下"
+   },
+   "print_aria_spoken_word": {
+      "message": "列印"
+   },
+   "qowt_doc_mismatch_text": {
+      "message": "您的文件在格式化過程中發生錯誤。\n\n請重新載入網頁以還原變更。"
+   },
+   "qowt_doc_mismatch_title": {
+      "message": "糟糕！"
+   },
+   "qowt_hyperlink_activate_short_key": {
+      "message": "按下 Alt + Enter 鍵即可啟用連結。"
+   },
+   "qowt_hyperlink_dialog": {
+      "message": "超連結"
+   },
+   "qowt_hyperlink_dialog_message_text": {
+      "message": "前往連結："
+   },
+   "qowt_modal_confirm_dialog_affirmative_button": {
+      "message": "確定"
+   },
+   "qowt_modal_confirm_dialog_negative_button": {
+      "message": "取消"
+   },
+   "qowt_modal_dialog_close_button": {
+      "message": "關閉"
+   },
+   "qowt_modal_dialog_coming_soon_title": {
+      "message": "此功能即將推出！"
+   },
+   "qowt_modal_dialog_link_text": {
+      "message": "瞭解詳情"
+   },
+   "qowt_modal_dialog_ok_button": {
+      "message": "確定"
+   },
+   "qowt_modal_dialog_reload_button": {
+      "message": "重新載入"
+   },
+   "qowt_modal_dialog_textbox_editing_description": {
+      "message": "很抱歉，系統不支援在文字方塊中編輯文字的功能。"
+   },
+   "qowt_modal_dialog_textbox_editing_link": {
+      "message": "請解決這個問題！"
+   },
+   "qowt_modal_info_dialog_affirmative_button": {
+      "message": "確定"
+   },
+   "qowt_modal_multi_choice_remember_choice": {
+      "message": "記住我的選擇"
+   },
+   "qowt_modal_query_dialog_affirmative_button": {
+      "message": "是"
+   },
+   "qowt_modal_query_dialog_negative_button": {
+      "message": "否"
+   },
+   "qowt_modal_query_dialog_reload_button": {
+      "message": "重新載入"
+   },
+   "qowt_modal_single_choice_remember_choice": {
+      "message": "以後不要提醒我"
+   },
+   "read_only": {
+      "message": "唯讀"
+   },
+   "redo_aria_spoken_word": {
+      "message": "重做"
+   },
+   "right_pointed_submenu": {
+      "message": "含子選單的向右指標"
+   },
+   "save_aria_spoken_word": {
+      "message": "儲存"
+   },
+   "save_now": {
+      "message": "立即儲存"
+   },
+   "security_error_msg": {
+      "message": "如果持續發生錯誤，請在下方回報問題。"
+   },
+   "security_error_short_msg": {
+      "message": "糟糕，系統無法開啟您所要求的檔案。目前系統不支援在無痕模式中開啟檔案，請在非無痕模式中開啟您的檔案。"
+   },
+   "selected": {
+      "message": "已選取"
+   },
+   "set_sheet_info_error_msg": {
+      "message": "更新工作表名稱時發生錯誤"
+   },
+   "share_button": {
+      "message": "共用"
+   },
+   "share_promo_conversion_shortmsg": {
+      "message": "與其他人共同編輯"
+   },
+   "sheet_delete_column_error_msg": {
+      "message": "糟糕！刪除欄時發生錯誤，請再試一次。"
+   },
+   "sheet_delete_row_error_msg": {
+      "message": "糟糕！刪除列時發生錯誤，請再試一次。"
+   },
+   "sheet_format_cells_error_msg": {
+      "message": "發生格式化錯誤，請再試一次。"
+   },
+   "sheet_insert_column_error_msg": {
+      "message": "糟糕！插入欄時發生錯誤，請再試一次。"
+   },
+   "sheet_insert_column_exceed_error_msg": {
+      "message": "很抱歉！這個試算表最多只能包含 256 欄，因此無法再插入其他欄。"
+   },
+   "sheet_insert_column_exceed_error_short_msg": {
+      "message": "很抱歉！"
+   },
+   "sheet_insert_row_error_msg": {
+      "message": "糟糕！插入列時發生錯誤，請再試一次。"
+   },
+   "sheet_insert_row_exceed_error_msg": {
+      "message": "很抱歉！這個試算表最多只能包含 65536 列，因此無法再插入其他列。"
+   },
+   "sheet_insert_row_exceed_error_short_msg": {
+      "message": "很抱歉！"
+   },
+   "sheet_ocm_promo_conversion_msg": {
+      "message": "您可以直接在試算表中編輯並儲存 Office 檔案。只要另存為 Google 試算表檔案，即可邀請他人一起編輯檔案或為檔案加上註解。您也可以隨時將檔案重新儲存為原始格式。"
+   },
+   "sheet_set_cell_content_invalid_error_msg": {
+      "message": "您所輸入的公式有誤，請更正相關錯誤。"
+   },
+   "sheet_share_promo_conversion_msg": {
+      "message": "想要共用這份試算表嗎？只要轉換成 Google 試算表，即可邀請其他人與您共同編輯檔案。"
+   },
+   "sheet_sort_error_title": {
+      "message": "排序這個儲存格範圍時發生錯誤。"
+   },
+   "sheet_sort_failure_msg": {
+      "message": "排序這個儲存格範圍時發生錯誤。"
+   },
+   "sheet_sort_merged_cell_error": {
+      "message": "您無法排序已合併的儲存格。"
+   },
+   "sheet_sort_merged_cell_error_title": {
+      "message": "排序這個儲存格範圍時發生錯誤。"
+   },
+   "sheet_sort_one_cell_error": {
+      "message": "請選取多個儲存格才能排序。"
+   },
+   "sheet_sort_one_cell_error_title": {
+      "message": "排序這個儲存格範圍時發生錯誤。"
+   },
+   "shift_key": {
+      "message": "Shift 鍵"
+   },
+   "shortcut": {
+      "message": "快速鍵 $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sign_in": {
+      "message": "登入"
+   },
+   "slash_key": {
+      "message": "斜線"
+   },
+   "something_not_right": {
+      "message": "發生錯誤"
+   },
+   "storage_quota_exceed_error_msg": {
+      "message": "請將您在 Chrome 中開啟的 Office 文件全部關閉，然後再試一次。如果問題持續發生，請在下方回報問題。"
+   },
+   "storage_quota_exceed_error_short_msg": {
+      "message": "很抱歉，無法開啟檔案。"
+   },
+   "strikethrough_aria_spoken_word": {
+      "message": "刪除線"
+   },
+   "style_aria_spoken_word": {
+      "message": "樣式下拉式清單"
+   },
+   "submenu_spoken_text": {
+      "message": "$1，$2，$3，$4",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         }
+      }
+   },
+   "temporary_unable_to_open_error_msg": {
+      "message": "請稍後再試。如果問題持續發生，請在下方回報問題。"
+   },
+   "temporary_unable_to_open_error_short_msg": {
+      "message": "很抱歉，暫時無法開啟檔案。"
+   },
+   "textaligncenter_aria_spoken_word": {
+      "message": "置中對齊文字"
+   },
+   "textalignjustify_aria_spoken_word": {
+      "message": "左右對齊文字"
+   },
+   "textalignleft_aria_spoken_word": {
+      "message": "靠左對齊文字"
+   },
+   "textalignright_aria_spoken_word": {
+      "message": "靠右對齊文字"
+   },
+   "textcolor_aria_spoken_word": {
+      "message": "文字顏色下拉式清單"
+   },
+   "textual_edit_error_msg": {
+      "message": "您的文件在格式化過程中發生錯誤。\n\n請重新載入網頁以還原變更。"
+   },
+   "textual_edit_error_short_msg": {
+      "message": "糟糕！"
+   },
+   "title_error_msg_for_merge_cells": {
+      "message": "發生問題"
+   },
+   "title_msg_merging_multiple_cells_with_text": {
+      "message": "請注意！"
+   },
+   "togglebulleted_aria_spoken_word": {
+      "message": "項目符號清單"
+   },
+   "togglenumbered_aria_spoken_word": {
+      "message": "編號清單"
+   },
+   "togglezoom_aria_spoken_word": {
+      "message": "切換縮放"
+   },
+   "tooltip_background_color": {
+      "message": "填滿顏色"
+   },
+   "tooltip_bold": {
+      "message": "粗體"
+   },
+   "tooltip_border": {
+      "message": "框線"
+   },
+   "tooltip_border_all": {
+      "message": "所有框線"
+   },
+   "tooltip_border_bottom": {
+      "message": "下框線"
+   },
+   "tooltip_border_horizontal": {
+      "message": "水平框線"
+   },
+   "tooltip_border_inner": {
+      "message": "內框線"
+   },
+   "tooltip_border_left": {
+      "message": "左框線"
+   },
+   "tooltip_border_none": {
+      "message": "無框線"
+   },
+   "tooltip_border_outer": {
+      "message": "外框線"
+   },
+   "tooltip_border_right": {
+      "message": "右框線"
+   },
+   "tooltip_border_top": {
+      "message": "上框線"
+   },
+   "tooltip_border_vertical": {
+      "message": "垂直框線"
+   },
+   "tooltip_cell_align": {
+      "message": "儲存格對齊"
+   },
+   "tooltip_cell_h_align_center": {
+      "message": "水平置中"
+   },
+   "tooltip_cell_h_align_left": {
+      "message": "水平靠左"
+   },
+   "tooltip_cell_h_align_right": {
+      "message": "水平靠右"
+   },
+   "tooltip_cell_v_align_bottom": {
+      "message": "垂直靠下"
+   },
+   "tooltip_cell_v_align_center": {
+      "message": "垂直置中"
+   },
+   "tooltip_cell_v_align_top": {
+      "message": "垂直靠上"
+   },
+   "tooltip_download": {
+      "message": "下載"
+   },
+   "tooltip_dropdown_init_add_shape": {
+      "message": "圖形"
+   },
+   "tooltip_fill_color": {
+      "message": "文字顏色"
+   },
+   "tooltip_font_face": {
+      "message": "字型"
+   },
+   "tooltip_font_size": {
+      "message": "字型大小"
+   },
+   "tooltip_highlight_color": {
+      "message": "醒目顯示顏色"
+   },
+   "tooltip_init_add_shape": {
+      "message": "文字方塊"
+   },
+   "tooltip_italic": {
+      "message": "斜體"
+   },
+   "tooltip_merge": {
+      "message": "合併儲存格"
+   },
+   "tooltip_merge_dropdown": {
+      "message": "選取合併類型…"
+   },
+   "tooltip_modify_shape_fill_color": {
+      "message": "填滿顏色"
+   },
+   "tooltip_modify_shape_outline_color": {
+      "message": "線條顏色"
+   },
+   "tooltip_modify_shape_outline_style": {
+      "message": "虛線"
+   },
+   "tooltip_modify_shape_outline_width": {
+      "message": "線條寬度"
+   },
+   "tooltip_move_slide": {
+      "message": "移動 $1 張投影片",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "tooltip_point": {
+      "message": "簡報主畫面"
+   },
+   "tooltip_point_toggle_bullet": {
+      "message": "項目符號清單"
+   },
+   "tooltip_point_toggle_number": {
+      "message": "編號清單"
+   },
+   "tooltip_presentation": {
+      "message": "簡報"
+   },
+   "tooltip_print": {
+      "message": "列印"
+   },
+   "tooltip_redo": {
+      "message": "重做"
+   },
+   "tooltip_share": {
+      "message": "分享"
+   },
+   "tooltip_share_for_macroenabledfiles": {
+      "message": "啟用巨集的檔案只能透過 Google 雲端硬碟共用"
+   },
+   "tooltip_sheet": {
+      "message": "試算表主畫面"
+   },
+   "tooltip_strikethrough": {
+      "message": "刪除線"
+   },
+   "tooltip_style": {
+      "message": "樣式"
+   },
+   "tooltip_text_align_center": {
+      "message": "置中"
+   },
+   "tooltip_text_align_justify": {
+      "message": "左右對齊"
+   },
+   "tooltip_text_align_left": {
+      "message": "靠左對齊"
+   },
+   "tooltip_text_align_right": {
+      "message": "靠右對齊"
+   },
+   "tooltip_text_color": {
+      "message": "文字顏色"
+   },
+   "tooltip_toggle_bulleted": {
+      "message": "項目符號清單"
+   },
+   "tooltip_toggle_numbered": {
+      "message": "編號清單"
+   },
+   "tooltip_toggle_zoom": {
+      "message": "切換縮放效果"
+   },
+   "tooltip_underline": {
+      "message": "底線"
+   },
+   "tooltip_undo": {
+      "message": "復原"
+   },
+   "tooltip_word": {
+      "message": "文件主畫面"
+   },
+   "tooltip_wrap_text": {
+      "message": "自動換行"
+   },
+   "tooltip_zoom_in": {
+      "message": "放大"
+   },
+   "tooltip_zoom_out": {
+      "message": "縮小"
+   },
+   "try_again": {
+      "message": "再試一次"
+   },
+   "unable_to_execute_msg": {
+      "message": "無法開啟這份文件。"
+   },
+   "underline_aria_spoken_word": {
+      "message": "底線"
+   },
+   "undo_aria_spoken_word": {
+      "message": "復原"
+   },
+   "unmerge_aria_spoken_word": {
+      "message": "取消合併"
+   },
+   "unsaved_changes": {
+      "message": "變更尚未儲存"
+   },
+   "unsaved_changes_warning": {
+      "message": "這個檔案的變更尚未儲存。如果您直接離開這個網頁，而不儲存變更，那麼您所做的變更將不會生效。"
+   },
+   "unsupported_file_format_error_details_p1": {
+      "message": "很抱歉，這個檔案包含 Microsoft® Office 95 以下版本的內容，因此無法開啟。"
+   },
+   "unsupported_file_format_error_details_p2": {
+      "message": "如要將檔案轉換成 Google 文件，請按下列連結。"
+   },
+   "unsupported_file_format_error_title": {
+      "message": "糟糕！"
+   },
+   "unsupported_link_message": {
+      "message": "很抱歉，我們目前不支援這類網址。"
+   },
+   "up_key": {
+      "message": "向上鍵"
+   },
+   "updated_shortcut_message": {
+      "message": "為了讓所有 Google 文件產品的鍵盤快速鍵保持一致，我們進行了更新。如要查看更新的鍵盤快速鍵，請見說明。"
+   },
+   "updated_shortcut_title": {
+      "message": "更新的鍵盤快速鍵"
+   },
+   "version_info_msg": {
+      "message": "目前的 Office 相容模式版本："
+   },
+   "word_binary_upsave_learnmore": {
+      "message": "瞭解詳情"
+   },
+   "word_binary_upsave_msg": {
+      "message": "系統不支援這種檔案格式。您必須授權系統將這個檔案轉換成較新的格式，才能儲存檔案，而原始檔案並不會受到影響。"
+   },
+   "word_binary_upsave_shortmsg": {
+      "message": "更新您的文件"
+   },
+   "word_count_label": {
+      "message": "字數"
+   },
+   "word_count_title": {
+      "message": "字數統計"
+   },
+   "word_ocm_promo_conversion_msg": {
+      "message": "您可以直接在文件中編輯並儲存 Office 檔案。只要另存為 Google 文件檔案，即可邀請他人一起編輯檔案或為檔案加上註解。您也可以隨時將檔案重新儲存為原始格式。"
+   },
+   "word_share_promo_conversion_msg": {
+      "message": "想要共用這份文件嗎？只要轉換成 Google 文件，即可邀請其他人與您共同編輯檔案。"
+   },
+   "wraptext_aria_spoken_word": {
+      "message": "自動換行"
+   },
+   "zoomin_aria_spoken_word": {
+      "message": "放大"
+   },
+   "zoomout_aria_spoken_word": {
+      "message": "縮小"
+   }
+}

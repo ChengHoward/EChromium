@@ -1,0 +1,2192 @@
+{
+   "action_create_user_feedback": {
+      "message": "किसी समस्या की रिपोर्ट करना"
+   },
+   "alt_key": {
+      "message": "Alt"
+   },
+   "app_error_learn_more": {
+      "message": "ज़्यादा जानें"
+   },
+   "app_error_report_feedback": {
+      "message": "फ़ीडबैक की रिपोर्ट करें"
+   },
+   "app_icon_aria_spoken_word": {
+      "message": " होम"
+   },
+   "app_nacl_crash_msg": {
+      "message": "समस्‍या की रिपोर्ट करके हमारी सहायता करें."
+   },
+   "app_nacl_crash_report": {
+      "message": "किसी समस्‍या की रिपोर्ट करें..."
+   },
+   "app_nacl_crash_title": {
+      "message": "ओह. ऐसा नहीं होना चाहिए था - अपने बदलावों को दोबारा पाने के लिए पेज को फिर लोड करें."
+   },
+   "app_nacl_error_load_failed": {
+      "message": "क्षमा करें, हम फ़ाइल नहींं खोल सके. Chrome के अन्य टैब बंद करें या Chrome पुनः प्रारंभ करें, फिर पुनः प्रयास करें. अगर समस्या जारी रहती है, तो समस्या की नीचे रिपोर्ट करें."
+   },
+   "app_nacl_error_title": {
+      "message": "फ़ाइल नहीं खोली जा सकती."
+   },
+   "app_nacl_error_unsupported_device": {
+      "message": "यह डिवाइस दस्तावेज़, पत्रक और स्लाइड के लिए Chrome एक्सटेंशन Office संपादन का समर्थन नहीं करता."
+   },
+   "app_saving_failed_error_msg": {
+      "message": "क्षमा करें, फ़ाइल को सहेजते समय कोई समस्या हुई. फिर से सहेजने का प्रयास करें. अगर समस्या बनी रहती है, तो कृपया समस्या की रिपोर्ट करें."
+   },
+   "app_saving_failed_error_short_msg": {
+      "message": "फ़ाइल नहीं सहेजी जा सकती."
+   },
+   "backgroundcolor_aria_spoken_word": {
+      "message": "सेल पृष्ठभूमि रंग ड्रॉप डाउन सूची"
+   },
+   "bold_aria_spoken_word": {
+      "message": "बोल्ड"
+   },
+   "border_all_aria_spoken_word": {
+      "message": "सभी बॉर्डर"
+   },
+   "border_aria_spoken_word": {
+      "message": "बॉर्डर ड्रॉप डाउन सूची"
+   },
+   "border_bottom_aria_spoken_word": {
+      "message": "नीचे का बॉर्डर"
+   },
+   "border_horizontal_aria_spoken_word": {
+      "message": "क्षैतिज बॉर्डर"
+   },
+   "border_inner_aria_spoken_word": {
+      "message": "अंदर का बॉर्डर"
+   },
+   "border_left_aria_spoken_word": {
+      "message": "बायां बॉर्डर"
+   },
+   "border_none_aria_spoken_word": {
+      "message": "कोई बॉर्डर नहीं"
+   },
+   "border_outer_aria_spoken_word": {
+      "message": "बाहर का बॉर्डर"
+   },
+   "border_right_aria_spoken_word": {
+      "message": "दायां बॉर्डर"
+   },
+   "border_top_aria_spoken_word": {
+      "message": "ऊपर का बॉर्डर"
+   },
+   "border_vertical_aria_spoken_word": {
+      "message": "लम्बवत बॉर्डर"
+   },
+   "button_ocm_convert_cancel": {
+      "message": "अभी नहीं"
+   },
+   "button_ocm_promo_conversion_point": {
+      "message": "Google स्लाइड के रूप में सेव करें"
+   },
+   "button_ocm_promo_conversion_sheet": {
+      "message": "Google पत्रक के रूप में सेव करें"
+   },
+   "button_ocm_promo_conversion_word": {
+      "message": "Google दस्तावेज़ के रूप में सेव करें"
+   },
+   "button_share_convert_cancel": {
+      "message": "अभी नहीं"
+   },
+   "button_share_promo_conversion_point": {
+      "message": "Google स्लाइड के रूप में सेव करें"
+   },
+   "button_share_promo_conversion_sheet": {
+      "message": "Google शीट के रूप में सेव करें"
+   },
+   "button_share_promo_conversion_word": {
+      "message": "Google दस्तावेज़ के रूप में सेव करें"
+   },
+   "cell_align_aria_spoken_word": {
+      "message": "सेल संरेखण"
+   },
+   "cellalign_aria_spoken_word": {
+      "message": "सेल संरेखण ड्रॉप डाउन सूची"
+   },
+   "cellhaligncenter_aria_spoken_word": {
+      "message": "क्षैतिज मध्य"
+   },
+   "cellhalignleft_aria_spoken_word": {
+      "message": "क्षैतिज बाएं"
+   },
+   "cellhalignright_aria_spoken_word": {
+      "message": "क्षैतिज दाएं"
+   },
+   "cellvalignbottom_aria_spoken_word": {
+      "message": "लम्बवत नीचे"
+   },
+   "cellvaligncenter_aria_spoken_word": {
+      "message": "लम्बवत मध्य"
+   },
+   "cellvaligntop_aria_spoken_word": {
+      "message": "लम्बवत ऊपर"
+   },
+   "char_count_label": {
+      "message": "वर्णों की संख्या"
+   },
+   "char_no_spaces_count_label": {
+      "message": "रिक्तियों को छोड़कर वर्णों की संख्या"
+   },
+   "close_dialog_aria_spoken_word": {
+      "message": "डॉयलॉग बंद करें"
+   },
+   "cmd_dropdown_initaddshape_aria_spoken_word": {
+      "message": "आकार ड्रॉप डाउन सूची"
+   },
+   "collapsed": {
+      "message": "संक्षिप्त"
+   },
+   "collapsed_menu": {
+      "message": "$1 सबमेनू के साथ संक्षिप्त किया गया.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "color_black": {
+      "message": "काला रंग"
+   },
+   "color_blaze_orange": {
+      "message": "आग जैसा नारंगी"
+   },
+   "color_blue": {
+      "message": "नीला"
+   },
+   "color_brown": {
+      "message": "भूरा"
+   },
+   "color_cornflower_blue": {
+      "message": "कॉर्नफ़्लॉवर नीला"
+   },
+   "color_cyan": {
+      "message": "स्यान"
+   },
+   "color_dark_blue": {
+      "message": "गहरा नीला"
+   },
+   "color_dark_blue_1": {
+      "message": "गहरा नीला 1"
+   },
+   "color_dark_blue_2": {
+      "message": "गहरा नीला 2"
+   },
+   "color_dark_blue_3": {
+      "message": "गहरा नीला 3"
+   },
+   "color_dark_blue_grey": {
+      "message": "गहरा नीला भूरा"
+   },
+   "color_dark_cornflower_blue_1": {
+      "message": "गहरा कॉर्नफ़्लॉवर नीला 1"
+   },
+   "color_dark_cornflower_blue_2": {
+      "message": "गहरा कॉर्नफ़्लॉवर नीला 2"
+   },
+   "color_dark_cornflower_blue_3": {
+      "message": "गहरा कॉर्नफ़्लॉवर नीला 3"
+   },
+   "color_dark_cyan": {
+      "message": "गहरा स्यान"
+   },
+   "color_dark_cyan_1": {
+      "message": "गहरा स्यान 1"
+   },
+   "color_dark_cyan_2": {
+      "message": "गहरा स्यान 2"
+   },
+   "color_dark_cyan_3": {
+      "message": "गहरा स्यान 3"
+   },
+   "color_dark_gray": {
+      "message": "गहरा धूसर"
+   },
+   "color_dark_gray_1": {
+      "message": "गहरा धूसर 1"
+   },
+   "color_dark_gray_2": {
+      "message": "गहरा धूसर 2"
+   },
+   "color_dark_gray_3": {
+      "message": "गहरा धूसर 3"
+   },
+   "color_dark_gray_4": {
+      "message": "गहरा धूसर 4"
+   },
+   "color_dark_green": {
+      "message": "गहरा हरा"
+   },
+   "color_dark_green_1": {
+      "message": "गहरा हरा 1"
+   },
+   "color_dark_green_2": {
+      "message": "गहरा हरा 2"
+   },
+   "color_dark_green_3": {
+      "message": "गहरा हरा 3"
+   },
+   "color_dark_green_5": {
+      "message": "गहरा हरा 5"
+   },
+   "color_dark_grey_2": {
+      "message": "गहरा धूसर 2"
+   },
+   "color_dark_grey_5": {
+      "message": "गहरा धूसर 5"
+   },
+   "color_dark_magenta_1": {
+      "message": "गहरा मैजेंटा 1"
+   },
+   "color_dark_magenta_2": {
+      "message": "गहरा मैजेंटा 2"
+   },
+   "color_dark_magenta_3": {
+      "message": "गहरा मैजेंटा 3"
+   },
+   "color_dark_olive_green": {
+      "message": "गहरा जैतूनी हरा"
+   },
+   "color_dark_orange_1": {
+      "message": "गहरा नारंगी 1"
+   },
+   "color_dark_orange_2": {
+      "message": "गहरा नारंगी 2"
+   },
+   "color_dark_orange_3": {
+      "message": "गहरा नारंगी 3"
+   },
+   "color_dark_purple_1": {
+      "message": "गहरा बैंगनी 1"
+   },
+   "color_dark_purple_2": {
+      "message": "गहरा बैंगनी 2"
+   },
+   "color_dark_purple_3": {
+      "message": "गहरा बैंगनी 3"
+   },
+   "color_dark_red": {
+      "message": "गहरा लाल"
+   },
+   "color_dark_red_1": {
+      "message": "गहरा लाल 1"
+   },
+   "color_dark_red_2": {
+      "message": "गहरा लाल 2"
+   },
+   "color_dark_red_3": {
+      "message": "गहरा लाल 3"
+   },
+   "color_dark_red_berry_1": {
+      "message": "गहरा लाल बेरी 1"
+   },
+   "color_dark_red_berry_2": {
+      "message": "गहरा लाल बेरी 2"
+   },
+   "color_dark_red_berry_3": {
+      "message": "गहरा लाल बेरी 3"
+   },
+   "color_dark_slate_blue": {
+      "message": "गहरा स्लेट नीला"
+   },
+   "color_dark_yellow_1": {
+      "message": "गहरा पीला 1"
+   },
+   "color_dark_yellow_2": {
+      "message": "गहरा पीला 2"
+   },
+   "color_dark_yellow_3": {
+      "message": "गहरा पीला 3"
+   },
+   "color_deep_pink": {
+      "message": "गहरा गुलाबी"
+   },
+   "color_deep_sky_blue": {
+      "message": "गहरा आसमानी नीला"
+   },
+   "color_eucalyptus_green": {
+      "message": "नीलगिरी हरा"
+   },
+   "color_gold": {
+      "message": "सुनहरा"
+   },
+   "color_gray": {
+      "message": "धूसर"
+   },
+   "color_green": {
+      "message": "हरा"
+   },
+   "color_light_blue": {
+      "message": "हल्का नीला"
+   },
+   "color_light_blue_1": {
+      "message": "हल्का नीला 1"
+   },
+   "color_light_blue_2": {
+      "message": "हल्का नीला 2"
+   },
+   "color_light_blue_3": {
+      "message": "हल्का नीला 3"
+   },
+   "color_light_cornflower_blue_1": {
+      "message": "हल्का कॉर्नफ़्लॉवर नीला 1"
+   },
+   "color_light_cornflower_blue_2": {
+      "message": "हल्का कॉर्नफ़्लॉवर नीला 2"
+   },
+   "color_light_cornflower_blue_3": {
+      "message": "हल्का कॉर्नफ़्लॉवर नीला 3"
+   },
+   "color_light_cyan": {
+      "message": "हल्का स्यान"
+   },
+   "color_light_cyan_1": {
+      "message": "हल्का स्यान 1"
+   },
+   "color_light_cyan_2": {
+      "message": "हल्का स्यान 2"
+   },
+   "color_light_cyan_3": {
+      "message": "हल्का स्यान 3"
+   },
+   "color_light_gray": {
+      "message": "हल्का धूसर"
+   },
+   "color_light_gray_1": {
+      "message": "हल्का धूसर 1"
+   },
+   "color_light_gray_2": {
+      "message": "हल्का धूसर 2"
+   },
+   "color_light_gray_3": {
+      "message": "हल्का धूसर 3"
+   },
+   "color_light_green": {
+      "message": "हल्का हरा"
+   },
+   "color_light_green_1": {
+      "message": "हल्का हरा 1"
+   },
+   "color_light_green_2": {
+      "message": "हल्का हरा 2"
+   },
+   "color_light_green_3": {
+      "message": "हल्का हरा 3"
+   },
+   "color_light_magenta_1": {
+      "message": "हल्का मैजेंटा 1"
+   },
+   "color_light_magenta_2": {
+      "message": "हल्का मैजेंटा 2"
+   },
+   "color_light_magenta_3": {
+      "message": "हल्का मैजेंटा 3"
+   },
+   "color_light_orange_1": {
+      "message": "हल्का नारंगी 1"
+   },
+   "color_light_orange_2": {
+      "message": "हल्का नारंगी 2"
+   },
+   "color_light_orange_3": {
+      "message": "हल्का नारंगी 3"
+   },
+   "color_light_purple": {
+      "message": "हल्का बैंगनी"
+   },
+   "color_light_purple_1": {
+      "message": "हल्का बैंगनी 1"
+   },
+   "color_light_purple_2": {
+      "message": "हल्का बैंगनी 2"
+   },
+   "color_light_purple_3": {
+      "message": "हल्का बैंगनी 3"
+   },
+   "color_light_red_1": {
+      "message": "हल्का लाल 1"
+   },
+   "color_light_red_2": {
+      "message": "हल्का लाल 2"
+   },
+   "color_light_red_3": {
+      "message": "हल्का लाल 3"
+   },
+   "color_light_red_berry_1": {
+      "message": "हल्का लाल बेरी 1"
+   },
+   "color_light_red_berry_2": {
+      "message": "हल्का लाल बेरी 2"
+   },
+   "color_light_red_berry_3": {
+      "message": "हल्का लाल बेरी 3"
+   },
+   "color_light_yellow": {
+      "message": "हल्का पीला"
+   },
+   "color_light_yellow_1": {
+      "message": "हल्का पीला 1"
+   },
+   "color_light_yellow_2": {
+      "message": "हल्का पीला 2"
+   },
+   "color_light_yellow_3": {
+      "message": "हल्का पीला 3"
+   },
+   "color_magenta": {
+      "message": "मैजेंटा"
+   },
+   "color_maroon": {
+      "message": "मरून रंग"
+   },
+   "color_midnight_blue": {
+      "message": "मिडनाइट नीला"
+   },
+   "color_navy": {
+      "message": "गहरा नीला"
+   },
+   "color_olive": {
+      "message": "जैतूनी"
+   },
+   "color_orange": {
+      "message": "नारंगी"
+   },
+   "color_peach": {
+      "message": "आड़ू जैसा रंग"
+   },
+   "color_pink": {
+      "message": "गुलाबी"
+   },
+   "color_pistachio": {
+      "message": "पिस्ता"
+   },
+   "color_purple": {
+      "message": "बैंगनी"
+   },
+   "color_red": {
+      "message": "लाल"
+   },
+   "color_red_berry": {
+      "message": "लाल बेरी"
+   },
+   "color_royal_blue": {
+      "message": "गहरा चमकदार नीला"
+   },
+   "color_teal": {
+      "message": "हरा-नीला"
+   },
+   "color_turquiose": {
+      "message": "फ़िरोज़ा"
+   },
+   "color_white": {
+      "message": "सफ़ेद"
+   },
+   "color_yellow": {
+      "message": "पीला"
+   },
+   "command_key": {
+      "message": "आदेश"
+   },
+   "content_msg_merging_horizontally_across_vertical_section": {
+      "message": "आप किसी मौजूदा लम्बवत रूप से मर्ज किए गए अनुभाग को क्षैतिज रूप से मर्ज नहीं कर सकते."
+   },
+   "content_msg_merging_multiple_cells_with_text": {
+      "message": "सेल मर्ज करने से केवल शीर्ष बाईं ओर के मूल्य संरक्षित होंगे. फिर भी मर्ज करें?"
+   },
+   "content_msg_merging_partially_selected_merged_cells": {
+      "message": "सेल को मर्ज या अनमर्ज करने के लिए आपको मर्ज की जाने वाली सीमा में सभी सेल को चुनना होगा."
+   },
+   "content_msg_merging_vertically_across_horizontal_section": {
+      "message": "आप किसी मौजूदा क्षैतिज रूप से मर्ज किए गए अनुभाग को लम्बवत रूप से मर्ज नहीं कर सकते."
+   },
+   "content_render_error_msg": {
+      "message": "इस दस्‍तावेज़ की सामग्री में कुछ समस्‍या थी."
+   },
+   "context_menu_clipboard_copy": {
+      "message": "कॉपी बनाएं"
+   },
+   "context_menu_delete": {
+      "message": "हटाएं"
+   },
+   "context_menu_freeze": {
+      "message": "फ़्रीज़ करें"
+   },
+   "context_menu_insert": {
+      "message": "सम्मिलित करें"
+   },
+   "context_menu_sort_collation_ascending": {
+      "message": "a-z में क्रमित करें"
+   },
+   "context_menu_sort_collation_descending": {
+      "message": "z-a में क्रमित करें"
+   },
+   "context_menu_unfreeze": {
+      "message": "अनफ़्रीज़ करें"
+   },
+   "control_key": {
+      "message": "नियंत्रण"
+   },
+   "convert_attempt_when_offline": {
+      "message": "Google दस्तावेज़ के रूप में सहेजने के लिए आपको ऑनलाइन रहना होगा. जब आपका कनेक्शन पुनर्स्थापित हो जाए, तब फिर से प्रयास करें."
+   },
+   "convert_attempt_with_invalid_creds": {
+      "message": "इस फ़ाइल को रूपांतरित करने के लिए आपको अपने Google खाते में प्रवेश करना होगा."
+   },
+   "convert_cancel": {
+      "message": "अभी नहीं"
+   },
+   "convert_to_google_docs_failed": {
+      "message": "आपके दस्तावेज़ को Google दस्तावेज़ में बदलते समय कोई समस्या हुई थी."
+   },
+   "convert_to_google_point_fail_short_msg": {
+      "message": "ओह"
+   },
+   "convert_to_google_point_short_msg": {
+      "message": "Google स्लाइड के रूप में सहेजी जा रही है"
+   },
+   "convert_to_google_sheet_fail_short_msg": {
+      "message": "ओह"
+   },
+   "convert_to_google_sheet_short_msg": {
+      "message": "Google पत्रक के रूप में सहेजी जा रही है"
+   },
+   "convert_to_google_word_fail_short_msg": {
+      "message": "ओह"
+   },
+   "convert_to_google_word_short_msg": {
+      "message": "Google दस्तावेज़ के रूप में सहेजी जा रही है"
+   },
+   "convert_try_again": {
+      "message": "फिर से प्रयास करें"
+   },
+   "converting_to_google_point_fail_msg": {
+      "message": "इस समय हम आपकी फ़ाइल को Google स्लाइड के रूप में नहीं सहेज सके."
+   },
+   "converting_to_google_point_msg": {
+      "message": "आपके प्रस्तुतिकरण के नए वर्शन को Google स्लाइड के रूप में सहेज रहा है."
+   },
+   "converting_to_google_sheet_fail_msg": {
+      "message": "इस समय हम आपकी फ़ाइल को Google शीट के रूप में नहीं सहेज सके."
+   },
+   "converting_to_google_sheet_msg": {
+      "message": "आपकी स्प्रैडशीट के नए वर्शन को Google शीट के रूप में सहेज रहा है."
+   },
+   "converting_to_google_word_fail_msg": {
+      "message": "इस समय हम आपकी फ़ाइल को Google दस्तावेज़ के रूप में नहीं सहेज सके."
+   },
+   "converting_to_google_word_msg": {
+      "message": "आपके दस्तावेज़ के नए वर्शन को Google दस्तावेज़ के रूप में सहेज रहा है."
+   },
+   "copy_attempt_when_offline": {
+      "message": "Google डिस्क पर कॉपी बनाने के लिए आपको ऑनलाइन होना होगा. अपना कनेक्शन पुनर्स्थापित होने पर फिर से प्रयास करें."
+   },
+   "copy_attempt_with_invalid_creds": {
+      "message": "कॉपी बनाने के लिए आपको अपने Google खाते में प्रवेश करना होगा."
+   },
+   "disabled_share_button": {
+      "message": "जिन फ़ाइलों में मैक्रो चालू है, उन्हें सिर्फ़ Google डिस्क से शेयर किया जा सकता है. शेयर करना बंद है."
+   },
+   "disallowed_cut_copy_paste_cmd_copy": {
+      "message": "कॉपी करने के लिए"
+   },
+   "disallowed_cut_copy_paste_cmd_cut": {
+      "message": "काटने के लिए"
+   },
+   "disallowed_cut_copy_paste_cmd_paste": {
+      "message": "चिपकाने के लिए"
+   },
+   "disallowed_cut_copy_paste_msg": {
+      "message": "'बदलाव करें और संदर्भ मेन्यू' से ये कार्रवाइयां नहीं की जा सकतीं, लेकिन आप अब भी इनका इस्तेमाल कर सकते हैं:"
+   },
+   "disallowed_cut_copy_paste_title": {
+      "message": "Office के साथ काम करने वाले मोड में कॉपी करना और चिपकाना"
+   },
+   "dismiss": {
+      "message": "ख़ारिज करें"
+   },
+   "document_title_aria_spoken_word": {
+      "message": "दस्तावेज़ का शीर्षक:"
+   },
+   "down_key": {
+      "message": "नीचे"
+   },
+   "download_button": {
+      "message": "डाउनलोड करें"
+   },
+   "download_file_timeout_error_msg": {
+      "message": "आप जो फ़ाइल खोल रहे हैं उसमें उम्मीद से ज़्यादा समय लग रहा है. अपने नेटवर्क कनेक्शन की जाँच करें और फिर कोशिश करें."
+   },
+   "download_file_timeout_error_short_msg": {
+      "message": "फ़ाइल अपेक्षा से ज़्यादा समय ले रही है"
+   },
+   "drive_open_timeout_error_msg": {
+      "message": "ऐसा लगता है कि संभवतः आपके इंटरनेट कनेक्शन में कोई समस्या है. कृपया अपने कनेक्शन की जाँच करें और फ़ाइल को खोलने का पुनः प्रयास करें. अगर आपको लगातार यह गड़बड़ी मिलती है और आप ऑनलाइन हैं, तो कृपया नीचे समस्या की रिपोर्ट करें."
+   },
+   "drive_open_timeout_error_short_msg": {
+      "message": "ओह. हम आपकी अनुरोध की गई फ़ाइल को खोलने में असमर्थ थे."
+   },
+   "duplicate_sheet_name_message": {
+      "message": "ऐसा पत्रक नाम डालें जो किसी अन्य पत्रक द्वारा उपयोग में नहीं है"
+   },
+   "duplicate_sheet_name_title": {
+      "message": "वह पत्रक नाम पहले से उपयोग में है"
+   },
+   "edits_not_being_saved": {
+      "message": "संपादन अपने आप नहीं सहेजे जाएंगे."
+   },
+   "edits_now_being_auto_saved": {
+      "message": "फ़ाइल सहेजी गई. सभी संपादन अब अपने आप सहेजे जाएंगे."
+   },
+   "entry_point_error_msg": {
+      "message": "कृपया फिर से प्रयास करें या नीचे समस्या की रिपोर्ट करें."
+   },
+   "entry_point_error_short_msg": {
+      "message": "ओह. हम उस फ़ाइल का पता नहीं लगा सके जिसे आप खोलना चाहते थे."
+   },
+   "error_occurred": {
+      "message": "कोई गड़बड़ी हुई."
+   },
+   "error_password_required_msg": {
+      "message": "हम आज सुरक्षित फ़ाइलों का समर्थन नहीं कर रहे हैं, लेकिन हम इस पर काम कर रहे हैं."
+   },
+   "error_password_required_short_msg": {
+      "message": "यह फ़ाइल पासवर्ड सुरक्षित है."
+   },
+   "expanded": {
+      "message": "विस्तृत"
+   },
+   "expanded_menu": {
+      "message": "$1 सबमेनू द्वारा विस्तृत किया गया.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "extension_description": {
+      "message": "Google दस्तावेज़, पत्रक और स्लाइड के साथ Microsoft Word, Excel और PowerPoint फ़ाइलें देखें और बदलाव करें"
+   },
+   "extension_name": {
+      "message": "दस्तावेज़,शीट और स्लाइड में Office संपादन"
+   },
+   "extension_popup_message_body": {
+      "message": "मौजूदा फ़ाइलें खोलने के लिए, उन्हें खींचें और ब्राउज़र में छोड़ें"
+   },
+   "extension_popup_new_document_header": {
+      "message": "नया"
+   },
+   "extension_popup_new_presentation_document": {
+      "message": "Powerpoint प्रज़ेंटेशन"
+   },
+   "extension_popup_new_spreadsheet_document": {
+      "message": "Excel स्प्रेडशीट"
+   },
+   "extension_popup_new_word_document": {
+      "message": "Word दस्तावेज़"
+   },
+   "feedback_textbox_editing": {
+      "message": "कृपया लेख बॉक्स के अंदर स्थित लेख के संपादन का समर्थन करें."
+   },
+   "feedback_ui_template": {
+      "message": "1- कृपया आपको आ रही समस्याओं का विवरण दें.\n2- फ़ाइल खोलने की कोशिश करते समय समस्या आई या फ़ाइल में बदलाव करते समय?\n3- क्या   किसी भी समय फ़ाइल को खोलते या बदलाव करने का प्रयास करते समय यह समस्या आती है या बस कुछ विशिष्ट फ़ाइलों के साथ?\n\nअगर यह समस्या किसी फ़ाइल के लिए विशिष्ट है, तो कृपया निःसंकोच उस फ़ाइल को इस रिपोर्ट में संलग्न करें, क्योंकि इससे हमें समस्या का और अच्छी तरह से निवारण करने में सहायता मिलेगी."
+   },
+   "file_does_not_exist_error_details": {
+      "message": "यह फ़ाइल मौजूद नहीं है. हो सकता है कि आपने किसी शेयर किए गए लिंक या बुकमार्क किए गए दस्तावेज़ को खोलने का प्रयास किया हो. कृपया फ़ाइल को उसके मूल स्रोत से पुनः खोलने का प्रयास करें."
+   },
+   "file_does_not_exist_error_title": {
+      "message": "फ़ाइल नहीं मिली."
+   },
+   "file_loading_spinner_label": {
+      "message": "लोड हो रहा है"
+   },
+   "file_missing_content_msg": {
+      "message": "इस फ़ाइल की संपूर्ण सामग्री को पढ़ने में समस्या हुई थी; हम आपसे फ़ाइल का नाम बदलने और फ़ाइल को फिर से खोलने की अनुशंसा करते हैं"
+   },
+   "file_missing_content_short_msg": {
+      "message": "दस्तावेज़ में सामग्री गुम है."
+   },
+   "file_not_found_error_msg": {
+      "message": "यह पक्का करने के लिए कि आपके पास फ़ाइल को ऐक्सेस करने की अनुमति है, कृपया फ़ाइल के मालिक से संपर्क करें. अगर आपको लगातार यह गड़बड़ी मिलती है और आपके पास अनुमति है, तो कृपया नीचे समस्या की रिपोर्ट करें."
+   },
+   "file_not_found_error_short_msg": {
+      "message": "ओह. हम आपकी अनुरोध की गई फ़ाइल को खोलने में असमर्थ थे."
+   },
+   "file_not_found_exception": {
+      "message": "हो सकता है कि अनुरोध की गई फ़ाइल मिटा दी गई हो, उसका नाम बदल दिया गया हो, या उसे किसी और जगह ले जाया गया हो. आगे बढ़ने के लिए 'अभी सेव करें' पर क्लिक करें."
+   },
+   "file_not_found_link_text": {
+      "message": "एकाधिक खातों में सहायता के लिए, कृपया यह लेख देखें"
+   },
+   "file_not_found_msg": {
+      "message": "  अनुरोधित फ़ाइल डाउनलोड होने में विफल रही."
+   },
+   "file_not_found_title": {
+      "message": "फ़ाइल नहीं मिली."
+   },
+   "file_open_crash_error_msg": {
+      "message": "अगर आपको अब भी समस्या आ रही है, तो कृपया नीचे समस्या की रिपोर्ट करें."
+   },
+   "file_open_crash_error_short_msg": {
+      "message": "ओह. हम आपकी अनुरोध की गई फ़ाइल को खोलने में असमर्थ थे."
+   },
+   "file_open_error_msg": {
+      "message": "इस फ़ाइल की सामग्री ऐक्सेस नहीं की जा सकती."
+   },
+   "file_open_error_short_msg": {
+      "message": "यह फ़ाइल दूषित प्रतीत होती है."
+   },
+   "file_open_fail_download_link_text": {
+      "message": "फ़ाइल डाउनलोड करें"
+   },
+   "file_opened_in_incognito_mode_error_details": {
+      "message": "'Office फ़ाइलों में बदलाव करना' एक्सटेंशन, गुप्त मोड में काम नहीं करता. कृपया इस फ़ाइल को सामान्य Chrome विंडो में खोलें. अगर आप मेहमान मोड का इस्तेमाल कर रहे हैं, तो यह फ़ाइल नहीं खुलेगी. कृपया पक्का करें कि आपकी फ़ाइल किसी तरह का खराब या अमान्य दस्तावेज़ नहीं है और फिर से कोशिश करें."
+   },
+   "file_opened_in_incognito_mode_error_title": {
+      "message": "ओह! यह फ़ाइल गुप्त मोड में नहीं खुलेगी"
+   },
+   "file_pdf_type_rename_msg": {
+      "message": "फ़ाइल का नाम $1.pdf में बदलें और पुनः प्रयास करें.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_rtf_type_rename_msg": {
+      "message": "फ़ाइल का नाम $1.rtf में बदलें",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_type_unsupported_msg": {
+      "message": "यह फ़ाइल प्रकार समर्थित नहीं है."
+   },
+   "fillcolor_aria_spoken_word": {
+      "message": "लेख रंग ड्रॉप डाउन सूची"
+   },
+   "fontface_aria_spoken_word": {
+      "message": "फ़ॉन्ट फ़ेस ड्रॉप डाउन सूची"
+   },
+   "fontsize_aria_spoken_word": {
+      "message": "फ़ॉन्ट आकार ड्रॉप डाउन सूची"
+   },
+   "forbidden_access_level_error_msg": {
+      "message": "यह पक्का करने के लिए कि आपके पास इस फ़ाइल को खोलने की अनुमति है, कृपया इसके मालिक से संपर्क करें. अगर आपको लगातार यह गड़बड़ी मिलती है और आपके पास अनुमति है, तो कृपया नीचे समस्या की रिपोर्ट करें."
+   },
+   "forbidden_access_level_error_short_msg": {
+      "message": "ओह. हम आपकी अनुरोध की गई फ़ाइल को खोलने में असमर्थ थे."
+   },
+   "forbidden_app_access_error_msg": {
+      "message": "किसी कारण से हमें इस फ़ाइल को खोलने की अनुमति नहीं है. कृपया Google डिस्क से फ़ाइल खोलने का प्रयास करें या नीचे समस्या की रिपोर्ट करें."
+   },
+   "forbidden_app_access_error_short_msg": {
+      "message": "ओह. हम आपकी अनुरोध की गई फ़ाइल को खोलने में असमर्थ थे."
+   },
+   "forbidden_app_id_error_msg": {
+      "message": "ऐसा लगता है कि Chrome एक्सटेंशन को ठीक तरह से कॉन्फ़िगर नहीं किया गया है. यह कैसे संभव है? हम पूरी तरह से पक्का नहीं हैं, लेकिन कृपया नीचे समस्या की रिपोर्ट करें."
+   },
+   "forbidden_app_id_error_short_msg": {
+      "message": "ओह. हम आपकी अनुरोध की गई फ़ाइल को खोलने में असमर्थ थे."
+   },
+   "forbidden_blacklist_error_msg": {
+      "message": "ऐसा लगता है कि इस Chrome एक्सटेंशन को काली सूची मे डाल दिया गया है. स्पष्ट रूप से यह एक गलती थी, इसलिए कृपया नीचे समस्या की रिपोर्ट करके हमें इसके बारे में बताएं."
+   },
+   "forbidden_blacklist_error_short_msg": {
+      "message": "ओह. हम आपकी अनुरोध की गई फ़ाइल को खोलने में असमर्थ थे."
+   },
+   "forbidden_domain_error_msg": {
+      "message": "ऐसा लगता है कि आपके डोमेन के पास इस फाइल की प्रतिबंधित ऐक्सेस है. कृपया अपने डोमेन नियंत्रक से संपर्क करें या नीचे समस्या की रिपोर्ट करें."
+   },
+   "forbidden_domain_error_short_msg": {
+      "message": "ओह. हम आपकी अनुरोध की गई फ़ाइल को खोलने में असमर्थ थे."
+   },
+   "forbidden_internal_error_msg": {
+      "message": "दुर्भागयवश, Google डिस्क अपेक्षा के अनुसार काम नहीं कर रहा. कृपया अपनी फ़ाइल को पुनः खोलने का प्रयास करें या नीचे समस्या की रिपोर्ट करें."
+   },
+   "forbidden_internal_error_short_msg": {
+      "message": "ओह. हम आपकी अनुरोध की गई फ़ाइल को खोलने में असमर्थ थे."
+   },
+   "forbidden_not_installed_error_msg": {
+      "message": "ऐसा लगता है कि Chrome ठीक तरह से इंस्टॉल नहीं है. यह कैसे संभव है? हम पूरी तरह से पक्का नहीं हैं, लेकिन कृपया नीचे समस्या की रिपोर्ट करें."
+   },
+   "forbidden_not_installed_error_short_msg": {
+      "message": "ओह. हम आपकी अनुरोध की गई फ़ाइल को खोलने में असमर्थ थे."
+   },
+   "generic_error_msg": {
+      "message": "इस दस्‍तावेज़ की सामग्री में कुछ समस्‍या थी."
+   },
+   "generic_error_short_msg": {
+      "message": "ओह. ऐसा नहीं होना चाहिए था - अपने बदलावों को दोबारा पाने के लिए पेज को फिर लोड करें."
+   },
+   "get_lists_data_error_msg": {
+      "message": "दस्तावेज़ को गलत सूची प्रारूपण के साथ प्रस्तुत किया जा सकता है."
+   },
+   "get_lists_data_error_short_msg": {
+      "message": "दस्तावेज़ फ़ॉर्मैटिंग को फिर से नहीं पाया जा सका."
+   },
+   "highlightcolor_aria_spoken_word": {
+      "message": "लेख हाइलाइट रंग ड्रॉप डाउन सूची"
+   },
+   "http_error_zero_msg": {
+      "message": "अगर यह कोई नेटवर्क समस्या है, तो कृपया अपना कनेक्शन जाँचें या बाद में पुनः प्रयास करें. अगर समस्या बनी रहती है, तो समस्या की नीचे रिपोर्ट करें."
+   },
+   "http_error_zero_short_msg": {
+      "message": "क्षमा करें, हम फ़ाइल नहीं खोल सके."
+   },
+   "info_file_copied": {
+      "message": "सहेजी गई"
+   },
+   "info_file_save_cancelled": {
+      "message": "सहेजना बंद किया गया."
+   },
+   "info_file_save_failed": {
+      "message": "सहेजना विफल रहा."
+   },
+   "info_file_saved_at_location": {
+      "message": "$1 पर सभी बदलाव सेव कर लिए गए हैं",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "info_file_saved_in_drive": {
+      "message": "सभी बदलाव डिस्क में सहेजे गए"
+   },
+   "info_file_saved_locally": {
+      "message": "सभी बदलाव स्थानीय रूप से सहेजे गए"
+   },
+   "info_file_saved_offline": {
+      "message": "सभी बदलाव ऑफ़लाइन सहेजे गए"
+   },
+   "info_file_saving": {
+      "message": "सहेजा जा रहा है…"
+   },
+   "initaddshape_aria_spoken_word": {
+      "message": "लेख बॉक्स जोड़ें"
+   },
+   "invalid_credentials_error_msg": {
+      "message": "यह फ़ाइल ऐक्सेस करने के लिए आपको अपने Google खाते में प्रवेश करना होगा."
+   },
+   "invalid_credentials_error_short_msg": {
+      "message": "ओह. हम आपकी अनुरोध की गई फ़ाइल को खोलने में असमर्थ थे."
+   },
+   "invalid_file_format_msg": {
+      "message": "हालांकि फ़ाइल किसी Office दस्तावेज़ के जैसे दिखाई देती है और उसका एक्सटेंशन Office फ़ाइल है, लेकिन वास्तव में यह भिन्न फ़ाइल प्रकार है जिसका नाम बदल दिया गया है या इसमें कोई बदलाव कर दिया गया है या यह ऐसा फ़ाइल प्रकार है जिसका हम समर्थन नहीं करते हैं."
+   },
+   "invalid_file_format_short_msg": {
+      "message": "ओह, ऐसा लगता है कि हम इस तरह के दस्तावेज़ प्रकार को नहीं खोल सकते हैं."
+   },
+   "italic_aria_spoken_word": {
+      "message": "इटैलिक"
+   },
+   "keyboard_shortcut_group_actions": {
+      "message": "कार्रवाई"
+   },
+   "keyboard_shortcut_group_other": {
+      "message": "अन्य"
+   },
+   "keyboard_shortcut_group_paragraph_formatting": {
+      "message": "पैराग्राफ़ प्रारूपण"
+   },
+   "keyboard_shortcut_group_text_formatting": {
+      "message": "लेख प्रारूपण"
+   },
+   "keyboard_shortcut_group_top_menus": {
+      "message": "मेनू"
+   },
+   "keyboard_shortcut_group_with_slides": {
+      "message": "स्लाइड से"
+   },
+   "keyboard_shortcut_title": {
+      "message": "कीबोर्ड शॉर्टकट"
+   },
+   "make_a_copy_fail_msg": {
+      "message": "इस समय हम कॉपी नहीं बना सके."
+   },
+   "menu_button_data": {
+      "message": "डेटा"
+   },
+   "menu_button_edit": {
+      "message": "बदलाव करें"
+   },
+   "menu_button_file": {
+      "message": "फ़ाइल"
+   },
+   "menu_button_format": {
+      "message": "प्रारूप"
+   },
+   "menu_button_help": {
+      "message": "सहायता"
+   },
+   "menu_button_insert": {
+      "message": "सम्मिलित करें"
+   },
+   "menu_button_slide": {
+      "message": "स्लाइड"
+   },
+   "menu_button_tools": {
+      "message": "टूल"
+   },
+   "menu_button_view": {
+      "message": "दृश्य"
+   },
+   "menu_item_10_point_star": {
+      "message": "10-कोने वाला तारा"
+   },
+   "menu_item_12_point_star": {
+      "message": "12-कोने वाला तारा"
+   },
+   "menu_item_16_point_star": {
+      "message": "16-कोने वाला तारा"
+   },
+   "menu_item_24_point_star": {
+      "message": "24-कोने वाला तारा"
+   },
+   "menu_item_32_point_star": {
+      "message": "32-कोने वाला तारा"
+   },
+   "menu_item_4_point_star": {
+      "message": "4-कोने वाला तारा"
+   },
+   "menu_item_5_point_star": {
+      "message": "5-कोने वाला तारा"
+   },
+   "menu_item_6_point_star": {
+      "message": "6-कोने वाला तारा"
+   },
+   "menu_item_7_point_star": {
+      "message": "7-कोने वाला तारा"
+   },
+   "menu_item_8_point_star": {
+      "message": "8-कोने वाला तारा"
+   },
+   "menu_item_align": {
+      "message": "संरेखित करें"
+   },
+   "menu_item_align_center": {
+      "message": "मध्य"
+   },
+   "menu_item_align_justified": {
+      "message": "दोनों ओर संरेखित"
+   },
+   "menu_item_align_left": {
+      "message": "बाएं"
+   },
+   "menu_item_align_right": {
+      "message": "दाएं"
+   },
+   "menu_item_arrows": {
+      "message": "तीर"
+   },
+   "menu_item_bent_arrow": {
+      "message": "मुड़ा हुआ तीर"
+   },
+   "menu_item_bent_up_arrow": {
+      "message": "ऊपर मुड़ा हुआ तीर"
+   },
+   "menu_item_bevel": {
+      "message": "प्रवण कोण"
+   },
+   "menu_item_block_arc": {
+      "message": "ब्लॉक चाप"
+   },
+   "menu_item_bold": {
+      "message": "बोल्ड"
+   },
+   "menu_item_callouts": {
+      "message": "कॉल आउट"
+   },
+   "menu_item_can": {
+      "message": "केन"
+   },
+   "menu_item_chevron": {
+      "message": "शेवरॉन"
+   },
+   "menu_item_chord": {
+      "message": "कॉर्ड"
+   },
+   "menu_item_clear_formatting": {
+      "message": "प्रारूपण साफ़ करें"
+   },
+   "menu_item_cloud": {
+      "message": "क्लाउड"
+   },
+   "menu_item_cloud_callout": {
+      "message": "क्लाउड कॉल आउट"
+   },
+   "menu_item_color_none": {
+      "message": "कोई नहीं"
+   },
+   "menu_item_color_transparent": {
+      "message": "पारदर्शी"
+   },
+   "menu_item_convert_to_docs": {
+      "message": "Google दस्तावेज़ के रूप में सेव करें"
+   },
+   "menu_item_convert_to_sheets": {
+      "message": "Google पत्रक के रूप में सेव करें"
+   },
+   "menu_item_convert_to_slides": {
+      "message": "Google स्लाइड के रूप में सेव करें"
+   },
+   "menu_item_copy": {
+      "message": "कॉपी बनाएं"
+   },
+   "menu_item_cross": {
+      "message": "क्रॉस"
+   },
+   "menu_item_cube": {
+      "message": "क्यूब"
+   },
+   "menu_item_curved_down_arrow": {
+      "message": "नीचे घुमा हुआ तीर"
+   },
+   "menu_item_curved_left_arrow": {
+      "message": "बाएं घुमा हुआ तीर"
+   },
+   "menu_item_curved_right_arrow": {
+      "message": "दाएं घुमा हुआ तीर"
+   },
+   "menu_item_curved_up_arrow": {
+      "message": "ऊपर घुमा हुआ तीर"
+   },
+   "menu_item_cut": {
+      "message": "काटें"
+   },
+   "menu_item_decagon": {
+      "message": "दशभुज"
+   },
+   "menu_item_delete_column": {
+      "message": "स्तंभ हटाएं"
+   },
+   "menu_item_delete_row": {
+      "message": "पंक्ति हटाएं"
+   },
+   "menu_item_delete_value": {
+      "message": "मान हटाएं"
+   },
+   "menu_item_deleteslide": {
+      "message": "स्लाइड हटाएं"
+   },
+   "menu_item_diagonal_stripe": {
+      "message": "विकर्ण पट्टी"
+   },
+   "menu_item_diamond": {
+      "message": "हीरा"
+   },
+   "menu_item_divide": {
+      "message": "विभाजन"
+   },
+   "menu_item_dodecagon": {
+      "message": "द्वादशभुज"
+   },
+   "menu_item_donut": {
+      "message": "डोनट"
+   },
+   "menu_item_double_brace": {
+      "message": "दोहरा धनुकोष्ठक"
+   },
+   "menu_item_double_bracket": {
+      "message": "दोहरा कोष्ठक"
+   },
+   "menu_item_down_arrow": {
+      "message": "नीचे तीर"
+   },
+   "menu_item_down_arrow_callout": {
+      "message": "नीचे तीर कॉल आउट"
+   },
+   "menu_item_duplicateslide": {
+      "message": "डुप्लीकेट स्लाइड"
+   },
+   "menu_item_equal": {
+      "message": "बराबर"
+   },
+   "menu_item_equation": {
+      "message": "समीकरण"
+   },
+   "menu_item_explosion_1": {
+      "message": "विस्फोट 1"
+   },
+   "menu_item_explosion_2": {
+      "message": "विस्फोट 2"
+   },
+   "menu_item_flowchart_alternate_process": {
+      "message": "फ़्लोचार्ट: वैकल्पिक प्रक्रिया"
+   },
+   "menu_item_flowchart_card": {
+      "message": "फ़्लोचार्ट: कार्ड"
+   },
+   "menu_item_flowchart_collate": {
+      "message": "फ़्लोचार्ट: सेट में लगाना"
+   },
+   "menu_item_flowchart_connector": {
+      "message": "फ़्लोचार्ट: कनेक्‍टर"
+   },
+   "menu_item_flowchart_data": {
+      "message": "फ़्लोचार्ट: डेटा"
+   },
+   "menu_item_flowchart_decision": {
+      "message": "फ़्लोचार्ट: निर्णय"
+   },
+   "menu_item_flowchart_delay": {
+      "message": "फ़्लोचार्ट: विलंब"
+   },
+   "menu_item_flowchart_direct_access_storage": {
+      "message": "फ़्लोचार्ट: सीधे ऐक्सेस वाली मेमोरी"
+   },
+   "menu_item_flowchart_display": {
+      "message": "फ़्लोचार्ट: प्रदर्शन"
+   },
+   "menu_item_flowchart_document": {
+      "message": "फ़्लोचार्ट: दस्तावेज़"
+   },
+   "menu_item_flowchart_extract": {
+      "message": "फ़्लोचार्ट: निष्कर्ष"
+   },
+   "menu_item_flowchart_internal_storage": {
+      "message": "फ़्लोचार्ट: डिवाइस की मेमोरी"
+   },
+   "menu_item_flowchart_magnetic_disk": {
+      "message": "फ़्लोचार्ट: चुंबकीय डिस्‍क"
+   },
+   "menu_item_flowchart_manual_input": {
+      "message": "फ़्लोचार्ट: मैन्युअल इनपुट"
+   },
+   "menu_item_flowchart_manual_operation": {
+      "message": "फ़्लोचार्ट: मैन्युअल ऑपरेशन"
+   },
+   "menu_item_flowchart_merge": {
+      "message": "फ़्लोचार्ट: मर्ज"
+   },
+   "menu_item_flowchart_multidocument": {
+      "message": "फ़्लोचार्ट: कई दस्तावेज़"
+   },
+   "menu_item_flowchart_off_page_connector": {
+      "message": "फ़्लोचार्ट: ऑफ़-पेज कनेक्टर"
+   },
+   "menu_item_flowchart_or": {
+      "message": "फ़्लोचार्ट: या"
+   },
+   "menu_item_flowchart_predefined_process": {
+      "message": "फ़्लोचार्ट: पहले से तय प्रक्रिया"
+   },
+   "menu_item_flowchart_preparation": {
+      "message": "फ़्लोचार्ट: तैयारी"
+   },
+   "menu_item_flowchart_process": {
+      "message": "फ़्लोचार्ट: प्रक्रिया"
+   },
+   "menu_item_flowchart_punched_tape": {
+      "message": "फ़्लोचार्ट: पंच किया हुआ टेप"
+   },
+   "menu_item_flowchart_sequential_access_storage": {
+      "message": "फ़्लोचार्ट: अनुक्रमिक ऐक्सेस मेमोरी"
+   },
+   "menu_item_flowchart_sort": {
+      "message": "फ़्लोचार्ट: क्रम से लगाएं"
+   },
+   "menu_item_flowchart_stored_data": {
+      "message": "फ़्लोचार्ट: संग्रहित डेटा"
+   },
+   "menu_item_flowchart_summing_junction": {
+      "message": "फ़्लोचार्ट: संयोजन जंक्शन"
+   },
+   "menu_item_flowchart_terminator": {
+      "message": "फ़्लोचार्ट: टर्मिनेटर"
+   },
+   "menu_item_folded_corner": {
+      "message": "मुड़ा हुआ कोना"
+   },
+   "menu_item_frame": {
+      "message": "फ़्रेम"
+   },
+   "menu_item_half_frame": {
+      "message": "आधा फ़्रेम"
+   },
+   "menu_item_heart": {
+      "message": "दिल"
+   },
+   "menu_item_help_center": {
+      "message": "सहायता केंद्र"
+   },
+   "menu_item_heptagon": {
+      "message": "सप्तभुज"
+   },
+   "menu_item_hexagon": {
+      "message": "षट्कोण"
+   },
+   "menu_item_hideslide": {
+      "message": "स्लाइड छिपाएं"
+   },
+   "menu_item_insert_column": {
+      "message": "स्तंभ"
+   },
+   "menu_item_insert_image": {
+      "message": "चित्र"
+   },
+   "menu_item_insert_row": {
+      "message": "पंक्ति"
+   },
+   "menu_item_insert_text_box": {
+      "message": "लेख बॉक्‍स"
+   },
+   "menu_item_insertslide": {
+      "message": "नई स्लाइड"
+   },
+   "menu_item_italic": {
+      "message": "इटैलिक"
+   },
+   "menu_item_keyboard_shortcuts": {
+      "message": "कीबोर्ड शॉर्टकट"
+   },
+   "menu_item_l_shape": {
+      "message": "L-आकार"
+   },
+   "menu_item_left_arrow": {
+      "message": "बायां तीर"
+   },
+   "menu_item_left_arrow_callout": {
+      "message": "बायां तीर कॉल आउट"
+   },
+   "menu_item_left_brace": {
+      "message": "बायां धनुकोष्ठक"
+   },
+   "menu_item_left_bracket": {
+      "message": "बायां कोष्ठक"
+   },
+   "menu_item_left_right_arrow": {
+      "message": "बायां-दायां तीर"
+   },
+   "menu_item_left_right_arrow_callout": {
+      "message": "बायां-दायां तीर कॉल आउट"
+   },
+   "menu_item_left_right_up_arrow": {
+      "message": "बायां-दायां-ऊपर तीर"
+   },
+   "menu_item_left_up_arrow": {
+      "message": "बायां-ऊपर तीर"
+   },
+   "menu_item_lightning_bolt": {
+      "message": "बिजली"
+   },
+   "menu_item_make_a_copy": {
+      "message": "कॉपी बनाएं…"
+   },
+   "menu_item_merge_all": {
+      "message": "सभी मर्ज करें"
+   },
+   "menu_item_merge_cells": {
+      "message": "सेल मर्ज करें"
+   },
+   "menu_item_merge_horizontally": {
+      "message": "क्षैतिज रूप से मर्ज करें"
+   },
+   "menu_item_merge_vertically": {
+      "message": "लम्बवत रूप से मर्ज करें"
+   },
+   "menu_item_minus": {
+      "message": "घटाने का चिह्न"
+   },
+   "menu_item_moon": {
+      "message": "चंद्रमा"
+   },
+   "menu_item_moveslidedown": {
+      "message": "स्लाइड को नीचे ले जाएं"
+   },
+   "menu_item_moveslidetoend": {
+      "message": "स्लाइड को अंत में ले जाएं"
+   },
+   "menu_item_moveslidetostart": {
+      "message": "स्लाइड को प्रारंभ में ले जाएं"
+   },
+   "menu_item_moveslideup": {
+      "message": "स्लाइड को ऊपर ले जाएं"
+   },
+   "menu_item_multiply": {
+      "message": "गुणा"
+   },
+   "menu_item_new": {
+      "message": "नया"
+   },
+   "menu_item_no_symbol": {
+      "message": "कोई प्रतीक नहीं"
+   },
+   "menu_item_not_equal": {
+      "message": "बराबर नहीं"
+   },
+   "menu_item_notched_right_arrow": {
+      "message": "नोक वाला दायां तीर"
+   },
+   "menu_item_number_format": {
+      "message": "संख्या प्रारूप"
+   },
+   "menu_item_number_menu": {
+      "message": "नहीं"
+   },
+   "menu_item_numbering": {
+      "message": "$2 में से $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "menu_item_octagon": {
+      "message": "अष्टभुज"
+   },
+   "menu_item_open": {
+      "message": "खोलें"
+   },
+   "menu_item_oval": {
+      "message": "अंडाकार"
+   },
+   "menu_item_oval_callout": {
+      "message": "अंडाकार कॉल आउट"
+   },
+   "menu_item_parallelogram": {
+      "message": "समांतर चतुर्भुज"
+   },
+   "menu_item_paste": {
+      "message": "चिपकाएं"
+   },
+   "menu_item_pentagon": {
+      "message": "पंचभुज"
+   },
+   "menu_item_pie": {
+      "message": "पाई"
+   },
+   "menu_item_plaque": {
+      "message": "फलक"
+   },
+   "menu_item_plus": {
+      "message": "जोड़ का चिह्न"
+   },
+   "menu_item_present": {
+      "message": "वर्तमान"
+   },
+   "menu_item_print": {
+      "message": "प्रिंट करें"
+   },
+   "menu_item_quad_arrow": {
+      "message": "चतुष्कोण तीर"
+   },
+   "menu_item_quad_arrow_callout": {
+      "message": "चतुष्कोण तीर कॉल आउट"
+   },
+   "menu_item_rectangle": {
+      "message": "आयत"
+   },
+   "menu_item_rectangular_callout": {
+      "message": "आयताकार कॉल आउट"
+   },
+   "menu_item_redo": {
+      "message": "फिर से करें"
+   },
+   "menu_item_regular_pentagon": {
+      "message": "सामान्य पंचभुज"
+   },
+   "menu_item_report_abuse": {
+      "message": "दुर्व्यवहार की रिपोर्ट करें"
+   },
+   "menu_item_report_issue": {
+      "message": "किसी समस्या की रिपोर्ट करें"
+   },
+   "menu_item_right_arrow": {
+      "message": "दायां तीर"
+   },
+   "menu_item_right_arrow_callout": {
+      "message": "दायां तीर कॉल आउट"
+   },
+   "menu_item_right_brace": {
+      "message": "दायां धनुकोष्ठक"
+   },
+   "menu_item_right_bracket": {
+      "message": "दायां कोष्ठक"
+   },
+   "menu_item_right_triangle": {
+      "message": "समकोण त्रिभुज"
+   },
+   "menu_item_round_diagonal_corner_rectangle": {
+      "message": "गोल विकर्णीय कोने वाला आयत"
+   },
+   "menu_item_round_same_side_corner_rectangle": {
+      "message": "समान और गोल कोने वाला आयत"
+   },
+   "menu_item_round_single_corner_rectangle": {
+      "message": "एक कोने वाला गोल आयत"
+   },
+   "menu_item_rounded_rectangle": {
+      "message": "गोलाकार आयत"
+   },
+   "menu_item_rounded_rectangular_callout": {
+      "message": "गोल आयताकार कॉल आउट"
+   },
+   "menu_item_save": {
+      "message": "सेव करें"
+   },
+   "menu_item_save_as": {
+      "message": "इस रूप में सेव करें…"
+   },
+   "menu_item_shapes": {
+      "message": "आकार"
+   },
+   "menu_item_share": {
+      "message": "शेयर करें"
+   },
+   "menu_item_smiley_face": {
+      "message": "मुस्कुराता चेहरा"
+   },
+   "menu_item_snip_and_round_single_corner_rectangle": {
+      "message": "एक कटे और गोल कोने वाला आयत"
+   },
+   "menu_item_snip_diagonal_corner_rectangle": {
+      "message": "कटे हुए विकर्णीय कोने वाला आयत"
+   },
+   "menu_item_snip_same_side_corner_rectangle": {
+      "message": "कटे हुए समान कोने वाला आयत"
+   },
+   "menu_item_snip_single_corner_rectangle": {
+      "message": "एक कटे कोने वाला आयत"
+   },
+   "menu_item_strikethrough": {
+      "message": "स्ट्राइकथ्रू करें"
+   },
+   "menu_item_striped_right_arrow": {
+      "message": "धारीदार दायां तीर"
+   },
+   "menu_item_subscript": {
+      "message": "सबस्क्रिप्ट"
+   },
+   "menu_item_sun": {
+      "message": "सूरज"
+   },
+   "menu_item_superscript": {
+      "message": "सुपरस्क्रिप्ट"
+   },
+   "menu_item_teardrop": {
+      "message": "आंसू की बूंद"
+   },
+   "menu_item_trapezoid": {
+      "message": "विषम चतुर्भुज"
+   },
+   "menu_item_triangle": {
+      "message": "त्रिकोण"
+   },
+   "menu_item_u_turn_arrow": {
+      "message": "यू-टर्न तीर"
+   },
+   "menu_item_underline": {
+      "message": "रेखांकित करें"
+   },
+   "menu_item_undo": {
+      "message": "वापस लाएं"
+   },
+   "menu_item_unhideslide": {
+      "message": "स्लाइड सामने लाएं"
+   },
+   "menu_item_unmerge": {
+      "message": "अनमर्ज करें"
+   },
+   "menu_item_up_arrow": {
+      "message": "ऊपर तीर"
+   },
+   "menu_item_up_arrow_callout": {
+      "message": "ऊपर तीर कॉल आउट"
+   },
+   "menu_item_up_down_arrow": {
+      "message": "ऊपर-नीचे तीर"
+   },
+   "menu_item_version_info": {
+      "message": "वर्शन की जानकारी"
+   },
+   "menu_item_word_count": {
+      "message": "शब्द संख्या"
+   },
+   "menu_item_wrap_text": {
+      "message": "लेख को लपेटें"
+   },
+   "menu_item_zoom_in": {
+      "message": "ज़ूम इन"
+   },
+   "menu_item_zoom_out": {
+      "message": "ज़ूम आउट"
+   },
+   "merge_all_aria_spoken_word": {
+      "message": "सभी मर्ज करें"
+   },
+   "merge_aria_spoken_word": {
+      "message": "मर्ज करें"
+   },
+   "merge_dropdown_aria_spoken_word": {
+      "message": "मर्ज ड्रॉप डाउन मेनू"
+   },
+   "merge_horizontally_aria_spoken_word": {
+      "message": "क्षैतिज रूप से मर्ज करें"
+   },
+   "merge_vertically_aria_spoken_word": {
+      "message": "लम्बवत रूप से मर्ज करें"
+   },
+   "modify_shape_transform_error_msg": {
+      "message": "आकार रूपांतरण में बदलाव करते समय गड़बड़ी हुई है"
+   },
+   "modify_shape_transform_error_short_msg": {
+      "message": "आकार रूपांतरण में बदलाव करते समय गड़बड़ी हुई थी."
+   },
+   "modifyshapefillcolor_aria_spoken_word": {
+      "message": "आकार रंग भरण ड्रॉप डाउन सूची"
+   },
+   "modifyshapeoutlinecolor_aria_spoken_word": {
+      "message": "आकार बाह्यरेखा रंग ड्रॉप डाउन सूची"
+   },
+   "modifyshapeoutlinestyle_aria_spoken_word": {
+      "message": "आकार बाह्यरेखा शैली ड्रॉप डाउन सूची"
+   },
+   "modifyshapeoutlinewidth_aria_spoken_word": {
+      "message": "आकार बाह्यरेखा चौड़ाई ड्रॉप डाउन सूची"
+   },
+   "nacl_load_error_details": {
+      "message": "एक्सटेंशन को पुनः इंस्टॉल करने का प्रयास करें."
+   },
+   "nacl_load_error_title": {
+      "message": "ऐप्लिकेशन लोड करने में समस्‍या थी."
+   },
+   "non_permissible_sheet_name_details": {
+      "message": "निम्नलिखित वर्ण समर्थित नहीं हैं * ? [ ] ' ; : पत्रक नाम की लंबाई 31 वर्णों से ज़्यादा नहीं होनी चाहिए पत्रक नाम खाली नहीं छोड़ा जाना चाहिए"
+   },
+   "non_permissible_sheet_name_title": {
+      "message": "पत्रक का नाम बदलते समय आपने एक अमान्य नाम डाल दिया"
+   },
+   "not_pressed": {
+      "message": "दबाया नहीं गया"
+   },
+   "notselected": {
+      "message": "चयनित नहीं"
+   },
+   "number_format_label_currency_symbol": {
+      "message": "मुद्रा प्रतीक"
+   },
+   "number_format_label_date_type": {
+      "message": "प्रकार"
+   },
+   "number_format_label_decimal_places": {
+      "message": "दशमलव स्थान"
+   },
+   "number_format_label_general": {
+      "message": "सामान्य"
+   },
+   "number_format_label_negative_numbers": {
+      "message": "ऋणात्मक संख्याएं"
+   },
+   "number_format_label_other": {
+      "message": "अन्य"
+   },
+   "number_format_label_red": {
+      "message": "लाल"
+   },
+   "number_format_label_text": {
+      "message": "संदेश भेजें"
+   },
+   "number_format_label_use_1000_separator": {
+      "message": "1000 विभाजक का उपयोग करें"
+   },
+   "number_format_tab_accounting": {
+      "message": "लेखांकन"
+   },
+   "number_format_tab_currency": {
+      "message": "मुद्रा"
+   },
+   "number_format_tab_date_time": {
+      "message": "तारीख और समय"
+   },
+   "number_format_tab_general": {
+      "message": "सामान्य"
+   },
+   "number_format_tab_number": {
+      "message": "नहीं"
+   },
+   "number_format_tab_percentage": {
+      "message": "प्रतिशत"
+   },
+   "number_format_tab_scientific": {
+      "message": "वैज्ञानिक"
+   },
+   "number_format_title": {
+      "message": "संख्या प्रारूप"
+   },
+   "ocm_promo_conversion_shortmsg": {
+      "message": "आप Office संगतता मोड में हैं"
+   },
+   "office_compatibility_mode": {
+      "message": "Office अनुकूलता मोड"
+   },
+   "office_first_time_confirm": {
+      "message": "समझ लिया"
+   },
+   "office_first_time_message_p1": {
+      "message": "अब आप दस्तावेज़, शीट और स्लाइड का उपयोग करके अपनी हार्ड डिस्क, Google डिस्क, Gmail, वगैरह से Word, Excel और Powerpoint फ़ाइलों में बदलाव कर सकते हैं."
+   },
+   "office_first_time_message_p2": {
+      "message": "आपके सभी संपादन अपने आप सहेज लिए गए हैं और आप हमेशा मूल फ़ॉर्मेट के रूप में भी सेहज सकते हैं."
+   },
+   "office_first_time_title": {
+      "message": "दस्तावेज़, शीट और स्लाइड के लिए Office संपादन"
+   },
+   "offline_error_msg": {
+      "message": "ऐसा लगता है कि आप ऑफ़लाइन हैं. कृपया अपने इंटरनेट कनेक्शन की जाँच करें और पुनः प्रयास करें. अगर ऑनलाइन रहने के दौरान आपको लगातार यह गड़बड़ी मिलती है तो कृपया नीचे समस्या की रिपोर्ट करें."
+   },
+   "offline_error_short_msg": {
+      "message": "ओह. हम आपकी अनुरोध की गई फ़ाइल को खोलने में असमर्थ थे."
+   },
+   "option_key": {
+      "message": "विकल्प"
+   },
+   "out_of_memory_error_msg": {
+      "message": "यह टैब बंद करें और अपनी फ़ाइल को पुनः खोलने का प्रयास करें या आपने ब्राउज़र में जो अन्य टैब खोले हैं उन्हें बंद करने का प्रयास करें. अगर यह समस्या बनी रहती है, तो कृपया नीचे समस्या की रिपोर्ट करें."
+   },
+   "out_of_memory_error_short_msg": {
+      "message": "ओह. हमारी मेमोरी खत्म हो गई है."
+   },
+   "page_count_label": {
+      "message": "पेज"
+   },
+   "partial_cell_merge_error_msg": {
+      "message": "मर्ज किए गए सेल के भाग को बदल नहीं सकते."
+   },
+   "partial_cell_merge_error_short_msg": {
+      "message": "गड़बड़ी"
+   },
+   "point_ocm_promo_conversion_msg": {
+      "message": "आप सीधे स्लाइड में Office फ़ाइलों में बदलाव कर सकते हैं और उन्हें सेव कर सकते हैं. अन्य लोगों को टिप्पणियों में बदलाव करने या जोड़ने के लिए आमंत्रित करने के लिए, Google स्लाइड के रूप में सेव करें. आप किसी भी समय फिर से मूल प्रारूप में सेव कर सकते हैं."
+   },
+   "point_printing_warning_msg": {
+      "message": "हम इसे ठीक करने के लिए काम कर रहे हैं."
+   },
+   "point_printing_warning_short_msg": {
+      "message": "वर्तमान में, आप केवल वही स्‍लाइड प्रिंट कर सकते हैं जिसे आप देख रहे हैं."
+   },
+   "point_share_promo_conversion_msg": {
+      "message": "इस प्रस्तुतिकरण को शेयर करने का प्रयास कर रहे हैं? आपके साथ दूसरों को उसमें बदलाव करने के लिए आमंत्रित करने के लिए, उसे Google स्लाइड में रूपांतरित करें."
+   },
+   "pointtogglebullet_aria_spoken_word": {
+      "message": "बुलेट वाली सूची"
+   },
+   "pointtogglenumber_aria_spoken_word": {
+      "message": "क्रमांकित सूची"
+   },
+   "present_button": {
+      "message": "प्रस्तुतिकरण"
+   },
+   "pressed": {
+      "message": "दबाया गया"
+   },
+   "print_aria_spoken_word": {
+      "message": "प्रिंट करें"
+   },
+   "qowt_doc_mismatch_text": {
+      "message": "फ़ॉर्मैटिंग के दौरान आपके दस्तावेज़ में गड़बड़ी हुई.\n\nअपने बदलावों को दोबारा पाने के लिए पेज को फिर लोड करें."
+   },
+   "qowt_doc_mismatch_title": {
+      "message": "ओह!"
+   },
+   "qowt_hyperlink_activate_short_key": {
+      "message": "लिंक को सक्रिय करने के लिए ALT + Enter दबाएं."
+   },
+   "qowt_hyperlink_dialog": {
+      "message": "हाइपरलिंक"
+   },
+   "qowt_hyperlink_dialog_message_text": {
+      "message": "लिंक पर जाए:"
+   },
+   "qowt_modal_confirm_dialog_affirmative_button": {
+      "message": "ठीक"
+   },
+   "qowt_modal_confirm_dialog_negative_button": {
+      "message": "अभी नहीं"
+   },
+   "qowt_modal_dialog_close_button": {
+      "message": "बंद करें"
+   },
+   "qowt_modal_dialog_coming_soon_title": {
+      "message": "शीघ्र आ रहा है!"
+   },
+   "qowt_modal_dialog_link_text": {
+      "message": "ज़्यादा जानें"
+   },
+   "qowt_modal_dialog_ok_button": {
+      "message": "ठीक"
+   },
+   "qowt_modal_dialog_reload_button": {
+      "message": "फिर लोड करें"
+   },
+   "qowt_modal_dialog_textbox_editing_description": {
+      "message": "क्षमा करें, हम लेख बॉक्स के अंदर स्थित लेख के संपादन का समर्थन नहीं करते हैं."
+   },
+   "qowt_modal_dialog_textbox_editing_link": {
+      "message": "कृपया इसे ठीक करें!"
+   },
+   "qowt_modal_info_dialog_affirmative_button": {
+      "message": "ठीक"
+   },
+   "qowt_modal_multi_choice_remember_choice": {
+      "message": "मेरी पसंद याद रखें"
+   },
+   "qowt_modal_query_dialog_affirmative_button": {
+      "message": "हां"
+   },
+   "qowt_modal_query_dialog_negative_button": {
+      "message": "नहीं"
+   },
+   "qowt_modal_query_dialog_reload_button": {
+      "message": "फिर लोड करें"
+   },
+   "qowt_modal_single_choice_remember_choice": {
+      "message": "मुझे फिर से याद न दिलाएं"
+   },
+   "read_only": {
+      "message": "केवल पढ़ने के लिए"
+   },
+   "redo_aria_spoken_word": {
+      "message": "फिर से करें"
+   },
+   "right_pointed_submenu": {
+      "message": "सबमेनू के साथ सही पॉइंटर"
+   },
+   "save_aria_spoken_word": {
+      "message": "सेव करें"
+   },
+   "save_now": {
+      "message": "अभी सेव करें"
+   },
+   "security_error_msg": {
+      "message": "अगर आपको अब भी समस्या आ रही है, तो कृपया नीचे समस्या की रिपोर्ट करें."
+   },
+   "security_error_short_msg": {
+      "message": "ओह. हम   अनुरोध की गई फ़ाइल को खोलने में असमर्थ थे. इस समय, हम गुप्त मोड में फ़ाइलों को खोलने का समर्थन नहीं करते हैं. कृपया अपनी फ़ाइल को गैर-गुप्त मोड में खोलें."
+   },
+   "selected": {
+      "message": "चयनित"
+   },
+   "set_sheet_info_error_msg": {
+      "message": "पत्रक नाम अपडेट करते समय एक गड़बड़ी हुई है"
+   },
+   "share_button": {
+      "message": "शेयर करें"
+   },
+   "share_promo_conversion_shortmsg": {
+      "message": "दूसरों के साथ बदलाव करें"
+   },
+   "sheet_delete_column_error_msg": {
+      "message": "ओह. स्‍तंभ को हटाने में कोई गड़बड़ी हुई थी. कृपया फिर से प्रयास करें."
+   },
+   "sheet_delete_row_error_msg": {
+      "message": "ओह. पंक्ति को हटाने में कोई गड़बड़ी हुई थी. कृपया फिर से प्रयास करें."
+   },
+   "sheet_format_cells_error_msg": {
+      "message": "प्रारूपण की गड़बड़ी थी. कृपया फिर से प्रयास करें."
+   },
+   "sheet_insert_column_error_msg": {
+      "message": "ओह. स्‍तंभ सम्‍मिलित करने में कोई गड़बड़ी हुई थी. कृपया फिर से प्रयास करें."
+   },
+   "sheet_insert_column_exceed_error_msg": {
+      "message": "दुर्भाग्‍यवश, आप इस स्‍प्रैडशीट में और स्तंभ सम्‍मिलित नहीं कर सकते, क्‍योंकि हम केवल 256 स्‍तंभों का समर्थन करते हैं."
+   },
+   "sheet_insert_column_exceed_error_short_msg": {
+      "message": "क्षमा करें!"
+   },
+   "sheet_insert_row_error_msg": {
+      "message": "ओह. पंक्ति सम्‍मिलित करने में कोई गड़बड़ी हुई थी. कृपया फिर से प्रयास करें."
+   },
+   "sheet_insert_row_exceed_error_msg": {
+      "message": "दुर्भाग्‍यवश, आप इस स्‍प्रैडशीट में और पंक्तियां सम्‍मिलित नहीं कर सकते, क्‍योंकि हम केवल 65536 पंक्तियों का समर्थन करते हैं."
+   },
+   "sheet_insert_row_exceed_error_short_msg": {
+      "message": "क्षमा करें!"
+   },
+   "sheet_ocm_promo_conversion_msg": {
+      "message": "आप Office फ़ाइलों को सीधे शीट में बदलाव कर सकते हैं और उन्हें सेव कर सकते हैं. अन्य लोगों को टिप्पणियों में बदलाव करने या जोड़ने के लिए आमंत्रित करने के लिए, Google शीट के रूप में सेव करें. आप किसी भी समय फिर से मूल फ़ॉर्मैट में सेव कर सकते हैं."
+   },
+   "sheet_set_cell_content_invalid_error_msg": {
+      "message": "  डाले गए सूत्र में गड़बड़ी थी. कृपया गड़बड़ी को ठीक करें."
+   },
+   "sheet_share_promo_conversion_msg": {
+      "message": "इस स्प्रैडशीट को शेयर करने की कोशिश कर रहे हैं? आपके साथ दूसरों को उसमें बदलाव करने के लिए आमंत्रित करने के लिए, उसे Google पत्रक में रूपांतरित करें."
+   },
+   "sheet_sort_error_title": {
+      "message": "इस सेल श्रेणी को क्रमित करने में गड़बड़ी हुई थी."
+   },
+   "sheet_sort_failure_msg": {
+      "message": "इस सेल श्रेणी को क्रमित करने में गड़बड़ी हुई थी."
+   },
+   "sheet_sort_merged_cell_error": {
+      "message": "आप मर्ज ‍किए गए सेल क्रमित नहीं कर सकते."
+   },
+   "sheet_sort_merged_cell_error_title": {
+      "message": "इस सेल श्रेणी को क्रमित करने में गड़बड़ी हुई थी."
+   },
+   "sheet_sort_one_cell_error": {
+      "message": "कृपया क्रमित करने के लिए एक से ज़्यादा सेल चुनें."
+   },
+   "sheet_sort_one_cell_error_title": {
+      "message": "इस सेल श्रेणी को क्रमित करने में गड़बड़ी हुई थी."
+   },
+   "shift_key": {
+      "message": "Shift"
+   },
+   "shortcut": {
+      "message": "शॉर्टकट $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sign_in": {
+      "message": "प्रवेश करें"
+   },
+   "slash_key": {
+      "message": "स्लैश"
+   },
+   "something_not_right": {
+      "message": "कुछ ठीक नहीं है"
+   },
+   "storage_quota_exceed_error_msg": {
+      "message": "Chrome में खुले हुए सभी Office दस्तावेज़ बंद करें, फिर पुनः प्रयास करें. अगर समस्या बनी रहती है, तो समस्या की नीचे रिपोर्ट करें."
+   },
+   "storage_quota_exceed_error_short_msg": {
+      "message": "क्षमा करें, हम फ़ाइल नहीं खोल सके."
+   },
+   "strikethrough_aria_spoken_word": {
+      "message": "स्ट्राइकथ्रू करें"
+   },
+   "style_aria_spoken_word": {
+      "message": "शैली ड्रॉप डाउन सूची"
+   },
+   "submenu_spoken_text": {
+      "message": "$1 $2 $3 $4",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         }
+      }
+   },
+   "temporary_unable_to_open_error_msg": {
+      "message": "बाद में पुनः प्रयास करें, या अगर समस्या बनी रहती है, तो समस्या की नीचे रिपोर्ट करें."
+   },
+   "temporary_unable_to_open_error_short_msg": {
+      "message": "क्षमा करें, हम फ़ाइल को अस्थायी रूप से नहीं खोल सकते हैं."
+   },
+   "textaligncenter_aria_spoken_word": {
+      "message": "लेख को मध्य में संरेखित करें"
+   },
+   "textalignjustify_aria_spoken_word": {
+      "message": "लेख को दोनों ओर संरेखित करें"
+   },
+   "textalignleft_aria_spoken_word": {
+      "message": "लेख को बाएं संरेखित करें"
+   },
+   "textalignright_aria_spoken_word": {
+      "message": "लेख को दाएं संरेखित करें"
+   },
+   "textcolor_aria_spoken_word": {
+      "message": "लेख रंग ड्रॉप डाउन सूची"
+   },
+   "textual_edit_error_msg": {
+      "message": "फ़ॉर्मैटिंग के दौरान आपके दस्तावेज़ में गड़बड़ी हुई.\n\nअपने बदलावों को दोबारा पाने के लिए पेज को फिर लोड करें."
+   },
+   "textual_edit_error_short_msg": {
+      "message": "ओह!"
+   },
+   "title_error_msg_for_merge_cells": {
+      "message": "एक समस्या हुई"
+   },
+   "title_msg_merging_multiple_cells_with_text": {
+      "message": "पूर्व सूचना!"
+   },
+   "togglebulleted_aria_spoken_word": {
+      "message": "बुलेट वाली सूची"
+   },
+   "togglenumbered_aria_spoken_word": {
+      "message": "क्रमांकित सूची"
+   },
+   "togglezoom_aria_spoken_word": {
+      "message": "टॉगल किया गया ज़ूम"
+   },
+   "tooltip_background_color": {
+      "message": "रंग भरें"
+   },
+   "tooltip_bold": {
+      "message": "बोल्ड"
+   },
+   "tooltip_border": {
+      "message": "बॉर्डर"
+   },
+   "tooltip_border_all": {
+      "message": "सभी बॉर्डर"
+   },
+   "tooltip_border_bottom": {
+      "message": "नीचे की बॉर्डर"
+   },
+   "tooltip_border_horizontal": {
+      "message": "क्षैतिज बॉर्डर"
+   },
+   "tooltip_border_inner": {
+      "message": "अंदर की बॉर्डर"
+   },
+   "tooltip_border_left": {
+      "message": "बाईं ओर की बॉर्डर"
+   },
+   "tooltip_border_none": {
+      "message": "कोई बॉर्डर नहीं"
+   },
+   "tooltip_border_outer": {
+      "message": "बाहर की बॉर्डर"
+   },
+   "tooltip_border_right": {
+      "message": "दाईं ओर की बॉर्डर"
+   },
+   "tooltip_border_top": {
+      "message": "शीर्ष बॉर्डर"
+   },
+   "tooltip_border_vertical": {
+      "message": "लम्बवत बॉर्डर"
+   },
+   "tooltip_cell_align": {
+      "message": "सेल संरेखण"
+   },
+   "tooltip_cell_h_align_center": {
+      "message": "क्षैतिज मध्य"
+   },
+   "tooltip_cell_h_align_left": {
+      "message": "क्षैतिज बाएं"
+   },
+   "tooltip_cell_h_align_right": {
+      "message": "क्षैतिज दाएं"
+   },
+   "tooltip_cell_v_align_bottom": {
+      "message": "लम्बवत नीचे"
+   },
+   "tooltip_cell_v_align_center": {
+      "message": "लम्बवत मध्य"
+   },
+   "tooltip_cell_v_align_top": {
+      "message": "लम्बवत शीर्ष"
+   },
+   "tooltip_download": {
+      "message": "डाउनलोड करें"
+   },
+   "tooltip_dropdown_init_add_shape": {
+      "message": "आकार"
+   },
+   "tooltip_fill_color": {
+      "message": "लेख का रंग"
+   },
+   "tooltip_font_face": {
+      "message": "फ़ॉन्ट"
+   },
+   "tooltip_font_size": {
+      "message": "फ़ॉन्ट आकार"
+   },
+   "tooltip_highlight_color": {
+      "message": "रंग हाइलाइट करें"
+   },
+   "tooltip_init_add_shape": {
+      "message": "लेख बॉक्स"
+   },
+   "tooltip_italic": {
+      "message": "इटैलिक"
+   },
+   "tooltip_merge": {
+      "message": "सेल मर्ज करें"
+   },
+   "tooltip_merge_dropdown": {
+      "message": "मर्ज प्रकार चुनें..."
+   },
+   "tooltip_modify_shape_fill_color": {
+      "message": "रंग भरें"
+   },
+   "tooltip_modify_shape_outline_color": {
+      "message": "रेखा रंग"
+   },
+   "tooltip_modify_shape_outline_style": {
+      "message": "रेखा डैश"
+   },
+   "tooltip_modify_shape_outline_width": {
+      "message": "रेखा की मोटाई"
+   },
+   "tooltip_move_slide": {
+      "message": "$1 स्लाइड ले जाएं",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "tooltip_point": {
+      "message": "स्लाइड मुखपृष्ठ"
+   },
+   "tooltip_point_toggle_bullet": {
+      "message": "बुलेट वाली सूची"
+   },
+   "tooltip_point_toggle_number": {
+      "message": "क्रमांकित सूची"
+   },
+   "tooltip_presentation": {
+      "message": "प्रस्तुतिकरण"
+   },
+   "tooltip_print": {
+      "message": "प्रिंट करें"
+   },
+   "tooltip_redo": {
+      "message": "फिर से करें"
+   },
+   "tooltip_share": {
+      "message": "शेयर करें"
+   },
+   "tooltip_share_for_macroenabledfiles": {
+      "message": "जिन फ़ाइलों में मैक्रो चालू है, उन्हें सिर्फ़ Google डिस्क से शेयर किया जा सकता है"
+   },
+   "tooltip_sheet": {
+      "message": "पत्रक मुखपृष्ठ"
+   },
+   "tooltip_strikethrough": {
+      "message": "स्ट्राइकथ्रू करें"
+   },
+   "tooltip_style": {
+      "message": "शैलियां"
+   },
+   "tooltip_text_align_center": {
+      "message": "मध्य"
+   },
+   "tooltip_text_align_justify": {
+      "message": "दोनों ओर संरेखित करें"
+   },
+   "tooltip_text_align_left": {
+      "message": "बाएं संरेखित करें"
+   },
+   "tooltip_text_align_right": {
+      "message": "दाएं संरेखित करें"
+   },
+   "tooltip_text_color": {
+      "message": "लेख का रंग"
+   },
+   "tooltip_toggle_bulleted": {
+      "message": "बुलेट वाली सूची"
+   },
+   "tooltip_toggle_numbered": {
+      "message": "क्रमांकित सूची"
+   },
+   "tooltip_toggle_zoom": {
+      "message": "ज़ूम टॉगल करें"
+   },
+   "tooltip_underline": {
+      "message": "रेखांकित करें"
+   },
+   "tooltip_undo": {
+      "message": "पूर्ववत करें"
+   },
+   "tooltip_word": {
+      "message": "दस्तावेज़ मुखपृष्ठ"
+   },
+   "tooltip_wrap_text": {
+      "message": "लेख को लपेटें"
+   },
+   "tooltip_zoom_in": {
+      "message": "ज़ूम इन करें"
+   },
+   "tooltip_zoom_out": {
+      "message": "ज़ूम आउट करें"
+   },
+   "try_again": {
+      "message": "फिर से प्रयास करें"
+   },
+   "unable_to_execute_msg": {
+      "message": "यह दस्तावेज़ खोलने में असमर्थ."
+   },
+   "underline_aria_spoken_word": {
+      "message": "रेखांकित करें"
+   },
+   "undo_aria_spoken_word": {
+      "message": "वापस लाएं"
+   },
+   "unmerge_aria_spoken_word": {
+      "message": "अनमर्ज करें"
+   },
+   "unsaved_changes": {
+      "message": "नहीं सहेजे गए बदलाव"
+   },
+   "unsaved_changes_warning": {
+      "message": "आपके पास इस फ़ाइल में, नहीं सहेजे गए बदलाव हैं. अगर आप सहेजे बिना यह पेज छोड़ देते हैं, तो आपका काम हमेशा के लिए खो जाएगा."
+   },
+   "unsupported_file_format_error_details_p1": {
+      "message": "दुर्भाग्य से, इस फ़ाइल में Microsoft® Office \"95 या पहले के वर्शन की सामग्री है जिसे खोलने में हम असमर्थ हैं."
+   },
+   "unsupported_file_format_error_details_p2": {
+      "message": "अगर आप फ़ाइल को Google दस्तावेज़ में परिवर्तित करना चाहते हैं, तो नीचे दिए गए लिंक को क्लिक करें."
+   },
+   "unsupported_file_format_error_title": {
+      "message": "ओह!"
+   },
+   "unsupported_link_message": {
+      "message": "क्षमा करें, वर्तमान में हम इस प्रकार के URL का समर्थन नहीं करते हैं."
+   },
+   "up_key": {
+      "message": "ऊपर"
+   },
+   "updated_shortcut_message": {
+      "message": "हमने सभी Google दस्तावेज़ उत्पादों में अपने कीबोर्ड शॉर्टकट एक जैसा बनाने के लिए उन्हें अपडेट किया है. सहायता में जाकर अपडेट किए गए सभी शॉर्टकट पर एक नज़र डालें."
+   },
+   "updated_shortcut_title": {
+      "message": "अपडेट किए गए कीबोर्ड शॉर्टकट"
+   },
+   "version_info_msg": {
+      "message": "आपके Office अनुकूलता मोड का वर्शन यह है"
+   },
+   "word_binary_upsave_learnmore": {
+      "message": "ज़्यादा जानें"
+   },
+   "word_binary_upsave_msg": {
+      "message": "यह फ़ाइल ऐसे फ़ॉर्मेट में है जो असमर्थित है. उसे सहेजने के लिए, हमें उसे नवीनतम फ़ाइल फ़ॉर्मेट में रूपांतरित करने के लिए आपकी अनुमति की आवश्यकता होगी और आपकी मूल फ़ाइल प्रभावित नहीं होगी."
+   },
+   "word_binary_upsave_shortmsg": {
+      "message": "अपने दस्तावेज़ अपडेट करें"
+   },
+   "word_count_label": {
+      "message": "शब्दों की संख्या"
+   },
+   "word_count_title": {
+      "message": "शब्द संख्या"
+   },
+   "word_ocm_promo_conversion_msg": {
+      "message": "आप Office फ़ाइलों को सीधे दस्तावेज़ में बदलाव कर सकते हैं और उन्हें सेव सकते हैं. अन्य लोगों की टिप्पणियों में बदलाव करने या जोड़ने के लिए आमंत्रित करने के लिए, Google दस्तावेज़ के रूप में सेव करें. आप किसी भी समय फिर से मूल स्वरूप में सेव कर सकते हैं."
+   },
+   "word_share_promo_conversion_msg": {
+      "message": "इस दस्तावेज़ को शेयर करने का प्रयास कर रहे हैं? आपके साथ दूसरों को उसमें बदलाव करने के लिए आमंत्रित करने के लिए, उसे Google दस्तावेज़ में रूपांतरित करें."
+   },
+   "wraptext_aria_spoken_word": {
+      "message": "लेख को लपेटें"
+   },
+   "zoomin_aria_spoken_word": {
+      "message": "ज़ूम इन करें"
+   },
+   "zoomout_aria_spoken_word": {
+      "message": "ज़ूम आउट करें"
+   }
+}

@@ -1,0 +1,2192 @@
+{
+   "action_create_user_feedback": {
+      "message": "Prijavi problem"
+   },
+   "alt_key": {
+      "message": "Alt"
+   },
+   "app_error_learn_more": {
+      "message": "Saznajte više"
+   },
+   "app_error_report_feedback": {
+      "message": "Pošaljite povratne informacije"
+   },
+   "app_icon_aria_spoken_word": {
+      "message": " početna stranica"
+   },
+   "app_nacl_crash_msg": {
+      "message": "Pomozite nam prijavom problema."
+   },
+   "app_nacl_crash_report": {
+      "message": "Prijava problema..."
+   },
+   "app_nacl_crash_title": {
+      "message": "Ups. To se nije trebalo dogoditi. Ponovno učitajte stranicu da biste vratili svoje promjene."
+   },
+   "app_nacl_error_load_failed": {
+      "message": "Nažalost nismo uspjeli otvoriti datoteku. Zatvorite ostale kartice ili ponovo pokrenite Chrome, a zatim pokušajte ponovo. Ako se problem ne riješi, prijavite poteškoću u nastavku."
+   },
+   "app_nacl_error_title": {
+      "message": "Datoteku nije moguće otvoriti."
+   },
+   "app_nacl_error_unsupported_device": {
+      "message": "Ovaj uređaj ne podržava Chromeovo proširenje Office Editing za Dokumente, Tablice i Prezentacije."
+   },
+   "app_saving_failed_error_msg": {
+      "message": "Došlo je do problema prilikom spremanja datoteke. Pokušajte ponovo kasnije. Ako se problem nastavi, prijavite poteškoću."
+   },
+   "app_saving_failed_error_short_msg": {
+      "message": "Datoteku nije moguće spremiti."
+   },
+   "backgroundcolor_aria_spoken_word": {
+      "message": "padajući popis za boju pozadine ćelije"
+   },
+   "bold_aria_spoken_word": {
+      "message": "podebljano"
+   },
+   "border_all_aria_spoken_word": {
+      "message": "svi rubovi"
+   },
+   "border_aria_spoken_word": {
+      "message": "padajući popis obruba"
+   },
+   "border_bottom_aria_spoken_word": {
+      "message": "donji rub"
+   },
+   "border_horizontal_aria_spoken_word": {
+      "message": "vodoravni rub"
+   },
+   "border_inner_aria_spoken_word": {
+      "message": "unutarnji rub"
+   },
+   "border_left_aria_spoken_word": {
+      "message": "lijevi rub"
+   },
+   "border_none_aria_spoken_word": {
+      "message": "bez ruba"
+   },
+   "border_outer_aria_spoken_word": {
+      "message": "vanjski rub"
+   },
+   "border_right_aria_spoken_word": {
+      "message": "desni rub"
+   },
+   "border_top_aria_spoken_word": {
+      "message": "gornji rub"
+   },
+   "border_vertical_aria_spoken_word": {
+      "message": "okomiti rub"
+   },
+   "button_ocm_convert_cancel": {
+      "message": "Odustani"
+   },
+   "button_ocm_promo_conversion_point": {
+      "message": "Spremi kao Google prezentaciju"
+   },
+   "button_ocm_promo_conversion_sheet": {
+      "message": "Spremi kao Google tablicu"
+   },
+   "button_ocm_promo_conversion_word": {
+      "message": "Spremi kao Google dokument"
+   },
+   "button_share_convert_cancel": {
+      "message": "Odustani"
+   },
+   "button_share_promo_conversion_point": {
+      "message": "Spremi kao Google prezentaciju"
+   },
+   "button_share_promo_conversion_sheet": {
+      "message": "Spremi kao Google tablicu"
+   },
+   "button_share_promo_conversion_word": {
+      "message": "Spremi kao Google dokument"
+   },
+   "cell_align_aria_spoken_word": {
+      "message": "Poravnanje ćelija"
+   },
+   "cellalign_aria_spoken_word": {
+      "message": "padajući popis za poravnanje ćelija"
+   },
+   "cellhaligncenter_aria_spoken_word": {
+      "message": "Vodoravno sredina"
+   },
+   "cellhalignleft_aria_spoken_word": {
+      "message": "Vodoravno lijevo"
+   },
+   "cellhalignright_aria_spoken_word": {
+      "message": "Vodoravno desno"
+   },
+   "cellvalignbottom_aria_spoken_word": {
+      "message": "Okomito dolje"
+   },
+   "cellvaligncenter_aria_spoken_word": {
+      "message": "Okomito sredina"
+   },
+   "cellvaligntop_aria_spoken_word": {
+      "message": "Okomito gore"
+   },
+   "char_count_label": {
+      "message": "Znakovi"
+   },
+   "char_no_spaces_count_label": {
+      "message": "Znakovi bez razmaka"
+   },
+   "close_dialog_aria_spoken_word": {
+      "message": "Zatvori dijaloški okvir"
+   },
+   "cmd_dropdown_initaddshape_aria_spoken_word": {
+      "message": "padajući popis oblika"
+   },
+   "collapsed": {
+      "message": "Sažet"
+   },
+   "collapsed_menu": {
+      "message": "$1 Sažet s podizbornikom.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "color_black": {
+      "message": "Crna"
+   },
+   "color_blaze_orange": {
+      "message": "Narančasta"
+   },
+   "color_blue": {
+      "message": "Plava"
+   },
+   "color_brown": {
+      "message": "Smeđa"
+   },
+   "color_cornflower_blue": {
+      "message": "Različak plava"
+   },
+   "color_cyan": {
+      "message": "Cijan"
+   },
+   "color_dark_blue": {
+      "message": "Tamnoplava"
+   },
+   "color_dark_blue_1": {
+      "message": "Tamnoplava 1"
+   },
+   "color_dark_blue_2": {
+      "message": "Tamnoplava 2"
+   },
+   "color_dark_blue_3": {
+      "message": "Tamnoplava 3"
+   },
+   "color_dark_blue_grey": {
+      "message": "Tamna plavosiva"
+   },
+   "color_dark_cornflower_blue_1": {
+      "message": "Tamna različak plava 1"
+   },
+   "color_dark_cornflower_blue_2": {
+      "message": "Tamna različak plava 2"
+   },
+   "color_dark_cornflower_blue_3": {
+      "message": "Tamna različak plava 3"
+   },
+   "color_dark_cyan": {
+      "message": "Tamni cijan"
+   },
+   "color_dark_cyan_1": {
+      "message": "Tamni cijan 1"
+   },
+   "color_dark_cyan_2": {
+      "message": "Tamni cijan 2"
+   },
+   "color_dark_cyan_3": {
+      "message": "Tamni cijan 3"
+   },
+   "color_dark_gray": {
+      "message": "Tamnosiva"
+   },
+   "color_dark_gray_1": {
+      "message": "Tamnosiva 1"
+   },
+   "color_dark_gray_2": {
+      "message": "Tamnosiva 2"
+   },
+   "color_dark_gray_3": {
+      "message": "Tamnosiva 3"
+   },
+   "color_dark_gray_4": {
+      "message": "Tamnosiva 4"
+   },
+   "color_dark_green": {
+      "message": "Tamnozelena"
+   },
+   "color_dark_green_1": {
+      "message": "Tamnozelena 1"
+   },
+   "color_dark_green_2": {
+      "message": "Tamnozelena 2"
+   },
+   "color_dark_green_3": {
+      "message": "Tamnozelena 3"
+   },
+   "color_dark_green_5": {
+      "message": "Tamnozelena 5"
+   },
+   "color_dark_grey_2": {
+      "message": "Tamnosiva 2"
+   },
+   "color_dark_grey_5": {
+      "message": "Tamnosiva 5"
+   },
+   "color_dark_magenta_1": {
+      "message": "Tamna magenta 1"
+   },
+   "color_dark_magenta_2": {
+      "message": "Tamna magenta 2"
+   },
+   "color_dark_magenta_3": {
+      "message": "Tamna magenta 3"
+   },
+   "color_dark_olive_green": {
+      "message": "Tamna maslinasto zelena"
+   },
+   "color_dark_orange_1": {
+      "message": "Tamnonarančasta 1"
+   },
+   "color_dark_orange_2": {
+      "message": "Tamnonarančasta 2"
+   },
+   "color_dark_orange_3": {
+      "message": "Tamnonarančasta 3"
+   },
+   "color_dark_purple_1": {
+      "message": "Tamnoljubičasta 1"
+   },
+   "color_dark_purple_2": {
+      "message": "Tamnoljubičasta 2"
+   },
+   "color_dark_purple_3": {
+      "message": "Tamnoljubičasta 3"
+   },
+   "color_dark_red": {
+      "message": "Tamnocrvena"
+   },
+   "color_dark_red_1": {
+      "message": "Tamnocrvena 1"
+   },
+   "color_dark_red_2": {
+      "message": "Tamnocrvena 2"
+   },
+   "color_dark_red_3": {
+      "message": "Tamnocrvena 3"
+   },
+   "color_dark_red_berry_1": {
+      "message": "Tamna crvenoljubičasta 1"
+   },
+   "color_dark_red_berry_2": {
+      "message": "Tamna crvenoljubičasta 2"
+   },
+   "color_dark_red_berry_3": {
+      "message": "Tamna crvenoljubičasta 3"
+   },
+   "color_dark_slate_blue": {
+      "message": "Tamna sivoplava"
+   },
+   "color_dark_yellow_1": {
+      "message": "Tamnožuta 1"
+   },
+   "color_dark_yellow_2": {
+      "message": "Tamnožuta 2"
+   },
+   "color_dark_yellow_3": {
+      "message": "Tamnožuta 3"
+   },
+   "color_deep_pink": {
+      "message": "Duboka ružičasta"
+   },
+   "color_deep_sky_blue": {
+      "message": "Duboka nebesko plava"
+   },
+   "color_eucalyptus_green": {
+      "message": "Eukaliptus zelena"
+   },
+   "color_gold": {
+      "message": "Zlatna"
+   },
+   "color_gray": {
+      "message": "Siva"
+   },
+   "color_green": {
+      "message": "Zelena"
+   },
+   "color_light_blue": {
+      "message": "Svijetloplava"
+   },
+   "color_light_blue_1": {
+      "message": "Svijetloplava 1"
+   },
+   "color_light_blue_2": {
+      "message": "Svijetloplava 2"
+   },
+   "color_light_blue_3": {
+      "message": "Svijetloplava 3"
+   },
+   "color_light_cornflower_blue_1": {
+      "message": "Svijetla različak plava 1"
+   },
+   "color_light_cornflower_blue_2": {
+      "message": "Svijetla različak plava 2"
+   },
+   "color_light_cornflower_blue_3": {
+      "message": "Svijetla različak plava 3"
+   },
+   "color_light_cyan": {
+      "message": "Svijetli cijan"
+   },
+   "color_light_cyan_1": {
+      "message": "Svijetli cijan 1"
+   },
+   "color_light_cyan_2": {
+      "message": "Svijetli cijan 2"
+   },
+   "color_light_cyan_3": {
+      "message": "Svijetli cijan 3"
+   },
+   "color_light_gray": {
+      "message": "Svijetlosiva"
+   },
+   "color_light_gray_1": {
+      "message": "Svijetlosiva 1"
+   },
+   "color_light_gray_2": {
+      "message": "Svijetlosiva 2"
+   },
+   "color_light_gray_3": {
+      "message": "Svijetlosiva 3"
+   },
+   "color_light_green": {
+      "message": "Svijetlozelena"
+   },
+   "color_light_green_1": {
+      "message": "Svijetlozelena 1"
+   },
+   "color_light_green_2": {
+      "message": "Svijetlozelena 2"
+   },
+   "color_light_green_3": {
+      "message": "Svijetlozelena 3"
+   },
+   "color_light_magenta_1": {
+      "message": "Svijetla magenta 1"
+   },
+   "color_light_magenta_2": {
+      "message": "Svijetla magenta 2"
+   },
+   "color_light_magenta_3": {
+      "message": "Svijetla magenta 3"
+   },
+   "color_light_orange_1": {
+      "message": "Svijetlonarančasta 1"
+   },
+   "color_light_orange_2": {
+      "message": "Svijetlonarančasta 2"
+   },
+   "color_light_orange_3": {
+      "message": "Svijetlonarančasta 3"
+   },
+   "color_light_purple": {
+      "message": "Svijetloljubičasta"
+   },
+   "color_light_purple_1": {
+      "message": "Svijetloljubičasta 1"
+   },
+   "color_light_purple_2": {
+      "message": "Svijetloljubičasta 2"
+   },
+   "color_light_purple_3": {
+      "message": "Svijetloljubičasta 3"
+   },
+   "color_light_red_1": {
+      "message": "Svijetlocrvena 1"
+   },
+   "color_light_red_2": {
+      "message": "Svijetlocrvena 2"
+   },
+   "color_light_red_3": {
+      "message": "Svijetlocrvena 3"
+   },
+   "color_light_red_berry_1": {
+      "message": "Svijetla crvenoljubičasta 1"
+   },
+   "color_light_red_berry_2": {
+      "message": "Svijetla crvenoljubičasta 2"
+   },
+   "color_light_red_berry_3": {
+      "message": "Svijetla crvenoljubičasta 3"
+   },
+   "color_light_yellow": {
+      "message": "Svijetložuta"
+   },
+   "color_light_yellow_1": {
+      "message": "Svijetložuta 1"
+   },
+   "color_light_yellow_2": {
+      "message": "Svijetložuta 2"
+   },
+   "color_light_yellow_3": {
+      "message": "Svijetložuta 3"
+   },
+   "color_magenta": {
+      "message": "Magenta"
+   },
+   "color_maroon": {
+      "message": "Kestenjasta"
+   },
+   "color_midnight_blue": {
+      "message": "Tamnoplava"
+   },
+   "color_navy": {
+      "message": "Mornarski plava"
+   },
+   "color_olive": {
+      "message": "Maslinasta"
+   },
+   "color_orange": {
+      "message": "Narančasta"
+   },
+   "color_peach": {
+      "message": "Boja breskve"
+   },
+   "color_pink": {
+      "message": "Ružičasta"
+   },
+   "color_pistachio": {
+      "message": "Pistacija"
+   },
+   "color_purple": {
+      "message": "Ljubičasta"
+   },
+   "color_red": {
+      "message": "Crvena"
+   },
+   "color_red_berry": {
+      "message": "Crvenoljubičasta"
+   },
+   "color_royal_blue": {
+      "message": "Kraljevski plava"
+   },
+   "color_teal": {
+      "message": "Tirkiznoplava"
+   },
+   "color_turquiose": {
+      "message": "Tirkizna"
+   },
+   "color_white": {
+      "message": "Bijela"
+   },
+   "color_yellow": {
+      "message": "Žuta"
+   },
+   "command_key": {
+      "message": "Naredba"
+   },
+   "content_msg_merging_horizontally_across_vertical_section": {
+      "message": "Ne možete spajati vodoravno preko postojećeg okomito spojenog odjeljka."
+   },
+   "content_msg_merging_multiple_cells_with_text": {
+      "message": "Spajanjem ćelija sačuvat će se samo vrijednost koja se nalazi gore lijevo. Želite li ih ipak spojiti?"
+   },
+   "content_msg_merging_partially_selected_merged_cells": {
+      "message": "Morate odabrati sve ćelije u spojenom rasponu da biste ih spojili ili razdvojili."
+   },
+   "content_msg_merging_vertically_across_horizontal_section": {
+      "message": "Ne možete spajati okomito preko postojećeg vodoravno spojenog odjeljka."
+   },
+   "content_render_error_msg": {
+      "message": "Došlo je do problema sa sadržajem ovog dokumenta."
+   },
+   "context_menu_clipboard_copy": {
+      "message": "Kopiraj"
+   },
+   "context_menu_delete": {
+      "message": "Izbriši"
+   },
+   "context_menu_freeze": {
+      "message": "Zamrzni"
+   },
+   "context_menu_insert": {
+      "message": "Umetni"
+   },
+   "context_menu_sort_collation_ascending": {
+      "message": "Poredaj a – z"
+   },
+   "context_menu_sort_collation_descending": {
+      "message": "Poredaj z – a"
+   },
+   "context_menu_unfreeze": {
+      "message": "Odmrzni"
+   },
+   "control_key": {
+      "message": "Kontrola"
+   },
+   "convert_attempt_when_offline": {
+      "message": "Morate se povezati s mrežom da biste spremili datoteku kao Google dokument. Pokušajte opet kada ponovno uspostavite vezu."
+   },
+   "convert_attempt_with_invalid_creds": {
+      "message": "Morate se prijaviti na svoj Google račun da biste konvertirali datoteku."
+   },
+   "convert_cancel": {
+      "message": "Odustani"
+   },
+   "convert_to_google_docs_failed": {
+      "message": "Pojavio se problem prilikom konvertiranja dokumenta u Google dokument."
+   },
+   "convert_to_google_point_fail_short_msg": {
+      "message": "Ups"
+   },
+   "convert_to_google_point_short_msg": {
+      "message": "Sprema se kao Google prezentacija"
+   },
+   "convert_to_google_sheet_fail_short_msg": {
+      "message": "Ups"
+   },
+   "convert_to_google_sheet_short_msg": {
+      "message": "Sprema se kao Google tablica"
+   },
+   "convert_to_google_word_fail_short_msg": {
+      "message": "Ups"
+   },
+   "convert_to_google_word_short_msg": {
+      "message": "Sprema se kao Google dokument"
+   },
+   "convert_try_again": {
+      "message": "Pokušaj ponovno"
+   },
+   "converting_to_google_point_fail_msg": {
+      "message": "Nismo uspjeli spremiti vašu datoteku kao Google prezentaciju."
+   },
+   "converting_to_google_point_msg": {
+      "message": "Nova verzija vaše prezentacije sprema se kao Google prezentacija."
+   },
+   "converting_to_google_sheet_fail_msg": {
+      "message": "Nismo uspjeli spremiti vašu datoteku kao Google tablicu."
+   },
+   "converting_to_google_sheet_msg": {
+      "message": "Nova verzija vaše proračunske tablice sprema se kao Google tablica."
+   },
+   "converting_to_google_word_fail_msg": {
+      "message": "Nismo uspjeli spremiti vašu datoteku kao Google dokument."
+   },
+   "converting_to_google_word_msg": {
+      "message": "Nova verzija vašeg dokumenta sprema se kao Google dokument."
+   },
+   "copy_attempt_when_offline": {
+      "message": "Morate biti povezani s internetom da biste izradili kopiju na Google disku. Pokušajte ponovo kada se povežete."
+   },
+   "copy_attempt_with_invalid_creds": {
+      "message": "Morate se prijaviti na svoj Google račun da biste napravili kopiju."
+   },
+   "disabled_share_button": {
+      "message": "Datoteke s omogućenim makronaredbama mogu se dijeliti samo s Google diska. Dijeljenje je onemogućeno."
+   },
+   "disallowed_cut_copy_paste_cmd_copy": {
+      "message": "za kopiranje"
+   },
+   "disallowed_cut_copy_paste_cmd_cut": {
+      "message": "za izrezivanje"
+   },
+   "disallowed_cut_copy_paste_cmd_paste": {
+      "message": "za lijepljenje"
+   },
+   "disallowed_cut_copy_paste_msg": {
+      "message": "Te radnje nisu dostupne putem izbornika za uređivanje i kontekstnih izbornika, ali i dalje možete upotrebljavati:"
+   },
+   "disallowed_cut_copy_paste_title": {
+      "message": "Kopiranje i lijepljenje u načinu rada kompatibilnom s Officeom"
+   },
+   "dismiss": {
+      "message": "Odbaci"
+   },
+   "document_title_aria_spoken_word": {
+      "message": "Naslov dokumenta:"
+   },
+   "down_key": {
+      "message": "Dolje"
+   },
+   "download_button": {
+      "message": "Preuzmi"
+   },
+   "download_file_timeout_error_msg": {
+      "message": "Učitavanje datoteke koju otvarate traje dulje nego što je to uobičajeno. Provjerite mrežnu vezu i pokušajte ponovo."
+   },
+   "download_file_timeout_error_short_msg": {
+      "message": "Učitavanje datoteke traje dulje nego što je to uobičajeno"
+   },
+   "drive_open_timeout_error_msg": {
+      "message": "Čini se da imate poteškoća s internetskom vezom. Provjerite vezu i pokušajte ponovo otvoriti datoteku. Ako vam se ta pogreška nastavi prikazivati, a povezani ste s mrežom, prijavite problem u nastavku."
+   },
+   "drive_open_timeout_error_short_msg": {
+      "message": "Ups. Nismo uspjeli otvoriti datoteku koju ste zatražili."
+   },
+   "duplicate_sheet_name_message": {
+      "message": "Unesite naziv koji se ne upotrebljava za neki drugi list"
+   },
+   "duplicate_sheet_name_title": {
+      "message": "Taj se naziv lista već upotrebljava"
+   },
+   "edits_not_being_saved": {
+      "message": "Promjene se neće automatski spremati."
+   },
+   "edits_now_being_auto_saved": {
+      "message": "Datoteka je spremljena. Sve promjene sada će se automatski spremati."
+   },
+   "entry_point_error_msg": {
+      "message": "Pokušajte ponovno ili prijavite problem u nastavku."
+   },
+   "entry_point_error_short_msg": {
+      "message": "Ups. Nismo mogli utvrditi koju ste datoteku htjeli otvoriti."
+   },
+   "error_occurred": {
+      "message": "Došlo je do pogreške."
+   },
+   "error_password_required_msg": {
+      "message": "Još ne podržavamo zaštićene datoteke, ali radimo na tome."
+   },
+   "error_password_required_short_msg": {
+      "message": "Datoteka je zaštićena zaporkom."
+   },
+   "expanded": {
+      "message": "Proširen"
+   },
+   "expanded_menu": {
+      "message": "$1 Proširen s podizbornikom.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "extension_description": {
+      "message": "Prikaz i uređivanje datoteka programa Microsoft Word, Excel i PowerPoint pomoću Google dokumenata, Tablica i Prezentacija"
+   },
+   "extension_name": {
+      "message": "Uređivanje Office datoteka"
+   },
+   "extension_popup_message_body": {
+      "message": "Da biste otvorili postojeće datoteke, povucite ih i ispustite u preglednik"
+   },
+   "extension_popup_new_document_header": {
+      "message": "Novo..."
+   },
+   "extension_popup_new_presentation_document": {
+      "message": "PowerPointova prezentacija"
+   },
+   "extension_popup_new_spreadsheet_document": {
+      "message": "Excelova proračunska tablica"
+   },
+   "extension_popup_new_word_document": {
+      "message": "Wordov dokument"
+   },
+   "feedback_textbox_editing": {
+      "message": "Podržite uređivanje teksta u tekstnim okvirima."
+   },
+   "feedback_ui_template": {
+      "message": "1. Opišite problem na koji ste naišli.\n2. Je li se problem dogodio dok ste pokušavali otvoriti ili urediti datoteku?\n3. Događa li se problem svaki put kada pokušate otvoriti ili urediti bilo koju datoteku ili samo s određenim datotekama?\n\nAko je problem vezan uz određenu datoteku, slobodno je priložite ovom izvješću jer će biti vrlo korisno za temeljitije rješavanje problema."
+   },
+   "file_does_not_exist_error_details": {
+      "message": "Datoteka ne postoji. Možda ste pokušali otvoriti dijeljenu vezu ili označeni dokument. Pokušajte ponovo otvoriti datoteku na izvornom mjestu."
+   },
+   "file_does_not_exist_error_title": {
+      "message": "Datoteka nije pronađena."
+   },
+   "file_loading_spinner_label": {
+      "message": "Učitavanje"
+   },
+   "file_missing_content_msg": {
+      "message": "Bilo je poteškoća s čitanjem sadržaja datoteke; preporučujemo da promijenite naziv datoteke i ponovo je otvorite"
+   },
+   "file_missing_content_short_msg": {
+      "message": "U dokumentu nedostaje sadržaj."
+   },
+   "file_not_found_error_msg": {
+      "message": "Provjerite je li vam vlasnik datoteke dopustio pristup. Ako imate dopuštenje, a pogreška se i dalje prikazuje, prijavite problem u nastavku."
+   },
+   "file_not_found_error_short_msg": {
+      "message": "Ups. Nismo uspjeli otvoriti datoteku koju ste zatražili."
+   },
+   "file_not_found_exception": {
+      "message": "Tražena je datoteka možda izbrisana, preimenovana ili premještena na drugu lokaciju. Da biste nastavili, kliknite \"Spremi odmah\"."
+   },
+   "file_not_found_link_text": {
+      "message": "Ako vam je potrebna pomoć za više računa, pročitajte ovaj članak"
+   },
+   "file_not_found_msg": {
+      "message": "Zatražena je datoteka premještena."
+   },
+   "file_not_found_title": {
+      "message": "Datoteka nije pronađena."
+   },
+   "file_open_crash_error_msg": {
+      "message": "Ako se pogreška bude javljala i dalje, prijavite poteškoću u nastavku."
+   },
+   "file_open_crash_error_short_msg": {
+      "message": "Ups. Nismo uspjeli otvoriti datoteku koju ste zatražili."
+   },
+   "file_open_error_msg": {
+      "message": "Sadržaj datoteke nije dostupan."
+   },
+   "file_open_error_short_msg": {
+      "message": "Čini se da je datoteka oštećena."
+   },
+   "file_open_fail_download_link_text": {
+      "message": "Preuzmite datoteku"
+   },
+   "file_opened_in_incognito_mode_error_details": {
+      "message": "Proširenje Uređivanje Officeovih datoteka ne funkcionira u anonimnom načinu. Ovu datoteku otvorite pomoću normalnog Chromeova prozora. Ako upotrebljavate način rada za goste, datoteka se neće otvoriti. Provjerite nije li datoteka oštećena i je li vrsta datoteke važeća, a zatim pokušajte ponovno."
+   },
+   "file_opened_in_incognito_mode_error_title": {
+      "message": "Ups! Anonimni način nije podržan"
+   },
+   "file_pdf_type_rename_msg": {
+      "message": "Preimenujte datoteku u $1.pdf i pokušajte ponovo.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_rtf_type_rename_msg": {
+      "message": "Preimenujte datoteku u $1.rtf",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_type_unsupported_msg": {
+      "message": "Ova vrsta datoteke nije podržana."
+   },
+   "fillcolor_aria_spoken_word": {
+      "message": "padajući popis boje teksta"
+   },
+   "fontface_aria_spoken_word": {
+      "message": "padajući popis vrste fonta"
+   },
+   "fontsize_aria_spoken_word": {
+      "message": "padajući popis veličine fonta"
+   },
+   "forbidden_access_level_error_msg": {
+      "message": "Provjerite je li vam vlasnik datoteke dopustio otvaranje. Ako imate dopuštenje, a pogreška se i dalje prikazuje, prijavite problem u nastavku."
+   },
+   "forbidden_access_level_error_short_msg": {
+      "message": "Ups. Nismo uspjeli otvoriti datoteku koju ste zatražili."
+   },
+   "forbidden_app_access_error_msg": {
+      "message": "Iz nekog razloga nemamo dopuštenje za otvaranje ove datoteke. Pokušajte je otvoriti iz Google diska ili prijavite problem u nastavku."
+   },
+   "forbidden_app_access_error_short_msg": {
+      "message": "Ups. Nismo uspjeli otvoriti datoteku koju ste zatražili."
+   },
+   "forbidden_app_id_error_msg": {
+      "message": "Čini se da Chromeovo proširenje nije pravilno konfigurirano. Kako je to moguće? Nismo posve sigurni, ali prijavite problem u nastavku."
+   },
+   "forbidden_app_id_error_short_msg": {
+      "message": "Ups. Nismo uspjeli otvoriti datoteku koju ste zatražili."
+   },
+   "forbidden_blacklist_error_msg": {
+      "message": "Čini se da je to Chromeovo dopuštenje na popisu nedopuštenih. Očito je da se radi o pogrešci, pa prijavite problem u nastavku."
+   },
+   "forbidden_blacklist_error_short_msg": {
+      "message": "Ups. Nismo uspjeli otvoriti datoteku koju ste zatražili."
+   },
+   "forbidden_domain_error_msg": {
+      "message": "Čini se da je vaša domena zabranila pristup toj datoteci. Obratite se administratoru domene ili prijavite problem u nastavku."
+   },
+   "forbidden_domain_error_short_msg": {
+      "message": "Ups. Nismo uspjeli otvoriti datoteku koju ste zatražili."
+   },
+   "forbidden_internal_error_msg": {
+      "message": "Google disk ne funkcionira kako treba. Pokušajte ponovo otvoriti datoteku ili prijavite problem u nastavku."
+   },
+   "forbidden_internal_error_short_msg": {
+      "message": "Ups. Nismo uspjeli otvoriti datoteku koju ste zatražili."
+   },
+   "forbidden_not_installed_error_msg": {
+      "message": "Čini se da Chromeovo proširenje nije pravilno instalirano. Kako je to moguće? Nismo posve sigurni, ali prijavite problem u nastavku."
+   },
+   "forbidden_not_installed_error_short_msg": {
+      "message": "Ups. Nismo uspjeli otvoriti datoteku koju ste zatražili."
+   },
+   "generic_error_msg": {
+      "message": "Došlo je do problema sa sadržajem ovog dokumenta."
+   },
+   "generic_error_short_msg": {
+      "message": "Ups. To se nije trebalo dogoditi. Ponovno učitajte stranicu da biste vratili svoje promjene."
+   },
+   "get_lists_data_error_msg": {
+      "message": "Dokument se može otvoriti s nepravilnim oblikovanjem popisa."
+   },
+   "get_lists_data_error_short_msg": {
+      "message": "Nije bilo moguće dohvaćanje oblikovanja dokumenta."
+   },
+   "highlightcolor_aria_spoken_word": {
+      "message": "padajući popis boje za isticanje teksta"
+   },
+   "http_error_zero_msg": {
+      "message": "U slučaju problema s mrežom provjerite vezu ili pokušajte kasnije. Ako se problem ne riješi, prijavite poteškoću u nastavku."
+   },
+   "http_error_zero_short_msg": {
+      "message": "Nažalost nismo uspjeli otvoriti datoteku."
+   },
+   "info_file_copied": {
+      "message": "Spremljeno"
+   },
+   "info_file_save_cancelled": {
+      "message": "Spremanje je otkazano."
+   },
+   "info_file_save_failed": {
+      "message": "Spremanje nije uspjelo."
+   },
+   "info_file_saved_at_location": {
+      "message": "Sve su promjene spremljene u $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "info_file_saved_in_drive": {
+      "message": "Sve promjene spremljene su u Disku"
+   },
+   "info_file_saved_locally": {
+      "message": "Sve promjene spremljene su lokalno"
+   },
+   "info_file_saved_offline": {
+      "message": "Sve promjene spremljene su izvanmrežno"
+   },
+   "info_file_saving": {
+      "message": "Spremanje…"
+   },
+   "initaddshape_aria_spoken_word": {
+      "message": "dodaj tekstni okvir"
+   },
+   "invalid_credentials_error_msg": {
+      "message": "Morate se prijaviti na svoj Google račun da biste pristupili toj datoteci."
+   },
+   "invalid_credentials_error_short_msg": {
+      "message": "Ups. Nismo uspjeli otvoriti datoteku koju ste zatražili."
+   },
+   "invalid_file_format_msg": {
+      "message": "Premda datoteka izgleda kao dokument paketa Office te ima Officeov datotečni nastavak, to je zapravo neka druga vrsta datoteke koja je preimenovana ili na neki način izmijenjena ili je vrsta datoteke koju ne podržavamo."
+   },
+   "invalid_file_format_short_msg": {
+      "message": "Ups, čini se da ne možemo otvoriti tu vrstu dokumenta."
+   },
+   "italic_aria_spoken_word": {
+      "message": "kurziv"
+   },
+   "keyboard_shortcut_group_actions": {
+      "message": "Radnje"
+   },
+   "keyboard_shortcut_group_other": {
+      "message": "Ostalo"
+   },
+   "keyboard_shortcut_group_paragraph_formatting": {
+      "message": "Oblikovanje odlomka"
+   },
+   "keyboard_shortcut_group_text_formatting": {
+      "message": "Oblikovanje teksta"
+   },
+   "keyboard_shortcut_group_top_menus": {
+      "message": "Izbornici"
+   },
+   "keyboard_shortcut_group_with_slides": {
+      "message": "S Prezentacijama"
+   },
+   "keyboard_shortcut_title": {
+      "message": "Tipkovni prečaci"
+   },
+   "make_a_copy_fail_msg": {
+      "message": "Nismo uspjeli napraviti kopiju."
+   },
+   "menu_button_data": {
+      "message": "Podaci"
+   },
+   "menu_button_edit": {
+      "message": "Uređivanje"
+   },
+   "menu_button_file": {
+      "message": "Datoteka"
+   },
+   "menu_button_format": {
+      "message": "Format"
+   },
+   "menu_button_help": {
+      "message": "Pomoć"
+   },
+   "menu_button_insert": {
+      "message": "Umetni"
+   },
+   "menu_button_slide": {
+      "message": "Slajd"
+   },
+   "menu_button_tools": {
+      "message": "Alati"
+   },
+   "menu_button_view": {
+      "message": "Prikaz"
+   },
+   "menu_item_10_point_star": {
+      "message": "Desetokraka zvijezda"
+   },
+   "menu_item_12_point_star": {
+      "message": "Dvanaestokraka zvijezda"
+   },
+   "menu_item_16_point_star": {
+      "message": "Šesnaestokraka zvijezda"
+   },
+   "menu_item_24_point_star": {
+      "message": "Dvadesetčetverokraka zvijezda"
+   },
+   "menu_item_32_point_star": {
+      "message": "Tridesetdvokraka zvijezda"
+   },
+   "menu_item_4_point_star": {
+      "message": "Četverokraka zvijezda"
+   },
+   "menu_item_5_point_star": {
+      "message": "Petokraka zvijezda"
+   },
+   "menu_item_6_point_star": {
+      "message": "Šestokraka zvijezda"
+   },
+   "menu_item_7_point_star": {
+      "message": "Sedmokraka zvijezda"
+   },
+   "menu_item_8_point_star": {
+      "message": "Osmokraka zvijezda"
+   },
+   "menu_item_align": {
+      "message": "Poravnaj"
+   },
+   "menu_item_align_center": {
+      "message": "Centriraj"
+   },
+   "menu_item_align_justified": {
+      "message": "Obostrano poravnato"
+   },
+   "menu_item_align_left": {
+      "message": "Lijevo"
+   },
+   "menu_item_align_right": {
+      "message": "Desno"
+   },
+   "menu_item_arrows": {
+      "message": "Strelice"
+   },
+   "menu_item_bent_arrow": {
+      "message": "Savijena strelica"
+   },
+   "menu_item_bent_up_arrow": {
+      "message": "Strelica savijena prema gore"
+   },
+   "menu_item_bevel": {
+      "message": "Kosi rub"
+   },
+   "menu_item_block_arc": {
+      "message": "Bločni luk"
+   },
+   "menu_item_bold": {
+      "message": "Podebljano"
+   },
+   "menu_item_callouts": {
+      "message": "Oblačići"
+   },
+   "menu_item_can": {
+      "message": "Limenka"
+   },
+   "menu_item_chevron": {
+      "message": "Ševron"
+   },
+   "menu_item_chord": {
+      "message": "Akord"
+   },
+   "menu_item_clear_formatting": {
+      "message": "Brisanje formatiranja"
+   },
+   "menu_item_cloud": {
+      "message": "Oblak"
+   },
+   "menu_item_cloud_callout": {
+      "message": "Govorni oblačić"
+   },
+   "menu_item_color_none": {
+      "message": "Ništa"
+   },
+   "menu_item_color_transparent": {
+      "message": "Prozirno"
+   },
+   "menu_item_convert_to_docs": {
+      "message": "Spremi kao Google dokument"
+   },
+   "menu_item_convert_to_sheets": {
+      "message": "Spremi kao Google tablicu"
+   },
+   "menu_item_convert_to_slides": {
+      "message": "Spremi kao Google prezentaciju"
+   },
+   "menu_item_copy": {
+      "message": "Kopiranje"
+   },
+   "menu_item_cross": {
+      "message": "Križ"
+   },
+   "menu_item_cube": {
+      "message": "Kocka"
+   },
+   "menu_item_curved_down_arrow": {
+      "message": "Strelica zakrivljena prema dolje"
+   },
+   "menu_item_curved_left_arrow": {
+      "message": "Strelica zakrivljena ulijevo"
+   },
+   "menu_item_curved_right_arrow": {
+      "message": "Strelica zakrivljena udesno"
+   },
+   "menu_item_curved_up_arrow": {
+      "message": "Strelica zakrivljena prema gore"
+   },
+   "menu_item_cut": {
+      "message": "Rezanje"
+   },
+   "menu_item_decagon": {
+      "message": "Deseterokut"
+   },
+   "menu_item_delete_column": {
+      "message": "Brisanje stupca"
+   },
+   "menu_item_delete_row": {
+      "message": "Brisanje retka"
+   },
+   "menu_item_delete_value": {
+      "message": "Brisanje vrijednosti"
+   },
+   "menu_item_deleteslide": {
+      "message": "Izbriši slajd"
+   },
+   "menu_item_diagonal_stripe": {
+      "message": "Poprečna pruga"
+   },
+   "menu_item_diamond": {
+      "message": "Romb"
+   },
+   "menu_item_divide": {
+      "message": "Podijeli"
+   },
+   "menu_item_dodecagon": {
+      "message": "Dvanaesterokut"
+   },
+   "menu_item_donut": {
+      "message": "Prsten"
+   },
+   "menu_item_double_brace": {
+      "message": "Dvostruka vitičasta zagrada"
+   },
+   "menu_item_double_bracket": {
+      "message": "Dvostruka zagrada"
+   },
+   "menu_item_down_arrow": {
+      "message": "Strelica dolje"
+   },
+   "menu_item_down_arrow_callout": {
+      "message": "Oblačić sa strelicom nadolje"
+   },
+   "menu_item_duplicateslide": {
+      "message": "Udvostručena prezentacija"
+   },
+   "menu_item_equal": {
+      "message": "Jednako"
+   },
+   "menu_item_equation": {
+      "message": "Jednadžba"
+   },
+   "menu_item_explosion_1": {
+      "message": "Eksplozija 1"
+   },
+   "menu_item_explosion_2": {
+      "message": "Eksplozija 2"
+   },
+   "menu_item_flowchart_alternate_process": {
+      "message": "Dijagram toka: alternativni proces"
+   },
+   "menu_item_flowchart_card": {
+      "message": "Dijagram toka: kartica"
+   },
+   "menu_item_flowchart_collate": {
+      "message": "Dijagram toka: svrstavanje"
+   },
+   "menu_item_flowchart_connector": {
+      "message": "Dijagram toka: poveznica"
+   },
+   "menu_item_flowchart_data": {
+      "message": "Dijagram toka: podaci"
+   },
+   "menu_item_flowchart_decision": {
+      "message": "Dijagram toka: odluka"
+   },
+   "menu_item_flowchart_delay": {
+      "message": "Dijagram toka: odgoda"
+   },
+   "menu_item_flowchart_direct_access_storage": {
+      "message": "Dijagram toka: pohrana s izravnim pristupom"
+   },
+   "menu_item_flowchart_display": {
+      "message": "Dijagram toka: prikaz"
+   },
+   "menu_item_flowchart_document": {
+      "message": "Dijagram toka: dokument"
+   },
+   "menu_item_flowchart_extract": {
+      "message": "Dijagram toka: izvadak"
+   },
+   "menu_item_flowchart_internal_storage": {
+      "message": "Dijagram toka: interna pohrana"
+   },
+   "menu_item_flowchart_magnetic_disk": {
+      "message": "Dijagram toka: magnetni disk"
+   },
+   "menu_item_flowchart_manual_input": {
+      "message": "Dijagram toka: ručni unos"
+   },
+   "menu_item_flowchart_manual_operation": {
+      "message": "Dijagram toka: ručna operacija"
+   },
+   "menu_item_flowchart_merge": {
+      "message": "Dijagram toka: spajanje"
+   },
+   "menu_item_flowchart_multidocument": {
+      "message": "Dijagram toka: više dokumenata"
+   },
+   "menu_item_flowchart_off_page_connector": {
+      "message": "Dijagram toka: izvanstranična poveznica"
+   },
+   "menu_item_flowchart_or": {
+      "message": "Dijagram toka: ili"
+   },
+   "menu_item_flowchart_predefined_process": {
+      "message": "Dijagram toka: unaprijed definirani proces"
+   },
+   "menu_item_flowchart_preparation": {
+      "message": "Dijagram toka: priprema"
+   },
+   "menu_item_flowchart_process": {
+      "message": "Dijagram toka: proces"
+   },
+   "menu_item_flowchart_punched_tape": {
+      "message": "Dijagram toka: bušena vrpca"
+   },
+   "menu_item_flowchart_sequential_access_storage": {
+      "message": "Dijagram toka: pohrana slijednim pristupom"
+   },
+   "menu_item_flowchart_sort": {
+      "message": "Dijagram toka: sortiranje"
+   },
+   "menu_item_flowchart_stored_data": {
+      "message": "Dijagram toka: pohranjeni podaci"
+   },
+   "menu_item_flowchart_summing_junction": {
+      "message": "Dijagram toka: čvorište sažetka"
+   },
+   "menu_item_flowchart_terminator": {
+      "message": "Dijagram toka: prekidač"
+   },
+   "menu_item_folded_corner": {
+      "message": "Presavijeni kut"
+   },
+   "menu_item_frame": {
+      "message": "Okvir"
+   },
+   "menu_item_half_frame": {
+      "message": "Pola okvira"
+   },
+   "menu_item_heart": {
+      "message": "Srce"
+   },
+   "menu_item_help_center": {
+      "message": "Centar za pomoć"
+   },
+   "menu_item_heptagon": {
+      "message": "Sedmerokut"
+   },
+   "menu_item_hexagon": {
+      "message": "Šesterokut"
+   },
+   "menu_item_hideslide": {
+      "message": "Sakrij slajd"
+   },
+   "menu_item_insert_column": {
+      "message": "Stupac"
+   },
+   "menu_item_insert_image": {
+      "message": "Slika"
+   },
+   "menu_item_insert_row": {
+      "message": "Redak"
+   },
+   "menu_item_insert_text_box": {
+      "message": "Tekstni okvir"
+   },
+   "menu_item_insertslide": {
+      "message": "Novi slajd"
+   },
+   "menu_item_italic": {
+      "message": "Kurziv"
+   },
+   "menu_item_keyboard_shortcuts": {
+      "message": "Tipkovnički prečaci"
+   },
+   "menu_item_l_shape": {
+      "message": "Lik u obliku slova L"
+   },
+   "menu_item_left_arrow": {
+      "message": "Strelica lijevo"
+   },
+   "menu_item_left_arrow_callout": {
+      "message": "Oblačić sa strelicom lijevo"
+   },
+   "menu_item_left_brace": {
+      "message": "Lijeva vitičasta zagrada"
+   },
+   "menu_item_left_bracket": {
+      "message": "Lijeva uglata zagrada"
+   },
+   "menu_item_left_right_arrow": {
+      "message": "Strelica ulijevo-udesno"
+   },
+   "menu_item_left_right_arrow_callout": {
+      "message": "Oblačić sa strelicom ulijevo i udesno"
+   },
+   "menu_item_left_right_up_arrow": {
+      "message": "Strelica ulijevo-udesno-nagore"
+   },
+   "menu_item_left_up_arrow": {
+      "message": "Strelica ulijevo-nagore"
+   },
+   "menu_item_lightning_bolt": {
+      "message": "Munja"
+   },
+   "menu_item_make_a_copy": {
+      "message": "Izradi kopiju…"
+   },
+   "menu_item_merge_all": {
+      "message": "Spoji sve"
+   },
+   "menu_item_merge_cells": {
+      "message": "Spajanje ćelija"
+   },
+   "menu_item_merge_horizontally": {
+      "message": "Spoji vodoravno"
+   },
+   "menu_item_merge_vertically": {
+      "message": "Spoji okomito"
+   },
+   "menu_item_minus": {
+      "message": "Minus"
+   },
+   "menu_item_moon": {
+      "message": "Mjesec"
+   },
+   "menu_item_moveslidedown": {
+      "message": "Premjesti slajd dolje"
+   },
+   "menu_item_moveslidetoend": {
+      "message": "Premjesti slajd na kraj"
+   },
+   "menu_item_moveslidetostart": {
+      "message": "Premjesti slajd na početak"
+   },
+   "menu_item_moveslideup": {
+      "message": "Premjesti slajd gore"
+   },
+   "menu_item_multiply": {
+      "message": "Umnožavanje"
+   },
+   "menu_item_new": {
+      "message": "Novo"
+   },
+   "menu_item_no_symbol": {
+      "message": "Simbol Ne"
+   },
+   "menu_item_not_equal": {
+      "message": "Nije jednako"
+   },
+   "menu_item_notched_right_arrow": {
+      "message": "Urezana strelica desno"
+   },
+   "menu_item_number_format": {
+      "message": "Format brojeva"
+   },
+   "menu_item_number_menu": {
+      "message": "Broj"
+   },
+   "menu_item_numbering": {
+      "message": "$1 od $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "menu_item_octagon": {
+      "message": "Osmerokut"
+   },
+   "menu_item_open": {
+      "message": "Otvaranje"
+   },
+   "menu_item_oval": {
+      "message": "Elipsa"
+   },
+   "menu_item_oval_callout": {
+      "message": "Ovalni oblačić"
+   },
+   "menu_item_parallelogram": {
+      "message": "Paralelogram"
+   },
+   "menu_item_paste": {
+      "message": "Lijepljenje"
+   },
+   "menu_item_pentagon": {
+      "message": "Peterokut"
+   },
+   "menu_item_pie": {
+      "message": "Torta"
+   },
+   "menu_item_plaque": {
+      "message": "Plaketa"
+   },
+   "menu_item_plus": {
+      "message": "Plus"
+   },
+   "menu_item_present": {
+      "message": "Trenutačno"
+   },
+   "menu_item_print": {
+      "message": "Ispis"
+   },
+   "menu_item_quad_arrow": {
+      "message": "Četverosmjerna strelica"
+   },
+   "menu_item_quad_arrow_callout": {
+      "message": "Oblačić s četiri strelice"
+   },
+   "menu_item_rectangle": {
+      "message": "Pravokutnik"
+   },
+   "menu_item_rectangular_callout": {
+      "message": "Pravokutni oblačić"
+   },
+   "menu_item_redo": {
+      "message": "Ponavljanje poništenog"
+   },
+   "menu_item_regular_pentagon": {
+      "message": "Pravilni peterokut"
+   },
+   "menu_item_report_abuse": {
+      "message": "Prijava zloupotrebe"
+   },
+   "menu_item_report_issue": {
+      "message": "Prijava problema"
+   },
+   "menu_item_right_arrow": {
+      "message": "Strelica udesno"
+   },
+   "menu_item_right_arrow_callout": {
+      "message": "Oblačić sa strelicom udesno"
+   },
+   "menu_item_right_brace": {
+      "message": "Desna vitičasta zagrada"
+   },
+   "menu_item_right_bracket": {
+      "message": "Desna uglata zagrada"
+   },
+   "menu_item_right_triangle": {
+      "message": "Desni trokut"
+   },
+   "menu_item_round_diagonal_corner_rectangle": {
+      "message": "Pravokutnik zaobljenih suprotnih kutova"
+   },
+   "menu_item_round_same_side_corner_rectangle": {
+      "message": "Pravokutnik zaobljenih kutova na istoj strani"
+   },
+   "menu_item_round_single_corner_rectangle": {
+      "message": "Pravokutnik jednog zaobljenog kuta"
+   },
+   "menu_item_rounded_rectangle": {
+      "message": "Pravokutnik zaobljenih kutova"
+   },
+   "menu_item_rounded_rectangular_callout": {
+      "message": "Oblačić u obliku pravokutnika zaobljenih kutova"
+   },
+   "menu_item_save": {
+      "message": "Spremanje"
+   },
+   "menu_item_save_as": {
+      "message": "Spremanje kao..."
+   },
+   "menu_item_shapes": {
+      "message": "Oblici"
+   },
+   "menu_item_share": {
+      "message": "Dijeljenje"
+   },
+   "menu_item_smiley_face": {
+      "message": "Smješko"
+   },
+   "menu_item_snip_and_round_single_corner_rectangle": {
+      "message": "Pravokutnik jednog izrezanog i zaobljenog kuta"
+   },
+   "menu_item_snip_diagonal_corner_rectangle": {
+      "message": "Pravokutnik izrezanih suprotnih kutova"
+   },
+   "menu_item_snip_same_side_corner_rectangle": {
+      "message": "Pravokutnik izrezanih kutova na istoj strani"
+   },
+   "menu_item_snip_single_corner_rectangle": {
+      "message": "Pravokutnik jednog izrezanog kuta"
+   },
+   "menu_item_strikethrough": {
+      "message": "Precrtano"
+   },
+   "menu_item_striped_right_arrow": {
+      "message": "Crtkana strelica udesno"
+   },
+   "menu_item_subscript": {
+      "message": "Indeks"
+   },
+   "menu_item_sun": {
+      "message": "Sunce"
+   },
+   "menu_item_superscript": {
+      "message": "Eksponent"
+   },
+   "menu_item_teardrop": {
+      "message": "Suza"
+   },
+   "menu_item_trapezoid": {
+      "message": "Trapez"
+   },
+   "menu_item_triangle": {
+      "message": "Trokut"
+   },
+   "menu_item_u_turn_arrow": {
+      "message": "Polukružna strelica"
+   },
+   "menu_item_underline": {
+      "message": "Podcrtano"
+   },
+   "menu_item_undo": {
+      "message": "Poništavanje"
+   },
+   "menu_item_unhideslide": {
+      "message": "Otkrij slajd"
+   },
+   "menu_item_unmerge": {
+      "message": "Razdvoji"
+   },
+   "menu_item_up_arrow": {
+      "message": "Strelica gore"
+   },
+   "menu_item_up_arrow_callout": {
+      "message": "Oblačić sa strelicom gore"
+   },
+   "menu_item_up_down_arrow": {
+      "message": "Strelica gore-dolje"
+   },
+   "menu_item_version_info": {
+      "message": "Informacija o verziji"
+   },
+   "menu_item_word_count": {
+      "message": "Broj riječi"
+   },
+   "menu_item_wrap_text": {
+      "message": "Prelomi tekst"
+   },
+   "menu_item_zoom_in": {
+      "message": "Povećavanje"
+   },
+   "menu_item_zoom_out": {
+      "message": "Smanjivanje"
+   },
+   "merge_all_aria_spoken_word": {
+      "message": "spoji sve"
+   },
+   "merge_aria_spoken_word": {
+      "message": "spoji"
+   },
+   "merge_dropdown_aria_spoken_word": {
+      "message": "padajući izbornik spajanja"
+   },
+   "merge_horizontally_aria_spoken_word": {
+      "message": "spoji vodoravno"
+   },
+   "merge_vertically_aria_spoken_word": {
+      "message": "spoji okomito"
+   },
+   "modify_shape_transform_error_msg": {
+      "message": "Dogodila se pogreška prilikom izmjene transformacija oblika"
+   },
+   "modify_shape_transform_error_short_msg": {
+      "message": "Dogodila se pogreška prilikom izmjene transformacija oblika."
+   },
+   "modifyshapefillcolor_aria_spoken_word": {
+      "message": "padajući popis boje ispune oblika"
+   },
+   "modifyshapeoutlinecolor_aria_spoken_word": {
+      "message": "padajući popis boje obrisa oblika"
+   },
+   "modifyshapeoutlinestyle_aria_spoken_word": {
+      "message": "padajući popis stila obrisa oblika"
+   },
+   "modifyshapeoutlinewidth_aria_spoken_word": {
+      "message": "padajući popis širina obrisa oblika"
+   },
+   "nacl_load_error_details": {
+      "message": "Pokušajte ponovno instalirati proširenje."
+   },
+   "nacl_load_error_title": {
+      "message": "Došlo je do problema pri učitavanju aplikacije."
+   },
+   "non_permissible_sheet_name_details": {
+      "message": "Znakovi * ? [ ] ' ; : nisu dopušteni. Naziv lista ne smije biti dulji od 31 znaka. Naziv lista ne smije biti prazan."
+   },
+   "non_permissible_sheet_name_title": {
+      "message": "Prilikom promjene naziva lista unijeli ste nevažeći naziv"
+   },
+   "not_pressed": {
+      "message": "Nije pritisnut"
+   },
+   "notselected": {
+      "message": "Nije odabrano"
+   },
+   "number_format_label_currency_symbol": {
+      "message": "Simbol valute"
+   },
+   "number_format_label_date_type": {
+      "message": "Vrsta"
+   },
+   "number_format_label_decimal_places": {
+      "message": "Decimalna mjesta"
+   },
+   "number_format_label_general": {
+      "message": "Općenito"
+   },
+   "number_format_label_negative_numbers": {
+      "message": "Negativni brojevi"
+   },
+   "number_format_label_other": {
+      "message": "Ostalo"
+   },
+   "number_format_label_red": {
+      "message": "Crveno"
+   },
+   "number_format_label_text": {
+      "message": "Tekst"
+   },
+   "number_format_label_use_1000_separator": {
+      "message": "Upotreba razdjelnika tisućica"
+   },
+   "number_format_tab_accounting": {
+      "message": "Računovodstvo"
+   },
+   "number_format_tab_currency": {
+      "message": "Valuta"
+   },
+   "number_format_tab_date_time": {
+      "message": "Datum i vrijeme"
+   },
+   "number_format_tab_general": {
+      "message": "Općenito"
+   },
+   "number_format_tab_number": {
+      "message": "Broj"
+   },
+   "number_format_tab_percentage": {
+      "message": "Postotak"
+   },
+   "number_format_tab_scientific": {
+      "message": "Znanstveno"
+   },
+   "number_format_title": {
+      "message": "Formati brojeva"
+   },
+   "ocm_promo_conversion_shortmsg": {
+      "message": "Radite u načinu rada kompatibilnom s Officeom"
+   },
+   "office_compatibility_mode": {
+      "message": "Način rada kompatibilan s Officeom"
+   },
+   "office_first_time_confirm": {
+      "message": "Shvaćam"
+   },
+   "office_first_time_message_p1": {
+      "message": "Sada možete uređivati Word, Excel i Powerpoint datoteke s tvrdog diska, Google diska, Gmaila i drugih usluga pomoću Dokumenata, Tablica i Prezentacija."
+   },
+   "office_first_time_message_p2": {
+      "message": "Sva uređivanja spremaju se automatski, a možete spremiti i u izvornom obliku."
+   },
+   "office_first_time_title": {
+      "message": "Uređivanje Officeovih dokumenata za Dokumente, Tablice i Prezentacije"
+   },
+   "offline_error_msg": {
+      "message": "Čini se da niste povezani s mrežom. Provjerite internetsku vezu i pokušajte ponovo. Ako vam se pogreška bude prikazivala i kada se povežete s mrežom, prijavite problem u nastavku."
+   },
+   "offline_error_short_msg": {
+      "message": "Ups. Nismo uspjeli otvoriti datoteku koju ste zatražili."
+   },
+   "option_key": {
+      "message": "Opcija"
+   },
+   "out_of_memory_error_msg": {
+      "message": "Pokušajte zatvoriti ovu karticu i ponovo otvoriti datoteku ili zatvoriti druge tablice koje su možda otvorene u pregledniku. Ako se problem ponovi, prijavite to u nastavku."
+   },
+   "out_of_memory_error_short_msg": {
+      "message": "Ups. Nema dovoljno memorije."
+   },
+   "page_count_label": {
+      "message": "Stranice"
+   },
+   "partial_cell_merge_error_msg": {
+      "message": "Dio spojene ćelije nije moguće promijeniti."
+   },
+   "partial_cell_merge_error_short_msg": {
+      "message": "Pogreška"
+   },
+   "point_ocm_promo_conversion_msg": {
+      "message": "Možete uređivati i spremati Officeove datoteke izravno u Prezentacijama. Da biste pozvali druge da uređuju ili dodaju komentare, spremite datoteku kao Google prezentaciju. Možete je vratiti u izvorni oblik u bilo kojem trenutku."
+   },
+   "point_printing_warning_msg": {
+      "message": "Rješavamo taj problem."
+   },
+   "point_printing_warning_short_msg": {
+      "message": "Trenutačno možete ispisivati samo slajd koji je prikazan."
+   },
+   "point_share_promo_conversion_msg": {
+      "message": "Pokušavate li dijeliti prezentaciju? Da biste pozvali druge da je uređuju s vama, konvertirajte je u Google prezentaciju."
+   },
+   "pointtogglebullet_aria_spoken_word": {
+      "message": "popis s grafičkim oznakama"
+   },
+   "pointtogglenumber_aria_spoken_word": {
+      "message": "numerirani popis"
+   },
+   "present_button": {
+      "message": "Prikaži"
+   },
+   "pressed": {
+      "message": "Pritisnut"
+   },
+   "print_aria_spoken_word": {
+      "message": "ispis"
+   },
+   "qowt_doc_mismatch_text": {
+      "message": "Prilikom formatiranja dokumenta dogodila se pogreška.\n\nPonovno učitajte stranicu da biste vratili svoje promjene."
+   },
+   "qowt_doc_mismatch_title": {
+      "message": "Joj!"
+   },
+   "qowt_hyperlink_activate_short_key": {
+      "message": "Pritisnite ALT + Enter da biste aktivirali vezu."
+   },
+   "qowt_hyperlink_dialog": {
+      "message": "Hiperveza"
+   },
+   "qowt_hyperlink_dialog_message_text": {
+      "message": "Idi na vezu:"
+   },
+   "qowt_modal_confirm_dialog_affirmative_button": {
+      "message": "U redu"
+   },
+   "qowt_modal_confirm_dialog_negative_button": {
+      "message": "Odustani"
+   },
+   "qowt_modal_dialog_close_button": {
+      "message": "Zatvori"
+   },
+   "qowt_modal_dialog_coming_soon_title": {
+      "message": "Uskoro!"
+   },
+   "qowt_modal_dialog_link_text": {
+      "message": "Saznajte više"
+   },
+   "qowt_modal_dialog_ok_button": {
+      "message": "U redu"
+   },
+   "qowt_modal_dialog_reload_button": {
+      "message": "Učitaj ponovo"
+   },
+   "qowt_modal_dialog_textbox_editing_description": {
+      "message": "Ne podržavamo uređivanje teksta u tekstnim okvirima."
+   },
+   "qowt_modal_dialog_textbox_editing_link": {
+      "message": "Ispravite to!"
+   },
+   "qowt_modal_info_dialog_affirmative_button": {
+      "message": "U redu"
+   },
+   "qowt_modal_multi_choice_remember_choice": {
+      "message": "Upamti moj odabir"
+   },
+   "qowt_modal_query_dialog_affirmative_button": {
+      "message": "Da"
+   },
+   "qowt_modal_query_dialog_negative_button": {
+      "message": "Ne"
+   },
+   "qowt_modal_query_dialog_reload_button": {
+      "message": "Učitaj ponovo"
+   },
+   "qowt_modal_single_choice_remember_choice": {
+      "message": "Nemoj me više podsjećati"
+   },
+   "read_only": {
+      "message": "Samo za čitanje"
+   },
+   "redo_aria_spoken_word": {
+      "message": "ponavljanje poništenog"
+   },
+   "right_pointed_submenu": {
+      "message": "Desni pokazivač s podizbornikom"
+   },
+   "save_aria_spoken_word": {
+      "message": "spremanje"
+   },
+   "save_now": {
+      "message": "Spremi sad"
+   },
+   "security_error_msg": {
+      "message": "Ako se pogreška bude javljala i dalje, prijavite poteškoću u nastavku."
+   },
+   "security_error_short_msg": {
+      "message": "Ups. Nismo uspjeli otvoriti datoteku koju ste zatražili. Trenutačno ne podržavamo otvaranje datoteka u anonimnom načinu. Otvorite datoteku u nekom drugom načinu."
+   },
+   "selected": {
+      "message": "Odabrano"
+   },
+   "set_sheet_info_error_msg": {
+      "message": "Dogodila se pogreška prilikom ažuriranja naziva lista"
+   },
+   "share_button": {
+      "message": "Dijeli"
+   },
+   "share_promo_conversion_shortmsg": {
+      "message": "Uređujte s drugima"
+   },
+   "sheet_delete_column_error_msg": {
+      "message": "Ups. Došlo je do pogreške prilikom brisanja stupca. Pokušajte ponovo."
+   },
+   "sheet_delete_row_error_msg": {
+      "message": "Ups. Došlo je do pogreške prilikom brisanja retka. Pokušajte ponovo."
+   },
+   "sheet_format_cells_error_msg": {
+      "message": "Pojavila se pogreška pri formatiranju. Pokušajte ponovo."
+   },
+   "sheet_insert_column_error_msg": {
+      "message": "Ups. Došlo je do pogreške prilikom umetanja stupca. Pokušajte ponovo."
+   },
+   "sheet_insert_column_exceed_error_msg": {
+      "message": "Nažalost, ne možete umetnuti više stupaca u ovu proračunsku tablicu jer podržavamo samo 256 stupaca."
+   },
+   "sheet_insert_column_exceed_error_short_msg": {
+      "message": "Ispričavamo se!"
+   },
+   "sheet_insert_row_error_msg": {
+      "message": "Ups. Došlo je do pogreške prilikom umetanja retka. Pokušajte ponovo."
+   },
+   "sheet_insert_row_exceed_error_msg": {
+      "message": "Nažalost, ne možete umetnuti više redaka u ovu proračunsku tablicu jer podržavamo samo 65.536 redaka."
+   },
+   "sheet_insert_row_exceed_error_short_msg": {
+      "message": "Ispričavamo se!"
+   },
+   "sheet_ocm_promo_conversion_msg": {
+      "message": "Možete uređivati i spremati Officeove datoteke izravno u Tablicama. Da biste pozvali druge da uređuju ili dodaju komentare, spremite datoteku kao Google tablicu. Možete je vratiti u izvorni oblik u bilo kojem trenutku."
+   },
+   "sheet_set_cell_content_invalid_error_msg": {
+      "message": "Unesena formula ima pogrešku. Ispravite pogrešku."
+   },
+   "sheet_share_promo_conversion_msg": {
+      "message": "Pokušavate li dijeliti proračunsku tablicu? Da biste pozvali druge da je uređuju s vama, konvertirajte je u Google tablicu."
+   },
+   "sheet_sort_error_title": {
+      "message": "Došlo je do pogreške prilikom razvrstavanja ovog raspona ćelija."
+   },
+   "sheet_sort_failure_msg": {
+      "message": "Došlo je do pogreške prilikom razvrstavanja ovog raspona ćelija."
+   },
+   "sheet_sort_merged_cell_error": {
+      "message": "Ne možete poredati ćelije koje su spojene."
+   },
+   "sheet_sort_merged_cell_error_title": {
+      "message": "Došlo je do pogreške prilikom razvrstavanja ovog raspona ćelija."
+   },
+   "sheet_sort_one_cell_error": {
+      "message": "Odaberite više ćelija da biste ih poredali."
+   },
+   "sheet_sort_one_cell_error_title": {
+      "message": "Došlo je do pogreške prilikom razvrstavanja ovog raspona ćelija."
+   },
+   "shift_key": {
+      "message": "Shift"
+   },
+   "shortcut": {
+      "message": "Prečac $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sign_in": {
+      "message": "Prijava"
+   },
+   "slash_key": {
+      "message": "Kosa crta"
+   },
+   "something_not_right": {
+      "message": "Nešto nije u redu"
+   },
+   "storage_quota_exceed_error_msg": {
+      "message": "Zatvorite sve Officeove dokumente otvorene u Chromeu. Ako se problem ne riješi, prijavite poteškoću u nastavku."
+   },
+   "storage_quota_exceed_error_short_msg": {
+      "message": "Nažalost nismo uspjeli otvoriti datoteku."
+   },
+   "strikethrough_aria_spoken_word": {
+      "message": "precrtano"
+   },
+   "style_aria_spoken_word": {
+      "message": "padajući popis stila"
+   },
+   "submenu_spoken_text": {
+      "message": "$1 $2 $3 $4",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         }
+      }
+   },
+   "temporary_unable_to_open_error_msg": {
+      "message": "Pokušajte ponovo kasnije ili prijavite poteškoću u nastavku ako se problem ne riješi."
+   },
+   "temporary_unable_to_open_error_short_msg": {
+      "message": "Nažalost privremeno ne možemo otvoriti datoteku."
+   },
+   "textaligncenter_aria_spoken_word": {
+      "message": "središnje poravnanje teksta"
+   },
+   "textalignjustify_aria_spoken_word": {
+      "message": "obostrano poravnanje teksta"
+   },
+   "textalignleft_aria_spoken_word": {
+      "message": "lijevo poravnanje teksta"
+   },
+   "textalignright_aria_spoken_word": {
+      "message": "desno poravnanje teksta"
+   },
+   "textcolor_aria_spoken_word": {
+      "message": "padajući popis boje teksta"
+   },
+   "textual_edit_error_msg": {
+      "message": "Prilikom oblikovanja dokumenta dogodila se pogreška.\n\nPonovo učitajte stranicu da biste vratili svoje promjene."
+   },
+   "textual_edit_error_short_msg": {
+      "message": "Joj!"
+   },
+   "title_error_msg_for_merge_cells": {
+      "message": "Došlo je do problema"
+   },
+   "title_msg_merging_multiple_cells_with_text": {
+      "message": "Upozorenje!"
+   },
+   "togglebulleted_aria_spoken_word": {
+      "message": "popis s grafičkim oznakama"
+   },
+   "togglenumbered_aria_spoken_word": {
+      "message": "numerirani popis"
+   },
+   "togglezoom_aria_spoken_word": {
+      "message": "izmjenjivanje zumiranja"
+   },
+   "tooltip_background_color": {
+      "message": "Boja ispune"
+   },
+   "tooltip_bold": {
+      "message": "Podebljano"
+   },
+   "tooltip_border": {
+      "message": "Obrubi"
+   },
+   "tooltip_border_all": {
+      "message": "Svi obrubi"
+   },
+   "tooltip_border_bottom": {
+      "message": "Donji obrubi"
+   },
+   "tooltip_border_horizontal": {
+      "message": "Vodoravni obrubi"
+   },
+   "tooltip_border_inner": {
+      "message": "Unutarnji obrubi"
+   },
+   "tooltip_border_left": {
+      "message": "Lijevi obrubi"
+   },
+   "tooltip_border_none": {
+      "message": "Bez obruba"
+   },
+   "tooltip_border_outer": {
+      "message": "Vanjski obrubi"
+   },
+   "tooltip_border_right": {
+      "message": "Desni obrubi"
+   },
+   "tooltip_border_top": {
+      "message": "Gornji obrubi"
+   },
+   "tooltip_border_vertical": {
+      "message": "Okomiti obrubi"
+   },
+   "tooltip_cell_align": {
+      "message": "Poravnanje ćelije"
+   },
+   "tooltip_cell_h_align_center": {
+      "message": "Vodoravno sredina"
+   },
+   "tooltip_cell_h_align_left": {
+      "message": "Vodoravno lijevo"
+   },
+   "tooltip_cell_h_align_right": {
+      "message": "Vodoravno desno"
+   },
+   "tooltip_cell_v_align_bottom": {
+      "message": "Okomito dolje"
+   },
+   "tooltip_cell_v_align_center": {
+      "message": "Okomito sredina"
+   },
+   "tooltip_cell_v_align_top": {
+      "message": "Okomito gore"
+   },
+   "tooltip_download": {
+      "message": "Preuzimanje"
+   },
+   "tooltip_dropdown_init_add_shape": {
+      "message": "Oblik"
+   },
+   "tooltip_fill_color": {
+      "message": "Boja teksta"
+   },
+   "tooltip_font_face": {
+      "message": "Font"
+   },
+   "tooltip_font_size": {
+      "message": "Veličina fonta"
+   },
+   "tooltip_highlight_color": {
+      "message": "Boja isticanja"
+   },
+   "tooltip_init_add_shape": {
+      "message": "Tekstni okvir"
+   },
+   "tooltip_italic": {
+      "message": "Kurziv"
+   },
+   "tooltip_merge": {
+      "message": "Spajanje ćelija"
+   },
+   "tooltip_merge_dropdown": {
+      "message": "Odaberite vrstu spajanja..."
+   },
+   "tooltip_modify_shape_fill_color": {
+      "message": "Boja ispune"
+   },
+   "tooltip_modify_shape_outline_color": {
+      "message": "Boja crte"
+   },
+   "tooltip_modify_shape_outline_style": {
+      "message": "Crtkana crta"
+   },
+   "tooltip_modify_shape_outline_width": {
+      "message": "Debljina crte"
+   },
+   "tooltip_move_slide": {
+      "message": "Premješta se sljedeći broj slajdova: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "tooltip_point": {
+      "message": "Početna stranica Prezentacija"
+   },
+   "tooltip_point_toggle_bullet": {
+      "message": "Popis s grafičkim oznakama"
+   },
+   "tooltip_point_toggle_number": {
+      "message": "Numerirani popis"
+   },
+   "tooltip_presentation": {
+      "message": "Prezentacija"
+   },
+   "tooltip_print": {
+      "message": "Ispis"
+   },
+   "tooltip_redo": {
+      "message": "Ponavljanje poništenog"
+   },
+   "tooltip_share": {
+      "message": "Dijeljenje"
+   },
+   "tooltip_share_for_macroenabledfiles": {
+      "message": "Datoteke s omogućenim makronaredbama mogu se dijeliti samo s Google diska"
+   },
+   "tooltip_sheet": {
+      "message": "Početna stranica Tablica"
+   },
+   "tooltip_strikethrough": {
+      "message": "Precrtano"
+   },
+   "tooltip_style": {
+      "message": "Stilovi"
+   },
+   "tooltip_text_align_center": {
+      "message": "Centriranje"
+   },
+   "tooltip_text_align_justify": {
+      "message": "Obostrano poravnanje"
+   },
+   "tooltip_text_align_left": {
+      "message": "Lijevo poravnanje"
+   },
+   "tooltip_text_align_right": {
+      "message": "Desno poravnanje"
+   },
+   "tooltip_text_color": {
+      "message": "Boja teksta"
+   },
+   "tooltip_toggle_bulleted": {
+      "message": "Popis s grafičkim oznakama"
+   },
+   "tooltip_toggle_numbered": {
+      "message": "Numerirani popis"
+   },
+   "tooltip_toggle_zoom": {
+      "message": "Uključivanje/isključivanje zumiranja"
+   },
+   "tooltip_underline": {
+      "message": "Podcrtavanje"
+   },
+   "tooltip_undo": {
+      "message": "Poništavanje"
+   },
+   "tooltip_word": {
+      "message": "Početna stranica Dokumenata"
+   },
+   "tooltip_wrap_text": {
+      "message": "Prelamanje teksta"
+   },
+   "tooltip_zoom_in": {
+      "message": "Povećanje"
+   },
+   "tooltip_zoom_out": {
+      "message": "Smanjivanje"
+   },
+   "try_again": {
+      "message": "Pokušajte ponovo"
+   },
+   "unable_to_execute_msg": {
+      "message": "Nije moguće otvoriti ovaj dokument."
+   },
+   "underline_aria_spoken_word": {
+      "message": "podcrtano"
+   },
+   "undo_aria_spoken_word": {
+      "message": "poništavanje"
+   },
+   "unmerge_aria_spoken_word": {
+      "message": "razdvoji"
+   },
+   "unsaved_changes": {
+      "message": "Promjene nisu spremljene"
+   },
+   "unsaved_changes_warning": {
+      "message": "Neke promjene u datoteci nisu spremljene. Ako napustite ovu stranicu bez spremanja promjena, zauvijek ćete izgubiti svoj rad."
+   },
+   "unsupported_file_format_error_details_p1": {
+      "message": "Ova datoteka ima sadržaj s Microsoft® Officea 95 ili starijih verzija koji ne možemo otvoriti."
+   },
+   "unsupported_file_format_error_details_p2": {
+      "message": "Ako želite pretvoriti tu datoteku u Google dokument, kliknite vezu u nastavku."
+   },
+   "unsupported_file_format_error_title": {
+      "message": "Ups!"
+   },
+   "unsupported_link_message": {
+      "message": "Trenutačno ne podržavamo URL-ove te vrste."
+   },
+   "up_key": {
+      "message": "Gore"
+   },
+   "updated_shortcut_message": {
+      "message": "Ažurirali smo tipkovne prečace kako bi bili dosljedni na svim proizvodima Google dokumenata. Ažurirane prečace pregledajte u pomoći."
+   },
+   "updated_shortcut_title": {
+      "message": "Ažurirani tipkovni prečaci"
+   },
+   "version_info_msg": {
+      "message": "Vaša je verzija Načina rada kompatibilnog s Officeom"
+   },
+   "word_binary_upsave_learnmore": {
+      "message": "Saznajte više"
+   },
+   "word_binary_upsave_msg": {
+      "message": "Datoteka je u formatu koji nije podržan. Da bismo je spremili, morate nam dopustiti da je konvertiramo u noviji format datoteke, što neće utjecati na izvornu datoteku."
+   },
+   "word_binary_upsave_shortmsg": {
+      "message": "Ažurirajte dokument"
+   },
+   "word_count_label": {
+      "message": "Riječi"
+   },
+   "word_count_title": {
+      "message": "Broj riječi"
+   },
+   "word_ocm_promo_conversion_msg": {
+      "message": "Možete uređivati i spremati Officeove datoteke izravno u Dokumentima. Da biste pozvali druge da uređuju ili dodaju komentare, spremite datoteku kao Google dokument. Možete je vratiti u izvorni oblik u bilo kojem trenutku."
+   },
+   "word_share_promo_conversion_msg": {
+      "message": "Pokušavate li dijeliti dokument? Da biste pozvali druge da ga uređuju s vama, konvertirajte ga u Google dokument."
+   },
+   "wraptext_aria_spoken_word": {
+      "message": "prelomi tekst"
+   },
+   "zoomin_aria_spoken_word": {
+      "message": "povećavanje"
+   },
+   "zoomout_aria_spoken_word": {
+      "message": "smanjivanje"
+   }
+}

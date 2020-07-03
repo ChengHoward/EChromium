@@ -1,0 +1,69 @@
+#qowt-sheet-workbook .qowt-sheet-formula-bar-container {
+  background: rgb(233, 233, 233);
+  padding: 0;
+  height: 26px;
+  left: 0;
+  min-width: 318px;
+  top: 0;
+  width: 100%;
+}
+
+#qowt-sheet-workbook .qowt-sheet-formula-bar-function-icon {
+  background: url('../img/grid/fx.png') no-repeat center center;
+  float: left;
+  height: 25px;
+  margin: 4px 10px 0 10px;
+  width: 24px;
+}
+
+#qowt-sheet-workbook .qowt-sheet-formula-bar-editor {
+  float: none;
+  min-height: 20px;
+  margin-top: 2px;
+  overflow: hidden;
+  padding: 0px 6px 0px 6px;
+  outline: 0 solid transparent; /* this disables contenteditable's outline UI */
+  margin-right: 10px;
+  right: 10px;
+  width: auto;
+  background: rgb(233, 233, 233);
+  -webkit-box-shadow: none;
+  border: 1px solid rgb(180, 180, 180);
+  -webkit-border-radius: 3px;
+  font-family: 'Open Sans', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  -webkit-user-select: text;
+  font-size: 90%;
+  line-height: 140%
+  /*-webkit-transition:height 0.2s ease-in-out;*/
+  /* AC_chromebug : SEARCH FOR MATCHING formulaBar.js string (AC_chromebug):
+  can't use this line, as doesn't work with height:auto & chrome has a bug with
+  scrollHeight :-( */
+}
+
+#qowt-sheet-workbook .qowt-sheet-formula-bar-editor-edit-mode {
+  text-overflow: clip;
+  white-space: pre-wrap;
+  height: auto;
+}
+
+#qowt-sheet-workbook .qowt-sheet-formula-bar-editor-edit-mode-hover:hover {
+  cursor: text;
+}
+
+#qowt-sheet-workbook .qowt-sheet-formula-bar-editor-view-mode {
+  text-overflow: ellipsis;
+  white-space: pre;
+  height: 20px;
+}
+
+#qowt-sheet-workbook .qowt-sheet-formula-bar-editor-active {
+  text-overflow: clip;
+  white-space: pre-wrap;
+  height: auto;
+}
+
+#qowt-sheet-workbook .qowt-sheet-formula-bar-editor-non-active {
+  text-overflow: ellipsis;
+  white-space: pre;
+  height: 20px;
+}

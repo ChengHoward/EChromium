@@ -1,0 +1,54 @@
+<link rel="import" href="../../../../third_party/polymer/polymer.html"/>
+
+<!-- we depend on <qowt-page> to do things like "page instanceof QowtPage" -->
+<link rel="import" href="../page/page.html"/>
+
+<dom-module id="qowt-msdoc"  attributes="scale"
+    on-keyboard-shortcut="{{handleKeyboardShortcut_}}">
+  <template>
+    <style>
+      :host {
+        display: flex;
+        justify-content: center;
+
+        /* TODO(jliebrand): see http://crbug/420101
+           this really should be superceded by the documents default styles */
+        font-family: Calibri, sans-serif;
+      }
+
+      :host(:focus) {
+        outline: none;
+      }
+
+      #zoomable {
+        display: inline-block;
+        -webkit-transform-origin-y: 0;
+      }
+
+      @media print {
+
+        /* We don't want inline or padding */
+        :host {
+          display: block !important;
+          padding: 0px !important;
+        }
+
+        /* Make sure to display all children of this element */
+        ::content * {
+          visibility: visible !important;
+        }
+
+        /* Make zoom not affect printing */
+        #zoomable {
+          transform: scale(1) !important;
+          -webkit-transform: scale(1) !important;
+        }
+      }
+    </style>
+
+    <div id="zoomable">
+      <content></content>
+    </div>
+  <core-keyboard-shortcut id="zoomActualSize" keycombo="CTRL+0" keycombo-osx="CMD+0"></core-keyboard-shortcut>
+  </template>
+</dom-module>

@@ -1,0 +1,2192 @@
+{
+   "action_create_user_feedback": {
+      "message": "Een probleem melden"
+   },
+   "alt_key": {
+      "message": "Alt"
+   },
+   "app_error_learn_more": {
+      "message": "Meer informatie"
+   },
+   "app_error_report_feedback": {
+      "message": "Feedback melden"
+   },
+   "app_icon_aria_spoken_word": {
+      "message": " homepage"
+   },
+   "app_nacl_crash_msg": {
+      "message": "Help ons door het probleem te melden."
+   },
+   "app_nacl_crash_report": {
+      "message": "Een probleem melden..."
+   },
+   "app_nacl_crash_title": {
+      "message": "Dat was niet de bedoeling. Laad de pagina opnieuw om je wijzigingen te herstellen."
+   },
+   "app_nacl_error_load_failed": {
+      "message": "Het bestand kan niet worden geopend. Sluit andere Chrome-tabbladen of start Chrome opnieuw en probeer het nogmaals. Als het probleem blijft optreden, meld je het probleem hieronder."
+   },
+   "app_nacl_error_title": {
+      "message": "Het bestand kan niet worden geopend."
+   },
+   "app_nacl_error_unsupported_device": {
+      "message": "Dit apparaat biedt geen ondersteuning voor de Chrome-extensie 'Office-bewerkingen voor Documenten, Spreadsheets en Presentaties'."
+   },
+   "app_saving_failed_error_msg": {
+      "message": "Er is een probleem opgetreden bij het opslaan van het bestand. Probeer opnieuw op te slaan. Als het probleem blijft optreden, meld je het probleem."
+   },
+   "app_saving_failed_error_short_msg": {
+      "message": "Bestand kan niet worden opgeslagen."
+   },
+   "backgroundcolor_aria_spoken_word": {
+      "message": "dropdownmenu voor achtergrondkleur van cellen"
+   },
+   "bold_aria_spoken_word": {
+      "message": "vet"
+   },
+   "border_all_aria_spoken_word": {
+      "message": "alle randen"
+   },
+   "border_aria_spoken_word": {
+      "message": "dropdownmenu voor randen"
+   },
+   "border_bottom_aria_spoken_word": {
+      "message": "onderrand"
+   },
+   "border_horizontal_aria_spoken_word": {
+      "message": "horizontale rand"
+   },
+   "border_inner_aria_spoken_word": {
+      "message": "binnenrand"
+   },
+   "border_left_aria_spoken_word": {
+      "message": "linkerrand"
+   },
+   "border_none_aria_spoken_word": {
+      "message": "geen randen"
+   },
+   "border_outer_aria_spoken_word": {
+      "message": "buitenrand"
+   },
+   "border_right_aria_spoken_word": {
+      "message": "rechterrand"
+   },
+   "border_top_aria_spoken_word": {
+      "message": "bovenrand"
+   },
+   "border_vertical_aria_spoken_word": {
+      "message": "verticale rand"
+   },
+   "button_ocm_convert_cancel": {
+      "message": "Annuleren"
+   },
+   "button_ocm_promo_conversion_point": {
+      "message": "Opslaan als Google-presentatie"
+   },
+   "button_ocm_promo_conversion_sheet": {
+      "message": "Opslaan als Google-spreadsheet"
+   },
+   "button_ocm_promo_conversion_word": {
+      "message": "Opslaan als Google-document"
+   },
+   "button_share_convert_cancel": {
+      "message": "Annuleren"
+   },
+   "button_share_promo_conversion_point": {
+      "message": "Opslaan als Google-presentatie"
+   },
+   "button_share_promo_conversion_sheet": {
+      "message": "Opslaan als Google-spreadsheet"
+   },
+   "button_share_promo_conversion_word": {
+      "message": "Opslaan als Google-document"
+   },
+   "cell_align_aria_spoken_word": {
+      "message": "celuitlijning"
+   },
+   "cellalign_aria_spoken_word": {
+      "message": "dropdownmenu voor celuitlijning"
+   },
+   "cellhaligncenter_aria_spoken_word": {
+      "message": "Horizontaal centreren"
+   },
+   "cellhalignleft_aria_spoken_word": {
+      "message": "Horizontaal links"
+   },
+   "cellhalignright_aria_spoken_word": {
+      "message": "Horizontaal rechts"
+   },
+   "cellvalignbottom_aria_spoken_word": {
+      "message": "Verticaal onder"
+   },
+   "cellvaligncenter_aria_spoken_word": {
+      "message": "Verticaal centreren"
+   },
+   "cellvaligntop_aria_spoken_word": {
+      "message": "Verticaal boven"
+   },
+   "char_count_label": {
+      "message": "Tekens"
+   },
+   "char_no_spaces_count_label": {
+      "message": "Tekens exclusief spaties"
+   },
+   "close_dialog_aria_spoken_word": {
+      "message": "Dialoogvenster sluiten"
+   },
+   "cmd_dropdown_initaddshape_aria_spoken_word": {
+      "message": "dropdownmenu voor vormen"
+   },
+   "collapsed": {
+      "message": "Samengevouwen"
+   },
+   "collapsed_menu": {
+      "message": "$1 Samengevouwen met submenu.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "color_black": {
+      "message": "Zwart"
+   },
+   "color_blaze_orange": {
+      "message": "Feloranje"
+   },
+   "color_blue": {
+      "message": "Blauw"
+   },
+   "color_brown": {
+      "message": "Bruin"
+   },
+   "color_cornflower_blue": {
+      "message": "Korenblauw"
+   },
+   "color_cyan": {
+      "message": "Cyaan"
+   },
+   "color_dark_blue": {
+      "message": "Donkerblauw"
+   },
+   "color_dark_blue_1": {
+      "message": "Donkerblauw 1"
+   },
+   "color_dark_blue_2": {
+      "message": "Donkerblauw 2"
+   },
+   "color_dark_blue_3": {
+      "message": "Donkerblauw 3"
+   },
+   "color_dark_blue_grey": {
+      "message": "Donkerblauwgrijs"
+   },
+   "color_dark_cornflower_blue_1": {
+      "message": "Donkerkorenblauw 1"
+   },
+   "color_dark_cornflower_blue_2": {
+      "message": "Donkerkorenblauw 2"
+   },
+   "color_dark_cornflower_blue_3": {
+      "message": "Donkerkorenblauw 3"
+   },
+   "color_dark_cyan": {
+      "message": "Donkercyaan"
+   },
+   "color_dark_cyan_1": {
+      "message": "Donkercyaan 1"
+   },
+   "color_dark_cyan_2": {
+      "message": "Donkercyaan 2"
+   },
+   "color_dark_cyan_3": {
+      "message": "Donkercyaan 3"
+   },
+   "color_dark_gray": {
+      "message": "Donkergrijs"
+   },
+   "color_dark_gray_1": {
+      "message": "Donkergrijs 1"
+   },
+   "color_dark_gray_2": {
+      "message": "Donkergrijs 2"
+   },
+   "color_dark_gray_3": {
+      "message": "Donkergrijs 3"
+   },
+   "color_dark_gray_4": {
+      "message": "Donkergrijs 4"
+   },
+   "color_dark_green": {
+      "message": "Donkergroen"
+   },
+   "color_dark_green_1": {
+      "message": "Donkergroen 1"
+   },
+   "color_dark_green_2": {
+      "message": "Donkergroen 2"
+   },
+   "color_dark_green_3": {
+      "message": "Donkergroen 3"
+   },
+   "color_dark_green_5": {
+      "message": "Donkergroen 5"
+   },
+   "color_dark_grey_2": {
+      "message": "Donkergrijs 2"
+   },
+   "color_dark_grey_5": {
+      "message": "Donkergrijs 5"
+   },
+   "color_dark_magenta_1": {
+      "message": "Donkermagenta 1"
+   },
+   "color_dark_magenta_2": {
+      "message": "Donkermagenta 2"
+   },
+   "color_dark_magenta_3": {
+      "message": "Donkermagenta 3"
+   },
+   "color_dark_olive_green": {
+      "message": "Donkerolijfgroen"
+   },
+   "color_dark_orange_1": {
+      "message": "Donkeroranje 1"
+   },
+   "color_dark_orange_2": {
+      "message": "Donkeroranje 2"
+   },
+   "color_dark_orange_3": {
+      "message": "Donkeroranje 3"
+   },
+   "color_dark_purple_1": {
+      "message": "Donkerpaars 1"
+   },
+   "color_dark_purple_2": {
+      "message": "Donkerpaars 2"
+   },
+   "color_dark_purple_3": {
+      "message": "Donkerpaars 3"
+   },
+   "color_dark_red": {
+      "message": "Donkerrood"
+   },
+   "color_dark_red_1": {
+      "message": "Donkerrood 1"
+   },
+   "color_dark_red_2": {
+      "message": "Donkerrood 2"
+   },
+   "color_dark_red_3": {
+      "message": "Donkerrood 3"
+   },
+   "color_dark_red_berry_1": {
+      "message": "Donkerbessenrood 1"
+   },
+   "color_dark_red_berry_2": {
+      "message": "Donkerbessenrood 2"
+   },
+   "color_dark_red_berry_3": {
+      "message": "Donkerbessenrood 3"
+   },
+   "color_dark_slate_blue": {
+      "message": "Donkergrijsblauw"
+   },
+   "color_dark_yellow_1": {
+      "message": "Donkergeel 1"
+   },
+   "color_dark_yellow_2": {
+      "message": "Donkergeel 2"
+   },
+   "color_dark_yellow_3": {
+      "message": "Donkergeel 3"
+   },
+   "color_deep_pink": {
+      "message": "Dieproze"
+   },
+   "color_deep_sky_blue": {
+      "message": "Diephemelsblauw"
+   },
+   "color_eucalyptus_green": {
+      "message": "Eucalyptusgroen"
+   },
+   "color_gold": {
+      "message": "Goud"
+   },
+   "color_gray": {
+      "message": "Grijs"
+   },
+   "color_green": {
+      "message": "Groen"
+   },
+   "color_light_blue": {
+      "message": "Lichtblauw"
+   },
+   "color_light_blue_1": {
+      "message": "Lichtblauw 1"
+   },
+   "color_light_blue_2": {
+      "message": "Lichtblauw 2"
+   },
+   "color_light_blue_3": {
+      "message": "Lichtblauw 3"
+   },
+   "color_light_cornflower_blue_1": {
+      "message": "Lichtkorenblauw 1"
+   },
+   "color_light_cornflower_blue_2": {
+      "message": "Lichtkorenblauw 2"
+   },
+   "color_light_cornflower_blue_3": {
+      "message": "Lichtkorenblauw 3"
+   },
+   "color_light_cyan": {
+      "message": "Lichtcyaan"
+   },
+   "color_light_cyan_1": {
+      "message": "Lichtcyaan 1"
+   },
+   "color_light_cyan_2": {
+      "message": "Lichtcyaan 2"
+   },
+   "color_light_cyan_3": {
+      "message": "Lichtcyaan 3"
+   },
+   "color_light_gray": {
+      "message": "Lichtgrijs"
+   },
+   "color_light_gray_1": {
+      "message": "Lichtgrijs 1"
+   },
+   "color_light_gray_2": {
+      "message": "Lichtgrijs 2"
+   },
+   "color_light_gray_3": {
+      "message": "Lichtgrijs 3"
+   },
+   "color_light_green": {
+      "message": "Lichtgroen"
+   },
+   "color_light_green_1": {
+      "message": "Lichtgroen 1"
+   },
+   "color_light_green_2": {
+      "message": "Lichtgroen 2"
+   },
+   "color_light_green_3": {
+      "message": "Lichtgroen 3"
+   },
+   "color_light_magenta_1": {
+      "message": "Lichtmagenta 1"
+   },
+   "color_light_magenta_2": {
+      "message": "Lichtmagenta 2"
+   },
+   "color_light_magenta_3": {
+      "message": "Lichtmagenta 3"
+   },
+   "color_light_orange_1": {
+      "message": "Lichtoranje 1"
+   },
+   "color_light_orange_2": {
+      "message": "Lichtoranje 2"
+   },
+   "color_light_orange_3": {
+      "message": "Lichtoranje 3"
+   },
+   "color_light_purple": {
+      "message": "Lichtpaars"
+   },
+   "color_light_purple_1": {
+      "message": "Lichtpaars 1"
+   },
+   "color_light_purple_2": {
+      "message": "Lichtpaars 2"
+   },
+   "color_light_purple_3": {
+      "message": "Lichtpaars 3"
+   },
+   "color_light_red_1": {
+      "message": "Lichtrood 1"
+   },
+   "color_light_red_2": {
+      "message": "Lichtrood 2"
+   },
+   "color_light_red_3": {
+      "message": "Lichtrood 3"
+   },
+   "color_light_red_berry_1": {
+      "message": "Lichtbessenrood 1"
+   },
+   "color_light_red_berry_2": {
+      "message": "Lichtbessenrood 2"
+   },
+   "color_light_red_berry_3": {
+      "message": "Lichtbessenrood 3"
+   },
+   "color_light_yellow": {
+      "message": "Lichtgeel"
+   },
+   "color_light_yellow_1": {
+      "message": "Lichtgeel 1"
+   },
+   "color_light_yellow_2": {
+      "message": "Lichtgeel 2"
+   },
+   "color_light_yellow_3": {
+      "message": "Lichtgeel 3"
+   },
+   "color_magenta": {
+      "message": "Magenta"
+   },
+   "color_maroon": {
+      "message": "Kastanjebruin"
+   },
+   "color_midnight_blue": {
+      "message": "Middernachtblauw"
+   },
+   "color_navy": {
+      "message": "Marineblauw"
+   },
+   "color_olive": {
+      "message": "Olijf"
+   },
+   "color_orange": {
+      "message": "Oranje"
+   },
+   "color_peach": {
+      "message": "Perzik"
+   },
+   "color_pink": {
+      "message": "Roze"
+   },
+   "color_pistachio": {
+      "message": "Pistache"
+   },
+   "color_purple": {
+      "message": "Paars"
+   },
+   "color_red": {
+      "message": "Rood"
+   },
+   "color_red_berry": {
+      "message": "Bessenrood"
+   },
+   "color_royal_blue": {
+      "message": "Koningsblauw"
+   },
+   "color_teal": {
+      "message": "Blauwgroen"
+   },
+   "color_turquiose": {
+      "message": "Turquoise"
+   },
+   "color_white": {
+      "message": "Wit"
+   },
+   "color_yellow": {
+      "message": "Geel"
+   },
+   "command_key": {
+      "message": "Command"
+   },
+   "content_msg_merging_horizontally_across_vertical_section": {
+      "message": "Je kunt niet horizontaal samenvoegen in een bestaand gedeelte dat al verticaal is samengevoegd."
+   },
+   "content_msg_merging_multiple_cells_with_text": {
+      "message": "Als je cellen samenvoegt, wordt alleen de meest linkse waarde bovenaan behouden. Toch samenvoegen?"
+   },
+   "content_msg_merging_partially_selected_merged_cells": {
+      "message": "Je moet alle cellen in een samengevoegd bereik selecteren om ze samen te voegen of het samenvoegen ongedaan te maken."
+   },
+   "content_msg_merging_vertically_across_horizontal_section": {
+      "message": "Je kunt niet verticaal samenvoegen in een bestaand gedeelte dat al horizontaal is samengevoegd."
+   },
+   "content_render_error_msg": {
+      "message": "Er is een probleem met de content van dit document."
+   },
+   "context_menu_clipboard_copy": {
+      "message": "Kopiëren"
+   },
+   "context_menu_delete": {
+      "message": "Verwijderen"
+   },
+   "context_menu_freeze": {
+      "message": "Vastzetten"
+   },
+   "context_menu_insert": {
+      "message": "Invoegen"
+   },
+   "context_menu_sort_collation_ascending": {
+      "message": "Sorteren van A-Z"
+   },
+   "context_menu_sort_collation_descending": {
+      "message": "Sorteren van Z-A"
+   },
+   "context_menu_unfreeze": {
+      "message": "Losmaken"
+   },
+   "control_key": {
+      "message": "Ctrl"
+   },
+   "convert_attempt_when_offline": {
+      "message": "Je moet online zijn om dit op te slaan als Google Documenten. Probeer het opnieuw wanneer je verbinding is hersteld."
+   },
+   "convert_attempt_with_invalid_creds": {
+      "message": "Je moet inloggen op je Google-account om dit bestand te converteren."
+   },
+   "convert_cancel": {
+      "message": "Annuleren"
+   },
+   "convert_to_google_docs_failed": {
+      "message": "Er is een probleem opgetreden bij het converteren van je document naar Google Documenten."
+   },
+   "convert_to_google_point_fail_short_msg": {
+      "message": "Oeps"
+   },
+   "convert_to_google_point_short_msg": {
+      "message": "Opslaan als Google Presentaties"
+   },
+   "convert_to_google_sheet_fail_short_msg": {
+      "message": "Oeps"
+   },
+   "convert_to_google_sheet_short_msg": {
+      "message": "Opslaan als Google Spreadsheets"
+   },
+   "convert_to_google_word_fail_short_msg": {
+      "message": "Oeps"
+   },
+   "convert_to_google_word_short_msg": {
+      "message": "Opslaan als Google Documenten"
+   },
+   "convert_try_again": {
+      "message": "Opnieuw proberen"
+   },
+   "converting_to_google_point_fail_msg": {
+      "message": "Je bestand kan op dit moment niet worden opgeslagen als Google-presentatie."
+   },
+   "converting_to_google_point_msg": {
+      "message": "Er wordt een nieuwe versie van je presentatie opgeslagen als Google-presentatie."
+   },
+   "converting_to_google_sheet_fail_msg": {
+      "message": "Je bestand kan op dit moment niet worden opgeslagen als Google-spreadsheet."
+   },
+   "converting_to_google_sheet_msg": {
+      "message": "Er wordt een nieuwe versie van je spreadsheet opgeslagen als Google-spreadsheet."
+   },
+   "converting_to_google_word_fail_msg": {
+      "message": "Je bestand kan op dit moment niet worden opgeslagen als Google-document."
+   },
+   "converting_to_google_word_msg": {
+      "message": "Er wordt een nieuwe versie van je document opgeslagen als Google-document."
+   },
+   "copy_attempt_when_offline": {
+      "message": "Je moet online zijn om een kopie te maken op Google Drive. Probeer het opnieuw wanneer je verbinding is hersteld."
+   },
+   "copy_attempt_with_invalid_creds": {
+      "message": "Je moet inloggen op je Google-account om een kopie te maken."
+   },
+   "disabled_share_button": {
+      "message": "Bestanden met macro's kunnen alleen worden gedeeld vanuit Google Drive. Delen is uitgeschakeld."
+   },
+   "disallowed_cut_copy_paste_cmd_copy": {
+      "message": "voor kopiëren"
+   },
+   "disallowed_cut_copy_paste_cmd_cut": {
+      "message": "voor knippen"
+   },
+   "disallowed_cut_copy_paste_cmd_paste": {
+      "message": "voor plakken"
+   },
+   "disallowed_cut_copy_paste_msg": {
+      "message": "Deze acties zijn niet beschikbaar via de menu's Bewerken en Context, maar je kunt ze wel op de volgende manier uitvoeren:"
+   },
+   "disallowed_cut_copy_paste_title": {
+      "message": "Kopiëren en plakken in de Office-compatibiliteitsmodus"
+   },
+   "dismiss": {
+      "message": "Sluiten"
+   },
+   "document_title_aria_spoken_word": {
+      "message": "Documenttitel:"
+   },
+   "down_key": {
+      "message": "Omlaag"
+   },
+   "download_button": {
+      "message": "Downloaden"
+   },
+   "download_file_timeout_error_msg": {
+      "message": "Het duurt langer dan verwacht om het bestand te laden dat je wilt openen. Controleer je netwerkverbinding en probeer het opnieuw."
+   },
+   "download_file_timeout_error_short_msg": {
+      "message": "Het duurt langer dan verwacht om het bestand te downloaden"
+   },
+   "drive_open_timeout_error_msg": {
+      "message": "Er is mogelijk een probleem met je internetverbinding. Controleer je verbinding en probeer het bestand opnieuw te openen. Als deze fout opnieuw optreedt en je bent online, kun je hieronder een probleem melden."
+   },
+   "drive_open_timeout_error_short_msg": {
+      "message": "Het door jou opgevraagde bestand kan niet worden geopend."
+   },
+   "duplicate_sheet_name_message": {
+      "message": "Geef een werkbladnaam op die niet wordt gebruikt door een ander werkblad"
+   },
+   "duplicate_sheet_name_title": {
+      "message": "Die werkbladnaam wordt al gebruikt"
+   },
+   "edits_not_being_saved": {
+      "message": "Bewerkingen worden niet automatisch opgeslagen."
+   },
+   "edits_now_being_auto_saved": {
+      "message": "Bestand opgeslagen. Alle bewerkingen worden nu automatisch opgeslagen."
+   },
+   "entry_point_error_msg": {
+      "message": "Probeer het opnieuw of meld een probleem hieronder."
+   },
+   "entry_point_error_short_msg": {
+      "message": "We kunnen niet vaststellen welk bestand je wilt openen."
+   },
+   "error_occurred": {
+      "message": "Er is een fout opgetreden."
+   },
+   "error_password_required_msg": {
+      "message": "We ondersteunen op dit moment geen beveiligde bestanden, maar we zijn ermee bezig."
+   },
+   "error_password_required_short_msg": {
+      "message": "Dit bestand is beveiligd met een wachtwoord."
+   },
+   "expanded": {
+      "message": "Uitgevouwen"
+   },
+   "expanded_menu": {
+      "message": "$1 Uitgevouwen met submenu.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "extension_description": {
+      "message": "Bekijk en bewerk bestanden uit Microsoft Word, Excel en PowerPoint met Google Documenten, Spreadsheets en Presentaties"
+   },
+   "extension_name": {
+      "message": "Office Editor"
+   },
+   "extension_popup_message_body": {
+      "message": "Als je bestaande bestanden wilt openen, sleep je ze naar de browser"
+   },
+   "extension_popup_new_document_header": {
+      "message": "Nieuw..."
+   },
+   "extension_popup_new_presentation_document": {
+      "message": "PowerPoint-presentatie"
+   },
+   "extension_popup_new_spreadsheet_document": {
+      "message": "Excel-spreadsheet"
+   },
+   "extension_popup_new_word_document": {
+      "message": "Word-document"
+   },
+   "feedback_textbox_editing": {
+      "message": "Bied ondersteuning voor het bewerken van tekst in tekstvakken."
+   },
+   "feedback_ui_template": {
+      "message": "1- Beschrijf het probleem dat optreedt.\n2- Treedt het probleem op wanneer je een bestand probeert te openen of wanneer je een bestand probeert te bewerken?\n3- Treedt dit probleem altijd op wanneer je bestanden probeert te openen of bewerken of alleen bij specifieke bestanden?\n\nAls het probleem alleen optreedt bij een specifiek bestand, kun je dit bestand toevoegen aan dit rapport. Dit is erg handig bij het oplossen van het probleem."
+   },
+   "file_does_not_exist_error_details": {
+      "message": "Dit bestand bestaat niet. Je probeert mogelijk een gedeelde link of een document met een bladwijzer te openen. Probeer het bestand opnieuw te openen vanuit de oorspronkelijke bron."
+   },
+   "file_does_not_exist_error_title": {
+      "message": "Bestand niet gevonden."
+   },
+   "file_loading_spinner_label": {
+      "message": "Wordt geladen"
+   },
+   "file_missing_content_msg": {
+      "message": "Er is een probleem opgetreden bij het lezen van de volledige content van dit bestand. We raden je aan het bestand te hernoemen en opnieuw te openen"
+   },
+   "file_missing_content_short_msg": {
+      "message": "Er ontbreekt content in het document."
+   },
+   "file_not_found_error_msg": {
+      "message": "Vraag na bij de eigenaar van het bestand of je rechten hebt om het bestand te gebruiken. Als het probleem blijft optreden en je over rechten beschikt, kun je hieronder een probleem melden."
+   },
+   "file_not_found_error_short_msg": {
+      "message": "Het door jou opgevraagde bestand kan niet worden geopend."
+   },
+   "file_not_found_exception": {
+      "message": "Het opgevraagde bestand is wellicht verwijderd, verplaatst naar een andere locatie of de naam ervan is gewijzigd. Klik op 'Nu opslaan' om door te gaan."
+   },
+   "file_not_found_link_text": {
+      "message": "Zie dit artikel voor hulp bij meerdere accounts"
+   },
+   "file_not_found_msg": {
+      "message": "Het bestand dat je hebt opgevraagd, is niet beschikbaar."
+   },
+   "file_not_found_title": {
+      "message": "Bestand niet gevonden"
+   },
+   "file_open_crash_error_msg": {
+      "message": "Als de fout blijft optreden, meld je hieronder een probleem."
+   },
+   "file_open_crash_error_short_msg": {
+      "message": "Het door jou opgevraagde bestand kan niet worden geopend."
+   },
+   "file_open_error_msg": {
+      "message": "De content van dit bestand is niet toegankelijk."
+   },
+   "file_open_error_short_msg": {
+      "message": "Dit bestand lijkt beschadigd te zijn."
+   },
+   "file_open_fail_download_link_text": {
+      "message": "Het bestand downloaden"
+   },
+   "file_opened_in_incognito_mode_error_details": {
+      "message": "De extensie Office Editor werkt niet in de incognitomodus. Open dit bestand in een normaal Chrome-venster. Als je de gastmodus gebruikt, kon het bestand niet worden geopend. Zorg dat het bestand niet corrupt of van een ongeldig documenttype is en probeer het opnieuw."
+   },
+   "file_opened_in_incognito_mode_error_title": {
+      "message": "Oeps! De incognitomodus wordt niet ondersteund."
+   },
+   "file_pdf_type_rename_msg": {
+      "message": "Wijzig de naam van het bestand in $1.pdf en probeer het opnieuw.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_rtf_type_rename_msg": {
+      "message": "Wijzig de naam van het bestand in $1.rtf",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_type_unsupported_msg": {
+      "message": "Dit bestandstype wordt niet ondersteund."
+   },
+   "fillcolor_aria_spoken_word": {
+      "message": "dropdownmenu voor tekstkleur"
+   },
+   "fontface_aria_spoken_word": {
+      "message": "dropdownmenu voor lettertype"
+   },
+   "fontsize_aria_spoken_word": {
+      "message": "dropdownmenu voor tekengrootte"
+   },
+   "forbidden_access_level_error_msg": {
+      "message": "Vraag na bij de eigenaar van het bestand of je rechten hebt om het bestand te openen. Als het probleem blijft optreden en je over rechten beschikt, kun je hieronder een probleem melden."
+   },
+   "forbidden_access_level_error_short_msg": {
+      "message": "Het door jou opgevraagde bestand kan niet worden geopend."
+   },
+   "forbidden_app_access_error_msg": {
+      "message": "We hebben geen rechten om dit bestand te openen. Probeer het bestand te openen vanuit Google Drive of meld hieronder een probleem."
+   },
+   "forbidden_app_access_error_short_msg": {
+      "message": "Het door jou opgevraagde bestand kan niet worden geopend."
+   },
+   "forbidden_app_id_error_msg": {
+      "message": "De Chrome-extensie is mogelijk niet correct geconfigureerd. Hoe kan dat? Dat weten we niet precies, maar meld hieronder een probleem."
+   },
+   "forbidden_app_id_error_short_msg": {
+      "message": "Het door jou opgevraagde bestand kan niet worden geopend."
+   },
+   "forbidden_blacklist_error_msg": {
+      "message": "Deze Chrome-extensie is mogelijk op een zwarte lijst geplaatst. Dit is duidelijk een fout, dus laat ons dit weten door hieronder een probleem te melden."
+   },
+   "forbidden_blacklist_error_short_msg": {
+      "message": "Het door jou opgevraagde bestand kan niet worden geopend."
+   },
+   "forbidden_domain_error_msg": {
+      "message": "Toegang tot dit bestand wordt mogelijk geweigerd door je domein. Neem contact op met je domeinbeheerder of meld hieronder een probleem."
+   },
+   "forbidden_domain_error_short_msg": {
+      "message": "Het door jou opgevraagde bestand kan niet worden geopend."
+   },
+   "forbidden_internal_error_msg": {
+      "message": "Google Drive werkt helaas niet zoals verwacht. Probeer het bestand opnieuw te openen of meld hieronder een probleem."
+   },
+   "forbidden_internal_error_short_msg": {
+      "message": "Het door jou opgevraagde bestand kan niet worden geopend."
+   },
+   "forbidden_not_installed_error_msg": {
+      "message": "De Chrome-extensie is mogelijk niet correct geïnstalleerd. Hoe kan dat? Dat weten we niet precies, maar meld hieronder een probleem."
+   },
+   "forbidden_not_installed_error_short_msg": {
+      "message": "Het door jou opgevraagde bestand kan niet worden geopend."
+   },
+   "generic_error_msg": {
+      "message": "Er is een probleem met de content van dit document."
+   },
+   "generic_error_short_msg": {
+      "message": "Dat was niet de bedoeling. Laad de pagina opnieuw om je wijzigingen te herstellen."
+   },
+   "get_lists_data_error_msg": {
+      "message": "Het document kan worden gegenereerd met een onjuiste lijstopmaak."
+   },
+   "get_lists_data_error_short_msg": {
+      "message": "Kan documentopmaak niet ophalen."
+   },
+   "highlightcolor_aria_spoken_word": {
+      "message": "dropdownmenu voor tekstmarkeringskleur"
+   },
+   "http_error_zero_msg": {
+      "message": "Voor het geval het een netwerkprobleem is, controleer je je verbinding. Je kunt het ook later opnieuw proberen. Als het probleem blijft optreden, meld je het probleem hieronder."
+   },
+   "http_error_zero_short_msg": {
+      "message": "Het bestand kan niet worden geopend."
+   },
+   "info_file_copied": {
+      "message": "Opgeslagen"
+   },
+   "info_file_save_cancelled": {
+      "message": "Opslaan is geannuleerd."
+   },
+   "info_file_save_failed": {
+      "message": "Opslaan mislukt."
+   },
+   "info_file_saved_at_location": {
+      "message": "Alle wijzigingen opgeslagen in $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "info_file_saved_in_drive": {
+      "message": "Alle wijzigingen zijn opgeslagen in Drive"
+   },
+   "info_file_saved_locally": {
+      "message": "Alle wijzigingen zijn lokaal opgeslagen"
+   },
+   "info_file_saved_offline": {
+      "message": "Alle wijzigingen zijn offline opgeslagen"
+   },
+   "info_file_saving": {
+      "message": "Wordt opgeslagen…"
+   },
+   "initaddshape_aria_spoken_word": {
+      "message": "tekstvak toevoegen"
+   },
+   "invalid_credentials_error_msg": {
+      "message": "Je moet inloggen op je Google-account om dit bestand te openen."
+   },
+   "invalid_credentials_error_short_msg": {
+      "message": "Het door jou opgevraagde bestand kan niet worden geopend."
+   },
+   "invalid_file_format_msg": {
+      "message": "Hoewel het bestand lijkt op een Office-document en de extensie heeft van een Office-bestand, is het een ander bestandstype waarvan de naam is gewijzigd of dat op een andere manier is aangepast. Het kan ook een bestandstype zijn dat niet wordt ondersteund."
+   },
+   "invalid_file_format_short_msg": {
+      "message": "We kunnen dit type document helaas niet openen."
+   },
+   "italic_aria_spoken_word": {
+      "message": "cursief"
+   },
+   "keyboard_shortcut_group_actions": {
+      "message": "Acties"
+   },
+   "keyboard_shortcut_group_other": {
+      "message": "Overige"
+   },
+   "keyboard_shortcut_group_paragraph_formatting": {
+      "message": "Alinea-opmaak"
+   },
+   "keyboard_shortcut_group_text_formatting": {
+      "message": "Tekstopmaak"
+   },
+   "keyboard_shortcut_group_top_menus": {
+      "message": "Menu's"
+   },
+   "keyboard_shortcut_group_with_slides": {
+      "message": "Met Presentaties"
+   },
+   "keyboard_shortcut_title": {
+      "message": "Sneltoetsen"
+   },
+   "make_a_copy_fail_msg": {
+      "message": "Er kan op dit moment geen kopie worden gemaakt."
+   },
+   "menu_button_data": {
+      "message": "Gegevens"
+   },
+   "menu_button_edit": {
+      "message": "Bewerken"
+   },
+   "menu_button_file": {
+      "message": "Bestand"
+   },
+   "menu_button_format": {
+      "message": "Opmaak"
+   },
+   "menu_button_help": {
+      "message": "Help"
+   },
+   "menu_button_insert": {
+      "message": "Invoegen"
+   },
+   "menu_button_slide": {
+      "message": "Dia"
+   },
+   "menu_button_tools": {
+      "message": "Tools"
+   },
+   "menu_button_view": {
+      "message": "Beeld"
+   },
+   "menu_item_10_point_star": {
+      "message": "Ster met 10 punten"
+   },
+   "menu_item_12_point_star": {
+      "message": "Ster met 12 punten"
+   },
+   "menu_item_16_point_star": {
+      "message": "Ster met 16 punten"
+   },
+   "menu_item_24_point_star": {
+      "message": "Ster met 24 punten"
+   },
+   "menu_item_32_point_star": {
+      "message": "Ster met 32 punten"
+   },
+   "menu_item_4_point_star": {
+      "message": "Ster met 4 punten"
+   },
+   "menu_item_5_point_star": {
+      "message": "Ster met 5 punten"
+   },
+   "menu_item_6_point_star": {
+      "message": "Ster met 6 punten"
+   },
+   "menu_item_7_point_star": {
+      "message": "Ster met 7 punten"
+   },
+   "menu_item_8_point_star": {
+      "message": "Ster met 8 punten"
+   },
+   "menu_item_align": {
+      "message": "Uitlijnen"
+   },
+   "menu_item_align_center": {
+      "message": "Centreren"
+   },
+   "menu_item_align_justified": {
+      "message": "Uitvullen"
+   },
+   "menu_item_align_left": {
+      "message": "Links"
+   },
+   "menu_item_align_right": {
+      "message": "Rechts"
+   },
+   "menu_item_arrows": {
+      "message": "Pijlen"
+   },
+   "menu_item_bent_arrow": {
+      "message": "Gebogen pijl"
+   },
+   "menu_item_bent_up_arrow": {
+      "message": "Omhoog gebogen pijl"
+   },
+   "menu_item_bevel": {
+      "message": "Schuine rand"
+   },
+   "menu_item_block_arc": {
+      "message": "Blokboog"
+   },
+   "menu_item_bold": {
+      "message": "Vet"
+   },
+   "menu_item_callouts": {
+      "message": "Toelichtingen"
+   },
+   "menu_item_can": {
+      "message": "Blik"
+   },
+   "menu_item_chevron": {
+      "message": "Punthaak"
+   },
+   "menu_item_chord": {
+      "message": "Koorde"
+   },
+   "menu_item_clear_formatting": {
+      "message": "Opmaak wissen"
+   },
+   "menu_item_cloud": {
+      "message": "Wolk"
+   },
+   "menu_item_cloud_callout": {
+      "message": "Wolkvormige toelichting"
+   },
+   "menu_item_color_none": {
+      "message": "Geen"
+   },
+   "menu_item_color_transparent": {
+      "message": "Transparant"
+   },
+   "menu_item_convert_to_docs": {
+      "message": "Opslaan als Google Documenten"
+   },
+   "menu_item_convert_to_sheets": {
+      "message": "Opslaan als Google Spreadsheets"
+   },
+   "menu_item_convert_to_slides": {
+      "message": "Opslaan als Google Presentaties"
+   },
+   "menu_item_copy": {
+      "message": "Kopiëren"
+   },
+   "menu_item_cross": {
+      "message": "Kruis"
+   },
+   "menu_item_cube": {
+      "message": "Kubus"
+   },
+   "menu_item_curved_down_arrow": {
+      "message": "Gekromde pijl-omlaag"
+   },
+   "menu_item_curved_left_arrow": {
+      "message": "Gekromde pijl-links"
+   },
+   "menu_item_curved_right_arrow": {
+      "message": "Gekromde pijl-rechts"
+   },
+   "menu_item_curved_up_arrow": {
+      "message": "Gekromde pijl-omhoog"
+   },
+   "menu_item_cut": {
+      "message": "Knippen"
+   },
+   "menu_item_decagon": {
+      "message": "Tienhoek"
+   },
+   "menu_item_delete_column": {
+      "message": "Kolom verwijderen"
+   },
+   "menu_item_delete_row": {
+      "message": "Rij verwijderen"
+   },
+   "menu_item_delete_value": {
+      "message": "Waarde verwijderen"
+   },
+   "menu_item_deleteslide": {
+      "message": "Dia verwijderen"
+   },
+   "menu_item_diagonal_stripe": {
+      "message": "Diagonale streep"
+   },
+   "menu_item_diamond": {
+      "message": "Ruit"
+   },
+   "menu_item_divide": {
+      "message": "Delen"
+   },
+   "menu_item_dodecagon": {
+      "message": "Twaalfhoek"
+   },
+   "menu_item_donut": {
+      "message": "Ring"
+   },
+   "menu_item_double_brace": {
+      "message": "Accolades"
+   },
+   "menu_item_double_bracket": {
+      "message": "Vierkant haken"
+   },
+   "menu_item_down_arrow": {
+      "message": "Pijl-omlaag"
+   },
+   "menu_item_down_arrow_callout": {
+      "message": "Toelichting met pijl-omlaag"
+   },
+   "menu_item_duplicateslide": {
+      "message": "Dubbele dia"
+   },
+   "menu_item_equal": {
+      "message": "Gelijk aan"
+   },
+   "menu_item_equation": {
+      "message": "Vergelijking"
+   },
+   "menu_item_explosion_1": {
+      "message": "Explosie 1"
+   },
+   "menu_item_explosion_2": {
+      "message": "Explosie 2"
+   },
+   "menu_item_flowchart_alternate_process": {
+      "message": "Stroomdiagram: alternatief proces"
+   },
+   "menu_item_flowchart_card": {
+      "message": "Stroomdiagram: kaart"
+   },
+   "menu_item_flowchart_collate": {
+      "message": "Stroomdiagram: verzamelen"
+   },
+   "menu_item_flowchart_connector": {
+      "message": "Stroomdiagram: verbindingslijn"
+   },
+   "menu_item_flowchart_data": {
+      "message": "Stroomdiagram: gegevens"
+   },
+   "menu_item_flowchart_decision": {
+      "message": "Stroomdiagram: beslissing"
+   },
+   "menu_item_flowchart_delay": {
+      "message": "Stroomdiagram: uitstel"
+   },
+   "menu_item_flowchart_direct_access_storage": {
+      "message": "Stroomdiagram: opslag met directe toegang"
+   },
+   "menu_item_flowchart_display": {
+      "message": "Stroomdiagram: weergave"
+   },
+   "menu_item_flowchart_document": {
+      "message": "Stroomdiagram: document"
+   },
+   "menu_item_flowchart_extract": {
+      "message": "Stroomdiagram: ophalen"
+   },
+   "menu_item_flowchart_internal_storage": {
+      "message": "Stroomdiagram: interne opslag"
+   },
+   "menu_item_flowchart_magnetic_disk": {
+      "message": "Stroomdiagram: magnetische schijf"
+   },
+   "menu_item_flowchart_manual_input": {
+      "message": "Stroomdiagram: handmatige invoer"
+   },
+   "menu_item_flowchart_manual_operation": {
+      "message": "Stroomdiagram: handmatige bewerking"
+   },
+   "menu_item_flowchart_merge": {
+      "message": "Stroomdiagram: samenvoegen"
+   },
+   "menu_item_flowchart_multidocument": {
+      "message": "Stroomdiagram: meerdere documenten"
+   },
+   "menu_item_flowchart_off_page_connector": {
+      "message": "Stroomdiagram: verbindingslijn naar een andere pagina"
+   },
+   "menu_item_flowchart_or": {
+      "message": "Stroomdiagram: of"
+   },
+   "menu_item_flowchart_predefined_process": {
+      "message": "Stroomdiagram: vooraf ingesteld proces"
+   },
+   "menu_item_flowchart_preparation": {
+      "message": "Stroomdiagram: voorbereiding"
+   },
+   "menu_item_flowchart_process": {
+      "message": "Stroomdiagram: proces"
+   },
+   "menu_item_flowchart_punched_tape": {
+      "message": "Stroomdiagram: ponsband"
+   },
+   "menu_item_flowchart_sequential_access_storage": {
+      "message": "Stroomdiagram: opslag met sequentiële toegang"
+   },
+   "menu_item_flowchart_sort": {
+      "message": "Stroomdiagram: sorteren"
+   },
+   "menu_item_flowchart_stored_data": {
+      "message": "Stroomdiagram: opgeslagen gegevens"
+   },
+   "menu_item_flowchart_summing_junction": {
+      "message": "Stroomdiagram: samenvoeging"
+   },
+   "menu_item_flowchart_terminator": {
+      "message": "Stroomdiagram: scheidingslijn"
+   },
+   "menu_item_folded_corner": {
+      "message": "Ezelsoor"
+   },
+   "menu_item_frame": {
+      "message": "Kader"
+   },
+   "menu_item_half_frame": {
+      "message": "Half kader"
+   },
+   "menu_item_heart": {
+      "message": "Hart"
+   },
+   "menu_item_help_center": {
+      "message": "Helpcentrum"
+   },
+   "menu_item_heptagon": {
+      "message": "Zevenhoek"
+   },
+   "menu_item_hexagon": {
+      "message": "Zeshoek"
+   },
+   "menu_item_hideslide": {
+      "message": "Dia verbergen"
+   },
+   "menu_item_insert_column": {
+      "message": "Kolom"
+   },
+   "menu_item_insert_image": {
+      "message": "Afbeelding"
+   },
+   "menu_item_insert_row": {
+      "message": "Rij"
+   },
+   "menu_item_insert_text_box": {
+      "message": "Tekstvak"
+   },
+   "menu_item_insertslide": {
+      "message": "Nieuwe dia"
+   },
+   "menu_item_italic": {
+      "message": "Cursief"
+   },
+   "menu_item_keyboard_shortcuts": {
+      "message": "Sneltoetsen"
+   },
+   "menu_item_l_shape": {
+      "message": "L-vorm"
+   },
+   "menu_item_left_arrow": {
+      "message": "Pijl-links"
+   },
+   "menu_item_left_arrow_callout": {
+      "message": "Toelichting met pijl-links"
+   },
+   "menu_item_left_brace": {
+      "message": "Linkeraccolade"
+   },
+   "menu_item_left_bracket": {
+      "message": "Vierkante haak links"
+   },
+   "menu_item_left_right_arrow": {
+      "message": "Pijl-links-rechts"
+   },
+   "menu_item_left_right_arrow_callout": {
+      "message": "Toelichting met pijl-links-rechts"
+   },
+   "menu_item_left_right_up_arrow": {
+      "message": "Pijl-links-rechts-omhoog"
+   },
+   "menu_item_left_up_arrow": {
+      "message": "Pijl-links-omhoog"
+   },
+   "menu_item_lightning_bolt": {
+      "message": "Bliksemflits"
+   },
+   "menu_item_make_a_copy": {
+      "message": "Een kopie maken…"
+   },
+   "menu_item_merge_all": {
+      "message": "Alles samenvoegen"
+   },
+   "menu_item_merge_cells": {
+      "message": "Cellen samenvoegen"
+   },
+   "menu_item_merge_horizontally": {
+      "message": "Horizontaal samenvoegen"
+   },
+   "menu_item_merge_vertically": {
+      "message": "Verticaal samenvoegen"
+   },
+   "menu_item_minus": {
+      "message": "Min"
+   },
+   "menu_item_moon": {
+      "message": "Maan"
+   },
+   "menu_item_moveslidedown": {
+      "message": "Dia omlaag verplaatsen"
+   },
+   "menu_item_moveslidetoend": {
+      "message": "Dia naar het eind verplaatsen"
+   },
+   "menu_item_moveslidetostart": {
+      "message": "Dia naar het begin verplaatsen"
+   },
+   "menu_item_moveslideup": {
+      "message": "Dia omhoog verplaatsen"
+   },
+   "menu_item_multiply": {
+      "message": "Vermenigvuldigen"
+   },
+   "menu_item_new": {
+      "message": "Nieuw"
+   },
+   "menu_item_no_symbol": {
+      "message": "'Nee'-symbool"
+   },
+   "menu_item_not_equal": {
+      "message": "Niet gelijk aan"
+   },
+   "menu_item_notched_right_arrow": {
+      "message": "Ingekeepte pijl-rechts"
+   },
+   "menu_item_number_format": {
+      "message": "Getalnotatie"
+   },
+   "menu_item_number_menu": {
+      "message": "Getal"
+   },
+   "menu_item_numbering": {
+      "message": "$1 van $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "menu_item_octagon": {
+      "message": "Achthoek"
+   },
+   "menu_item_open": {
+      "message": "Openen"
+   },
+   "menu_item_oval": {
+      "message": "Ovaal"
+   },
+   "menu_item_oval_callout": {
+      "message": "Ovale toelichting"
+   },
+   "menu_item_parallelogram": {
+      "message": "Parallellogram"
+   },
+   "menu_item_paste": {
+      "message": "Plakken"
+   },
+   "menu_item_pentagon": {
+      "message": "Vijfhoek"
+   },
+   "menu_item_pie": {
+      "message": "Cirkel"
+   },
+   "menu_item_plaque": {
+      "message": "Broche"
+   },
+   "menu_item_plus": {
+      "message": "Plus"
+   },
+   "menu_item_present": {
+      "message": "Aanwezig"
+   },
+   "menu_item_print": {
+      "message": "Afdrukken"
+   },
+   "menu_item_quad_arrow": {
+      "message": "Pijl in vier richtingen"
+   },
+   "menu_item_quad_arrow_callout": {
+      "message": "Toelichting met pijl in vier richtingen"
+   },
+   "menu_item_rectangle": {
+      "message": "Rechthoek"
+   },
+   "menu_item_rectangular_callout": {
+      "message": "Rechthoekige toelichting"
+   },
+   "menu_item_redo": {
+      "message": "Opnieuw"
+   },
+   "menu_item_regular_pentagon": {
+      "message": "Regelmatige vijfhoek"
+   },
+   "menu_item_report_abuse": {
+      "message": "Misbruik melden"
+   },
+   "menu_item_report_issue": {
+      "message": "Een probleem melden"
+   },
+   "menu_item_right_arrow": {
+      "message": "Pijl-rechts"
+   },
+   "menu_item_right_arrow_callout": {
+      "message": "Toelichting met pijl-rechts"
+   },
+   "menu_item_right_brace": {
+      "message": "Rechteraccolade"
+   },
+   "menu_item_right_bracket": {
+      "message": "Vierkante haak rechts"
+   },
+   "menu_item_right_triangle": {
+      "message": "Rechthoekige driehoek"
+   },
+   "menu_item_round_diagonal_corner_rectangle": {
+      "message": "Rechthoek met ronde diagonale hoeken"
+   },
+   "menu_item_round_same_side_corner_rectangle": {
+      "message": "Rechthoek met ronde tegenoverliggende hoeken"
+   },
+   "menu_item_round_single_corner_rectangle": {
+      "message": "Rechthoek met een ronde hoek"
+   },
+   "menu_item_rounded_rectangle": {
+      "message": "Afgeronde rechthoek"
+   },
+   "menu_item_rounded_rectangular_callout": {
+      "message": "Toelichting met afgeronde rechthoek"
+   },
+   "menu_item_save": {
+      "message": "Opslaan"
+   },
+   "menu_item_save_as": {
+      "message": "Opslaan als…"
+   },
+   "menu_item_shapes": {
+      "message": "Vormen"
+   },
+   "menu_item_share": {
+      "message": "Delen"
+   },
+   "menu_item_smiley_face": {
+      "message": "Smiley"
+   },
+   "menu_item_snip_and_round_single_corner_rectangle": {
+      "message": "Rechthoek met één afgeknipte en afgeronde hoek"
+   },
+   "menu_item_snip_diagonal_corner_rectangle": {
+      "message": "Rechthoek met afgeknipte diagonale hoeken"
+   },
+   "menu_item_snip_same_side_corner_rectangle": {
+      "message": "Rechthoek met afgeknipte tegenoverliggende hoeken"
+   },
+   "menu_item_snip_single_corner_rectangle": {
+      "message": "Rechthoek met een afgeknipte hoek"
+   },
+   "menu_item_strikethrough": {
+      "message": "Doorhalen"
+   },
+   "menu_item_striped_right_arrow": {
+      "message": "Gestreepte pijl-rechts"
+   },
+   "menu_item_subscript": {
+      "message": "Subscript"
+   },
+   "menu_item_sun": {
+      "message": "Zon"
+   },
+   "menu_item_superscript": {
+      "message": "Superscript"
+   },
+   "menu_item_teardrop": {
+      "message": "Traan"
+   },
+   "menu_item_trapezoid": {
+      "message": "Trapezium"
+   },
+   "menu_item_triangle": {
+      "message": "Driehoek"
+   },
+   "menu_item_u_turn_arrow": {
+      "message": "U-vormige pijl"
+   },
+   "menu_item_underline": {
+      "message": "Onderstrepen"
+   },
+   "menu_item_undo": {
+      "message": "Ongedaan maken"
+   },
+   "menu_item_unhideslide": {
+      "message": "Dia zichtbaar maken"
+   },
+   "menu_item_unmerge": {
+      "message": "Samenvoegen ongedaan maken"
+   },
+   "menu_item_up_arrow": {
+      "message": "Pijl-omhoog"
+   },
+   "menu_item_up_arrow_callout": {
+      "message": "Toelichting met pijl-omhoog"
+   },
+   "menu_item_up_down_arrow": {
+      "message": "Pijl-omhoog-omlaag"
+   },
+   "menu_item_version_info": {
+      "message": "Versie-info"
+   },
+   "menu_item_word_count": {
+      "message": "Aantal woorden"
+   },
+   "menu_item_wrap_text": {
+      "message": "Tekstterugloop"
+   },
+   "menu_item_zoom_in": {
+      "message": "Inzoomen"
+   },
+   "menu_item_zoom_out": {
+      "message": "Uitzoomen"
+   },
+   "merge_all_aria_spoken_word": {
+      "message": "alles samenvoegen"
+   },
+   "merge_aria_spoken_word": {
+      "message": "samenvoegen"
+   },
+   "merge_dropdown_aria_spoken_word": {
+      "message": "dropdownmenu voor samenvoegen"
+   },
+   "merge_horizontally_aria_spoken_word": {
+      "message": "horizontaal samenvoegen"
+   },
+   "merge_vertically_aria_spoken_word": {
+      "message": "verticaal samenvoegen"
+   },
+   "modify_shape_transform_error_msg": {
+      "message": "Er is een fout opgetreden tijdens het aanpassen van vormtransformaties"
+   },
+   "modify_shape_transform_error_short_msg": {
+      "message": "Er is een fout opgetreden tijdens het aanpassen van vormtransformaties."
+   },
+   "modifyshapefillcolor_aria_spoken_word": {
+      "message": "dropdownmenu voor vulkleur voor vormen"
+   },
+   "modifyshapeoutlinecolor_aria_spoken_word": {
+      "message": "dropdownmenu voor omtrekkleur voor vormen"
+   },
+   "modifyshapeoutlinestyle_aria_spoken_word": {
+      "message": "dropdownmenu voor omtrekstijl voor vormen"
+   },
+   "modifyshapeoutlinewidth_aria_spoken_word": {
+      "message": "dropdownmenu voor omtrekbreedte voor vormen"
+   },
+   "nacl_load_error_details": {
+      "message": "Installeer de extensie opnieuw."
+   },
+   "nacl_load_error_title": {
+      "message": "Er is een probleem opgetreden bij het laden van de app."
+   },
+   "non_permissible_sheet_name_details": {
+      "message": "De volgende tekens zijn niet toegestaan: * ? [ ] ' ; :\nDe werkbladnaam mag niet langer dan 31 tekens zijn\nDe werkbladnaam mag niet leeg worden gelaten"
+   },
+   "non_permissible_sheet_name_title": {
+      "message": "Tijdens het wijzigen van de werkbladnaam heb je een ongeldige naam opgegeven"
+   },
+   "not_pressed": {
+      "message": "Niet ingedrukt"
+   },
+   "notselected": {
+      "message": "Niet geselecteerd"
+   },
+   "number_format_label_currency_symbol": {
+      "message": "Valutasymbool"
+   },
+   "number_format_label_date_type": {
+      "message": "Type"
+   },
+   "number_format_label_decimal_places": {
+      "message": "Aantal decimalen"
+   },
+   "number_format_label_general": {
+      "message": "Algemeen"
+   },
+   "number_format_label_negative_numbers": {
+      "message": "Negatieve getallen"
+   },
+   "number_format_label_other": {
+      "message": "Overig"
+   },
+   "number_format_label_red": {
+      "message": "Rood"
+   },
+   "number_format_label_text": {
+      "message": "Tekst"
+   },
+   "number_format_label_use_1000_separator": {
+      "message": "Scheidingsteken voor duizendtallen gebruiken"
+   },
+   "number_format_tab_accounting": {
+      "message": "Financieel"
+   },
+   "number_format_tab_currency": {
+      "message": "Valuta"
+   },
+   "number_format_tab_date_time": {
+      "message": "Datum en tijd"
+   },
+   "number_format_tab_general": {
+      "message": "Algemeen"
+   },
+   "number_format_tab_number": {
+      "message": "Getal"
+   },
+   "number_format_tab_percentage": {
+      "message": "Percentage"
+   },
+   "number_format_tab_scientific": {
+      "message": "Wetenschappelijk"
+   },
+   "number_format_title": {
+      "message": "Getalnotaties"
+   },
+   "ocm_promo_conversion_shortmsg": {
+      "message": "Je bevindt je in de Office-compatibiliteitsmodus"
+   },
+   "office_compatibility_mode": {
+      "message": "Office-compatibiliteitsmodus"
+   },
+   "office_first_time_confirm": {
+      "message": "Ik snap het"
+   },
+   "office_first_time_message_p1": {
+      "message": "Je kunt Word-, Excel- en Powerpoint-bestanden nu bewerken vanaf onder andere je harde schijf en Google Drive met Documenten, Spreadsheets en Presentaties."
+   },
+   "office_first_time_message_p2": {
+      "message": "Al je bewerkingen worden automatisch opgeslagen en je kunt de bestanden ook altijd in de oorspronkelijke indeling opslaan."
+   },
+   "office_first_time_title": {
+      "message": "Office-bewerkingen voor Documenten, Spreadsheets en Presentaties"
+   },
+   "offline_error_msg": {
+      "message": "Je bent mogelijk offline. Controleer je internetverbinding en probeer het opnieuw. Als dit probleem blijft optreden terwijl je online bent, meldt je hieronder een probleem."
+   },
+   "offline_error_short_msg": {
+      "message": "Het door jou opgevraagde bestand kan niet worden geopend."
+   },
+   "option_key": {
+      "message": "Optie"
+   },
+   "out_of_memory_error_msg": {
+      "message": "Sluit dit tabblad en open het bestand opnieuw, of sluit andere geopende tabbladen in de browser. Als dit probleem blijft optreden, kun je hieronder een probleem melden."
+   },
+   "out_of_memory_error_short_msg": {
+      "message": "Het geheugen is vol."
+   },
+   "page_count_label": {
+      "message": "Pagina's"
+   },
+   "partial_cell_merge_error_msg": {
+      "message": "Kan geen gedeelte van een samengevoegde cel wijzigen."
+   },
+   "partial_cell_merge_error_short_msg": {
+      "message": "Fout"
+   },
+   "point_ocm_promo_conversion_msg": {
+      "message": "Je kunt Office-bestanden rechtstreeks bewerken en opslaan in Presentaties. Als je anderen wilt uitnodigen om te bewerken of opmerkingen toe te voegen, sla je het bestand op als Google-presentatie. Je kunt het bestand op elk gewenst moment weer in de oorspronkelijke indeling opslaan."
+   },
+   "point_printing_warning_msg": {
+      "message": "We zijn bezig dit op te lossen."
+   },
+   "point_printing_warning_short_msg": {
+      "message": "Momenteel kun je alleen de dia afdrukken die je bekijkt."
+   },
+   "point_share_promo_conversion_msg": {
+      "message": "Probeer je deze presentatie op te slaan? Als je anderen wilt uitnodigen de presentatie samen met jou te bewerken, converteer je deze naar Google Presentaties."
+   },
+   "pointtogglebullet_aria_spoken_word": {
+      "message": "lijst met opsommingstekens"
+   },
+   "pointtogglenumber_aria_spoken_word": {
+      "message": "genummerde lijst"
+   },
+   "present_button": {
+      "message": "Presenteren"
+   },
+   "pressed": {
+      "message": "Ingedrukt"
+   },
+   "print_aria_spoken_word": {
+      "message": "afdrukken"
+   },
+   "qowt_doc_mismatch_text": {
+      "message": "Er is een fout opgetreden tijdens het opmaken van je document.\n\nLaad de pagina opnieuw om je wijzigingen te herstellen."
+   },
+   "qowt_doc_mismatch_title": {
+      "message": "Oei!"
+   },
+   "qowt_hyperlink_activate_short_key": {
+      "message": "Druk op ALT + Enter om de link te activeren."
+   },
+   "qowt_hyperlink_dialog": {
+      "message": "Hyperlink"
+   },
+   "qowt_hyperlink_dialog_message_text": {
+      "message": "Ga naar link:"
+   },
+   "qowt_modal_confirm_dialog_affirmative_button": {
+      "message": "OK"
+   },
+   "qowt_modal_confirm_dialog_negative_button": {
+      "message": "Annuleren"
+   },
+   "qowt_modal_dialog_close_button": {
+      "message": "Sluiten"
+   },
+   "qowt_modal_dialog_coming_soon_title": {
+      "message": "Binnenkort beschikbaar!"
+   },
+   "qowt_modal_dialog_link_text": {
+      "message": "Meer informatie"
+   },
+   "qowt_modal_dialog_ok_button": {
+      "message": "OK"
+   },
+   "qowt_modal_dialog_reload_button": {
+      "message": "Opnieuw laden"
+   },
+   "qowt_modal_dialog_textbox_editing_description": {
+      "message": "We bieden geen ondersteuning voor het bewerken van tekst in tekstvakken."
+   },
+   "qowt_modal_dialog_textbox_editing_link": {
+      "message": "Dit graag oplossen."
+   },
+   "qowt_modal_info_dialog_affirmative_button": {
+      "message": "OK"
+   },
+   "qowt_modal_multi_choice_remember_choice": {
+      "message": "Mijn keuze onthouden"
+   },
+   "qowt_modal_query_dialog_affirmative_button": {
+      "message": "Ja"
+   },
+   "qowt_modal_query_dialog_negative_button": {
+      "message": "Nee"
+   },
+   "qowt_modal_query_dialog_reload_button": {
+      "message": "Opnieuw laden"
+   },
+   "qowt_modal_single_choice_remember_choice": {
+      "message": "Niet opnieuw herinneren"
+   },
+   "read_only": {
+      "message": "Alleen-lezen"
+   },
+   "redo_aria_spoken_word": {
+      "message": "opnieuw"
+   },
+   "right_pointed_submenu": {
+      "message": "Pijl-rechts met submenu"
+   },
+   "save_aria_spoken_word": {
+      "message": "opslaan"
+   },
+   "save_now": {
+      "message": "Nu opslaan"
+   },
+   "security_error_msg": {
+      "message": "Als de fout blijft optreden, meld je hieronder een probleem."
+   },
+   "security_error_short_msg": {
+      "message": "Het door jou opgevraagde bestand kan niet worden geopend. Het openen van bestanden in de incognitomodus wordt momenteel niet ondersteund. Open je bestand in de niet-incognitomodus."
+   },
+   "selected": {
+      "message": "Geselecteerd"
+   },
+   "set_sheet_info_error_msg": {
+      "message": "Er is een fout opgetreden tijdens het bijwerken van de werkbladnaam"
+   },
+   "share_button": {
+      "message": "Delen"
+   },
+   "share_promo_conversion_shortmsg": {
+      "message": "Bewerken met anderen"
+   },
+   "sheet_delete_column_error_msg": {
+      "message": "Er is een fout opgetreden bij het verwijderen van de kolom. Probeer het opnieuw."
+   },
+   "sheet_delete_row_error_msg": {
+      "message": "Er is een fout opgetreden bij het verwijderen van de rij. Probeer het opnieuw."
+   },
+   "sheet_format_cells_error_msg": {
+      "message": "Er is een opmaakfout opgetreden. Probeer het opnieuw."
+   },
+   "sheet_insert_column_error_msg": {
+      "message": "Er is een fout opgetreden bij het invoegen van de kolom. Probeer het opnieuw."
+   },
+   "sheet_insert_column_exceed_error_msg": {
+      "message": "Je kunt niet meer kolommen invoegen in deze spreadsheet, omdat we maximaal 256 kolommen ondersteunen."
+   },
+   "sheet_insert_column_exceed_error_short_msg": {
+      "message": "Helaas!"
+   },
+   "sheet_insert_row_error_msg": {
+      "message": "Er is een fout opgetreden bij het invoegen van de rij. Probeer het opnieuw."
+   },
+   "sheet_insert_row_exceed_error_msg": {
+      "message": "Je kunt niet meer rijen invoegen in deze spreadsheet, omdat we maximaal 65536 rijen ondersteunen."
+   },
+   "sheet_insert_row_exceed_error_short_msg": {
+      "message": "Helaas!"
+   },
+   "sheet_ocm_promo_conversion_msg": {
+      "message": "Je kunt Office-bestanden rechtstreeks bewerken en opslaan in Spreadsheets. Als je anderen wilt uitnodigen om te bewerken of opmerkingen toe te voegen, sla je het bestand op als Google-spreadsheet. Je kunt het bestand op elk gewenst moment weer in de oorspronkelijke indeling opslaan."
+   },
+   "sheet_set_cell_content_invalid_error_msg": {
+      "message": "De opgegeven formule bevat een fout. Corrigeer deze."
+   },
+   "sheet_share_promo_conversion_msg": {
+      "message": "Probeer je deze spreadsheet op te slaan? Als je anderen wilt uitnodigen de spreadsheet samen met jou te bewerken, converteer je deze naar Google Spreadsheets."
+   },
+   "sheet_sort_error_title": {
+      "message": "Er is een fout opgetreden bij het sorteren van dit celbereik."
+   },
+   "sheet_sort_failure_msg": {
+      "message": "Er is een fout opgetreden bij het sorteren van dit celbereik."
+   },
+   "sheet_sort_merged_cell_error": {
+      "message": "Je kunt geen cellen sorteren die zijn samengevoegd."
+   },
+   "sheet_sort_merged_cell_error_title": {
+      "message": "Er is een fout opgetreden bij het sorteren van dit celbereik."
+   },
+   "sheet_sort_one_cell_error": {
+      "message": "Selecteer meer dan één cel om te sorteren."
+   },
+   "sheet_sort_one_cell_error_title": {
+      "message": "Er is een fout opgetreden bij het sorteren van dit celbereik."
+   },
+   "shift_key": {
+      "message": "Shift"
+   },
+   "shortcut": {
+      "message": "Sneltoets $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sign_in": {
+      "message": "Inloggen"
+   },
+   "slash_key": {
+      "message": "Schuine streep"
+   },
+   "something_not_right": {
+      "message": "Er is iets niet in orde"
+   },
+   "storage_quota_exceed_error_msg": {
+      "message": "Sluit Office-documenten die zijn geopend in Chrome en probeer het opnieuw. Als het probleem blijft optreden, meld je het probleem hieronder."
+   },
+   "storage_quota_exceed_error_short_msg": {
+      "message": "Het bestand kan niet worden geopend."
+   },
+   "strikethrough_aria_spoken_word": {
+      "message": "doorhalen"
+   },
+   "style_aria_spoken_word": {
+      "message": "dropdownmenu voor stijlen"
+   },
+   "submenu_spoken_text": {
+      "message": "$1 $2 $3 $4",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         }
+      }
+   },
+   "temporary_unable_to_open_error_msg": {
+      "message": "Probeer het later opnieuw of meld het probleem hieronder als het blijft optreden."
+   },
+   "temporary_unable_to_open_error_short_msg": {
+      "message": "Het bestand kan tijdelijk niet worden geopend."
+   },
+   "textaligncenter_aria_spoken_word": {
+      "message": "tekst uitlijnen: centreren"
+   },
+   "textalignjustify_aria_spoken_word": {
+      "message": "tekst uitlijnen: uitvullen"
+   },
+   "textalignleft_aria_spoken_word": {
+      "message": "tekst uitlijnen: links"
+   },
+   "textalignright_aria_spoken_word": {
+      "message": "tekst uitlijnen: rechts"
+   },
+   "textcolor_aria_spoken_word": {
+      "message": "dropdownmenu voor tekstkleur"
+   },
+   "textual_edit_error_msg": {
+      "message": "Er is een fout opgetreden tijdens het opmaken van je document.\n\nLaad de pagina opnieuw om je wijzigingen te herstellen."
+   },
+   "textual_edit_error_short_msg": {
+      "message": "Oei!"
+   },
+   "title_error_msg_for_merge_cells": {
+      "message": "Er is een probleem opgetreden"
+   },
+   "title_msg_merging_multiple_cells_with_text": {
+      "message": "Let op."
+   },
+   "togglebulleted_aria_spoken_word": {
+      "message": "lijst met opsommingstekens"
+   },
+   "togglenumbered_aria_spoken_word": {
+      "message": "genummerde lijst"
+   },
+   "togglezoom_aria_spoken_word": {
+      "message": "zoom geschakeld"
+   },
+   "tooltip_background_color": {
+      "message": "Vulkleur"
+   },
+   "tooltip_bold": {
+      "message": "Vet"
+   },
+   "tooltip_border": {
+      "message": "Randen"
+   },
+   "tooltip_border_all": {
+      "message": "Alle randen"
+   },
+   "tooltip_border_bottom": {
+      "message": "Onderranden"
+   },
+   "tooltip_border_horizontal": {
+      "message": "Horizontale randen"
+   },
+   "tooltip_border_inner": {
+      "message": "Binnenranden"
+   },
+   "tooltip_border_left": {
+      "message": "Linkerranden"
+   },
+   "tooltip_border_none": {
+      "message": "Geen randen"
+   },
+   "tooltip_border_outer": {
+      "message": "Buitenranden"
+   },
+   "tooltip_border_right": {
+      "message": "Rechterranden"
+   },
+   "tooltip_border_top": {
+      "message": "Bovenranden"
+   },
+   "tooltip_border_vertical": {
+      "message": "Verticale randen"
+   },
+   "tooltip_cell_align": {
+      "message": "Celuitlijning"
+   },
+   "tooltip_cell_h_align_center": {
+      "message": "Horizontaal centreren"
+   },
+   "tooltip_cell_h_align_left": {
+      "message": "Horizontaal links"
+   },
+   "tooltip_cell_h_align_right": {
+      "message": "Horizontaal rechts"
+   },
+   "tooltip_cell_v_align_bottom": {
+      "message": "Verticaal onder"
+   },
+   "tooltip_cell_v_align_center": {
+      "message": "Verticaal centreren"
+   },
+   "tooltip_cell_v_align_top": {
+      "message": "Verticaal boven"
+   },
+   "tooltip_download": {
+      "message": "Downloaden"
+   },
+   "tooltip_dropdown_init_add_shape": {
+      "message": "Vorm"
+   },
+   "tooltip_fill_color": {
+      "message": "Tekstkleur"
+   },
+   "tooltip_font_face": {
+      "message": "Lettertype"
+   },
+   "tooltip_font_size": {
+      "message": "Lettergrootte"
+   },
+   "tooltip_highlight_color": {
+      "message": "Markeringskleur"
+   },
+   "tooltip_init_add_shape": {
+      "message": "Tekstvak"
+   },
+   "tooltip_italic": {
+      "message": "Cursief"
+   },
+   "tooltip_merge": {
+      "message": "Cellen samenvoegen"
+   },
+   "tooltip_merge_dropdown": {
+      "message": "Type samenvoeging selecteren..."
+   },
+   "tooltip_modify_shape_fill_color": {
+      "message": "Vulkleur"
+   },
+   "tooltip_modify_shape_outline_color": {
+      "message": "Lijnkleur"
+   },
+   "tooltip_modify_shape_outline_style": {
+      "message": "Lijnstreepje"
+   },
+   "tooltip_modify_shape_outline_width": {
+      "message": "Lijndikte"
+   },
+   "tooltip_move_slide": {
+      "message": "$1 dia('s) verplaatsen",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "tooltip_point": {
+      "message": "Homepage van Google Presentaties"
+   },
+   "tooltip_point_toggle_bullet": {
+      "message": "Lijst met opsommingstekens"
+   },
+   "tooltip_point_toggle_number": {
+      "message": "Genummerde lijst"
+   },
+   "tooltip_presentation": {
+      "message": "Presentatie"
+   },
+   "tooltip_print": {
+      "message": "Afdrukken"
+   },
+   "tooltip_redo": {
+      "message": "Opnieuw"
+   },
+   "tooltip_share": {
+      "message": "Delen"
+   },
+   "tooltip_share_for_macroenabledfiles": {
+      "message": "Bestanden met macro's kunnen alleen worden gedeeld vanuit Google Drive"
+   },
+   "tooltip_sheet": {
+      "message": "Homepage van Google Spreadsheets"
+   },
+   "tooltip_strikethrough": {
+      "message": "Doorhalen"
+   },
+   "tooltip_style": {
+      "message": "Stijlen"
+   },
+   "tooltip_text_align_center": {
+      "message": "Centreren"
+   },
+   "tooltip_text_align_justify": {
+      "message": "Uitvullen"
+   },
+   "tooltip_text_align_left": {
+      "message": "Links uitlijnen"
+   },
+   "tooltip_text_align_right": {
+      "message": "Rechts uitlijnen"
+   },
+   "tooltip_text_color": {
+      "message": "Tekstkleur"
+   },
+   "tooltip_toggle_bulleted": {
+      "message": "Lijst met opsommingstekens"
+   },
+   "tooltip_toggle_numbered": {
+      "message": "Genummerde lijst"
+   },
+   "tooltip_toggle_zoom": {
+      "message": "Zoom in-/uitschakelen"
+   },
+   "tooltip_underline": {
+      "message": "Onderstrepen"
+   },
+   "tooltip_undo": {
+      "message": "Ongedaan maken"
+   },
+   "tooltip_word": {
+      "message": "Homepage van Google Documenten"
+   },
+   "tooltip_wrap_text": {
+      "message": "Tekstterugloop"
+   },
+   "tooltip_zoom_in": {
+      "message": "Inzoomen"
+   },
+   "tooltip_zoom_out": {
+      "message": "Uitzoomen"
+   },
+   "try_again": {
+      "message": "Probeer het opnieuw"
+   },
+   "unable_to_execute_msg": {
+      "message": "Kan dit document niet openen."
+   },
+   "underline_aria_spoken_word": {
+      "message": "onderstrepen"
+   },
+   "undo_aria_spoken_word": {
+      "message": "ongedaan maken"
+   },
+   "unmerge_aria_spoken_word": {
+      "message": "samenvoegen ongedaan maken"
+   },
+   "unsaved_changes": {
+      "message": "Niet-opgeslagen wijzigingen"
+   },
+   "unsaved_changes_warning": {
+      "message": "Er staan niet-opgeslagen wijzigingen in dit bestand. Als je deze pagina verlaat zonder op te slaan, gaat je werk definitief verloren."
+   },
+   "unsupported_file_format_error_details_p1": {
+      "message": "Dit bestand bevat content uit Microsoft® Office 95 of eerder die we niet kunnen openen."
+   },
+   "unsupported_file_format_error_details_p2": {
+      "message": "Als je het bestand wilt converteren naar Google Documenten, klik je op de onderstaande link."
+   },
+   "unsupported_file_format_error_title": {
+      "message": "Oeps!"
+   },
+   "unsupported_link_message": {
+      "message": "We bieden momenteel geen ondersteuning voor dit type URL."
+   },
+   "up_key": {
+      "message": "Omhoog"
+   },
+   "updated_shortcut_message": {
+      "message": "We hebben onze sneltoetsen geüpdatet om ze consistent te maken voor alle Google Documenten-producten. Bekijk de geüpdatete sneltoetsen in de Help."
+   },
+   "updated_shortcut_title": {
+      "message": "Geüpdatete sneltoetsen"
+   },
+   "version_info_msg": {
+      "message": "Je versie van de Office-compatibiliteitsmodus is"
+   },
+   "word_binary_upsave_learnmore": {
+      "message": "Meer informatie"
+   },
+   "word_binary_upsave_msg": {
+      "message": "Dit bestand heeft een niet-ondersteunde indeling. Als je het bestand wilt opslaan, hebben we je toestemming nodig om het naar een recentere bestandsindeling te converteren. Dit heeft geen invloed op je oorspronkelijke bestand."
+   },
+   "word_binary_upsave_shortmsg": {
+      "message": "Je document updaten"
+   },
+   "word_count_label": {
+      "message": "Woorden"
+   },
+   "word_count_title": {
+      "message": "Aantal woorden"
+   },
+   "word_ocm_promo_conversion_msg": {
+      "message": "Je kunt Office-bestanden rechtstreeks bewerken en opslaan in Documenten. Als je anderen wilt uitnodigen om te bewerken of opmerkingen toe te voegen, sla je het bestand op als Google-document. Je kunt het bestand op elk gewenst moment weer in de oorspronkelijke indeling opslaan."
+   },
+   "word_share_promo_conversion_msg": {
+      "message": "Probeer je dit document op te slaan? Als je anderen wilt uitnodigen het document samen met jou te bewerken, converteer je het naar Google Documenten."
+   },
+   "wraptext_aria_spoken_word": {
+      "message": "tekstterugloop"
+   },
+   "zoomin_aria_spoken_word": {
+      "message": "inzoomen"
+   },
+   "zoomout_aria_spoken_word": {
+      "message": "uitzoomen"
+   }
+}

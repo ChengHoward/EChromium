@@ -1,0 +1,86 @@
+<link rel="import" href="../../../../../../third_party/polymer/polymer.html"/>
+<link rel="import" href="../../modalDialogStyles.html">
+
+<!--
+  This dialog shows the number of pages, words, characters and character
+  excluding spaces in the document.
+-->
+<dom-module id="qowt-word-count-dialog">
+
+  <template>
+    <style include="modal-dialog-styles"></style>
+    <style>
+      :host {
+        width: 255px;
+        outline: none;
+      }
+
+      :host table {
+        font-size: 13px;
+        height: 154px;
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: -19px;
+      }
+
+      :host tr {
+        padding: 16px 16px 5px;
+        border-bottom: 1px solid rgb(235, 235, 235);
+      }
+
+      paper-spinner-lite {
+        width: 15px;
+        height: 15px;
+      }
+    </style>
+
+    <header>{{ getMessage_('word_count_title') }}</header>
+
+    <table>
+      <tr>
+        <td style='text-align: left;'>{{ getMessage_('page_count_label') }}</td>
+        <td style='text-align: right;'>
+          <span id='pageCount'>{{ pageCount }}</span>
+          <template is="dom-if" if='{{!hasCountSet_(pageCount)}}'>
+            <paper-spinner-lite id='pageCountSpinner' active></paper-spinner-lite>
+          </template>
+        </td>
+      </tr>
+      <tr>
+        <td style='text-align: left'>{{ getMessage_('word_count_label') }}</td>
+        <td style='text-align: right'>
+          <span id='wordCount'>{{ wordCount }}</span>
+          <template is="dom-if" if='{{!hasCountSet_(wordCount)}}'>
+            <paper-spinner-lite id='wordCountSpinner' active></paper-spinner-lite>
+          </template>
+        </td>
+      </tr>
+      <tr>
+        <td style='text-align: left'>{{ getMessage_('char_count_label') }}</td>
+        <td style='text-align: right'>
+          <span id='charCount'>{{ charCount }}</span>
+          <template is="dom-if" if='{{!hasCountSet_(charCount)}}'>
+            <paper-spinner-lite id='charCountSpinner' active></paper-spinner-lite>
+          </template>
+        </td>
+      </tr>
+      <tr style='border-bottom:none;'>
+        <td style='text-align: left'>{{ getMessage_('char_no_spaces_count_label') }}</td>
+        <td style='text-align: right'>
+          <span id='charNoSpacesCount'>{{ charNoSpacesCount }}</span>
+          <template is="dom-if" if='{{!hasCountSet_(charNoSpacesCount)}}'>
+            <paper-spinner-lite id='charNoSpacesCountSpinner' active></paper-spinner-lite>
+          </template>
+        </td>
+      </tr>
+     </table>
+
+      <footer>
+        <button id='affirmative' class='affirmative' on-click='handleAction_' tabindex="0"
+                on-focus="affirmativeFocused_"
+                role='button'>{{ getMessage_('qowt_modal_dialog_close_button') }}</button>
+      </footer>
+      <button id="closeButton" on-click="close" role='button' tabindex="0"
+              on-focus="closeButtonFocused_" focus-end></button>
+  </template>
+</dom-module>

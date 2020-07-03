@@ -1,0 +1,2192 @@
+{
+   "action_create_user_feedback": {
+      "message": "Подаване на сигнал за проблем"
+   },
+   "alt_key": {
+      "message": "Клавиш „Alt“"
+   },
+   "app_error_learn_more": {
+      "message": "Научете повече"
+   },
+   "app_error_report_feedback": {
+      "message": "Изпращане на отзив"
+   },
+   "app_icon_aria_spoken_word": {
+      "message": " Начална страница"
+   },
+   "app_nacl_crash_msg": {
+      "message": "Помогнете ни, като подадете сигнал за проблема."
+   },
+   "app_nacl_crash_report": {
+      "message": "Подаване на сигнал за проблем..."
+   },
+   "app_nacl_crash_title": {
+      "message": "Ами сега! Това не трябваше да се случва – презаредете страницата, за да възстановите промените си."
+   },
+   "app_nacl_error_load_failed": {
+      "message": "За съжаление, не успяхме да отворим файла. Затворете другите раздели в Chrome или рестартирайте браузъра, след което опитайте отново. Ако проблемът не се отстрани, подайте сигнал за него по-долу."
+   },
+   "app_nacl_error_title": {
+      "message": "Файлът не може да се отвори."
+   },
+   "app_nacl_error_unsupported_device": {
+      "message": "Това устройство не поддържа разширението за Chrome за редактиране на файлове от Office в Документи, Таблици и Презентации."
+   },
+   "app_saving_failed_error_msg": {
+      "message": "За съжаление, при запазването на файла възникна проблем. Опитайте да го запазите отново. Ако проблемът не се отстрани, моля, подайте сигнал за него."
+   },
+   "app_saving_failed_error_short_msg": {
+      "message": "Файлът не може да се запази."
+   },
+   "backgroundcolor_aria_spoken_word": {
+      "message": "падащ списък за фонов цвят на клетките"
+   },
+   "bold_aria_spoken_word": {
+      "message": "удебеляване"
+   },
+   "border_all_aria_spoken_word": {
+      "message": "всички контури"
+   },
+   "border_aria_spoken_word": {
+      "message": "падащ списък за контурите"
+   },
+   "border_bottom_aria_spoken_word": {
+      "message": "долен контур"
+   },
+   "border_horizontal_aria_spoken_word": {
+      "message": "хоризонтален контур"
+   },
+   "border_inner_aria_spoken_word": {
+      "message": "вътрешен контур"
+   },
+   "border_left_aria_spoken_word": {
+      "message": "ляв контур"
+   },
+   "border_none_aria_spoken_word": {
+      "message": "без контури"
+   },
+   "border_outer_aria_spoken_word": {
+      "message": "външен контур"
+   },
+   "border_right_aria_spoken_word": {
+      "message": "десен контур"
+   },
+   "border_top_aria_spoken_word": {
+      "message": "горен контур"
+   },
+   "border_vertical_aria_spoken_word": {
+      "message": "вертикален контур"
+   },
+   "button_ocm_convert_cancel": {
+      "message": "Отказ"
+   },
+   "button_ocm_promo_conversion_point": {
+      "message": "Запазване като файл на Google Презентации"
+   },
+   "button_ocm_promo_conversion_sheet": {
+      "message": "Запазване като файл на Google Таблици"
+   },
+   "button_ocm_promo_conversion_word": {
+      "message": "Запазване като файл на Google Документи"
+   },
+   "button_share_convert_cancel": {
+      "message": "Отказ"
+   },
+   "button_share_promo_conversion_point": {
+      "message": "Запазване като файл на Google Презентации"
+   },
+   "button_share_promo_conversion_sheet": {
+      "message": "Запазване като файл на Google Таблици"
+   },
+   "button_share_promo_conversion_word": {
+      "message": "Запазване като файл на Google Документи"
+   },
+   "cell_align_aria_spoken_word": {
+      "message": "Подравняване на клетките"
+   },
+   "cellalign_aria_spoken_word": {
+      "message": "падащ списък за подравняване на клетките"
+   },
+   "cellhaligncenter_aria_spoken_word": {
+      "message": "Хоризонтално, в центъра"
+   },
+   "cellhalignleft_aria_spoken_word": {
+      "message": "Хоризонтално, вляво"
+   },
+   "cellhalignright_aria_spoken_word": {
+      "message": "Хоризонтално, вдясно"
+   },
+   "cellvalignbottom_aria_spoken_word": {
+      "message": "Вертикално, долу"
+   },
+   "cellvaligncenter_aria_spoken_word": {
+      "message": "Вертикално, в центъра"
+   },
+   "cellvaligntop_aria_spoken_word": {
+      "message": "Вертикално, горе"
+   },
+   "char_count_label": {
+      "message": "Знаци"
+   },
+   "char_no_spaces_count_label": {
+      "message": "Знаци без интервалите"
+   },
+   "close_dialog_aria_spoken_word": {
+      "message": "Затваряне на диалоговия прозорец"
+   },
+   "cmd_dropdown_initaddshape_aria_spoken_word": {
+      "message": "падащ списък за добавяне на фигура"
+   },
+   "collapsed": {
+      "message": "Свито"
+   },
+   "collapsed_menu": {
+      "message": "$1. Свито с подменю.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "color_black": {
+      "message": "черно"
+   },
+   "color_blaze_orange": {
+      "message": "сигнално оранжево"
+   },
+   "color_blue": {
+      "message": "синьо"
+   },
+   "color_brown": {
+      "message": "кафяво"
+   },
+   "color_cornflower_blue": {
+      "message": "метличино синьо"
+   },
+   "color_cyan": {
+      "message": "циан"
+   },
+   "color_dark_blue": {
+      "message": "тъмносиньо"
+   },
+   "color_dark_blue_1": {
+      "message": "тъмносиньо 1"
+   },
+   "color_dark_blue_2": {
+      "message": "тъмносиньо 2"
+   },
+   "color_dark_blue_3": {
+      "message": "тъмносиньо 3"
+   },
+   "color_dark_blue_grey": {
+      "message": "тъмносиньо-сиво"
+   },
+   "color_dark_cornflower_blue_1": {
+      "message": "метличино тъмносиньо 1"
+   },
+   "color_dark_cornflower_blue_2": {
+      "message": "метличино тъмносиньо 2"
+   },
+   "color_dark_cornflower_blue_3": {
+      "message": "метличино тъмносиньо 3"
+   },
+   "color_dark_cyan": {
+      "message": "тъмен циан"
+   },
+   "color_dark_cyan_1": {
+      "message": "тъмен циан 1"
+   },
+   "color_dark_cyan_2": {
+      "message": "тъмен циан 2"
+   },
+   "color_dark_cyan_3": {
+      "message": "тъмен циан 3"
+   },
+   "color_dark_gray": {
+      "message": "тъмносиво"
+   },
+   "color_dark_gray_1": {
+      "message": "тъмносиво 1"
+   },
+   "color_dark_gray_2": {
+      "message": "тъмносиво 2"
+   },
+   "color_dark_gray_3": {
+      "message": "тъмносиво 3"
+   },
+   "color_dark_gray_4": {
+      "message": "тъмносиво 4"
+   },
+   "color_dark_green": {
+      "message": "тъмнозелено"
+   },
+   "color_dark_green_1": {
+      "message": "тъмнозелено 1"
+   },
+   "color_dark_green_2": {
+      "message": "тъмнозелено 2"
+   },
+   "color_dark_green_3": {
+      "message": "тъмнозелено 3"
+   },
+   "color_dark_green_5": {
+      "message": "тъмнозелено 5"
+   },
+   "color_dark_grey_2": {
+      "message": "тъмносиво 2"
+   },
+   "color_dark_grey_5": {
+      "message": "тъмносиво 5"
+   },
+   "color_dark_magenta_1": {
+      "message": "тъмнопурпурно 1"
+   },
+   "color_dark_magenta_2": {
+      "message": "тъмнопурпурно 2"
+   },
+   "color_dark_magenta_3": {
+      "message": "тъмнопурпурно 3"
+   },
+   "color_dark_olive_green": {
+      "message": "маслинено тъмнозелено"
+   },
+   "color_dark_orange_1": {
+      "message": "тъмнооранжево 1"
+   },
+   "color_dark_orange_2": {
+      "message": "тъмнооранжево 2"
+   },
+   "color_dark_orange_3": {
+      "message": "тъмнооранжево 3"
+   },
+   "color_dark_purple_1": {
+      "message": "тъмнолилаво 1"
+   },
+   "color_dark_purple_2": {
+      "message": "тъмнолилаво 2"
+   },
+   "color_dark_purple_3": {
+      "message": "тъмнолилаво 3"
+   },
+   "color_dark_red": {
+      "message": "тъмночервено"
+   },
+   "color_dark_red_1": {
+      "message": "тъмночервено 1"
+   },
+   "color_dark_red_2": {
+      "message": "тъмночервено 2"
+   },
+   "color_dark_red_3": {
+      "message": "тъмночервено 3"
+   },
+   "color_dark_red_berry_1": {
+      "message": "тъмночервена боровинка 1"
+   },
+   "color_dark_red_berry_2": {
+      "message": "тъмночервена боровинка 2"
+   },
+   "color_dark_red_berry_3": {
+      "message": "тъмночервена боровинка 3"
+   },
+   "color_dark_slate_blue": {
+      "message": "тъмносиво-синьо"
+   },
+   "color_dark_yellow_1": {
+      "message": "тъмножълто 1"
+   },
+   "color_dark_yellow_2": {
+      "message": "тъмножълто 2"
+   },
+   "color_dark_yellow_3": {
+      "message": "тъмножълто 3"
+   },
+   "color_deep_pink": {
+      "message": "наситено розово"
+   },
+   "color_deep_sky_blue": {
+      "message": "наситено небесносиньо"
+   },
+   "color_eucalyptus_green": {
+      "message": "евкалиптово зелено"
+   },
+   "color_gold": {
+      "message": "златисто"
+   },
+   "color_gray": {
+      "message": "сиво"
+   },
+   "color_green": {
+      "message": "зелено"
+   },
+   "color_light_blue": {
+      "message": "светлосиньо"
+   },
+   "color_light_blue_1": {
+      "message": "светлосиньо 1"
+   },
+   "color_light_blue_2": {
+      "message": "светлосиньо 2"
+   },
+   "color_light_blue_3": {
+      "message": "светлосиньо 3"
+   },
+   "color_light_cornflower_blue_1": {
+      "message": "метличино светлосиньо 1"
+   },
+   "color_light_cornflower_blue_2": {
+      "message": "метличино светлосиньо 2"
+   },
+   "color_light_cornflower_blue_3": {
+      "message": "метличино светлосиньо 3"
+   },
+   "color_light_cyan": {
+      "message": "светъл циан"
+   },
+   "color_light_cyan_1": {
+      "message": "светъл циан 1"
+   },
+   "color_light_cyan_2": {
+      "message": "светъл циан 2"
+   },
+   "color_light_cyan_3": {
+      "message": "светъл циан 3"
+   },
+   "color_light_gray": {
+      "message": "светлосиво"
+   },
+   "color_light_gray_1": {
+      "message": "светлосиво 1"
+   },
+   "color_light_gray_2": {
+      "message": "светлосиво 2"
+   },
+   "color_light_gray_3": {
+      "message": "светлосиво 3"
+   },
+   "color_light_green": {
+      "message": "светлозелено"
+   },
+   "color_light_green_1": {
+      "message": "светлозелено 1"
+   },
+   "color_light_green_2": {
+      "message": "светлозелено 2"
+   },
+   "color_light_green_3": {
+      "message": "светлозелено 3"
+   },
+   "color_light_magenta_1": {
+      "message": "светлопурпурно 1"
+   },
+   "color_light_magenta_2": {
+      "message": "светлопурпурно 2"
+   },
+   "color_light_magenta_3": {
+      "message": "светлопурпурно 3"
+   },
+   "color_light_orange_1": {
+      "message": "светлооранжево 1"
+   },
+   "color_light_orange_2": {
+      "message": "светлооранжево 2"
+   },
+   "color_light_orange_3": {
+      "message": "светлооранжево 3"
+   },
+   "color_light_purple": {
+      "message": "светлолилаво"
+   },
+   "color_light_purple_1": {
+      "message": "светлолилаво 1"
+   },
+   "color_light_purple_2": {
+      "message": "светлолилаво 2"
+   },
+   "color_light_purple_3": {
+      "message": "светлолилаво 3"
+   },
+   "color_light_red_1": {
+      "message": "светлочервено 1"
+   },
+   "color_light_red_2": {
+      "message": "светлочервено 2"
+   },
+   "color_light_red_3": {
+      "message": "светлочервено 3"
+   },
+   "color_light_red_berry_1": {
+      "message": "светлочервена боровинка 1"
+   },
+   "color_light_red_berry_2": {
+      "message": "светлочервена боровинка 2"
+   },
+   "color_light_red_berry_3": {
+      "message": "светлочервена боровинка 3"
+   },
+   "color_light_yellow": {
+      "message": "светложълто"
+   },
+   "color_light_yellow_1": {
+      "message": "светложълто 1"
+   },
+   "color_light_yellow_2": {
+      "message": "светложълто 2"
+   },
+   "color_light_yellow_3": {
+      "message": "светложълто 3"
+   },
+   "color_magenta": {
+      "message": "пурпурно"
+   },
+   "color_maroon": {
+      "message": "бордо"
+   },
+   "color_midnight_blue": {
+      "message": "среднощно синьо"
+   },
+   "color_navy": {
+      "message": "морскосиньо"
+   },
+   "color_olive": {
+      "message": "маслинено"
+   },
+   "color_orange": {
+      "message": "оранжево"
+   },
+   "color_peach": {
+      "message": "праскова"
+   },
+   "color_pink": {
+      "message": "розово"
+   },
+   "color_pistachio": {
+      "message": "шамфъстък"
+   },
+   "color_purple": {
+      "message": "лилаво"
+   },
+   "color_red": {
+      "message": "червено"
+   },
+   "color_red_berry": {
+      "message": "червена боровинка"
+   },
+   "color_royal_blue": {
+      "message": "кралско синьо"
+   },
+   "color_teal": {
+      "message": "синьо-зелено"
+   },
+   "color_turquiose": {
+      "message": "тюркоазено"
+   },
+   "color_white": {
+      "message": "бяло"
+   },
+   "color_yellow": {
+      "message": "жълто"
+   },
+   "command_key": {
+      "message": "Клавиш „Command“"
+   },
+   "content_msg_merging_horizontally_across_vertical_section": {
+      "message": "Не можете да извършите хоризонтално обединяване през съществуваща вертикално обединена секция."
+   },
+   "content_msg_merging_multiple_cells_with_text": {
+      "message": "Ако обедините клетките, ще се запази само стойността най-горе вляво. Искате ли да го направите въпреки това?"
+   },
+   "content_msg_merging_partially_selected_merged_cells": {
+      "message": "Трябва да изберете целия диапазон от обединени клетки, за да ги обедините или разделите."
+   },
+   "content_msg_merging_vertically_across_horizontal_section": {
+      "message": "Не можете да извършите вертикално обединяване през съществуваща хоризонтално обединена секция."
+   },
+   "content_render_error_msg": {
+      "message": "Възникна проблем със съдържанието на този документ."
+   },
+   "context_menu_clipboard_copy": {
+      "message": "Копиране"
+   },
+   "context_menu_delete": {
+      "message": "Изтриване"
+   },
+   "context_menu_freeze": {
+      "message": "Фиксиране"
+   },
+   "context_menu_insert": {
+      "message": "Вмъкване"
+   },
+   "context_menu_sort_collation_ascending": {
+      "message": "Сортиране A–Я"
+   },
+   "context_menu_sort_collation_descending": {
+      "message": "Сортиране Я–А"
+   },
+   "context_menu_unfreeze": {
+      "message": "Отмяна на фиксирането"
+   },
+   "control_key": {
+      "message": "Клавиш „Control“"
+   },
+   "convert_attempt_when_offline": {
+      "message": "Трябва да сте онлайн, за да запазите като файл на Google Документи. Опитайте отново, когато връзката се възстанови."
+   },
+   "convert_attempt_with_invalid_creds": {
+      "message": "За да преобразувате този файл, трябва да влезете в профила си в Google."
+   },
+   "convert_cancel": {
+      "message": "Отказ"
+   },
+   "convert_to_google_docs_failed": {
+      "message": "При преобразуването на документа ви във файл на Google Документи възникна проблем."
+   },
+   "convert_to_google_point_fail_short_msg": {
+      "message": "Ами сега"
+   },
+   "convert_to_google_point_short_msg": {
+      "message": "Запазва се като файл на Google Презентации"
+   },
+   "convert_to_google_sheet_fail_short_msg": {
+      "message": "Ами сега"
+   },
+   "convert_to_google_sheet_short_msg": {
+      "message": "Запазва се като файл на Google Таблици"
+   },
+   "convert_to_google_word_fail_short_msg": {
+      "message": "Ами сега"
+   },
+   "convert_to_google_word_short_msg": {
+      "message": "Запазва се като файл на Google Документи"
+   },
+   "convert_try_again": {
+      "message": "Нов опит"
+   },
+   "converting_to_google_point_fail_msg": {
+      "message": "Понастоящем не можахме да запазим файла ви като такъв на Google Презентации."
+   },
+   "converting_to_google_point_msg": {
+      "message": "Нова версия на презентацията ви се запазва като файл на Google Презентации."
+   },
+   "converting_to_google_sheet_fail_msg": {
+      "message": "Понастоящем не можахме да запазим файла ви като такъв на Google Таблици."
+   },
+   "converting_to_google_sheet_msg": {
+      "message": "Нова версия на електронната ви таблица се запазва като файл на Google Таблици."
+   },
+   "converting_to_google_word_fail_msg": {
+      "message": "Понастоящем не можахме да запазим файла ви като такъв на Google Документи."
+   },
+   "converting_to_google_word_msg": {
+      "message": "Нова версия на документа ви се запазва като файл на Google Документи."
+   },
+   "copy_attempt_when_offline": {
+      "message": "За да направите копие в Google Диск, трябва да сте онлайн. Опитайте отново, когато възстановите връзката си."
+   },
+   "copy_attempt_with_invalid_creds": {
+      "message": "За да направите копие, трябва да влезете в профила си в Google."
+   },
+   "disabled_share_button": {
+      "message": "Файловете с активирани макроси могат да се споделят само от Google Диск. Споделянето е деактивирано."
+   },
+   "disallowed_cut_copy_paste_cmd_copy": {
+      "message": "за копиране"
+   },
+   "disallowed_cut_copy_paste_cmd_cut": {
+      "message": "за изрязване"
+   },
+   "disallowed_cut_copy_paste_cmd_paste": {
+      "message": "за поставяне"
+   },
+   "disallowed_cut_copy_paste_msg": {
+      "message": "Тези действия не са налични през менюто „Редактиране“ и контекстното меню, но пак можете да използвате:"
+   },
+   "disallowed_cut_copy_paste_title": {
+      "message": "Копиране и поставяне в режим на съвместимост с Office"
+   },
+   "dismiss": {
+      "message": "Отхвърляне"
+   },
+   "document_title_aria_spoken_word": {
+      "message": "Заглавие на документа:"
+   },
+   "down_key": {
+      "message": "Клавиш за надолу"
+   },
+   "download_button": {
+      "message": "Изтегляне"
+   },
+   "download_file_timeout_error_msg": {
+      "message": "Зареждането на файла, който отваряте, отнема по-дълго време от очакваното. Проверете мрежовата си връзка и опитайте отново."
+   },
+   "download_file_timeout_error_short_msg": {
+      "message": "Изтеглянето на файла отнема по-дълго време от очакваното"
+   },
+   "drive_open_timeout_error_msg": {
+      "message": "Изглежда, че има проблем с връзката ви с интернет. Моля, проверете я и опитайте отново да отворите файла. Ако сте онлайн и грешката продължава, подайте сигнал за проблем по-долу."
+   },
+   "drive_open_timeout_error_short_msg": {
+      "message": "Ами сега! Не можахме да отворим заявения от вас файл."
+   },
+   "duplicate_sheet_name_message": {
+      "message": "Въведете име, което не се използва за друг лист"
+   },
+   "duplicate_sheet_name_title": {
+      "message": "Това име на лист вече се използва"
+   },
+   "edits_not_being_saved": {
+      "message": "Редакциите няма да се запазват автоматично."
+   },
+   "edits_now_being_auto_saved": {
+      "message": "Файлът е запазен. Всички редакции вече ще се запазват автоматично."
+   },
+   "entry_point_error_msg": {
+      "message": "Моля, опитайте отново или подайте сигнал за проблем по-долу."
+   },
+   "entry_point_error_short_msg": {
+      "message": "Ами сега! Не можахме да определим кой файл искате да отворите."
+   },
+   "error_occurred": {
+      "message": "Възникна грешка."
+   },
+   "error_password_required_msg": {
+      "message": "Понастоящем не поддържаме защитени файлове, но работим по въпроса."
+   },
+   "error_password_required_short_msg": {
+      "message": "Този файл е защитен с парола."
+   },
+   "expanded": {
+      "message": "Разгънато"
+   },
+   "expanded_menu": {
+      "message": "$1. Разгънато с подменю.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "extension_description": {
+      "message": "Преглеждайте и редактирайте файлове на Microsoft Word, Excel и PowerPoint с Google Документи, Таблици и Презентации."
+   },
+   "extension_name": {
+      "message": "Редактиране на файлове от Office"
+   },
+   "extension_popup_message_body": {
+      "message": "За да отворите съществуващи файлове, хванете ги и ги преместете с мишката в браузъра"
+   },
+   "extension_popup_new_document_header": {
+      "message": "Създаване..."
+   },
+   "extension_popup_new_presentation_document": {
+      "message": "Презентация в PowerPoint"
+   },
+   "extension_popup_new_spreadsheet_document": {
+      "message": "Електронна таблица в Excel"
+   },
+   "extension_popup_new_word_document": {
+      "message": "Документ в Word"
+   },
+   "feedback_textbox_editing": {
+      "message": "Моля, добавете поддръжка за редактиране на текста в текстовите полета."
+   },
+   "feedback_ui_template": {
+      "message": "1. Моля, опишете проблема, който срещате.\n2. Кога възниква проблемът – при отваряне или при редактиране на файл?\n3. Кога възниква проблемът – при всеки опит за отваряне или редактиране на файлове или само за конкретни файлове?\n\nАко проблемът се отнася за определен файл, можете да го прикачите към този сигнал, тъй като това ще е много полезно за пълното отстраняване на неизправността."
+   },
+   "file_does_not_exist_error_details": {
+      "message": "Този файл не съществува. Възможно е да сте опитали да отворите споделена връзка или отметка към документ. Моля, пробвайте отново да отворите файла от оригиналния му източник."
+   },
+   "file_does_not_exist_error_title": {
+      "message": "Файлът не е намерен."
+   },
+   "file_loading_spinner_label": {
+      "message": "Зарежда се"
+   },
+   "file_missing_content_msg": {
+      "message": "При четенето на цялото съдържание на този файл възникна проблем. Препоръчваме ви да опитате да преименувате и отворите отново файла"
+   },
+   "file_missing_content_short_msg": {
+      "message": "В документа липсва съдържание."
+   },
+   "file_not_found_error_msg": {
+      "message": "Моля, уверете се, че имате разрешение за достъп до файла, като се свържете със собственика му. Ако то ви е предоставено и грешката продължава, подайте сигнал за проблем по-долу."
+   },
+   "file_not_found_error_short_msg": {
+      "message": "Ами сега! Не можахме да отворим заявения от вас файл."
+   },
+   "file_not_found_exception": {
+      "message": "Заявеният файл може да е изтрит, преименуван или преместен другаде. Моля, кликнете върху „Запазване сега“, за да продължите."
+   },
+   "file_not_found_link_text": {
+      "message": "За помощ относно използването на няколко профила, моля, вижте тази статия"
+   },
+   "file_not_found_msg": {
+      "message": "Заявеният от вас файл е преместен."
+   },
+   "file_not_found_title": {
+      "message": "Файлът не е намерен."
+   },
+   "file_open_crash_error_msg": {
+      "message": "Ако грешката продължи да възниква, моля, подайте сигнал за проблем по-долу."
+   },
+   "file_open_crash_error_short_msg": {
+      "message": "Ами сега! Не можахме да отворим заявения от вас файл."
+   },
+   "file_open_error_msg": {
+      "message": "Съдържанието на този файл не е достъпно."
+   },
+   "file_open_error_short_msg": {
+      "message": "Този файл изглежда повреден."
+   },
+   "file_open_fail_download_link_text": {
+      "message": "Изтегляне на файла"
+   },
+   "file_opened_in_incognito_mode_error_details": {
+      "message": "Разширението за редактиране на файлове на Office не работи в режим „инкогнито“. Моля, отворете този файл в обикновен прозорец на Chrome. Ако използвате режима на гост, отварянето на файла не бе успешно. Проверете дали файлът не е повреден и дали не е документ с невалиден тип и опитайте отново."
+   },
+   "file_opened_in_incognito_mode_error_title": {
+      "message": "Ами сега! Режимът „инкогнито“ не се поддържа"
+   },
+   "file_pdf_type_rename_msg": {
+      "message": "Преименувайте файла на $1.pdf и опитайте отново.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_rtf_type_rename_msg": {
+      "message": "Преименувайте файла на $1.rtf",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_type_unsupported_msg": {
+      "message": "Този тип файл не се поддържа."
+   },
+   "fillcolor_aria_spoken_word": {
+      "message": "падащ списък за цвета на текста"
+   },
+   "fontface_aria_spoken_word": {
+      "message": "падащ списък за вида на шрифта"
+   },
+   "fontsize_aria_spoken_word": {
+      "message": "падащ списък за размера на шрифта"
+   },
+   "forbidden_access_level_error_msg": {
+      "message": "Моля, уверете се, че имате разрешение за отваряне на файла, като се свържете със собственика му. Ако то ви е предоставено и грешката продължава, подайте сигнал за проблем по-долу."
+   },
+   "forbidden_access_level_error_short_msg": {
+      "message": "Ами сега! Не можахме да отворим заявения от вас файл."
+   },
+   "forbidden_app_access_error_msg": {
+      "message": "Поради някаква причина нямаме разрешение за отваряне на файла. Моля, опитайте да го отворите от Google Диск или подайте сигнал за проблем по-долу."
+   },
+   "forbidden_app_access_error_short_msg": {
+      "message": "Ами сега! Не можахме да отворим заявения от вас файл."
+   },
+   "forbidden_app_id_error_msg": {
+      "message": "Изглежда, че разширението за Chrome не е конфигурирано правилно. Как е възможно това? Не сме съвсем сигурни, но моля, подайте сигнал за проблем по-долу."
+   },
+   "forbidden_app_id_error_short_msg": {
+      "message": "Ами сега! Не можахме да отворим заявения от вас файл."
+   },
+   "forbidden_blacklist_error_msg": {
+      "message": "Изглежда, че разширението за Chrome е в черния списък. Очевидно това е грешка, така че, моля, съобщете ни, като подадете сигнал за проблем по-долу."
+   },
+   "forbidden_blacklist_error_short_msg": {
+      "message": "Ами сега! Не можахме да отворим заявения от вас файл."
+   },
+   "forbidden_domain_error_msg": {
+      "message": "Изглежда, че достъпът на домейна ви до този файл е забранен. Моля, свържете се с администратора на домейна си или подайте сигнал за проблем по-долу."
+   },
+   "forbidden_domain_error_short_msg": {
+      "message": "Ами сега! Не можахме да отворим заявения от вас файл."
+   },
+   "forbidden_internal_error_msg": {
+      "message": "За съжаление, Google Диск не работи, както се очаква. Моля, опитайте отново да отворите файла или подайте сигнал за проблем по-долу."
+   },
+   "forbidden_internal_error_short_msg": {
+      "message": "Ами сега! Не можахме да отворим заявения от вас файл."
+   },
+   "forbidden_not_installed_error_msg": {
+      "message": "Изглежда, че разширението за Chrome не е инсталирано правилно. Как е възможно това? Не сме съвсем сигурни, но моля, подайте сигнал за проблем по-долу."
+   },
+   "forbidden_not_installed_error_short_msg": {
+      "message": "Ами сега! Не можахме да отворим заявения от вас файл."
+   },
+   "generic_error_msg": {
+      "message": "Възникна проблем със съдържанието на този документ."
+   },
+   "generic_error_short_msg": {
+      "message": "Ами сега! Това не трябваше да се случва – презаредете страницата, за да възстановите промените си."
+   },
+   "get_lists_data_error_msg": {
+      "message": "Възможно е документът да се изобразява с неправилно списъчно форматиране."
+   },
+   "get_lists_data_error_short_msg": {
+      "message": "Форматирането на документа не можа да бъде извлечено."
+   },
+   "highlightcolor_aria_spoken_word": {
+      "message": "падащ списък за цвета за открояване на текста"
+   },
+   "http_error_zero_msg": {
+      "message": "В случай че е проблем с мрежата, моля, проверете връзката си или опитайте отново по-късно. Ако проблемът не се отстрани, подайте сигнал за него по-долу."
+   },
+   "http_error_zero_short_msg": {
+      "message": "За съжаление, не успяхме да отворим файла."
+   },
+   "info_file_copied": {
+      "message": "Запазено"
+   },
+   "info_file_save_cancelled": {
+      "message": "Запазването е анулирано."
+   },
+   "info_file_save_failed": {
+      "message": "Запазването не бе успешно."
+   },
+   "info_file_saved_at_location": {
+      "message": "Всички промени са запазени в(ъв) $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "info_file_saved_in_drive": {
+      "message": "Всички промени са запазени в Диск"
+   },
+   "info_file_saved_locally": {
+      "message": "Всички промени са запазени локално"
+   },
+   "info_file_saved_offline": {
+      "message": "Всички промени са запазени офлайн"
+   },
+   "info_file_saving": {
+      "message": "Запазва се…"
+   },
+   "initaddshape_aria_spoken_word": {
+      "message": "добавяне на текстово поле"
+   },
+   "invalid_credentials_error_msg": {
+      "message": "Необходимо е да влезете в профила си в Google, за да осъществите достъп до този файл."
+   },
+   "invalid_credentials_error_short_msg": {
+      "message": "Ами сега! Не можахме да отворим заявения от вас файл."
+   },
+   "invalid_file_format_msg": {
+      "message": "Въпреки че файлът изглежда като документ на Office и е с такова разширение, това всъщност е друг тип файл, който е бил преименуван, променен по някакъв начин или не се поддържа от нас."
+   },
+   "invalid_file_format_short_msg": {
+      "message": "Ами сега! Изглежда, че не можем да отворим този тип документ."
+   },
+   "italic_aria_spoken_word": {
+      "message": "курсив"
+   },
+   "keyboard_shortcut_group_actions": {
+      "message": "Действия"
+   },
+   "keyboard_shortcut_group_other": {
+      "message": "Други"
+   },
+   "keyboard_shortcut_group_paragraph_formatting": {
+      "message": "Форматиране на абзаци"
+   },
+   "keyboard_shortcut_group_text_formatting": {
+      "message": "Форматиране на текст"
+   },
+   "keyboard_shortcut_group_top_menus": {
+      "message": "Менюта"
+   },
+   "keyboard_shortcut_group_with_slides": {
+      "message": "С Презентации"
+   },
+   "keyboard_shortcut_title": {
+      "message": "Клавишни комбинации"
+   },
+   "make_a_copy_fail_msg": {
+      "message": "Понастоящем не можахме да направим копие."
+   },
+   "menu_button_data": {
+      "message": "Данни"
+   },
+   "menu_button_edit": {
+      "message": "Редактиране"
+   },
+   "menu_button_file": {
+      "message": "Файл"
+   },
+   "menu_button_format": {
+      "message": "Форматиране"
+   },
+   "menu_button_help": {
+      "message": "Помощ"
+   },
+   "menu_button_insert": {
+      "message": "Вмъкване"
+   },
+   "menu_button_slide": {
+      "message": "Слайд"
+   },
+   "menu_button_tools": {
+      "message": "Инструменти"
+   },
+   "menu_button_view": {
+      "message": "Преглед"
+   },
+   "menu_item_10_point_star": {
+      "message": "Звезда с 10 лъча"
+   },
+   "menu_item_12_point_star": {
+      "message": "Звезда с 12 лъча"
+   },
+   "menu_item_16_point_star": {
+      "message": "Звезда с 16 лъча"
+   },
+   "menu_item_24_point_star": {
+      "message": "Звезда с 24 лъча"
+   },
+   "menu_item_32_point_star": {
+      "message": "Звезда с 32 лъча"
+   },
+   "menu_item_4_point_star": {
+      "message": "Звезда с 4 лъча"
+   },
+   "menu_item_5_point_star": {
+      "message": "Звезда с 5 лъча"
+   },
+   "menu_item_6_point_star": {
+      "message": "Звезда с 6 лъча"
+   },
+   "menu_item_7_point_star": {
+      "message": "Звезда със 7 лъча"
+   },
+   "menu_item_8_point_star": {
+      "message": "Звезда с 8 лъча"
+   },
+   "menu_item_align": {
+      "message": "Подравняване"
+   },
+   "menu_item_align_center": {
+      "message": "Центриране"
+   },
+   "menu_item_align_justified": {
+      "message": "Двустранно"
+   },
+   "menu_item_align_left": {
+      "message": "Вляво"
+   },
+   "menu_item_align_right": {
+      "message": "Вдясно"
+   },
+   "menu_item_arrows": {
+      "message": "Стрелки"
+   },
+   "menu_item_bent_arrow": {
+      "message": "Извита стрелка"
+   },
+   "menu_item_bent_up_arrow": {
+      "message": "Извита нагоре стрелка"
+   },
+   "menu_item_bevel": {
+      "message": "Релефна плочка"
+   },
+   "menu_item_block_arc": {
+      "message": "Плътна дъга"
+   },
+   "menu_item_bold": {
+      "message": "Удебеляване"
+   },
+   "menu_item_callouts": {
+      "message": "Допълнителни описания"
+   },
+   "menu_item_can": {
+      "message": "Цилиндър"
+   },
+   "menu_item_chevron": {
+      "message": "Шеврон"
+   },
+   "menu_item_chord": {
+      "message": "Хорда"
+   },
+   "menu_item_clear_formatting": {
+      "message": "Изчистване на форматирането"
+   },
+   "menu_item_cloud": {
+      "message": "Облак"
+   },
+   "menu_item_cloud_callout": {
+      "message": "Поле за надпис под формата на облак"
+   },
+   "menu_item_color_none": {
+      "message": "Няма"
+   },
+   "menu_item_color_transparent": {
+      "message": "Прозрачно"
+   },
+   "menu_item_convert_to_docs": {
+      "message": "Запазване като файл на Google Документи"
+   },
+   "menu_item_convert_to_sheets": {
+      "message": "Запазване като файл на Google Таблици"
+   },
+   "menu_item_convert_to_slides": {
+      "message": "Запазване като файл на Google Презентации"
+   },
+   "menu_item_copy": {
+      "message": "Копиране"
+   },
+   "menu_item_cross": {
+      "message": "Кръст"
+   },
+   "menu_item_cube": {
+      "message": "Куб"
+   },
+   "menu_item_curved_down_arrow": {
+      "message": "Заоблена стрелка надолу"
+   },
+   "menu_item_curved_left_arrow": {
+      "message": "Заоблена стрелка наляво"
+   },
+   "menu_item_curved_right_arrow": {
+      "message": "Заоблена стрелка надясно"
+   },
+   "menu_item_curved_up_arrow": {
+      "message": "Заоблена стрелка нагоре"
+   },
+   "menu_item_cut": {
+      "message": "Изрязване"
+   },
+   "menu_item_decagon": {
+      "message": "Десетоъгълник"
+   },
+   "menu_item_delete_column": {
+      "message": "Изтриване на колоната"
+   },
+   "menu_item_delete_row": {
+      "message": "Изтриване на реда"
+   },
+   "menu_item_delete_value": {
+      "message": "Изтриване на стойността"
+   },
+   "menu_item_deleteslide": {
+      "message": "Изтриване на слайда"
+   },
+   "menu_item_diagonal_stripe": {
+      "message": "Диагонално райе"
+   },
+   "menu_item_diamond": {
+      "message": "Ромб"
+   },
+   "menu_item_divide": {
+      "message": "Деление"
+   },
+   "menu_item_dodecagon": {
+      "message": "Дванадесетоъгълник"
+   },
+   "menu_item_donut": {
+      "message": "Геврек"
+   },
+   "menu_item_double_brace": {
+      "message": "Фигурни скоби"
+   },
+   "menu_item_double_bracket": {
+      "message": "Скоби"
+   },
+   "menu_item_down_arrow": {
+      "message": "Стрелка надолу"
+   },
+   "menu_item_down_arrow_callout": {
+      "message": "Стрелка надолу с поле за надпис"
+   },
+   "menu_item_duplicateslide": {
+      "message": "Дублиране на слайд"
+   },
+   "menu_item_equal": {
+      "message": "Равно"
+   },
+   "menu_item_equation": {
+      "message": "Уравнение"
+   },
+   "menu_item_explosion_1": {
+      "message": "Взрив 1"
+   },
+   "menu_item_explosion_2": {
+      "message": "Взрив 2"
+   },
+   "menu_item_flowchart_alternate_process": {
+      "message": "Блок схема: Алтернативен процес"
+   },
+   "menu_item_flowchart_card": {
+      "message": "Блок схема: Карта"
+   },
+   "menu_item_flowchart_collate": {
+      "message": "Блок схема: Комплектуване"
+   },
+   "menu_item_flowchart_connector": {
+      "message": "Блок схема: Съединение"
+   },
+   "menu_item_flowchart_data": {
+      "message": "Блок схема: Данни"
+   },
+   "menu_item_flowchart_decision": {
+      "message": "Блок схема: Решение"
+   },
+   "menu_item_flowchart_delay": {
+      "message": "Блок схема: Закъснение"
+   },
+   "menu_item_flowchart_direct_access_storage": {
+      "message": "Блок схема: Памет с пряк достъп"
+   },
+   "menu_item_flowchart_display": {
+      "message": "Блок схема: Екран"
+   },
+   "menu_item_flowchart_document": {
+      "message": "Блок схема: Документ"
+   },
+   "menu_item_flowchart_extract": {
+      "message": "Блок схема: Извличане"
+   },
+   "menu_item_flowchart_internal_storage": {
+      "message": "Блок схема: Вътрешна памет"
+   },
+   "menu_item_flowchart_magnetic_disk": {
+      "message": "Блок схема: Магнитен диск"
+   },
+   "menu_item_flowchart_manual_input": {
+      "message": "Блок схема: Ръчно въвеждане"
+   },
+   "menu_item_flowchart_manual_operation": {
+      "message": "Блок схема: Ръчна операция"
+   },
+   "menu_item_flowchart_merge": {
+      "message": "Блок схема: Обединяване"
+   },
+   "menu_item_flowchart_multidocument": {
+      "message": "Блок схема: Няколко документа"
+   },
+   "menu_item_flowchart_off_page_connector": {
+      "message": "Блок схема: Продължение на друга страница"
+   },
+   "menu_item_flowchart_or": {
+      "message": "Блок схема: Или"
+   },
+   "menu_item_flowchart_predefined_process": {
+      "message": "Блок схема: Типов процес"
+   },
+   "menu_item_flowchart_preparation": {
+      "message": "Блок схема: Подготовка"
+   },
+   "menu_item_flowchart_process": {
+      "message": "Блок схема: Процес"
+   },
+   "menu_item_flowchart_punched_tape": {
+      "message": "Блок схема: Перфолента"
+   },
+   "menu_item_flowchart_sequential_access_storage": {
+      "message": "Блок схема: Памет с последователен достъп"
+   },
+   "menu_item_flowchart_sort": {
+      "message": "Блок схема: Сортиране"
+   },
+   "menu_item_flowchart_stored_data": {
+      "message": "Блок схема: Съхранени данни"
+   },
+   "menu_item_flowchart_summing_junction": {
+      "message": "Блок схема: Възел на сумиране"
+   },
+   "menu_item_flowchart_terminator": {
+      "message": "Блок схема: Знак за край"
+   },
+   "menu_item_folded_corner": {
+      "message": "Подгънат ъгъл"
+   },
+   "menu_item_frame": {
+      "message": "Рамка"
+   },
+   "menu_item_half_frame": {
+      "message": "Половин рамка"
+   },
+   "menu_item_heart": {
+      "message": "Сърце"
+   },
+   "menu_item_help_center": {
+      "message": "Помощен център"
+   },
+   "menu_item_heptagon": {
+      "message": "Седмоъгълник"
+   },
+   "menu_item_hexagon": {
+      "message": "Шестоъгълник"
+   },
+   "menu_item_hideslide": {
+      "message": "Скриване на слайда"
+   },
+   "menu_item_insert_column": {
+      "message": "Колона"
+   },
+   "menu_item_insert_image": {
+      "message": "Изображение"
+   },
+   "menu_item_insert_row": {
+      "message": "Ред"
+   },
+   "menu_item_insert_text_box": {
+      "message": "Текстово поле"
+   },
+   "menu_item_insertslide": {
+      "message": "Нов слайд"
+   },
+   "menu_item_italic": {
+      "message": "Курсив"
+   },
+   "menu_item_keyboard_shortcuts": {
+      "message": "Клавишни комбинации"
+   },
+   "menu_item_l_shape": {
+      "message": "Фигура с формата на L"
+   },
+   "menu_item_left_arrow": {
+      "message": "Стрелка наляво"
+   },
+   "menu_item_left_arrow_callout": {
+      "message": "Стрелка наляво с поле за надпис"
+   },
+   "menu_item_left_brace": {
+      "message": "Лява фигурна скоба"
+   },
+   "menu_item_left_bracket": {
+      "message": "Лява скоба"
+   },
+   "menu_item_left_right_arrow": {
+      "message": "Стрелка наляво и надясно"
+   },
+   "menu_item_left_right_arrow_callout": {
+      "message": "Стрелка наляво и надясно с поле за надпис"
+   },
+   "menu_item_left_right_up_arrow": {
+      "message": "Стрелка наляво, надясно и нагоре"
+   },
+   "menu_item_left_up_arrow": {
+      "message": "Стрелка наляво и нагоре"
+   },
+   "menu_item_lightning_bolt": {
+      "message": "Светкавица"
+   },
+   "menu_item_make_a_copy": {
+      "message": "Създаване на копие…"
+   },
+   "menu_item_merge_all": {
+      "message": "Обединяване на всички"
+   },
+   "menu_item_merge_cells": {
+      "message": "Обединяване на клетките"
+   },
+   "menu_item_merge_horizontally": {
+      "message": "Хоризонтално обединяване"
+   },
+   "menu_item_merge_vertically": {
+      "message": "Вертикално обединяване"
+   },
+   "menu_item_minus": {
+      "message": "Минус"
+   },
+   "menu_item_moon": {
+      "message": "Луна"
+   },
+   "menu_item_moveslidedown": {
+      "message": "Преместване на слайда надолу"
+   },
+   "menu_item_moveslidetoend": {
+      "message": "Преместване на слайда в края"
+   },
+   "menu_item_moveslidetostart": {
+      "message": "Преместване на слайда в началото"
+   },
+   "menu_item_moveslideup": {
+      "message": "Преместване на слайда нагоре"
+   },
+   "menu_item_multiply": {
+      "message": "Умножение"
+   },
+   "menu_item_new": {
+      "message": "Създаване"
+   },
+   "menu_item_no_symbol": {
+      "message": "Символ за забрана"
+   },
+   "menu_item_not_equal": {
+      "message": "Не е равно"
+   },
+   "menu_item_notched_right_arrow": {
+      "message": "Стрелка надясно с лястовича опашка"
+   },
+   "menu_item_number_format": {
+      "message": "Формат на числата"
+   },
+   "menu_item_number_menu": {
+      "message": "Число"
+   },
+   "menu_item_numbering": {
+      "message": "$1 от $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "menu_item_octagon": {
+      "message": "Осмоъгълник"
+   },
+   "menu_item_open": {
+      "message": "Отваряне"
+   },
+   "menu_item_oval": {
+      "message": "Овал"
+   },
+   "menu_item_oval_callout": {
+      "message": "Овално поле за надпис"
+   },
+   "menu_item_parallelogram": {
+      "message": "Успоредник"
+   },
+   "menu_item_paste": {
+      "message": "Поставяне"
+   },
+   "menu_item_pentagon": {
+      "message": "Петоъгълник"
+   },
+   "menu_item_pie": {
+      "message": "Пита"
+   },
+   "menu_item_plaque": {
+      "message": "Плакет"
+   },
+   "menu_item_plus": {
+      "message": "Плюс"
+   },
+   "menu_item_present": {
+      "message": "Представяне"
+   },
+   "menu_item_print": {
+      "message": "Печат"
+   },
+   "menu_item_quad_arrow": {
+      "message": "Четворна стрелка"
+   },
+   "menu_item_quad_arrow_callout": {
+      "message": "Четворна стрелка с поле за надпис"
+   },
+   "menu_item_rectangle": {
+      "message": "Правоъгълник"
+   },
+   "menu_item_rectangular_callout": {
+      "message": "Правоъгълно поле за надпис"
+   },
+   "menu_item_redo": {
+      "message": "Възстановяване"
+   },
+   "menu_item_regular_pentagon": {
+      "message": "Правилен петоъгълник"
+   },
+   "menu_item_report_abuse": {
+      "message": "Подаване на сигнал за злоупотреба"
+   },
+   "menu_item_report_issue": {
+      "message": "Сигнал за проблем"
+   },
+   "menu_item_right_arrow": {
+      "message": "Стрелка надясно"
+   },
+   "menu_item_right_arrow_callout": {
+      "message": "Стрелка надясно с поле за надпис"
+   },
+   "menu_item_right_brace": {
+      "message": "Дясна фигурна скоба"
+   },
+   "menu_item_right_bracket": {
+      "message": "Дясна скоба"
+   },
+   "menu_item_right_triangle": {
+      "message": "Правоъгълен триъгълник"
+   },
+   "menu_item_round_diagonal_corner_rectangle": {
+      "message": "Правоъгълник с противоположни заоблени ъгли"
+   },
+   "menu_item_round_same_side_corner_rectangle": {
+      "message": "Правоъгълник с два съседни заоблени ъгъла"
+   },
+   "menu_item_round_single_corner_rectangle": {
+      "message": "Правоъгълник с един заоблен ъгъл"
+   },
+   "menu_item_rounded_rectangle": {
+      "message": "Заоблен правоъгълник"
+   },
+   "menu_item_rounded_rectangular_callout": {
+      "message": "Заоблено правоъгълно поле за надпис"
+   },
+   "menu_item_save": {
+      "message": "Запазване"
+   },
+   "menu_item_save_as": {
+      "message": "Запазване като…"
+   },
+   "menu_item_shapes": {
+      "message": "Фигури"
+   },
+   "menu_item_share": {
+      "message": "Споделяне"
+   },
+   "menu_item_smiley_face": {
+      "message": "Усмивка"
+   },
+   "menu_item_snip_and_round_single_corner_rectangle": {
+      "message": "Правоъгълник с един скосен и един заоблен ъгъл"
+   },
+   "menu_item_snip_diagonal_corner_rectangle": {
+      "message": "Правоъгълник със скосени противоположни ъгли"
+   },
+   "menu_item_snip_same_side_corner_rectangle": {
+      "message": "Правоъгълник с два съседни скосени ъгъла"
+   },
+   "menu_item_snip_single_corner_rectangle": {
+      "message": "Правоъгълник с един скосен ъгъл"
+   },
+   "menu_item_strikethrough": {
+      "message": "Зачеркване"
+   },
+   "menu_item_striped_right_arrow": {
+      "message": "Стрелка надясно на ивици"
+   },
+   "menu_item_subscript": {
+      "message": "Долен индекс"
+   },
+   "menu_item_sun": {
+      "message": "Слънце"
+   },
+   "menu_item_superscript": {
+      "message": "Горен индекс"
+   },
+   "menu_item_teardrop": {
+      "message": "Сълза"
+   },
+   "menu_item_trapezoid": {
+      "message": "Трапец"
+   },
+   "menu_item_triangle": {
+      "message": "Триъгълник"
+   },
+   "menu_item_u_turn_arrow": {
+      "message": "Стрелка за обратен завой"
+   },
+   "menu_item_underline": {
+      "message": "Подчертаване"
+   },
+   "menu_item_undo": {
+      "message": "Отмяна"
+   },
+   "menu_item_unhideslide": {
+      "message": "Показване на слайда"
+   },
+   "menu_item_unmerge": {
+      "message": "Разделяне"
+   },
+   "menu_item_up_arrow": {
+      "message": "Стрелка нагоре"
+   },
+   "menu_item_up_arrow_callout": {
+      "message": "Стрелка нагоре с поле за надпис"
+   },
+   "menu_item_up_down_arrow": {
+      "message": "Стрелка нагоре и надолу"
+   },
+   "menu_item_version_info": {
+      "message": "Информация за версията"
+   },
+   "menu_item_word_count": {
+      "message": "Брой думи"
+   },
+   "menu_item_wrap_text": {
+      "message": "Обтичане на текст"
+   },
+   "menu_item_zoom_in": {
+      "message": "Увеличаване"
+   },
+   "menu_item_zoom_out": {
+      "message": "Намаляване"
+   },
+   "merge_all_aria_spoken_word": {
+      "message": "обединяване на всички"
+   },
+   "merge_aria_spoken_word": {
+      "message": "обединяване"
+   },
+   "merge_dropdown_aria_spoken_word": {
+      "message": "падащо меню за обединяване"
+   },
+   "merge_horizontally_aria_spoken_word": {
+      "message": "хоризонтално обединяване"
+   },
+   "merge_vertically_aria_spoken_word": {
+      "message": "вертикално обединяване"
+   },
+   "modify_shape_transform_error_msg": {
+      "message": "При промяната на преобразуванията на формите възникна грешка"
+   },
+   "modify_shape_transform_error_short_msg": {
+      "message": "При промяната на преобразуванията на формите възникна грешка."
+   },
+   "modifyshapefillcolor_aria_spoken_word": {
+      "message": "падащ списък за цвета на запълване на фигурата"
+   },
+   "modifyshapeoutlinecolor_aria_spoken_word": {
+      "message": "падащ списък за цвета на контура на фигурата"
+   },
+   "modifyshapeoutlinestyle_aria_spoken_word": {
+      "message": "падащ списък за стила на контура на фигурата"
+   },
+   "modifyshapeoutlinewidth_aria_spoken_word": {
+      "message": "падащ списък за ширината на контура на фигурата"
+   },
+   "nacl_load_error_details": {
+      "message": "Опитайте да инсталирате отново разширението."
+   },
+   "nacl_load_error_title": {
+      "message": "Възникна проблем при зареждането на приложението."
+   },
+   "non_permissible_sheet_name_details": {
+      "message": "Следните знаци не са разрешени: * ? [ ] ' ; :\nИмето на листа трябва да се попълни и да не е по-дълго от 31 знака"
+   },
+   "non_permissible_sheet_name_title": {
+      "message": "Въведохте невалидно име при преименуването на лист"
+   },
+   "not_pressed": {
+      "message": "Не е натиснато"
+   },
+   "notselected": {
+      "message": "Не е избрано"
+   },
+   "number_format_label_currency_symbol": {
+      "message": "Символ на валутата"
+   },
+   "number_format_label_date_type": {
+      "message": "Тип"
+   },
+   "number_format_label_decimal_places": {
+      "message": "Цифри след десетичния знак"
+   },
+   "number_format_label_general": {
+      "message": "Общ"
+   },
+   "number_format_label_negative_numbers": {
+      "message": "Отрицателни числа"
+   },
+   "number_format_label_other": {
+      "message": "Други"
+   },
+   "number_format_label_red": {
+      "message": "Червено"
+   },
+   "number_format_label_text": {
+      "message": "Текст"
+   },
+   "number_format_label_use_1000_separator": {
+      "message": "Използване на разделител за хилядите"
+   },
+   "number_format_tab_accounting": {
+      "message": "Счетоводство"
+   },
+   "number_format_tab_currency": {
+      "message": "Валута"
+   },
+   "number_format_tab_date_time": {
+      "message": "Дата и час"
+   },
+   "number_format_tab_general": {
+      "message": "Общ"
+   },
+   "number_format_tab_number": {
+      "message": "Число"
+   },
+   "number_format_tab_percentage": {
+      "message": "Процент"
+   },
+   "number_format_tab_scientific": {
+      "message": "Научен"
+   },
+   "number_format_title": {
+      "message": "Формати на числата"
+   },
+   "ocm_promo_conversion_shortmsg": {
+      "message": "Работите в режима на съвместимост с Office"
+   },
+   "office_compatibility_mode": {
+      "message": "Режим за съвместимост с Office"
+   },
+   "office_first_time_confirm": {
+      "message": "Разбрах"
+   },
+   "office_first_time_message_p1": {
+      "message": "Вече можете да редактирате файлове от Word, Excel и Powerpoint от твърдия си диск, Google Диск, Gmail и др. посредством Документи, Таблици и Презентации."
+   },
+   "office_first_time_message_p2": {
+      "message": "Всичките ви редакции се запазват автоматично и винаги можете да запазите в оригиналния формат."
+   },
+   "office_first_time_title": {
+      "message": "Редактиране на файлове от Office посредством Документи, Таблици и Презентации"
+   },
+   "offline_error_msg": {
+      "message": "Изглежда, че сте офлайн. Моля, проверете връзката си с интернет и опитайте отново. Ако грешката продължава, докато сте онлайн, подайте сигнал за проблем по-долу."
+   },
+   "offline_error_short_msg": {
+      "message": "Ами сега! Не можахме да отворим заявения от вас файл."
+   },
+   "option_key": {
+      "message": "Опция"
+   },
+   "out_of_memory_error_msg": {
+      "message": "Опитайте да затворите този раздел и отново да отворите файла или да затворите другите раздели в браузъра, ако има такива. В случай че проблемът не се отстрани, моля, подайте сигнал по-долу."
+   },
+   "out_of_memory_error_short_msg": {
+      "message": "Ами сега! Паметта се изчерпа."
+   },
+   "page_count_label": {
+      "message": "Страници"
+   },
+   "partial_cell_merge_error_msg": {
+      "message": "Не можете да промените част от обединена клетка."
+   },
+   "partial_cell_merge_error_short_msg": {
+      "message": "Грешка"
+   },
+   "point_ocm_promo_conversion_msg": {
+      "message": "Можете да редактирате и запазвате файлове от Office директно в Презентации. За да поканите други хора да извършват промени или да добавят коментари, запазете файла като такъв на Google Презентации. В състояние сте да възстановите оригиналния му формат по всяко време."
+   },
+   "point_printing_warning_msg": {
+      "message": "Работим за премахването на това ограничение."
+   },
+   "point_printing_warning_short_msg": {
+      "message": "Понастоящем можете да отпечатвате само слайда, който преглеждате."
+   },
+   "point_share_promo_conversion_msg": {
+      "message": "Опитвате да споделите тази презентация? За да поканите други хора да я редактират с вас, я преобразувайте във файл на Google Презентации."
+   },
+   "pointtogglebullet_aria_spoken_word": {
+      "message": "списък с водещи символи"
+   },
+   "pointtogglenumber_aria_spoken_word": {
+      "message": "номериран списък"
+   },
+   "present_button": {
+      "message": "Представяне"
+   },
+   "pressed": {
+      "message": "Натиснато"
+   },
+   "print_aria_spoken_word": {
+      "message": "печат"
+   },
+   "qowt_doc_mismatch_text": {
+      "message": "При форматирането на документа ви възникна грешка.\n\nПрезаредете страницата, за да възстановите промените си."
+   },
+   "qowt_doc_mismatch_title": {
+      "message": "Олеле!"
+   },
+   "qowt_hyperlink_activate_short_key": {
+      "message": "Натиснете „ALT + Enter“, за да активирате връзката."
+   },
+   "qowt_hyperlink_dialog": {
+      "message": "Хипервръзка"
+   },
+   "qowt_hyperlink_dialog_message_text": {
+      "message": "Към връзката:"
+   },
+   "qowt_modal_confirm_dialog_affirmative_button": {
+      "message": "OK"
+   },
+   "qowt_modal_confirm_dialog_negative_button": {
+      "message": "Отказ"
+   },
+   "qowt_modal_dialog_close_button": {
+      "message": "Затваряне"
+   },
+   "qowt_modal_dialog_coming_soon_title": {
+      "message": "Очаквайте скоро!"
+   },
+   "qowt_modal_dialog_link_text": {
+      "message": "Научете повече"
+   },
+   "qowt_modal_dialog_ok_button": {
+      "message": "OK"
+   },
+   "qowt_modal_dialog_reload_button": {
+      "message": "Презареждане"
+   },
+   "qowt_modal_dialog_textbox_editing_description": {
+      "message": "За съжаление, не поддържаме редактиране на текста в текстовите полета."
+   },
+   "qowt_modal_dialog_textbox_editing_link": {
+      "message": "Моля, поправете това!"
+   },
+   "qowt_modal_info_dialog_affirmative_button": {
+      "message": "OK"
+   },
+   "qowt_modal_multi_choice_remember_choice": {
+      "message": "Запомняне на избора ми"
+   },
+   "qowt_modal_query_dialog_affirmative_button": {
+      "message": "Да"
+   },
+   "qowt_modal_query_dialog_negative_button": {
+      "message": "Не"
+   },
+   "qowt_modal_query_dialog_reload_button": {
+      "message": "Презареждане"
+   },
+   "qowt_modal_single_choice_remember_choice": {
+      "message": "Без подсещане по-късно"
+   },
+   "read_only": {
+      "message": "Само за четене"
+   },
+   "redo_aria_spoken_word": {
+      "message": "възстановяване"
+   },
+   "right_pointed_submenu": {
+      "message": "Десен курсор с подменю"
+   },
+   "save_aria_spoken_word": {
+      "message": "запазване"
+   },
+   "save_now": {
+      "message": "Запазване сега"
+   },
+   "security_error_msg": {
+      "message": "Ако грешката продължи да възниква, моля, подайте сигнал за проблем по-долу."
+   },
+   "security_error_short_msg": {
+      "message": "Ами сега! Не можахме да отворим заявения от вас файл. Понастоящем не поддържаме тази функция в режим „инкогнито“. Моля, отворете файла си в обикновен прозорец на браузъра."
+   },
+   "selected": {
+      "message": "Избрано"
+   },
+   "set_sheet_info_error_msg": {
+      "message": "При актуализирането на името на листа възникна грешка"
+   },
+   "share_button": {
+      "message": "Споделяне"
+   },
+   "share_promo_conversion_shortmsg": {
+      "message": "Редактиране с други хора"
+   },
+   "sheet_delete_column_error_msg": {
+      "message": "Ами сега! При изтриването на колоната възникна грешка. Моля, опитайте отново."
+   },
+   "sheet_delete_row_error_msg": {
+      "message": "Ами сега! При изтриването на реда възникна грешка. Моля, опитайте отново."
+   },
+   "sheet_format_cells_error_msg": {
+      "message": "Възникна грешка при форматирането. Моля, опитайте отново."
+   },
+   "sheet_insert_column_error_msg": {
+      "message": "Ами сега! При вмъкването на колоната възникна грешка. Моля, опитайте отново."
+   },
+   "sheet_insert_column_exceed_error_msg": {
+      "message": "За съжаление не можете да вмъкнете повече колони в тази електронна таблица, тъй като поддържаме само 256."
+   },
+   "sheet_insert_column_exceed_error_short_msg": {
+      "message": "Съжаляваме!"
+   },
+   "sheet_insert_row_error_msg": {
+      "message": "Ами сега! При вмъкването на реда възникна грешка. Моля, опитайте отново."
+   },
+   "sheet_insert_row_exceed_error_msg": {
+      "message": "За съжаление не можете да вмъкнете повече редове в тази електронна таблица, тъй като поддържаме само 65 536."
+   },
+   "sheet_insert_row_exceed_error_short_msg": {
+      "message": "Съжаляваме!"
+   },
+   "sheet_ocm_promo_conversion_msg": {
+      "message": "Можете да редактирате и запазвате файлове от Office директно в Таблици. За да поканите други хора да извършват промени или да добавят коментари, запазете файла като такъв на Google Таблици. В състояние сте да възстановите оригиналния му формат по всяко време."
+   },
+   "sheet_set_cell_content_invalid_error_msg": {
+      "message": "Възникна грешка във въведената от вас формула. Моля, поправете я."
+   },
+   "sheet_share_promo_conversion_msg": {
+      "message": "Опитвате да споделите тази електронна таблица? За да поканите други хора да я редактират с вас, я преобразувайте във файл на Google Таблици."
+   },
+   "sheet_sort_error_title": {
+      "message": "Възникна грешка при сортирането на този диапазон от клетки."
+   },
+   "sheet_sort_failure_msg": {
+      "message": "Възникна грешка при сортирането на този диапазон от клетки."
+   },
+   "sheet_sort_merged_cell_error": {
+      "message": "Не можете да сортирате обединени клетки."
+   },
+   "sheet_sort_merged_cell_error_title": {
+      "message": "Възникна грешка при сортирането на този диапазон от клетки."
+   },
+   "sheet_sort_one_cell_error": {
+      "message": "Моля, изберете повече от една клетка, за да сортирате."
+   },
+   "sheet_sort_one_cell_error_title": {
+      "message": "Възникна грешка при сортирането на този диапазон от клетки."
+   },
+   "shift_key": {
+      "message": "Клавиш „Shift“"
+   },
+   "shortcut": {
+      "message": "Пряк път „$1“",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sign_in": {
+      "message": "Вход"
+   },
+   "slash_key": {
+      "message": "Наклонена черта"
+   },
+   "something_not_right": {
+      "message": "Нещо не е наред"
+   },
+   "storage_quota_exceed_error_msg": {
+      "message": "Затворете всички отворени в Chrome документи на Office, след което опитайте отново. Ако проблемът не се отстрани, подайте сигнал за него по-долу."
+   },
+   "storage_quota_exceed_error_short_msg": {
+      "message": "За съжаление, не успяхме да отворим файла."
+   },
+   "strikethrough_aria_spoken_word": {
+      "message": "зачеркване"
+   },
+   "style_aria_spoken_word": {
+      "message": "падащ списък за стилове"
+   },
+   "submenu_spoken_text": {
+      "message": "$1 $2 $3 $4",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         }
+      }
+   },
+   "temporary_unable_to_open_error_msg": {
+      "message": "Опитайте отново по-късно или подайте сигнал за проблема по-долу, ако не се отстрани."
+   },
+   "temporary_unable_to_open_error_short_msg": {
+      "message": "За съжаление, временно не сме в състояние да отворим файла."
+   },
+   "textaligncenter_aria_spoken_word": {
+      "message": "подравняване на текста в центъра"
+   },
+   "textalignjustify_aria_spoken_word": {
+      "message": "двустранно подравняване на текста"
+   },
+   "textalignleft_aria_spoken_word": {
+      "message": "подравняване на текста вляво"
+   },
+   "textalignright_aria_spoken_word": {
+      "message": "подравняване на текста вдясно"
+   },
+   "textcolor_aria_spoken_word": {
+      "message": "падащ списък за цвета на текста"
+   },
+   "textual_edit_error_msg": {
+      "message": "При форматирането на документа ви възникна грешка.\n\nПрезаредете страницата, за да възстановите промените си."
+   },
+   "textual_edit_error_short_msg": {
+      "message": "Олеле!"
+   },
+   "title_error_msg_for_merge_cells": {
+      "message": "Възникна проблем"
+   },
+   "title_msg_merging_multiple_cells_with_text": {
+      "message": "Внимание!"
+   },
+   "togglebulleted_aria_spoken_word": {
+      "message": "списък с водещи символи"
+   },
+   "togglenumbered_aria_spoken_word": {
+      "message": "номериран списък"
+   },
+   "togglezoom_aria_spoken_word": {
+      "message": "мащабът е променен"
+   },
+   "tooltip_background_color": {
+      "message": "Цвят на запълване"
+   },
+   "tooltip_bold": {
+      "message": "Удебелен"
+   },
+   "tooltip_border": {
+      "message": "Контури"
+   },
+   "tooltip_border_all": {
+      "message": "Всички контури"
+   },
+   "tooltip_border_bottom": {
+      "message": "Долни контури"
+   },
+   "tooltip_border_horizontal": {
+      "message": "Хоризонтални контури"
+   },
+   "tooltip_border_inner": {
+      "message": "Вътрешни контури"
+   },
+   "tooltip_border_left": {
+      "message": "Леви контури"
+   },
+   "tooltip_border_none": {
+      "message": "Без контури"
+   },
+   "tooltip_border_outer": {
+      "message": "Външни контури"
+   },
+   "tooltip_border_right": {
+      "message": "Десни контури"
+   },
+   "tooltip_border_top": {
+      "message": "Горни контури"
+   },
+   "tooltip_border_vertical": {
+      "message": "Вертикални контури"
+   },
+   "tooltip_cell_align": {
+      "message": "Подравняване на клетките"
+   },
+   "tooltip_cell_h_align_center": {
+      "message": "Хоризонтално, в центъра"
+   },
+   "tooltip_cell_h_align_left": {
+      "message": "Хоризонтално, вляво"
+   },
+   "tooltip_cell_h_align_right": {
+      "message": "Хоризонтално, вдясно"
+   },
+   "tooltip_cell_v_align_bottom": {
+      "message": "Вертикално, долу"
+   },
+   "tooltip_cell_v_align_center": {
+      "message": "Вертикално, в центъра"
+   },
+   "tooltip_cell_v_align_top": {
+      "message": "Вертикално, горе"
+   },
+   "tooltip_download": {
+      "message": "Изтегляне"
+   },
+   "tooltip_dropdown_init_add_shape": {
+      "message": "Фигура"
+   },
+   "tooltip_fill_color": {
+      "message": "Цвят на текста"
+   },
+   "tooltip_font_face": {
+      "message": "Шрифт"
+   },
+   "tooltip_font_size": {
+      "message": "Размер на шрифта"
+   },
+   "tooltip_highlight_color": {
+      "message": "Цвят за открояване"
+   },
+   "tooltip_init_add_shape": {
+      "message": "Текстово поле"
+   },
+   "tooltip_italic": {
+      "message": "Курсив"
+   },
+   "tooltip_merge": {
+      "message": "Обединяване на клетките"
+   },
+   "tooltip_merge_dropdown": {
+      "message": "Изберете тип обединяване..."
+   },
+   "tooltip_modify_shape_fill_color": {
+      "message": "Цвят на запълване"
+   },
+   "tooltip_modify_shape_outline_color": {
+      "message": "Цвят на контура"
+   },
+   "tooltip_modify_shape_outline_style": {
+      "message": "Пунктир на контура"
+   },
+   "tooltip_modify_shape_outline_width": {
+      "message": "Дебелина на контура"
+   },
+   "tooltip_move_slide": {
+      "message": "Преместване на $1 слайд(а)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "tooltip_point": {
+      "message": "Начална страница на Презентации"
+   },
+   "tooltip_point_toggle_bullet": {
+      "message": "Списък с водещи символи"
+   },
+   "tooltip_point_toggle_number": {
+      "message": "Номериран списък"
+   },
+   "tooltip_presentation": {
+      "message": "Презентация"
+   },
+   "tooltip_print": {
+      "message": "Отпечатване"
+   },
+   "tooltip_redo": {
+      "message": "Възстановяване"
+   },
+   "tooltip_share": {
+      "message": "Споделяне"
+   },
+   "tooltip_share_for_macroenabledfiles": {
+      "message": "Файловете с активирани макроси могат да се споделят само от Google Диск."
+   },
+   "tooltip_sheet": {
+      "message": "Начална страница на Таблици"
+   },
+   "tooltip_strikethrough": {
+      "message": "Зачеркване"
+   },
+   "tooltip_style": {
+      "message": "Стилове"
+   },
+   "tooltip_text_align_center": {
+      "message": "Центриране"
+   },
+   "tooltip_text_align_justify": {
+      "message": "Двустранно подравняване"
+   },
+   "tooltip_text_align_left": {
+      "message": "Подравняване вляво"
+   },
+   "tooltip_text_align_right": {
+      "message": "Подравняване вдясно"
+   },
+   "tooltip_text_color": {
+      "message": "Цвят на текста"
+   },
+   "tooltip_toggle_bulleted": {
+      "message": "Списък с водещи символи"
+   },
+   "tooltip_toggle_numbered": {
+      "message": "Номериран списък"
+   },
+   "tooltip_toggle_zoom": {
+      "message": "Превключване на промяната на мащаба"
+   },
+   "tooltip_underline": {
+      "message": "Подчертаване"
+   },
+   "tooltip_undo": {
+      "message": "Отмяна"
+   },
+   "tooltip_word": {
+      "message": "Начална страница на Документи"
+   },
+   "tooltip_wrap_text": {
+      "message": "Обтичане на текст"
+   },
+   "tooltip_zoom_in": {
+      "message": "Увеличаване на мащаба"
+   },
+   "tooltip_zoom_out": {
+      "message": "Намаляване на мащаба"
+   },
+   "try_again": {
+      "message": "Нов опит"
+   },
+   "unable_to_execute_msg": {
+      "message": "Този документ не може да се отвори."
+   },
+   "underline_aria_spoken_word": {
+      "message": "подчертаване"
+   },
+   "undo_aria_spoken_word": {
+      "message": "отмяна"
+   },
+   "unmerge_aria_spoken_word": {
+      "message": "премахване на обединяването"
+   },
+   "unsaved_changes": {
+      "message": "Незапазени промени"
+   },
+   "unsaved_changes_warning": {
+      "message": "В този файл има незапазени промени. Ако излезете от страницата, без да ги запазите, работата ви ще бъде заличена завинаги."
+   },
+   "unsupported_file_format_error_details_p1": {
+      "message": "За съжаление, в този файл има съдържание от Microsoft® Office 95 или по-стара версия, което не можем да отворим."
+   },
+   "unsupported_file_format_error_details_p2": {
+      "message": "Ако искате да преобразувате файла в такъв на Google Документи, кликнете върху връзката по-долу."
+   },
+   "unsupported_file_format_error_title": {
+      "message": "Ами сега!"
+   },
+   "unsupported_link_message": {
+      "message": "За съжаление, понастоящем не поддържаме URL адреси от този тип."
+   },
+   "up_key": {
+      "message": "Клавиш за нагоре"
+   },
+   "updated_shortcut_message": {
+      "message": "Актуализирахме клавишните комбинации, за да ги уеднаквим във всички продукти на Google за редактиране на документи. Вижте новите комбинации в помощното съдържание."
+   },
+   "updated_shortcut_title": {
+      "message": "Актуализирани клавишни комбинации"
+   },
+   "version_info_msg": {
+      "message": "Версията на режима на съвместимост с Office е"
+   },
+   "word_binary_upsave_learnmore": {
+      "message": "Научете повече"
+   },
+   "word_binary_upsave_msg": {
+      "message": "Този файл е в неподдържан формат. За да го запазим, се нуждаем от разрешението ви да го преобразуваме в по-скорошен формат. Оригиналът няма да бъде засегнат."
+   },
+   "word_binary_upsave_shortmsg": {
+      "message": "Актуализиране на документа ви"
+   },
+   "word_count_label": {
+      "message": "Думи"
+   },
+   "word_count_title": {
+      "message": "Брой думи"
+   },
+   "word_ocm_promo_conversion_msg": {
+      "message": "Можете да редактирате и запазвате файлове от Office директно в Документи. За да поканите други хора да извършват промени или да добавят коментари, запазете файла като такъв на Google Документи. В състояние сте да възстановите оригиналния му формат по всяко време."
+   },
+   "word_share_promo_conversion_msg": {
+      "message": "Опитвате да споделите този документ? За да поканите други хора да го редактират с вас, го преобразувайте във файл на Google Документи."
+   },
+   "wraptext_aria_spoken_word": {
+      "message": "обтичане на текст"
+   },
+   "zoomin_aria_spoken_word": {
+      "message": "увеличаване"
+   },
+   "zoomout_aria_spoken_word": {
+      "message": "намаляване"
+   }
+}

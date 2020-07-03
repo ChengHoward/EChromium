@@ -1,0 +1,40 @@
+<link rel="import" href="../../../../../third_party/polymer/polymer.html"/>
+<link rel="import" href="../modalDialogStyles.html">
+
+<dom-module id="qowt-promo-message-dialog">
+  <template>
+    <style include="modal-dialog-styles"></style>
+    <style>
+      :host {
+        width: 300px;
+      }
+
+      #action {
+        background: transparent;
+        color: blue;
+        cursor: pointer;
+        text-decoration: underline;
+      }
+    </style>
+
+    <qowt-localized>
+      <header>{{headerText}}</header>
+      <p>
+        <span id="message">{{messageText}}</span>
+        <span id="action" tabindex="2" role="link" on-focus="linkFocused_"
+              on-keydown="handleLinkKeyDown_"
+              on-click="learnMoreAction">__qowt_modal_dialog_link_text__</span>
+      </p>
+      <footer>
+        <button id="affirmative" class="affirmative" on-click="handleAction_"
+                on-focus="affirmativeFocused_"
+                tabindex="1" role="button" autofocus>
+          __office_first_time_confirm__
+        </button>
+      </footer>
+    </qowt-localized>
+
+    <button id="closeButton" on-click="close" role="button" tabindex="2"
+            on-focus="closeButtonFocused_" focus-end></button>
+  </template>
+</dom-module>

@@ -1,0 +1,2192 @@
+{
+   "action_create_user_feedback": {
+      "message": "문제 신고하기"
+   },
+   "alt_key": {
+      "message": "Alt 키"
+   },
+   "app_error_learn_more": {
+      "message": "자세히 알아보기"
+   },
+   "app_error_report_feedback": {
+      "message": "의견 보내기"
+   },
+   "app_icon_aria_spoken_word": {
+      "message": " 홈"
+   },
+   "app_nacl_crash_msg": {
+      "message": "문제를 신고해 주세요."
+   },
+   "app_nacl_crash_report": {
+      "message": "문제 신고..."
+   },
+   "app_nacl_crash_title": {
+      "message": "예기치 않은 오류가 발생했습니다. 변경사항을 복구하려면 페이지를 새로고침하세요."
+   },
+   "app_nacl_error_load_failed": {
+      "message": "파일을 열 수 없습니다. 다른 Chrome 탭을 닫거나 Chrome을 재시작한 후 다시 시도해 주세요. 문제가 지속되면 신고해 주세요."
+   },
+   "app_nacl_error_title": {
+      "message": "파일을 열 수 없습니다."
+   },
+   "app_nacl_error_unsupported_device": {
+      "message": "Chrome 확장 프로그램인 문서, 스프레드시트, 프레젠테이션으로 Office 버전 수정을 지원하지 않는 기기입니다."
+   },
+   "app_saving_failed_error_msg": {
+      "message": "파일을 저장하는 중에 문제가 발생했습니다. 다시 시도해 주세요. 문제가 지속되면 신고해 주세요."
+   },
+   "app_saving_failed_error_short_msg": {
+      "message": "파일을 저장할 수 없습니다."
+   },
+   "backgroundcolor_aria_spoken_word": {
+      "message": "셀 배경색 드롭다운 목록"
+   },
+   "bold_aria_spoken_word": {
+      "message": "굵게"
+   },
+   "border_all_aria_spoken_word": {
+      "message": "모든 테두리"
+   },
+   "border_aria_spoken_word": {
+      "message": "테두리 드롭다운 목록"
+   },
+   "border_bottom_aria_spoken_word": {
+      "message": "아래쪽 테두리"
+   },
+   "border_horizontal_aria_spoken_word": {
+      "message": "가로 테두리"
+   },
+   "border_inner_aria_spoken_word": {
+      "message": "안쪽 테두리"
+   },
+   "border_left_aria_spoken_word": {
+      "message": "왼쪽 테두리"
+   },
+   "border_none_aria_spoken_word": {
+      "message": "테두리 없음"
+   },
+   "border_outer_aria_spoken_word": {
+      "message": "바깥쪽 테두리"
+   },
+   "border_right_aria_spoken_word": {
+      "message": "오른쪽 테두리"
+   },
+   "border_top_aria_spoken_word": {
+      "message": "위쪽 테두리"
+   },
+   "border_vertical_aria_spoken_word": {
+      "message": "세로 테두리"
+   },
+   "button_ocm_convert_cancel": {
+      "message": "취소"
+   },
+   "button_ocm_promo_conversion_point": {
+      "message": "Google 프레젠테이션으로 저장"
+   },
+   "button_ocm_promo_conversion_sheet": {
+      "message": "Google 스프레드시트로 저장"
+   },
+   "button_ocm_promo_conversion_word": {
+      "message": "Google 문서로 저장"
+   },
+   "button_share_convert_cancel": {
+      "message": "취소"
+   },
+   "button_share_promo_conversion_point": {
+      "message": "Google 프레젠테이션 형식으로 저장"
+   },
+   "button_share_promo_conversion_sheet": {
+      "message": "Google 스프레드시트 형식으로 저장"
+   },
+   "button_share_promo_conversion_word": {
+      "message": "Google 문서 형식으로 저장"
+   },
+   "cell_align_aria_spoken_word": {
+      "message": "셀 맞춤"
+   },
+   "cellalign_aria_spoken_word": {
+      "message": "셀 정렬 드롭다운 목록"
+   },
+   "cellhaligncenter_aria_spoken_word": {
+      "message": "가로 가운데"
+   },
+   "cellhalignleft_aria_spoken_word": {
+      "message": "가로 왼쪽"
+   },
+   "cellhalignright_aria_spoken_word": {
+      "message": "가로 오른쪽"
+   },
+   "cellvalignbottom_aria_spoken_word": {
+      "message": "세로 아래쪽"
+   },
+   "cellvaligncenter_aria_spoken_word": {
+      "message": "세로 가운데"
+   },
+   "cellvaligntop_aria_spoken_word": {
+      "message": "세로 위쪽"
+   },
+   "char_count_label": {
+      "message": "글자수"
+   },
+   "char_no_spaces_count_label": {
+      "message": "공백 제외 글자수"
+   },
+   "close_dialog_aria_spoken_word": {
+      "message": "대화상자 닫기"
+   },
+   "cmd_dropdown_initaddshape_aria_spoken_word": {
+      "message": "도형 드롭다운 목록"
+   },
+   "collapsed": {
+      "message": "접힘"
+   },
+   "collapsed_menu": {
+      "message": "하위 메뉴 포함 $1 접힘",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "color_black": {
+      "message": "검정색"
+   },
+   "color_blaze_orange": {
+      "message": "밝은 주황색"
+   },
+   "color_blue": {
+      "message": "파란색"
+   },
+   "color_brown": {
+      "message": "갈색"
+   },
+   "color_cornflower_blue": {
+      "message": "콘플라워 블루"
+   },
+   "color_cyan": {
+      "message": "청록색"
+   },
+   "color_dark_blue": {
+      "message": "진한 파란색"
+   },
+   "color_dark_blue_1": {
+      "message": "진한 파란색 1"
+   },
+   "color_dark_blue_2": {
+      "message": "진한 파란색 2"
+   },
+   "color_dark_blue_3": {
+      "message": "진한 파란색 3"
+   },
+   "color_dark_blue_grey": {
+      "message": "진한 푸른 회색"
+   },
+   "color_dark_cornflower_blue_1": {
+      "message": "진한 콘플라워 블루 1"
+   },
+   "color_dark_cornflower_blue_2": {
+      "message": "진한 콘플라워 블루 2"
+   },
+   "color_dark_cornflower_blue_3": {
+      "message": "진한 콘플라워 블루 3"
+   },
+   "color_dark_cyan": {
+      "message": "진한 청록색"
+   },
+   "color_dark_cyan_1": {
+      "message": "진한 청록색 1"
+   },
+   "color_dark_cyan_2": {
+      "message": "진한 청록색 2"
+   },
+   "color_dark_cyan_3": {
+      "message": "진한 청록색 3"
+   },
+   "color_dark_gray": {
+      "message": "진한 회색"
+   },
+   "color_dark_gray_1": {
+      "message": "진한 회색 1"
+   },
+   "color_dark_gray_2": {
+      "message": "진한 회색 2"
+   },
+   "color_dark_gray_3": {
+      "message": "진한 회색 3"
+   },
+   "color_dark_gray_4": {
+      "message": "진한 회색 4"
+   },
+   "color_dark_green": {
+      "message": "진한 녹색"
+   },
+   "color_dark_green_1": {
+      "message": "진한 녹색 1"
+   },
+   "color_dark_green_2": {
+      "message": "진한 녹색 2"
+   },
+   "color_dark_green_3": {
+      "message": "진한 녹색 3"
+   },
+   "color_dark_green_5": {
+      "message": "진한 녹색 5"
+   },
+   "color_dark_grey_2": {
+      "message": "진한 회색 2"
+   },
+   "color_dark_grey_5": {
+      "message": "진한 회색 5"
+   },
+   "color_dark_magenta_1": {
+      "message": "진한 자홍색 1"
+   },
+   "color_dark_magenta_2": {
+      "message": "진한 자홍색 2"
+   },
+   "color_dark_magenta_3": {
+      "message": "진한 자홍색 3"
+   },
+   "color_dark_olive_green": {
+      "message": "진한 올리브 그린"
+   },
+   "color_dark_orange_1": {
+      "message": "진한 주황색 1"
+   },
+   "color_dark_orange_2": {
+      "message": "진한 주황색 2"
+   },
+   "color_dark_orange_3": {
+      "message": "진한 주황색 3"
+   },
+   "color_dark_purple_1": {
+      "message": "진한 보라색 1"
+   },
+   "color_dark_purple_2": {
+      "message": "진한 보라색 2"
+   },
+   "color_dark_purple_3": {
+      "message": "진한 보라색 3"
+   },
+   "color_dark_red": {
+      "message": "진한 빨간색"
+   },
+   "color_dark_red_1": {
+      "message": "진한 빨간색 1"
+   },
+   "color_dark_red_2": {
+      "message": "진한 빨간색 2"
+   },
+   "color_dark_red_3": {
+      "message": "진한 빨간색 3"
+   },
+   "color_dark_red_berry_1": {
+      "message": "진한 레드 베리 1"
+   },
+   "color_dark_red_berry_2": {
+      "message": "진한 레드 베리 2"
+   },
+   "color_dark_red_berry_3": {
+      "message": "진한 레드 베리 3"
+   },
+   "color_dark_slate_blue": {
+      "message": "진한 슬레이트 블루"
+   },
+   "color_dark_yellow_1": {
+      "message": "진한 노란색 1"
+   },
+   "color_dark_yellow_2": {
+      "message": "진한 노란색 2"
+   },
+   "color_dark_yellow_3": {
+      "message": "진한 노란색 3"
+   },
+   "color_deep_pink": {
+      "message": "짙은 분홍색"
+   },
+   "color_deep_sky_blue": {
+      "message": "짙은 스카이 블루"
+   },
+   "color_eucalyptus_green": {
+      "message": "유칼립투스 그린"
+   },
+   "color_gold": {
+      "message": "금색"
+   },
+   "color_gray": {
+      "message": "회색"
+   },
+   "color_green": {
+      "message": "녹색"
+   },
+   "color_light_blue": {
+      "message": "하늘색"
+   },
+   "color_light_blue_1": {
+      "message": "하늘색 1"
+   },
+   "color_light_blue_2": {
+      "message": "하늘색 2"
+   },
+   "color_light_blue_3": {
+      "message": "하늘색 3"
+   },
+   "color_light_cornflower_blue_1": {
+      "message": "연한 콘플라워 블루 1"
+   },
+   "color_light_cornflower_blue_2": {
+      "message": "연한 콘플라워 블루 2"
+   },
+   "color_light_cornflower_blue_3": {
+      "message": "연한 콘플라워 블루 3"
+   },
+   "color_light_cyan": {
+      "message": "연한 청록색"
+   },
+   "color_light_cyan_1": {
+      "message": "연한 청록색 1"
+   },
+   "color_light_cyan_2": {
+      "message": "연한 청록색 2"
+   },
+   "color_light_cyan_3": {
+      "message": "연한 청록색 3"
+   },
+   "color_light_gray": {
+      "message": "연한 회색"
+   },
+   "color_light_gray_1": {
+      "message": "연한 회색 1"
+   },
+   "color_light_gray_2": {
+      "message": "연한 회색 2"
+   },
+   "color_light_gray_3": {
+      "message": "연한 회색 3"
+   },
+   "color_light_green": {
+      "message": "연한 녹색"
+   },
+   "color_light_green_1": {
+      "message": "연한 녹색 1"
+   },
+   "color_light_green_2": {
+      "message": "연한 녹색 2"
+   },
+   "color_light_green_3": {
+      "message": "연한 녹색 3"
+   },
+   "color_light_magenta_1": {
+      "message": "연한 자홍색 1"
+   },
+   "color_light_magenta_2": {
+      "message": "연한 자홍색 2"
+   },
+   "color_light_magenta_3": {
+      "message": "연한 자홍색 3"
+   },
+   "color_light_orange_1": {
+      "message": "연한 주황색 1"
+   },
+   "color_light_orange_2": {
+      "message": "연한 주황색 2"
+   },
+   "color_light_orange_3": {
+      "message": "연한 주황색 3"
+   },
+   "color_light_purple": {
+      "message": "연한 보라색"
+   },
+   "color_light_purple_1": {
+      "message": "연한 보라색 1"
+   },
+   "color_light_purple_2": {
+      "message": "연한 보라색 2"
+   },
+   "color_light_purple_3": {
+      "message": "연한 보라색 3"
+   },
+   "color_light_red_1": {
+      "message": "연한 빨간색 1"
+   },
+   "color_light_red_2": {
+      "message": "연한 빨간색 2"
+   },
+   "color_light_red_3": {
+      "message": "연한 빨간색 3"
+   },
+   "color_light_red_berry_1": {
+      "message": "연한 레드 베리 1"
+   },
+   "color_light_red_berry_2": {
+      "message": "연한 레드 베리 2"
+   },
+   "color_light_red_berry_3": {
+      "message": "연한 레드 베리 3"
+   },
+   "color_light_yellow": {
+      "message": "연한 노란색"
+   },
+   "color_light_yellow_1": {
+      "message": "연한 노란색 1"
+   },
+   "color_light_yellow_2": {
+      "message": "연한 노란색 2"
+   },
+   "color_light_yellow_3": {
+      "message": "연한 노란색 3"
+   },
+   "color_magenta": {
+      "message": "자홍색"
+   },
+   "color_maroon": {
+      "message": "적갈색"
+   },
+   "color_midnight_blue": {
+      "message": "미드나이트 블루"
+   },
+   "color_navy": {
+      "message": "네이비 블루"
+   },
+   "color_olive": {
+      "message": "올리브"
+   },
+   "color_orange": {
+      "message": "오렌지색"
+   },
+   "color_peach": {
+      "message": "복숭아색"
+   },
+   "color_pink": {
+      "message": "분홍색"
+   },
+   "color_pistachio": {
+      "message": "피스타치오"
+   },
+   "color_purple": {
+      "message": "보라색"
+   },
+   "color_red": {
+      "message": "빨간색"
+   },
+   "color_red_berry": {
+      "message": "레드 베리"
+   },
+   "color_royal_blue": {
+      "message": "로열 블루"
+   },
+   "color_teal": {
+      "message": "청록색"
+   },
+   "color_turquiose": {
+      "message": "터키색"
+   },
+   "color_white": {
+      "message": "흰색"
+   },
+   "color_yellow": {
+      "message": "노란색"
+   },
+   "command_key": {
+      "message": "Command 키"
+   },
+   "content_msg_merging_horizontally_across_vertical_section": {
+      "message": "기존에 세로로 병합된 섹션은 가로로 병합할 수 없습니다."
+   },
+   "content_msg_merging_multiple_cells_with_text": {
+      "message": "셀 병합하기를 실행하면 제일 왼쪽 상단 값만 남습니다. 그래도 병합하시겠습니까?"
+   },
+   "content_msg_merging_partially_selected_merged_cells": {
+      "message": "병합 또는 병합 취소하려면 병합된 범위 내에 있는 모든 셀을 선택해야 합니다."
+   },
+   "content_msg_merging_vertically_across_horizontal_section": {
+      "message": "이미 가로로 병합된 섹션은 세로로 병합할 수 없습니다."
+   },
+   "content_render_error_msg": {
+      "message": "문서의 내용에 문제가 있습니다."
+   },
+   "context_menu_clipboard_copy": {
+      "message": "복사"
+   },
+   "context_menu_delete": {
+      "message": "삭제"
+   },
+   "context_menu_freeze": {
+      "message": "정지"
+   },
+   "context_menu_insert": {
+      "message": "삽입"
+   },
+   "context_menu_sort_collation_ascending": {
+      "message": "A-Z 순으로 정렬"
+   },
+   "context_menu_sort_collation_descending": {
+      "message": "Z-A 순으로 정렬"
+   },
+   "context_menu_unfreeze": {
+      "message": "정지 해제"
+   },
+   "control_key": {
+      "message": "Control 키"
+   },
+   "convert_attempt_when_offline": {
+      "message": "Google 문서로 저장하려면 인터넷에 연결되어 있어야 합니다. 인터넷 연결이 복구되면 다시 시도해 주세요."
+   },
+   "convert_attempt_with_invalid_creds": {
+      "message": "이 파일을 변환하려면 Google 계정에 로그인해야 합니다."
+   },
+   "convert_cancel": {
+      "message": "취소"
+   },
+   "convert_to_google_docs_failed": {
+      "message": "문서를 Google 문서로 변환하는 중에 문제가 발생했습니다."
+   },
+   "convert_to_google_point_fail_short_msg": {
+      "message": "죄송합니다."
+   },
+   "convert_to_google_point_short_msg": {
+      "message": "Google 프레젠테이션으로 저장 중"
+   },
+   "convert_to_google_sheet_fail_short_msg": {
+      "message": "죄송합니다."
+   },
+   "convert_to_google_sheet_short_msg": {
+      "message": "Google 스프레드시트로 저장 중"
+   },
+   "convert_to_google_word_fail_short_msg": {
+      "message": "죄송합니다."
+   },
+   "convert_to_google_word_short_msg": {
+      "message": "Google 문서로 저장 중"
+   },
+   "convert_try_again": {
+      "message": "다시 시도"
+   },
+   "converting_to_google_point_fail_msg": {
+      "message": "현재 파일을 Google 프레젠테이션 형식으로 저장할 수 없습니다."
+   },
+   "converting_to_google_point_msg": {
+      "message": "프레젠테이션의 새 버전을 Google 프레젠테이션 형식으로 저장하고 있습니다."
+   },
+   "converting_to_google_sheet_fail_msg": {
+      "message": "현재 파일을 Google 스프레드시트 형식으로 저장할 수 없습니다."
+   },
+   "converting_to_google_sheet_msg": {
+      "message": "스프레드시트의 새 버전을 Google 스프레드시트 형식으로 저장하고 있습니다."
+   },
+   "converting_to_google_word_fail_msg": {
+      "message": "현재 파일을 Google 문서 형식으로 저장할 수 없습니다."
+   },
+   "converting_to_google_word_msg": {
+      "message": "문서의 새 버전을 Google 문서 형식으로 저장하고 있습니다."
+   },
+   "copy_attempt_when_offline": {
+      "message": "Google 드라이브에 사본을 만들려면 인터넷에 연결되어 있어야 합니다. 연결이 복구되면 다시 시도하세요."
+   },
+   "copy_attempt_with_invalid_creds": {
+      "message": "사본을 만들려면 Google 계정에 로그인해야 합니다."
+   },
+   "disabled_share_button": {
+      "message": "매크로 사용 파일은 Google 드라이브에서만 공유할 수 있습니다. 공유를 사용할 수 없습니다."
+   },
+   "disallowed_cut_copy_paste_cmd_copy": {
+      "message": "복사"
+   },
+   "disallowed_cut_copy_paste_cmd_cut": {
+      "message": "잘라내기"
+   },
+   "disallowed_cut_copy_paste_cmd_paste": {
+      "message": "붙여넣기"
+   },
+   "disallowed_cut_copy_paste_msg": {
+      "message": "수정 및 컨텍스트 메뉴를 통해 처리할 수 없는 작업입니다. 대신 다음 방법을 사용하세요."
+   },
+   "disallowed_cut_copy_paste_title": {
+      "message": "Office 호환 모드에서 복사 및 붙여넣기"
+   },
+   "dismiss": {
+      "message": "닫기"
+   },
+   "document_title_aria_spoken_word": {
+      "message": "문서 제목:"
+   },
+   "down_key": {
+      "message": "Down 키"
+   },
+   "download_button": {
+      "message": "다운로드"
+   },
+   "download_file_timeout_error_msg": {
+      "message": "열고자 하는 파일의 로딩 시간이 예상보다 오래 소요되고 있습니다. 네트워크 연결을 확인하고 다시 시도하세요."
+   },
+   "download_file_timeout_error_short_msg": {
+      "message": "파일에 예상보다 시간이 오래 소요되고 있습니다."
+   },
+   "drive_open_timeout_error_msg": {
+      "message": "인터넷 연결에 문제가 있는 것 같습니다. 연결을 확인한 후 파일을 다시 열어보세요. 온라인 상태임에도 이 오류가 계속.발생한다면 아래에서 문제를 신고하세요."
+   },
+   "drive_open_timeout_error_short_msg": {
+      "message": "요청한 파일을 열 수 없습니다."
+   },
+   "duplicate_sheet_name_message": {
+      "message": "다른 시트에서 사용하지 않는 시트 이름을 입력하세요."
+   },
+   "duplicate_sheet_name_title": {
+      "message": "이미 사용 중인 시트 이름입니다."
+   },
+   "edits_not_being_saved": {
+      "message": "수정 사항이 자동으로 저장되지 않습니다."
+   },
+   "edits_now_being_auto_saved": {
+      "message": "파일이 저장되었습니다. 모든 수정 사항이 지금부터 자동으로 저장됩니다."
+   },
+   "entry_point_error_msg": {
+      "message": "다시 시도하거나 아래에서 문제를 신고하세요."
+   },
+   "entry_point_error_short_msg": {
+      "message": "실행하려던 파일이 무엇인지 알 수 없습니다."
+   },
+   "error_occurred": {
+      "message": "오류가 발생했습니다."
+   },
+   "error_password_required_msg": {
+      "message": "현재 보안 파일을 지원하고 있지 않으나 지원을 위해 노력하고 있습니다."
+   },
+   "error_password_required_short_msg": {
+      "message": "이 파일은 비밀번호로 보호되어 있습니다."
+   },
+   "expanded": {
+      "message": "펼쳐짐"
+   },
+   "expanded_menu": {
+      "message": "하위 메뉴 포함 $1 펼쳐짐",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "extension_description": {
+      "message": "Google 문서, 스프레드시트, 프레젠테이션으로 Microsoft Word, Excel, PowerPoint 파일을 보고 수정하기"
+   },
+   "extension_name": {
+      "message": "문서, 스프레드시트, 프레젠테이션으로 Office 버전 수정"
+   },
+   "extension_popup_message_body": {
+      "message": "기존 파일을 열려면 파일을 브라우저로 드래그 앤 드롭하세요."
+   },
+   "extension_popup_new_document_header": {
+      "message": "새 문서..."
+   },
+   "extension_popup_new_presentation_document": {
+      "message": "PowerPoint 프레젠테이션"
+   },
+   "extension_popup_new_spreadsheet_document": {
+      "message": "Excel 스프레드시트"
+   },
+   "extension_popup_new_word_document": {
+      "message": "Word 문서"
+   },
+   "feedback_textbox_editing": {
+      "message": "텍스트 상자 내에서 텍스트를 편집할 수 있게 주세요."
+   },
+   "feedback_ui_template": {
+      "message": "1- 발생한 문제에 대해 설명해 주세요.\n2- 문제가 파일을 여는 동안 발생했나요? 아니면 파일을 수정하는 동안 발생했나요?\n3- 이 문제가 모든 파일을 열거나 수정할 때마다 발생하나요? 아니면 특정 파일에서만 발생하나요?\n\n이 문제가 특정 파일에서만 발생하는 경우 자세하게 문제를 파악하고 해결할 수 있도록 해당 파일을 이 보고서에 첨부해 주세요."
+   },
+   "file_does_not_exist_error_details": {
+      "message": "이 파일은 존재하지 않습니다. 공유된 링크나 북마크된 문서를 열어보려 했을 수 있습니다. 원본 소스에서 파일을 다시 열어보세요."
+   },
+   "file_does_not_exist_error_title": {
+      "message": "파일을 찾을 수 없습니다."
+   },
+   "file_loading_spinner_label": {
+      "message": "로드 중"
+   },
+   "file_missing_content_msg": {
+      "message": "이 파일의 전체 내용을 읽는 데 문제가 발생했습니다. 파일의 이름을 변경하거나 파일을 다시 열어보세요."
+   },
+   "file_missing_content_short_msg": {
+      "message": "문서에 내용이 없습니다."
+   },
+   "file_not_found_error_msg": {
+      "message": "파일 소유자에게 액세스 권한이 있는지 확인하세요. 권한이 있음에도 이 오류가 계속 발생한다면 아래에서 문제를 신고하세요."
+   },
+   "file_not_found_error_short_msg": {
+      "message": "요청한 파일을 열 수 없습니다."
+   },
+   "file_not_found_exception": {
+      "message": "요청한 파일이 삭제되었거나 이름이 변경되었거나 다른 위치로 이동되었을 수 있습니다. '지금 저장'을 클릭하여 계속 진행하세요."
+   },
+   "file_not_found_link_text": {
+      "message": "여러 계정과 관련하여 도움이 필요하면 이 도움말을 참조하세요."
+   },
+   "file_not_found_msg": {
+      "message": "요청하신 파일이 잘못되었습니다."
+   },
+   "file_not_found_title": {
+      "message": "파일을 찾을 수 없습니다."
+   },
+   "file_open_crash_error_msg": {
+      "message": "문제가 지속되면 아래에서 문제를 신고하세요."
+   },
+   "file_open_crash_error_short_msg": {
+      "message": "요청한 파일을 열 수 없습니다."
+   },
+   "file_open_error_msg": {
+      "message": "파일의 콘텐츠에 액세스할 수 없습니다."
+   },
+   "file_open_error_short_msg": {
+      "message": "손상된 파일인 것 같습니다."
+   },
+   "file_open_fail_download_link_text": {
+      "message": "파일 다운로드"
+   },
+   "file_opened_in_incognito_mode_error_details": {
+      "message": "Office 파일 수정 확장 프로그램은 시크릿 모드에서 작동하지 않습니다. 일반 Chrome 창에서 이 파일을 열어 주세요. 게스트 모드를 사용 중인 경우 파일을 열 수 없습니다. 파일이 손상되었거나 잘못된 문서 유형은 아닌지 확인 후 다시 시도해 주세요."
+   },
+   "file_opened_in_incognito_mode_error_title": {
+      "message": "오류 발생, 시크릿 모드에서 지원되지 않음"
+   },
+   "file_pdf_type_rename_msg": {
+      "message": "파일 이름을 $1.pdf로 변경한 후 다시 시도해 주세요.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_rtf_type_rename_msg": {
+      "message": "파일 이름을 $1.rtf로 변경하세요.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_type_unsupported_msg": {
+      "message": "지원되지 않는 파일 형식입니다."
+   },
+   "fillcolor_aria_spoken_word": {
+      "message": "텍스트 색상 드롭다운 목록"
+   },
+   "fontface_aria_spoken_word": {
+      "message": "글꼴 드롭다운 목록"
+   },
+   "fontsize_aria_spoken_word": {
+      "message": "글꼴 크기 드롭다운 목록"
+   },
+   "forbidden_access_level_error_msg": {
+      "message": "파일 소유자에게 이 파일을 열 수 있는 권한이 있는지 확인하세요. 권한이 있음에도 이 오류가 계속 발생한다면 아래에서 문제를 신고하세요."
+   },
+   "forbidden_access_level_error_short_msg": {
+      "message": "요청한 파일을 열 수 없습니다."
+   },
+   "forbidden_app_access_error_msg": {
+      "message": "이 파일을 열 수 있는 권한이 없습니다. Google 드라이브에서 열어보거나 아래에서 문제를 신고하세요."
+   },
+   "forbidden_app_access_error_short_msg": {
+      "message": "요청한 파일을 열 수 없습니다."
+   },
+   "forbidden_app_id_error_msg": {
+      "message": "Chrome 확장 프로그램이 제대로 구성되지 않은 것 같습니다. 확실한 원인을 알 수 없으며 아래에서 문제를 신고하세요."
+   },
+   "forbidden_app_id_error_short_msg": {
+      "message": "요청한 파일을 열 수 없습니다."
+   },
+   "forbidden_blacklist_error_msg": {
+      "message": "이 Chrome 확장 프로그램이 블랙리스트에 있는 것 같습니다. 명백한 오류이므로 아래에서 문제를 신고하여 알려주세요."
+   },
+   "forbidden_blacklist_error_short_msg": {
+      "message": "요청한 파일을 열 수 없습니다."
+   },
+   "forbidden_domain_error_msg": {
+      "message": "도메인에서 이 파일에 대한 액세스를 금지한 것 같습니다. 도메인 관리자에게 문의하거나 아래에서 문제를 신고하세요."
+   },
+   "forbidden_domain_error_short_msg": {
+      "message": "요청한 파일을 열 수 없습니다."
+   },
+   "forbidden_internal_error_msg": {
+      "message": "Google 드라이브가 올바르게 작동하지 않습니다. 다시 파일을 열어보거나 아래에서 문제를 신고하세요."
+   },
+   "forbidden_internal_error_short_msg": {
+      "message": "요청한 파일을 열 수 없습니다."
+   },
+   "forbidden_not_installed_error_msg": {
+      "message": "Chrome 확장 프로그램이 제대로 설치되지 않은 것 같습니다. 확실한 원인을 알 수 없으며 아래에서 문제를 신고하세요."
+   },
+   "forbidden_not_installed_error_short_msg": {
+      "message": "요청한 파일을 열 수 없습니다."
+   },
+   "generic_error_msg": {
+      "message": "문서의 내용에 문제가 있습니다."
+   },
+   "generic_error_short_msg": {
+      "message": "예기치 않은 오류가 발생했습니다. 변경사항을 복구하려면 페이지를 새로고침하세요."
+   },
+   "get_lists_data_error_msg": {
+      "message": "이 문서는 잘못된 목록 형식을 렌더링할 수 있습니다."
+   },
+   "get_lists_data_error_short_msg": {
+      "message": "문서 형식을 가져오지 못했습니다."
+   },
+   "highlightcolor_aria_spoken_word": {
+      "message": "텍스트 배경색 드롭다운 목록"
+   },
+   "http_error_zero_msg": {
+      "message": "네트워크 문제인 경우 연결 상태를 확인한 후 나중에 다시 시도해 주세요. 문제가 지속되면 아래에서 신고해 주세요."
+   },
+   "http_error_zero_short_msg": {
+      "message": "파일을 열 수 없습니다."
+   },
+   "info_file_copied": {
+      "message": "저장 완료"
+   },
+   "info_file_save_cancelled": {
+      "message": "저장이 취소되었습니다."
+   },
+   "info_file_save_failed": {
+      "message": "저장에 실패했습니다."
+   },
+   "info_file_saved_at_location": {
+      "message": "$1에 모든 변경 내용이 저장됨",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "info_file_saved_in_drive": {
+      "message": "모든 변경사항이 드라이브에 저장됨"
+   },
+   "info_file_saved_locally": {
+      "message": "모든 변경사항이 로컬에 저장됨"
+   },
+   "info_file_saved_offline": {
+      "message": "모든 변경사항이 오프라인에 저장됨"
+   },
+   "info_file_saving": {
+      "message": "저장 중..."
+   },
+   "initaddshape_aria_spoken_word": {
+      "message": "텍스트 상자 추가"
+   },
+   "invalid_credentials_error_msg": {
+      "message": "이 파일에 액세스하려면 Google 계정에 로그인해야 합니다."
+   },
+   "invalid_credentials_error_short_msg": {
+      "message": "요청한 파일을 열 수 없습니다."
+   },
+   "invalid_file_format_msg": {
+      "message": "파일이 Office 문서처럼 보이고 Office 파일 확장자가 있지만 실제로는 이름이나 파일이 변경된 다른 형식의 파일이거나 지원하지 않는 파일 유형입니다."
+   },
+   "invalid_file_format_short_msg": {
+      "message": "실행할 수 없는 문서 형식입니다"
+   },
+   "italic_aria_spoken_word": {
+      "message": "기울임꼴"
+   },
+   "keyboard_shortcut_group_actions": {
+      "message": "작업"
+   },
+   "keyboard_shortcut_group_other": {
+      "message": "기타"
+   },
+   "keyboard_shortcut_group_paragraph_formatting": {
+      "message": "단락 서식"
+   },
+   "keyboard_shortcut_group_text_formatting": {
+      "message": "텍스트 서식"
+   },
+   "keyboard_shortcut_group_top_menus": {
+      "message": "메뉴"
+   },
+   "keyboard_shortcut_group_with_slides": {
+      "message": "프레젠테이션"
+   },
+   "keyboard_shortcut_title": {
+      "message": "단축키"
+   },
+   "make_a_copy_fail_msg": {
+      "message": "현재 사본을 만들 수 없습니다."
+   },
+   "menu_button_data": {
+      "message": "데이터"
+   },
+   "menu_button_edit": {
+      "message": "수정"
+   },
+   "menu_button_file": {
+      "message": "파일"
+   },
+   "menu_button_format": {
+      "message": "서식"
+   },
+   "menu_button_help": {
+      "message": "도움말"
+   },
+   "menu_button_insert": {
+      "message": "삽입"
+   },
+   "menu_button_slide": {
+      "message": "슬라이드"
+   },
+   "menu_button_tools": {
+      "message": "도구"
+   },
+   "menu_button_view": {
+      "message": "보기"
+   },
+   "menu_item_10_point_star": {
+      "message": "꼭짓점이 10개인 별"
+   },
+   "menu_item_12_point_star": {
+      "message": "꼭짓점이 12개인 별"
+   },
+   "menu_item_16_point_star": {
+      "message": "꼭짓점이 16개인 별"
+   },
+   "menu_item_24_point_star": {
+      "message": "꼭짓점이 24개인 별"
+   },
+   "menu_item_32_point_star": {
+      "message": "꼭짓점이 32개인 별"
+   },
+   "menu_item_4_point_star": {
+      "message": "꼭짓점이 4개인 별"
+   },
+   "menu_item_5_point_star": {
+      "message": "꼭짓점이 5개인 별"
+   },
+   "menu_item_6_point_star": {
+      "message": "꼭짓점이 6개인 별"
+   },
+   "menu_item_7_point_star": {
+      "message": "꼭짓점이 7개인 별"
+   },
+   "menu_item_8_point_star": {
+      "message": "꼭짓점이 8개인 별"
+   },
+   "menu_item_align": {
+      "message": "맞춤"
+   },
+   "menu_item_align_center": {
+      "message": "가운데"
+   },
+   "menu_item_align_justified": {
+      "message": "양쪽 맞춤"
+   },
+   "menu_item_align_left": {
+      "message": "왼쪽"
+   },
+   "menu_item_align_right": {
+      "message": "오른쪽"
+   },
+   "menu_item_arrows": {
+      "message": "화살표"
+   },
+   "menu_item_bent_arrow": {
+      "message": "굽은 화살표"
+   },
+   "menu_item_bent_up_arrow": {
+      "message": "위로 굽은 화살표"
+   },
+   "menu_item_bevel": {
+      "message": "입체 테두리"
+   },
+   "menu_item_block_arc": {
+      "message": "굵은 원호"
+   },
+   "menu_item_bold": {
+      "message": "굵게"
+   },
+   "menu_item_callouts": {
+      "message": "설명선"
+   },
+   "menu_item_can": {
+      "message": "원기둥"
+   },
+   "menu_item_chevron": {
+      "message": "갈매기형"
+   },
+   "menu_item_chord": {
+      "message": "현"
+   },
+   "menu_item_clear_formatting": {
+      "message": "서식 지우기"
+   },
+   "menu_item_cloud": {
+      "message": "구름"
+   },
+   "menu_item_cloud_callout": {
+      "message": "구름 설명선"
+   },
+   "menu_item_color_none": {
+      "message": "없음"
+   },
+   "menu_item_color_transparent": {
+      "message": "투명"
+   },
+   "menu_item_convert_to_docs": {
+      "message": "Google 문서로 저장"
+   },
+   "menu_item_convert_to_sheets": {
+      "message": "Google 스프레드시트로 저장"
+   },
+   "menu_item_convert_to_slides": {
+      "message": "Google 프레젠테이션으로 저장"
+   },
+   "menu_item_copy": {
+      "message": "복사"
+   },
+   "menu_item_cross": {
+      "message": "십자가"
+   },
+   "menu_item_cube": {
+      "message": "정육면체"
+   },
+   "menu_item_curved_down_arrow": {
+      "message": "아래로 구부러진 화살표"
+   },
+   "menu_item_curved_left_arrow": {
+      "message": "왼쪽으로 구부러진 화살표"
+   },
+   "menu_item_curved_right_arrow": {
+      "message": "오른쪽으로 구부러진 화살표"
+   },
+   "menu_item_curved_up_arrow": {
+      "message": "위로 구부러진 화살표"
+   },
+   "menu_item_cut": {
+      "message": "잘라내기"
+   },
+   "menu_item_decagon": {
+      "message": "십각형"
+   },
+   "menu_item_delete_column": {
+      "message": "열 삭제"
+   },
+   "menu_item_delete_row": {
+      "message": "행 삭제"
+   },
+   "menu_item_delete_value": {
+      "message": "값 삭제"
+   },
+   "menu_item_deleteslide": {
+      "message": "슬라이드 삭제"
+   },
+   "menu_item_diagonal_stripe": {
+      "message": "대각선 줄무늬"
+   },
+   "menu_item_diamond": {
+      "message": "마름모"
+   },
+   "menu_item_divide": {
+      "message": "나누기"
+   },
+   "menu_item_dodecagon": {
+      "message": "십이각형"
+   },
+   "menu_item_donut": {
+      "message": "도넛"
+   },
+   "menu_item_double_brace": {
+      "message": "양쪽 중괄호"
+   },
+   "menu_item_double_bracket": {
+      "message": "양쪽 대괄호"
+   },
+   "menu_item_down_arrow": {
+      "message": "아래 화살표"
+   },
+   "menu_item_down_arrow_callout": {
+      "message": "아래쪽 화살표 설명선"
+   },
+   "menu_item_duplicateslide": {
+      "message": "중복 슬라이드"
+   },
+   "menu_item_equal": {
+      "message": "등호"
+   },
+   "menu_item_equation": {
+      "message": "등식"
+   },
+   "menu_item_explosion_1": {
+      "message": "폭발 1"
+   },
+   "menu_item_explosion_2": {
+      "message": "폭발 2"
+   },
+   "menu_item_flowchart_alternate_process": {
+      "message": "플로 차트: 대체 프로세스"
+   },
+   "menu_item_flowchart_card": {
+      "message": "플로 차트: 카드"
+   },
+   "menu_item_flowchart_collate": {
+      "message": "플로 차트: 데이터 정렬"
+   },
+   "menu_item_flowchart_connector": {
+      "message": "플로 차트: 커넥터"
+   },
+   "menu_item_flowchart_data": {
+      "message": "플로 차트: 데이터"
+   },
+   "menu_item_flowchart_decision": {
+      "message": "플로 차트: 결정"
+   },
+   "menu_item_flowchart_delay": {
+      "message": "플로 차트: 지연"
+   },
+   "menu_item_flowchart_direct_access_storage": {
+      "message": "플로 차트: 직접 액세스 저장공간"
+   },
+   "menu_item_flowchart_display": {
+      "message": "플로 차트: 표시"
+   },
+   "menu_item_flowchart_document": {
+      "message": "플로 차트: 문서"
+   },
+   "menu_item_flowchart_extract": {
+      "message": "플로 차트: 추출"
+   },
+   "menu_item_flowchart_internal_storage": {
+      "message": "플로 차트: 내부 저장공간"
+   },
+   "menu_item_flowchart_magnetic_disk": {
+      "message": "플로 차트: 자기 디스크"
+   },
+   "menu_item_flowchart_manual_input": {
+      "message": "플로 차트: 수동 입력"
+   },
+   "menu_item_flowchart_manual_operation": {
+      "message": "플로 차트: 수동 작업"
+   },
+   "menu_item_flowchart_merge": {
+      "message": "플로 차트: 병합"
+   },
+   "menu_item_flowchart_multidocument": {
+      "message": "플로 차트: 여러 문서"
+   },
+   "menu_item_flowchart_off_page_connector": {
+      "message": "플로 차트: 페이지 간 커넥터"
+   },
+   "menu_item_flowchart_or": {
+      "message": "플로 차트: 또는"
+   },
+   "menu_item_flowchart_predefined_process": {
+      "message": "플로 차트: 사전 정의된 프로세스"
+   },
+   "menu_item_flowchart_preparation": {
+      "message": "플로 차트: 준비"
+   },
+   "menu_item_flowchart_process": {
+      "message": "플로 차트: 프로세스"
+   },
+   "menu_item_flowchart_punched_tape": {
+      "message": "플로 차트: 천공 테이프"
+   },
+   "menu_item_flowchart_sequential_access_storage": {
+      "message": "플로 차트: 순차적 액세스 저장공간"
+   },
+   "menu_item_flowchart_sort": {
+      "message": "플로 차트: 정렬"
+   },
+   "menu_item_flowchart_stored_data": {
+      "message": "플로 차트: 저장된 데이터"
+   },
+   "menu_item_flowchart_summing_junction": {
+      "message": "플로 차트: 합산점"
+   },
+   "menu_item_flowchart_terminator": {
+      "message": "플로 차트: 종결자"
+   },
+   "menu_item_folded_corner": {
+      "message": "모서리가 접힌 도형"
+   },
+   "menu_item_frame": {
+      "message": "프레임"
+   },
+   "menu_item_half_frame": {
+      "message": "반쪽 프레임"
+   },
+   "menu_item_heart": {
+      "message": "하트"
+   },
+   "menu_item_help_center": {
+      "message": "고객센터"
+   },
+   "menu_item_heptagon": {
+      "message": "칠각형"
+   },
+   "menu_item_hexagon": {
+      "message": "육각형"
+   },
+   "menu_item_hideslide": {
+      "message": "슬라이드 숨기기"
+   },
+   "menu_item_insert_column": {
+      "message": "열"
+   },
+   "menu_item_insert_image": {
+      "message": "이미지"
+   },
+   "menu_item_insert_row": {
+      "message": "행"
+   },
+   "menu_item_insert_text_box": {
+      "message": "텍스트 상자"
+   },
+   "menu_item_insertslide": {
+      "message": "새 슬라이드"
+   },
+   "menu_item_italic": {
+      "message": "기울임꼴"
+   },
+   "menu_item_keyboard_shortcuts": {
+      "message": "단축키"
+   },
+   "menu_item_l_shape": {
+      "message": "L자형"
+   },
+   "menu_item_left_arrow": {
+      "message": "왼쪽 화살표"
+   },
+   "menu_item_left_arrow_callout": {
+      "message": "왼쪽 화살표 설명선"
+   },
+   "menu_item_left_brace": {
+      "message": "왼쪽 중괄호"
+   },
+   "menu_item_left_bracket": {
+      "message": "왼쪽 대괄호"
+   },
+   "menu_item_left_right_arrow": {
+      "message": "왼쪽/오른쪽 화살표"
+   },
+   "menu_item_left_right_arrow_callout": {
+      "message": "왼쪽/오른쪽 화살표 설명선"
+   },
+   "menu_item_left_right_up_arrow": {
+      "message": "왼쪽/오른쪽/위쪽 화살표"
+   },
+   "menu_item_left_up_arrow": {
+      "message": "왼쪽/위쪽 화살표"
+   },
+   "menu_item_lightning_bolt": {
+      "message": "번개"
+   },
+   "menu_item_make_a_copy": {
+      "message": "사본 만들기…"
+   },
+   "menu_item_merge_all": {
+      "message": "모두 병합"
+   },
+   "menu_item_merge_cells": {
+      "message": "셀 병합"
+   },
+   "menu_item_merge_horizontally": {
+      "message": "가로로 병합"
+   },
+   "menu_item_merge_vertically": {
+      "message": "세로로 병합"
+   },
+   "menu_item_minus": {
+      "message": "빼기"
+   },
+   "menu_item_moon": {
+      "message": "달"
+   },
+   "menu_item_moveslidedown": {
+      "message": "슬라이드를 아래로 이동"
+   },
+   "menu_item_moveslidetoend": {
+      "message": "슬라이드를 끝으로 이동"
+   },
+   "menu_item_moveslidetostart": {
+      "message": "슬라이드를 처음으로 이동"
+   },
+   "menu_item_moveslideup": {
+      "message": "슬라이드를 위로 이동"
+   },
+   "menu_item_multiply": {
+      "message": "곱하기"
+   },
+   "menu_item_new": {
+      "message": "새로 만들기"
+   },
+   "menu_item_no_symbol": {
+      "message": "금지 기호"
+   },
+   "menu_item_not_equal": {
+      "message": "같지 않음"
+   },
+   "menu_item_notched_right_arrow": {
+      "message": "톱니 모양의 오른쪽 화살표"
+   },
+   "menu_item_number_format": {
+      "message": "숫자 형식"
+   },
+   "menu_item_number_menu": {
+      "message": "숫자"
+   },
+   "menu_item_numbering": {
+      "message": "$2개 중 $1번째",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "menu_item_octagon": {
+      "message": "팔각형"
+   },
+   "menu_item_open": {
+      "message": "열기"
+   },
+   "menu_item_oval": {
+      "message": "타원형"
+   },
+   "menu_item_oval_callout": {
+      "message": "타원형 설명선"
+   },
+   "menu_item_parallelogram": {
+      "message": "평행사변형"
+   },
+   "menu_item_paste": {
+      "message": "붙여넣기"
+   },
+   "menu_item_pentagon": {
+      "message": "오각형"
+   },
+   "menu_item_pie": {
+      "message": "원형"
+   },
+   "menu_item_plaque": {
+      "message": "모서리가 둥글게 패인 사각형"
+   },
+   "menu_item_plus": {
+      "message": "더하기"
+   },
+   "menu_item_present": {
+      "message": "프레젠테이션 보기"
+   },
+   "menu_item_print": {
+      "message": "인쇄"
+   },
+   "menu_item_quad_arrow": {
+      "message": "네 방향 화살표"
+   },
+   "menu_item_quad_arrow_callout": {
+      "message": "네 방향 화살표 설명선"
+   },
+   "menu_item_rectangle": {
+      "message": "직사각형"
+   },
+   "menu_item_rectangular_callout": {
+      "message": "직사각형 설명선"
+   },
+   "menu_item_redo": {
+      "message": "다시실행"
+   },
+   "menu_item_regular_pentagon": {
+      "message": "정오각형"
+   },
+   "menu_item_report_abuse": {
+      "message": "악용사례 신고"
+   },
+   "menu_item_report_issue": {
+      "message": "문제 신고"
+   },
+   "menu_item_right_arrow": {
+      "message": "오른쪽 화살표"
+   },
+   "menu_item_right_arrow_callout": {
+      "message": "오른쪽 화살표 설명선"
+   },
+   "menu_item_right_brace": {
+      "message": "오른쪽 중괄호"
+   },
+   "menu_item_right_bracket": {
+      "message": "오른쪽 대괄호"
+   },
+   "menu_item_right_triangle": {
+      "message": "직각삼각형"
+   },
+   "menu_item_round_diagonal_corner_rectangle": {
+      "message": "대각선 모서리가 둥근 직사각형"
+   },
+   "menu_item_round_same_side_corner_rectangle": {
+      "message": "같은 측면의 모서리가 둥근 직사각형"
+   },
+   "menu_item_round_single_corner_rectangle": {
+      "message": "한쪽 모서리가 둥근 직사각형"
+   },
+   "menu_item_rounded_rectangle": {
+      "message": "모서리가 둥근 직사각형"
+   },
+   "menu_item_rounded_rectangular_callout": {
+      "message": "모서리가 둥근 사각형 설명선"
+   },
+   "menu_item_save": {
+      "message": "저장"
+   },
+   "menu_item_save_as": {
+      "message": "다른 이름으로 저장…"
+   },
+   "menu_item_shapes": {
+      "message": "도형"
+   },
+   "menu_item_share": {
+      "message": "공유"
+   },
+   "menu_item_smiley_face": {
+      "message": "웃는 얼굴"
+   },
+   "menu_item_snip_and_round_single_corner_rectangle": {
+      "message": "한쪽 모서리가 잘리고 둥근 직사각형"
+   },
+   "menu_item_snip_diagonal_corner_rectangle": {
+      "message": "대각선 모서리가 잘린 직사각형"
+   },
+   "menu_item_snip_same_side_corner_rectangle": {
+      "message": "같은 측면의 모서리가 잘린 직사각형"
+   },
+   "menu_item_snip_single_corner_rectangle": {
+      "message": "한쪽 모서리가 잘린 직사각형"
+   },
+   "menu_item_strikethrough": {
+      "message": "취소선"
+   },
+   "menu_item_striped_right_arrow": {
+      "message": "줄무늬가 있는 오른쪽 화살표"
+   },
+   "menu_item_subscript": {
+      "message": "아래첨자"
+   },
+   "menu_item_sun": {
+      "message": "태양"
+   },
+   "menu_item_superscript": {
+      "message": "윗첨자"
+   },
+   "menu_item_teardrop": {
+      "message": "눈물방울"
+   },
+   "menu_item_trapezoid": {
+      "message": "사다리꼴"
+   },
+   "menu_item_triangle": {
+      "message": "삼각형"
+   },
+   "menu_item_u_turn_arrow": {
+      "message": "U자형 화살표"
+   },
+   "menu_item_underline": {
+      "message": "밑줄"
+   },
+   "menu_item_undo": {
+      "message": "실행취소"
+   },
+   "menu_item_unhideslide": {
+      "message": "슬라이드 숨기기 해제"
+   },
+   "menu_item_unmerge": {
+      "message": "병합 취소"
+   },
+   "menu_item_up_arrow": {
+      "message": "위쪽 화살표"
+   },
+   "menu_item_up_arrow_callout": {
+      "message": "위쪽 화살표 설명선"
+   },
+   "menu_item_up_down_arrow": {
+      "message": "위쪽/아래쪽 화살표"
+   },
+   "menu_item_version_info": {
+      "message": "버전 정보"
+   },
+   "menu_item_word_count": {
+      "message": "단어수"
+   },
+   "menu_item_wrap_text": {
+      "message": "텍스트 줄바꿈"
+   },
+   "menu_item_zoom_in": {
+      "message": "확대"
+   },
+   "menu_item_zoom_out": {
+      "message": "축소"
+   },
+   "merge_all_aria_spoken_word": {
+      "message": "모두 병합"
+   },
+   "merge_aria_spoken_word": {
+      "message": "병합"
+   },
+   "merge_dropdown_aria_spoken_word": {
+      "message": "병합 드롭다운 메뉴"
+   },
+   "merge_horizontally_aria_spoken_word": {
+      "message": "가로로 병합"
+   },
+   "merge_vertically_aria_spoken_word": {
+      "message": "세로로 병합"
+   },
+   "modify_shape_transform_error_msg": {
+      "message": "도형 변환을 수정하는 중에 오류가 발생했습니다."
+   },
+   "modify_shape_transform_error_short_msg": {
+      "message": "도형 변환을 수정하는 중에 오류 발생"
+   },
+   "modifyshapefillcolor_aria_spoken_word": {
+      "message": "도형 채우기 색상 드롭다운 목록"
+   },
+   "modifyshapeoutlinecolor_aria_spoken_word": {
+      "message": "도형 윤곽선 색상 드롭다운 목록"
+   },
+   "modifyshapeoutlinestyle_aria_spoken_word": {
+      "message": "도형 윤곽선 스타일 드롭다운 목록"
+   },
+   "modifyshapeoutlinewidth_aria_spoken_word": {
+      "message": "도형 윤곽선 너비 드롭다운 목록"
+   },
+   "nacl_load_error_details": {
+      "message": "확장 프로그램을 다시 설치해 보세요."
+   },
+   "nacl_load_error_title": {
+      "message": "애플리케이션을 로드하는 중에 문제가 발생했습니다."
+   },
+   "non_permissible_sheet_name_details": {
+      "message": "다음 문자는 허용되지 않습니다. * ? [ ] ' ; : 시트 이름은 31자를 초과할 수 없습니다. 시트 이름은 비워둘 수 없습니다."
+   },
+   "non_permissible_sheet_name_title": {
+      "message": "시트 이름을 변경하는 중에 잘못된 이름을 입력했습니다."
+   },
+   "not_pressed": {
+      "message": "누르지 않음"
+   },
+   "notselected": {
+      "message": "선택되지 않음"
+   },
+   "number_format_label_currency_symbol": {
+      "message": "통화 기호"
+   },
+   "number_format_label_date_type": {
+      "message": "유형"
+   },
+   "number_format_label_decimal_places": {
+      "message": "소수점"
+   },
+   "number_format_label_general": {
+      "message": "기본설정"
+   },
+   "number_format_label_negative_numbers": {
+      "message": "음수"
+   },
+   "number_format_label_other": {
+      "message": "기타"
+   },
+   "number_format_label_red": {
+      "message": "빨간색"
+   },
+   "number_format_label_text": {
+      "message": "텍스트"
+   },
+   "number_format_label_use_1000_separator": {
+      "message": "천단위 구분자 사용"
+   },
+   "number_format_tab_accounting": {
+      "message": "회계"
+   },
+   "number_format_tab_currency": {
+      "message": "통화"
+   },
+   "number_format_tab_date_time": {
+      "message": "날짜 및 시간"
+   },
+   "number_format_tab_general": {
+      "message": "일반"
+   },
+   "number_format_tab_number": {
+      "message": "숫자"
+   },
+   "number_format_tab_percentage": {
+      "message": "백분율"
+   },
+   "number_format_tab_scientific": {
+      "message": "과학"
+   },
+   "number_format_title": {
+      "message": "숫자 형식"
+   },
+   "ocm_promo_conversion_shortmsg": {
+      "message": "Office 호환성 모드를 사용 중입니다."
+   },
+   "office_compatibility_mode": {
+      "message": "Office 호환 모드"
+   },
+   "office_first_time_confirm": {
+      "message": "확인"
+   },
+   "office_first_time_message_p1": {
+      "message": "이제 하드 드라이브, Google 드라이브, Gmail 등에 있는 Word, Excel, Powerpoint 파일을 Google 문서, 스프레드시트, 프레젠테이션을 이용하여 수정할 수 있습니다."
+   },
+   "office_first_time_message_p2": {
+      "message": "수정한 내용은 모두 자동으로 저장되며 언제든지 원본 형식으로도 저장할 수 있습니다."
+   },
+   "office_first_time_title": {
+      "message": "Google 문서, 스프레드시트, 프레젠테이션에서 Office 파일 수정 가능"
+   },
+   "offline_error_msg": {
+      "message": "현재 오프라인 상태인 것 같습니다. 인터넷 연결을 확인하고 다시 시도하세요. 온라인 상태임에도 이 오류가 계속.발생한다면 아래에서 문제를 신고하세요."
+   },
+   "offline_error_short_msg": {
+      "message": "요청한 파일을 열 수 없습니다."
+   },
+   "option_key": {
+      "message": "옵션"
+   },
+   "out_of_memory_error_msg": {
+      "message": "이 탭을 닫고 파일을 다시 열어보거나 브라우저에 열려 있는 다른 탭을 닫아보세요. 문제가 계속되면 아래에서 문제를 신고해 주세요."
+   },
+   "out_of_memory_error_short_msg": {
+      "message": "메모리가 부족합니다."
+   },
+   "page_count_label": {
+      "message": "페이지"
+   },
+   "partial_cell_merge_error_msg": {
+      "message": "병합된 셀의 일부를 변경할 수 없습니다."
+   },
+   "partial_cell_merge_error_short_msg": {
+      "message": "오류"
+   },
+   "point_ocm_promo_conversion_msg": {
+      "message": "Office 파일을 Google 프레젠테이션에서 바로 수정하고 저장할 수 있습니다. 다른 사용자를 초대하여 파일을 수정하거나 댓글을 추가할 수 있도록 하려면 Google 프레젠테이션 형식으로 저장하세요. 언제든지 원본 형식으로 다시 저장할 수 있습니다."
+   },
+   "point_printing_warning_msg": {
+      "message": "이 문제를 해결하기 위해 노력하고 있습니다."
+   },
+   "point_printing_warning_short_msg": {
+      "message": "지금은 보고 있는 슬라이드만 인쇄할 수 있습니다."
+   },
+   "point_share_promo_conversion_msg": {
+      "message": "이 프레젠테이션을 공유하고 싶으신가요? 함께 수정할 수 있도록 다른 사람들을 초대하려면 Google 프레젠테이션으로 변환하세요."
+   },
+   "pointtogglebullet_aria_spoken_word": {
+      "message": "글머리 기호 목록"
+   },
+   "pointtogglenumber_aria_spoken_word": {
+      "message": "번호 매기기 목록"
+   },
+   "present_button": {
+      "message": "프레젠테이션 보기"
+   },
+   "pressed": {
+      "message": "누름"
+   },
+   "print_aria_spoken_word": {
+      "message": "인쇄"
+   },
+   "qowt_doc_mismatch_text": {
+      "message": "형식을 지정하는 중에 문서에 오류가 발생했습니다.\n\n변경사항을 복구하려면 페이지를 새로고침하세요."
+   },
+   "qowt_doc_mismatch_title": {
+      "message": "충돌 발생"
+   },
+   "qowt_hyperlink_activate_short_key": {
+      "message": "ALT + Enter 키를 눌러 링크를 활성화합니다."
+   },
+   "qowt_hyperlink_dialog": {
+      "message": "하이퍼링크"
+   },
+   "qowt_hyperlink_dialog_message_text": {
+      "message": "이동할 링크:"
+   },
+   "qowt_modal_confirm_dialog_affirmative_button": {
+      "message": "확인"
+   },
+   "qowt_modal_confirm_dialog_negative_button": {
+      "message": "취소"
+   },
+   "qowt_modal_dialog_close_button": {
+      "message": "닫기"
+   },
+   "qowt_modal_dialog_coming_soon_title": {
+      "message": "곧 출시됩니다."
+   },
+   "qowt_modal_dialog_link_text": {
+      "message": "자세히 알아보기"
+   },
+   "qowt_modal_dialog_ok_button": {
+      "message": "확인"
+   },
+   "qowt_modal_dialog_reload_button": {
+      "message": "새로고침"
+   },
+   "qowt_modal_dialog_textbox_editing_description": {
+      "message": "죄송합니다. 텍스트 상자 내에서 텍스트를 편집하는 기능은 지원하지 않습니다."
+   },
+   "qowt_modal_dialog_textbox_editing_link": {
+      "message": "기능 지원 요청"
+   },
+   "qowt_modal_info_dialog_affirmative_button": {
+      "message": "확인"
+   },
+   "qowt_modal_multi_choice_remember_choice": {
+      "message": "내 선택사항 저장"
+   },
+   "qowt_modal_query_dialog_affirmative_button": {
+      "message": "예"
+   },
+   "qowt_modal_query_dialog_negative_button": {
+      "message": "아니요"
+   },
+   "qowt_modal_query_dialog_reload_button": {
+      "message": "새로고침"
+   },
+   "qowt_modal_single_choice_remember_choice": {
+      "message": "다시 표시하지 않음"
+   },
+   "read_only": {
+      "message": "읽기 전용"
+   },
+   "redo_aria_spoken_word": {
+      "message": "다시실행"
+   },
+   "right_pointed_submenu": {
+      "message": "하위 메뉴 포함 오른쪽 포인터"
+   },
+   "save_aria_spoken_word": {
+      "message": "저장"
+   },
+   "save_now": {
+      "message": "지금 저장"
+   },
+   "security_error_msg": {
+      "message": "문제가 지속되면 아래에서 문제를 신고하세요."
+   },
+   "security_error_short_msg": {
+      "message": "요청한 파일을 열 수 없습니다. 현재 시크릿 모드에서는 파일 열기를 지원하지 않습니다. 시크릿 모드가 아닌 창에서 파일을 여세요."
+   },
+   "selected": {
+      "message": "선택됨"
+   },
+   "set_sheet_info_error_msg": {
+      "message": "시트 이름을 업데이트하는 중에 오류가 발생했습니다."
+   },
+   "share_button": {
+      "message": "공유"
+   },
+   "share_promo_conversion_shortmsg": {
+      "message": "다른 사람들과 함께 수정"
+   },
+   "sheet_delete_column_error_msg": {
+      "message": "열을 삭제하는 중에 오류가 발생했습니다. 다시 시도해 주세요."
+   },
+   "sheet_delete_row_error_msg": {
+      "message": "행을 삭제하는 중에 오류가 발생했습니다. 다시 시도해 주세요."
+   },
+   "sheet_format_cells_error_msg": {
+      "message": "서식을 지정하는 중에 오류가 발생했습니다. 나중에 다시 시도해 주세요."
+   },
+   "sheet_insert_column_error_msg": {
+      "message": "열을 삽입하는 중에 오류가 발생했습니다. 다시 시도해 주세요."
+   },
+   "sheet_insert_column_exceed_error_msg": {
+      "message": "최대 256개의 열을 지원하기 때문에 더 이상 이 스프레드시트에 열을 추가할 수 없습니다."
+   },
+   "sheet_insert_column_exceed_error_short_msg": {
+      "message": "죄송합니다."
+   },
+   "sheet_insert_row_error_msg": {
+      "message": "행을 삽입하는 중에 오류가 발생했습니다. 다시 시도해 주세요."
+   },
+   "sheet_insert_row_exceed_error_msg": {
+      "message": "최대 65,536개의 행을 지원하기 때문에 더 이상 이 스프레드시트에 열을 추가할 수 없습니다."
+   },
+   "sheet_insert_row_exceed_error_short_msg": {
+      "message": "죄송합니다."
+   },
+   "sheet_ocm_promo_conversion_msg": {
+      "message": "Office 파일을 Google 스프레드시트에서 바로 수정하고 저장할 수 있습니다. 다른 사용자를 초대하여 파일을 수정하거나 댓글을 추가할 수 있도록 하려면 Google 스프레드시트 형식으로 저장하세요. 언제든지 원본 형식으로 다시 저장할 수 있습니다."
+   },
+   "sheet_set_cell_content_invalid_error_msg": {
+      "message": "입력한 수식에 오류가 발생했습니다. 오류를 수정해 주세요."
+   },
+   "sheet_share_promo_conversion_msg": {
+      "message": "이 스프레드시트를 공유하고 싶으신가요? 함께 수정할 수 있도록 다른 사람들을 초대하려면 Google 스프레드시트로 변환하세요."
+   },
+   "sheet_sort_error_title": {
+      "message": "이 셀 범위를 정렬하는 중에 오류가 발생했습니다."
+   },
+   "sheet_sort_failure_msg": {
+      "message": "이 셀 범위를 정렬하는 중에 오류가 발생했습니다."
+   },
+   "sheet_sort_merged_cell_error": {
+      "message": "병합된 셀은 정렬할 수 없습니다."
+   },
+   "sheet_sort_merged_cell_error_title": {
+      "message": "이 셀 범위를 정렬하는 중에 오류가 발생했습니다."
+   },
+   "sheet_sort_one_cell_error": {
+      "message": "정렬하려면 2개 이상의 셀을 선택해 주세요."
+   },
+   "sheet_sort_one_cell_error_title": {
+      "message": "이 셀 범위를 정렬하는 중에 오류가 발생했습니다."
+   },
+   "shift_key": {
+      "message": "Shift 키"
+   },
+   "shortcut": {
+      "message": "단축키 $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sign_in": {
+      "message": "로그인"
+   },
+   "slash_key": {
+      "message": "슬래시 키"
+   },
+   "something_not_right": {
+      "message": "오류가 있습니다."
+   },
+   "storage_quota_exceed_error_msg": {
+      "message": "Chrome에 열려 있는 Office 문서를 종료한 후 다시 시도해 주세요. 문제가 지속되면 아래에서 신고해 주세요."
+   },
+   "storage_quota_exceed_error_short_msg": {
+      "message": "파일을 열 수 없습니다."
+   },
+   "strikethrough_aria_spoken_word": {
+      "message": "취소선"
+   },
+   "style_aria_spoken_word": {
+      "message": "스타일 드롭다운 목록"
+   },
+   "submenu_spoken_text": {
+      "message": "$1 $2 $3 $4",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         }
+      }
+   },
+   "temporary_unable_to_open_error_msg": {
+      "message": "나중에 다시 시도하거나 문제가 지속되면 신고해 주세요."
+   },
+   "temporary_unable_to_open_error_short_msg": {
+      "message": "일시적으로 파일을 열 수 없습니다."
+   },
+   "textaligncenter_aria_spoken_word": {
+      "message": "텍스트 가운데 맞춤"
+   },
+   "textalignjustify_aria_spoken_word": {
+      "message": "텍스트 양쪽 맞춤"
+   },
+   "textalignleft_aria_spoken_word": {
+      "message": "텍스트 왼쪽 맞춤"
+   },
+   "textalignright_aria_spoken_word": {
+      "message": "텍스트 오른쪽 맞춤"
+   },
+   "textcolor_aria_spoken_word": {
+      "message": "텍스트 색상 드롭다운 목록"
+   },
+   "textual_edit_error_msg": {
+      "message": "서식을 설정하는 중에 문서에 오류가 발생했습니다.\n\n변경사항을 복구하려면 페이지를 새로고침하세요."
+   },
+   "textual_edit_error_short_msg": {
+      "message": "오류"
+   },
+   "title_error_msg_for_merge_cells": {
+      "message": "문제가 발생했습니다."
+   },
+   "title_msg_merging_multiple_cells_with_text": {
+      "message": "주의"
+   },
+   "togglebulleted_aria_spoken_word": {
+      "message": "글머리 기호 목록"
+   },
+   "togglenumbered_aria_spoken_word": {
+      "message": "번호 매기기 목록"
+   },
+   "togglezoom_aria_spoken_word": {
+      "message": "확대/축소 전환"
+   },
+   "tooltip_background_color": {
+      "message": "채우기 색상"
+   },
+   "tooltip_bold": {
+      "message": "굵게"
+   },
+   "tooltip_border": {
+      "message": "테두리"
+   },
+   "tooltip_border_all": {
+      "message": "전체 테두리"
+   },
+   "tooltip_border_bottom": {
+      "message": "아래 테두리"
+   },
+   "tooltip_border_horizontal": {
+      "message": "가로 테두리"
+   },
+   "tooltip_border_inner": {
+      "message": "안쪽 테두리"
+   },
+   "tooltip_border_left": {
+      "message": "왼쪽 테두리"
+   },
+   "tooltip_border_none": {
+      "message": "테두리 없음"
+   },
+   "tooltip_border_outer": {
+      "message": "바깥쪽 테두리"
+   },
+   "tooltip_border_right": {
+      "message": "오른쪽 테두리"
+   },
+   "tooltip_border_top": {
+      "message": "위쪽 테두리"
+   },
+   "tooltip_border_vertical": {
+      "message": "세로 테두리"
+   },
+   "tooltip_cell_align": {
+      "message": "셀 맞춤"
+   },
+   "tooltip_cell_h_align_center": {
+      "message": "수평 중앙"
+   },
+   "tooltip_cell_h_align_left": {
+      "message": "수평 왼쪽"
+   },
+   "tooltip_cell_h_align_right": {
+      "message": "수평 오른쪽"
+   },
+   "tooltip_cell_v_align_bottom": {
+      "message": "수직 아래쪽"
+   },
+   "tooltip_cell_v_align_center": {
+      "message": "수직 가운데"
+   },
+   "tooltip_cell_v_align_top": {
+      "message": "수직 위쪽"
+   },
+   "tooltip_download": {
+      "message": "다운로드"
+   },
+   "tooltip_dropdown_init_add_shape": {
+      "message": "도형"
+   },
+   "tooltip_fill_color": {
+      "message": "텍스트 색상"
+   },
+   "tooltip_font_face": {
+      "message": "글꼴"
+   },
+   "tooltip_font_size": {
+      "message": "글꼴 크기"
+   },
+   "tooltip_highlight_color": {
+      "message": "배경색"
+   },
+   "tooltip_init_add_shape": {
+      "message": "텍스트 상자"
+   },
+   "tooltip_italic": {
+      "message": "기울임꼴"
+   },
+   "tooltip_merge": {
+      "message": "셀 병합"
+   },
+   "tooltip_merge_dropdown": {
+      "message": "병합 유형 선택"
+   },
+   "tooltip_modify_shape_fill_color": {
+      "message": "채우기 색상"
+   },
+   "tooltip_modify_shape_outline_color": {
+      "message": "선 색상"
+   },
+   "tooltip_modify_shape_outline_style": {
+      "message": "점선"
+   },
+   "tooltip_modify_shape_outline_width": {
+      "message": "선 두께"
+   },
+   "tooltip_move_slide": {
+      "message": "$1개 슬라이드 이동",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "tooltip_point": {
+      "message": "프레젠테이션 홈"
+   },
+   "tooltip_point_toggle_bullet": {
+      "message": "글머리 기호 목록"
+   },
+   "tooltip_point_toggle_number": {
+      "message": "번호 매기기"
+   },
+   "tooltip_presentation": {
+      "message": "프레젠테이션"
+   },
+   "tooltip_print": {
+      "message": "인쇄"
+   },
+   "tooltip_redo": {
+      "message": "다시실행"
+   },
+   "tooltip_share": {
+      "message": "공유"
+   },
+   "tooltip_share_for_macroenabledfiles": {
+      "message": "매크로 사용 파일은 Google 드라이브에서만 공유할 수 있습니다."
+   },
+   "tooltip_sheet": {
+      "message": "스프레드시트 홈"
+   },
+   "tooltip_strikethrough": {
+      "message": "취소선"
+   },
+   "tooltip_style": {
+      "message": "스타일"
+   },
+   "tooltip_text_align_center": {
+      "message": "가운데"
+   },
+   "tooltip_text_align_justify": {
+      "message": "양쪽 맞춤"
+   },
+   "tooltip_text_align_left": {
+      "message": "왼쪽 맞춤"
+   },
+   "tooltip_text_align_right": {
+      "message": "오른쪽 맞춤"
+   },
+   "tooltip_text_color": {
+      "message": "텍스트 색상"
+   },
+   "tooltip_toggle_bulleted": {
+      "message": "글머리 기호 목록"
+   },
+   "tooltip_toggle_numbered": {
+      "message": "번호 매기기"
+   },
+   "tooltip_toggle_zoom": {
+      "message": "확대/축소 전환"
+   },
+   "tooltip_underline": {
+      "message": "밑줄"
+   },
+   "tooltip_undo": {
+      "message": "실행취소"
+   },
+   "tooltip_word": {
+      "message": "문서 홈"
+   },
+   "tooltip_wrap_text": {
+      "message": "텍스트 줄바꿈"
+   },
+   "tooltip_zoom_in": {
+      "message": "확대"
+   },
+   "tooltip_zoom_out": {
+      "message": "축소"
+   },
+   "try_again": {
+      "message": "다시 시도"
+   },
+   "unable_to_execute_msg": {
+      "message": "이 문서를 열 수 없습니다."
+   },
+   "underline_aria_spoken_word": {
+      "message": "밑줄"
+   },
+   "undo_aria_spoken_word": {
+      "message": "실행취소"
+   },
+   "unmerge_aria_spoken_word": {
+      "message": "병합 취소"
+   },
+   "unsaved_changes": {
+      "message": "저장되지 않은 변경사항이 있음"
+   },
+   "unsaved_changes_warning": {
+      "message": "이 파일에 저장되지 않은 변경사항이 있습니다. 저장하지 않고 이 페이지를 벗어나면 작업 내용을 완전히 잃게 됩니다."
+   },
+   "unsupported_file_format_error_details_p1": {
+      "message": "이 파일에는 Microsoft® Office \"95 또는 이전 버전의 콘텐츠가 포함되어 있어서 파일을 열 수 없습니다."
+   },
+   "unsupported_file_format_error_details_p2": {
+      "message": "파일을 Google 문서로 변환하고 싶다면 아래 링크를 클릭하세요."
+   },
+   "unsupported_file_format_error_title": {
+      "message": "오류가 발생했습니다."
+   },
+   "unsupported_link_message": {
+      "message": "현재 이 유형의 URL을 지원하지 않습니다."
+   },
+   "up_key": {
+      "message": "Up 키"
+   },
+   "updated_shortcut_message": {
+      "message": "Google 문서 도구 제품 간에 일관성을 유지할 수 있도록 단축키가 업데이트되었습니다. 도움말에서 업데이트된 단축키를 살펴보세요."
+   },
+   "updated_shortcut_title": {
+      "message": "단축키 업데이트"
+   },
+   "version_info_msg": {
+      "message": "사용 중인 Office 호환 모드 버전:"
+   },
+   "word_binary_upsave_learnmore": {
+      "message": "자세히 알아보기"
+   },
+   "word_binary_upsave_msg": {
+      "message": "이 파일은 지원되지 않는 형식입니다. 이 파일을 저장하려면 좀 더 최신 파일 형식으로 변환하기 위한 사용 권한이 필요합니다. 원본 파일은 영향을 받지 않습니다."
+   },
+   "word_binary_upsave_shortmsg": {
+      "message": "문서 업데이트"
+   },
+   "word_count_label": {
+      "message": "단어"
+   },
+   "word_count_title": {
+      "message": "단어수"
+   },
+   "word_ocm_promo_conversion_msg": {
+      "message": "Office 파일을 Google 문서에서 바로 수정하고 저장할 수 있습니다. 다른 사용자를 초대하여 파일을 수정하거나 댓글을 추가할 수 있도록 하려면 Google 문서 형식으로 저장하세요. 언제든지 원본 형식으로 다시 저장할 수 있습니다."
+   },
+   "word_share_promo_conversion_msg": {
+      "message": "이 문서를 공유하고 싶으신가요? 함께 수정할 수 있도록 다른 사람들을 초대하려면 Google 문서로 변환하세요."
+   },
+   "wraptext_aria_spoken_word": {
+      "message": "텍스트 줄바꿈"
+   },
+   "zoomin_aria_spoken_word": {
+      "message": "확대"
+   },
+   "zoomout_aria_spoken_word": {
+      "message": "축소"
+   }
+}

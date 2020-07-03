@@ -1,0 +1,70 @@
+<!-- This is a polymer element to represent hyperlink dialog. This dialog
+contains a message string and a click-able action string which enables user
+to navigate through the link.
+
+Javascript example:
+
+    var hyperlinkDlg = document.createElement('qowt-hyperlink-dialog');
+  or...
+    var hyperlinkDlg = new QowtHyperlinkDialog();
+
+  To show the dialog...
+    hyperlinkDlg.show(showLinkInNewTab, actionText, msgToActivateLink);
+
+  Parameters:-
+  1. showLinkInNewTab - states whether the link to be shown in new tab or not.
+         By default, it is true.
+  2. actionText - actual link
+  3. msgToActivateLink - string to verbalise to get focus/activate dialog link.
+         This message is different for word/point/sheet. If not passed, default
+         value is taken as of sheet i.e. "Press ALT + Enter to activate link".
+
+For Keyboard accessibility:
+    - User can activate the link by pressing Alt + Enter, when dialog is opened
+      but not focused.
+    - Pressing Enter key will activate the link when link is in focus.
+    - Through Tab or Shift + Tab key, user can navigate the dialog contents.
+-->
+<!-- Must always load the Polymer core first.-->
+<link rel="import" href="../../../../third_party/polymer/polymer.html"/>
+
+<dom-module id="qowt-hyperlink-dialog">
+    <template>
+        <style>
+            :host {
+                position: absolute;
+                white-space: nowrap;
+                height: 45px;
+                width: auto;
+                background: white;
+                border: 2px solid darkgrey;
+                font-family: Arial, sans-serif;
+                color: #666;
+                -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2);
+                box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+                font-size: 10pt;
+                box-sizing: border-box;
+                padding-right: 15px;
+                padding-left: 15px;
+                pointer-events: auto;
+                cursor: default;
+                position: absolute;
+                left: -2px;
+                display: flex;
+                flex-direction: column;
+                flex-flow: inherit;
+                align-items: center;
+            }
+
+            #action {
+                margin-left: 10px;
+                border-bottom: 1px solid;
+                cursor: hand;
+                color: blue;
+            }
+        </style>
+        <span id="message">{{messageText}}</span>
+        <span id="action" tabindex="0" role="link" on-click="activateLink_"
+              on-focus="onFocusLinkHandler_" focus-end>{{actionText}}</span>
+    </template>
+</dom-module>

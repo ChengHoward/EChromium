@@ -1,0 +1,2192 @@
+{
+   "action_create_user_feedback": {
+      "message": "Rapportér et problem"
+   },
+   "alt_key": {
+      "message": "Alt"
+   },
+   "app_error_learn_more": {
+      "message": "Få flere oplysninger"
+   },
+   "app_error_report_feedback": {
+      "message": "Giv feedback"
+   },
+   "app_icon_aria_spoken_word": {
+      "message": " hjem"
+   },
+   "app_nacl_crash_msg": {
+      "message": "Hjælp os ved at rapportere problemet."
+   },
+   "app_nacl_crash_report": {
+      "message": "Rapportér et problem..."
+   },
+   "app_nacl_crash_title": {
+      "message": "Ups! Det var ikke planen – genindlæs siden for at gendanne dine ændringer."
+   },
+   "app_nacl_error_load_failed": {
+      "message": "Filen kunne ikke åbnes. Luk andre Chrome-faner, eller genstart Chrome, og prøv derefter igen. Hvis det ikke løser problemet, kan du rapportere det nedenfor."
+   },
+   "app_nacl_error_title": {
+      "message": "Filen kan ikke åbnes."
+   },
+   "app_nacl_error_unsupported_device": {
+      "message": "Denne enhed understøtter ikke Chrome-udvidelsen Office-redigering til Docs, Sheets og Slides."
+   },
+   "app_saving_failed_error_msg": {
+      "message": "Der opstod et problem, da filen skulle gemmes. Prøv at gemme den igen. Rapportér problemet, hvis det fortsætter."
+   },
+   "app_saving_failed_error_short_msg": {
+      "message": "Filen kan ikke gemmes."
+   },
+   "backgroundcolor_aria_spoken_word": {
+      "message": "rulleliste for cellebaggrundsfarve"
+   },
+   "bold_aria_spoken_word": {
+      "message": "fed"
+   },
+   "border_all_aria_spoken_word": {
+      "message": "alle kanter"
+   },
+   "border_aria_spoken_word": {
+      "message": "rulleliste for kanter"
+   },
+   "border_bottom_aria_spoken_word": {
+      "message": "nederste kant"
+   },
+   "border_horizontal_aria_spoken_word": {
+      "message": "vandret kant"
+   },
+   "border_inner_aria_spoken_word": {
+      "message": "indre kant"
+   },
+   "border_left_aria_spoken_word": {
+      "message": "venstre kant"
+   },
+   "border_none_aria_spoken_word": {
+      "message": "ingen kanter"
+   },
+   "border_outer_aria_spoken_word": {
+      "message": "ydre kant"
+   },
+   "border_right_aria_spoken_word": {
+      "message": "højre kant"
+   },
+   "border_top_aria_spoken_word": {
+      "message": "øverste kant"
+   },
+   "border_vertical_aria_spoken_word": {
+      "message": "lodret kant"
+   },
+   "button_ocm_convert_cancel": {
+      "message": "Annuller"
+   },
+   "button_ocm_promo_conversion_point": {
+      "message": "Gem som Google Slides-fil"
+   },
+   "button_ocm_promo_conversion_sheet": {
+      "message": "Gem som Google Sheets-fil"
+   },
+   "button_ocm_promo_conversion_word": {
+      "message": "Gem som Google Docs-fil"
+   },
+   "button_share_convert_cancel": {
+      "message": "Annuller"
+   },
+   "button_share_promo_conversion_point": {
+      "message": "Gem som Google Slides-fil"
+   },
+   "button_share_promo_conversion_sheet": {
+      "message": "Gem som Google Sheets-fil"
+   },
+   "button_share_promo_conversion_word": {
+      "message": "Gem som Google Docs-fil"
+   },
+   "cell_align_aria_spoken_word": {
+      "message": "Cellejustering"
+   },
+   "cellalign_aria_spoken_word": {
+      "message": "rulleliste for cellejustering"
+   },
+   "cellhaligncenter_aria_spoken_word": {
+      "message": "Vandret centreret"
+   },
+   "cellhalignleft_aria_spoken_word": {
+      "message": "Vandret til venstre"
+   },
+   "cellhalignright_aria_spoken_word": {
+      "message": "Vandret til højre"
+   },
+   "cellvalignbottom_aria_spoken_word": {
+      "message": "Lodret nederst"
+   },
+   "cellvaligncenter_aria_spoken_word": {
+      "message": "Lodret centreret"
+   },
+   "cellvaligntop_aria_spoken_word": {
+      "message": "Lodret øverst"
+   },
+   "char_count_label": {
+      "message": "Tegn"
+   },
+   "char_no_spaces_count_label": {
+      "message": "Tegn uden mellemrum"
+   },
+   "close_dialog_aria_spoken_word": {
+      "message": "Luk dialogboksen"
+   },
+   "cmd_dropdown_initaddshape_aria_spoken_word": {
+      "message": "rulleliste for form"
+   },
+   "collapsed": {
+      "message": "Skjult"
+   },
+   "collapsed_menu": {
+      "message": "$1 Skjult med undermenu.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "color_black": {
+      "message": "Sort"
+   },
+   "color_blaze_orange": {
+      "message": "Stærk orange"
+   },
+   "color_blue": {
+      "message": "Blå"
+   },
+   "color_brown": {
+      "message": "Brun"
+   },
+   "color_cornflower_blue": {
+      "message": "Kornblå"
+   },
+   "color_cyan": {
+      "message": "Cyanblå"
+   },
+   "color_dark_blue": {
+      "message": "Mørkeblå"
+   },
+   "color_dark_blue_1": {
+      "message": "Mørkeblå 1"
+   },
+   "color_dark_blue_2": {
+      "message": "Mørkeblå 2"
+   },
+   "color_dark_blue_3": {
+      "message": "Mørkeblå 3"
+   },
+   "color_dark_blue_grey": {
+      "message": "Mørk gråblå"
+   },
+   "color_dark_cornflower_blue_1": {
+      "message": "Mørk kornblå 1"
+   },
+   "color_dark_cornflower_blue_2": {
+      "message": "Mørk kornblå 2"
+   },
+   "color_dark_cornflower_blue_3": {
+      "message": "Mørk kornblå 3"
+   },
+   "color_dark_cyan": {
+      "message": "Mørk cyanblå"
+   },
+   "color_dark_cyan_1": {
+      "message": "Mørk cyanblå 1"
+   },
+   "color_dark_cyan_2": {
+      "message": "Mørk cyanblå 2"
+   },
+   "color_dark_cyan_3": {
+      "message": "Mørk cyanblå 3"
+   },
+   "color_dark_gray": {
+      "message": "Mørkegrå"
+   },
+   "color_dark_gray_1": {
+      "message": "Mørkegrå 1"
+   },
+   "color_dark_gray_2": {
+      "message": "Mørkegrå 2"
+   },
+   "color_dark_gray_3": {
+      "message": "Mørkegrå 3"
+   },
+   "color_dark_gray_4": {
+      "message": "Mørkegrå 4"
+   },
+   "color_dark_green": {
+      "message": "Mørkegrøn"
+   },
+   "color_dark_green_1": {
+      "message": "Mørkegrøn 1"
+   },
+   "color_dark_green_2": {
+      "message": "Mørkegrøn 2"
+   },
+   "color_dark_green_3": {
+      "message": "Mørkegrøn 3"
+   },
+   "color_dark_green_5": {
+      "message": "Mørkegrøn 5"
+   },
+   "color_dark_grey_2": {
+      "message": "Mørkegrå 2"
+   },
+   "color_dark_grey_5": {
+      "message": "Mørkegrå 5"
+   },
+   "color_dark_magenta_1": {
+      "message": "Mørk magenta 1"
+   },
+   "color_dark_magenta_2": {
+      "message": "Mørk magenta 2"
+   },
+   "color_dark_magenta_3": {
+      "message": "Mørk magenta 3"
+   },
+   "color_dark_olive_green": {
+      "message": "Mørk olivengrøn"
+   },
+   "color_dark_orange_1": {
+      "message": "Mørk orange 1"
+   },
+   "color_dark_orange_2": {
+      "message": "Mørk orange 2"
+   },
+   "color_dark_orange_3": {
+      "message": "Mørk orange 3"
+   },
+   "color_dark_purple_1": {
+      "message": "Mørk violet 1"
+   },
+   "color_dark_purple_2": {
+      "message": "Mørk violet 2"
+   },
+   "color_dark_purple_3": {
+      "message": "Mørk violet 3"
+   },
+   "color_dark_red": {
+      "message": "Mørkerød"
+   },
+   "color_dark_red_1": {
+      "message": "Mørkerød 1"
+   },
+   "color_dark_red_2": {
+      "message": "Mørkerød 2"
+   },
+   "color_dark_red_3": {
+      "message": "Mørkerød 3"
+   },
+   "color_dark_red_berry_1": {
+      "message": "Mørk bærrød 1"
+   },
+   "color_dark_red_berry_2": {
+      "message": "Mørk bærrød 2"
+   },
+   "color_dark_red_berry_3": {
+      "message": "Mørk bærrød 3"
+   },
+   "color_dark_slate_blue": {
+      "message": "Mørk skiferblå"
+   },
+   "color_dark_yellow_1": {
+      "message": "Mørkegul 1"
+   },
+   "color_dark_yellow_2": {
+      "message": "Mørkegul 2"
+   },
+   "color_dark_yellow_3": {
+      "message": "Mørkegul 3"
+   },
+   "color_deep_pink": {
+      "message": "Pink"
+   },
+   "color_deep_sky_blue": {
+      "message": "Dyb himmelblå"
+   },
+   "color_eucalyptus_green": {
+      "message": "Eukalyptusgrøn"
+   },
+   "color_gold": {
+      "message": "Guldfarve"
+   },
+   "color_gray": {
+      "message": "Grå"
+   },
+   "color_green": {
+      "message": "Grøn"
+   },
+   "color_light_blue": {
+      "message": "Lyseblå"
+   },
+   "color_light_blue_1": {
+      "message": "Lyseblå 1"
+   },
+   "color_light_blue_2": {
+      "message": "Lyseblå 2"
+   },
+   "color_light_blue_3": {
+      "message": "Lyseblå 3"
+   },
+   "color_light_cornflower_blue_1": {
+      "message": "Lys kornblå 1"
+   },
+   "color_light_cornflower_blue_2": {
+      "message": "Lys kornblå 2"
+   },
+   "color_light_cornflower_blue_3": {
+      "message": "Lys kornblå 3"
+   },
+   "color_light_cyan": {
+      "message": "Lys cyanblå"
+   },
+   "color_light_cyan_1": {
+      "message": "Lys cyanblå 1"
+   },
+   "color_light_cyan_2": {
+      "message": "Lys cyanblå 2"
+   },
+   "color_light_cyan_3": {
+      "message": "Lys cyanblå 3"
+   },
+   "color_light_gray": {
+      "message": "Lysegrå"
+   },
+   "color_light_gray_1": {
+      "message": "Lysegrå 1"
+   },
+   "color_light_gray_2": {
+      "message": "Lysegrå 2"
+   },
+   "color_light_gray_3": {
+      "message": "Lysegrå 3"
+   },
+   "color_light_green": {
+      "message": "Lysegrøn"
+   },
+   "color_light_green_1": {
+      "message": "Lysegrøn 1"
+   },
+   "color_light_green_2": {
+      "message": "Lysegrøn 2"
+   },
+   "color_light_green_3": {
+      "message": "Lysegrøn 3"
+   },
+   "color_light_magenta_1": {
+      "message": "Lys magenta 1"
+   },
+   "color_light_magenta_2": {
+      "message": "Lys magenta 2"
+   },
+   "color_light_magenta_3": {
+      "message": "Lys magenta 3"
+   },
+   "color_light_orange_1": {
+      "message": "Lys orange 1"
+   },
+   "color_light_orange_2": {
+      "message": "Lys orange 2"
+   },
+   "color_light_orange_3": {
+      "message": "Lys orange 3"
+   },
+   "color_light_purple": {
+      "message": "Lys violet"
+   },
+   "color_light_purple_1": {
+      "message": "Lys violet 1"
+   },
+   "color_light_purple_2": {
+      "message": "Lys violet 2"
+   },
+   "color_light_purple_3": {
+      "message": "Lys violet 3"
+   },
+   "color_light_red_1": {
+      "message": "Lys rød 1"
+   },
+   "color_light_red_2": {
+      "message": "Lys rød 2"
+   },
+   "color_light_red_3": {
+      "message": "Lys rød 3"
+   },
+   "color_light_red_berry_1": {
+      "message": "Lys bærrød 1"
+   },
+   "color_light_red_berry_2": {
+      "message": "Lys bærrød 2"
+   },
+   "color_light_red_berry_3": {
+      "message": "Lys bærrød 3"
+   },
+   "color_light_yellow": {
+      "message": "Lysegul"
+   },
+   "color_light_yellow_1": {
+      "message": "Lysegul 1"
+   },
+   "color_light_yellow_2": {
+      "message": "Lysegul 2"
+   },
+   "color_light_yellow_3": {
+      "message": "Lysegul 3"
+   },
+   "color_magenta": {
+      "message": "Magenta"
+   },
+   "color_maroon": {
+      "message": "Rødbrun"
+   },
+   "color_midnight_blue": {
+      "message": "Midnatsblå"
+   },
+   "color_navy": {
+      "message": "Marineblå"
+   },
+   "color_olive": {
+      "message": "Oliven"
+   },
+   "color_orange": {
+      "message": "Orange"
+   },
+   "color_peach": {
+      "message": "Fersken"
+   },
+   "color_pink": {
+      "message": "Lyserød"
+   },
+   "color_pistachio": {
+      "message": "Pistacie"
+   },
+   "color_purple": {
+      "message": "Violet"
+   },
+   "color_red": {
+      "message": "Rød"
+   },
+   "color_red_berry": {
+      "message": "Bærrød"
+   },
+   "color_royal_blue": {
+      "message": "Kongeblå"
+   },
+   "color_teal": {
+      "message": "Grønblå"
+   },
+   "color_turquiose": {
+      "message": "Turkis"
+   },
+   "color_white": {
+      "message": "Hvid"
+   },
+   "color_yellow": {
+      "message": "Gul"
+   },
+   "command_key": {
+      "message": "Kommando"
+   },
+   "content_msg_merging_horizontally_across_vertical_section": {
+      "message": "Du kan ikke flette vandret henover en eksisterende sektion, som er flettet lodret."
+   },
+   "content_msg_merging_multiple_cells_with_text": {
+      "message": "Flettede celler bevarer kun værdien øverst til venstre. Vil du flette alligevel?"
+   },
+   "content_msg_merging_partially_selected_merged_cells": {
+      "message": "Du skal vælge alle cellerne i et flettet område for at flette eller dele dem."
+   },
+   "content_msg_merging_vertically_across_horizontal_section": {
+      "message": "Du kan ikke flette lodret henover en eksisterende sektion, som er flettet vandret."
+   },
+   "content_render_error_msg": {
+      "message": "Der var et problem med indholdet i dette dokument."
+   },
+   "context_menu_clipboard_copy": {
+      "message": "Kopiér"
+   },
+   "context_menu_delete": {
+      "message": "Slet"
+   },
+   "context_menu_freeze": {
+      "message": "Lås"
+   },
+   "context_menu_insert": {
+      "message": "Indsæt"
+   },
+   "context_menu_sort_collation_ascending": {
+      "message": "Sortér a-å"
+   },
+   "context_menu_sort_collation_descending": {
+      "message": "Sortér å-a"
+   },
+   "context_menu_unfreeze": {
+      "message": "Annuller låsning"
+   },
+   "control_key": {
+      "message": "Kontrol"
+   },
+   "convert_attempt_when_offline": {
+      "message": "Du skal være online for at kunne gemme som Google Docs. Prøv igen, når din forbindelse er genoprettet."
+   },
+   "convert_attempt_with_invalid_creds": {
+      "message": "Du skal være logget ind på din Google-konto for at kunne konvertere denne fil."
+   },
+   "convert_cancel": {
+      "message": "Annuller"
+   },
+   "convert_to_google_docs_failed": {
+      "message": "Der opstod et problem med konverteringen af dit dokument til Google Docs."
+   },
+   "convert_to_google_point_fail_short_msg": {
+      "message": "Hov!"
+   },
+   "convert_to_google_point_short_msg": {
+      "message": "Gemmer som Google Slides"
+   },
+   "convert_to_google_sheet_fail_short_msg": {
+      "message": "Hov!"
+   },
+   "convert_to_google_sheet_short_msg": {
+      "message": "Gemmer som Google Sheets"
+   },
+   "convert_to_google_word_fail_short_msg": {
+      "message": "Hov!"
+   },
+   "convert_to_google_word_short_msg": {
+      "message": "Gemmer som Google Docs"
+   },
+   "convert_try_again": {
+      "message": "Prøv igen"
+   },
+   "converting_to_google_point_fail_msg": {
+      "message": "Vi kan ikke gemme din fil som en Google Slides-fil på nuværende tidspunkt."
+   },
+   "converting_to_google_point_msg": {
+      "message": "En ny version af din præsentation gemmes som en Google Slides-fil."
+   },
+   "converting_to_google_sheet_fail_msg": {
+      "message": "Vi kan ikke gemme din fil som en Google Sheets-fil på nuværende tidspunkt."
+   },
+   "converting_to_google_sheet_msg": {
+      "message": "En ny version af dit regneark gemmes som en Google Sheets-fil."
+   },
+   "converting_to_google_word_fail_msg": {
+      "message": "Vi kan ikke gemme din fil som en Google Docs-fil på nuværende tidspunkt."
+   },
+   "converting_to_google_word_msg": {
+      "message": "En ny version af dokumentet gemmes som en Google Docs-fil."
+   },
+   "copy_attempt_when_offline": {
+      "message": "Du skal være online, før du kan lave en kopi i Google Drev. Prøv igen, når din forbindelse er genetableret."
+   },
+   "copy_attempt_with_invalid_creds": {
+      "message": "Du skal være logget ind på din Google-konto for at kunne lave en kopi."
+   },
+   "disabled_share_button": {
+      "message": "Makroaktiverede filer kan kun deles fra Google Drev. Deling er deaktiveret."
+   },
+   "disallowed_cut_copy_paste_cmd_copy": {
+      "message": "til kopiering"
+   },
+   "disallowed_cut_copy_paste_cmd_cut": {
+      "message": "til klipning"
+   },
+   "disallowed_cut_copy_paste_cmd_paste": {
+      "message": "til indsætning"
+   },
+   "disallowed_cut_copy_paste_msg": {
+      "message": "Disse handlinger er ikke tilgængelige via redigerings- og genvejsmenuerne, men du kan stadig bruge:"
+   },
+   "disallowed_cut_copy_paste_title": {
+      "message": "Kopiér og Indsæt i Office-kompatibilitetstilstand"
+   },
+   "dismiss": {
+      "message": "Luk"
+   },
+   "document_title_aria_spoken_word": {
+      "message": "Dokumentets titel:"
+   },
+   "down_key": {
+      "message": "Ned"
+   },
+   "download_button": {
+      "message": "Download"
+   },
+   "download_file_timeout_error_msg": {
+      "message": "Det tager længere tid end forventet at indlæse den fil, du forsøger at åbne. Kontrollér din netværksforbindelse, og prøv igen."
+   },
+   "download_file_timeout_error_short_msg": {
+      "message": "Det tager længere tid end forventet at downloade filen"
+   },
+   "drive_open_timeout_error_msg": {
+      "message": "Det ser ud til, at der måske er et problem med din internetforbindelse. Tjek din forbindelse, og prøv at åbne filen igen. Hvis du stadig får denne fejl og er online, kan du rapportere et problem nedenfor."
+   },
+   "drive_open_timeout_error_short_msg": {
+      "message": "Ups! Vi kunne ikke åbne den fil, du anmodede om."
+   },
+   "duplicate_sheet_name_message": {
+      "message": "Angiv et navn, der ikke bruges af et andet ark"
+   },
+   "duplicate_sheet_name_title": {
+      "message": "Det navn bruges allerede af et andet ark"
+   },
+   "edits_not_being_saved": {
+      "message": "Ændringer gemmes ikke automatisk."
+   },
+   "edits_now_being_auto_saved": {
+      "message": "Filen blev gemt. Alle ændringer gemmes nu automatisk."
+   },
+   "entry_point_error_msg": {
+      "message": "Prøv igen, eller rapportér et problem nedenfor."
+   },
+   "entry_point_error_short_msg": {
+      "message": "Ups! Vi kunne ikke finde ud af, hvilken fil du ville åbne."
+   },
+   "error_occurred": {
+      "message": "Der opstod en fejl."
+   },
+   "error_password_required_msg": {
+      "message": "Vi understøtter på nuværende tidspunkt ikke beskyttede filer, men vi arbejder på det."
+   },
+   "error_password_required_short_msg": {
+      "message": "Denne fil er beskyttet med en adgangskode."
+   },
+   "expanded": {
+      "message": "Udvidet"
+   },
+   "expanded_menu": {
+      "message": "$1 Udvidet med undermenu.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "extension_description": {
+      "message": "Se og rediger Microsoft Word-, Excel- og PowerPoint-filer med Google Docs, Sheets og Slides."
+   },
+   "extension_name": {
+      "message": "Office-redigering"
+   },
+   "extension_popup_message_body": {
+      "message": "Åbn eksisterende filer ved at trække og slippe dem i browseren"
+   },
+   "extension_popup_new_document_header": {
+      "message": "Nyt..."
+   },
+   "extension_popup_new_presentation_document": {
+      "message": "PowerPoint-præsentation"
+   },
+   "extension_popup_new_spreadsheet_document": {
+      "message": "Excel-regneark"
+   },
+   "extension_popup_new_word_document": {
+      "message": "Word-dokument"
+   },
+   "feedback_textbox_editing": {
+      "message": "Understøt redigering af tekst i tekstfelter."
+   },
+   "feedback_ui_template": {
+      "message": "1- Beskriv det problem, du stødte på.\n2- Opstod problemet, mens du forsøgte at åbne en fil, eller mens du forsøgte at redigere en fil?\n3- Opstår dette problem, hver gang du forsøger at åbne eller redigere en hvilken som helst fil, eller kun i forbindelse med bestemte filer?\n\nHvis problemet vedrører en bestemt fil, er du velkommen til at vedhæfte filen i denne rapport, da det vil give os mulighed for at foretage en grundigere fejlfinding."
+   },
+   "file_does_not_exist_error_details": {
+      "message": "Denne fil eksisterer ikke. Du har muligvis forsøgt at åbne et delt link eller et dokument med bogmærke. Prøv at genåbne filen fra dens oprindelige kilde."
+   },
+   "file_does_not_exist_error_title": {
+      "message": "Filen blev ikke fundet."
+   },
+   "file_loading_spinner_label": {
+      "message": "Indlæser"
+   },
+   "file_missing_content_msg": {
+      "message": "Der opstod et problem med at læse alt indholdet af denne fil. Vi anbefaler, at du prøver at omdøbe filen og åbne den igen."
+   },
+   "file_missing_content_short_msg": {
+      "message": "Dokumentet mangler indhold."
+   },
+   "file_not_found_error_msg": {
+      "message": "Forhør dig hos ejeren af filen for at sikre, at du har adgangstilladelse til den. Hvis du stadig får denne fejl og har tilladelse, kan du rapportere et problem nedenfor."
+   },
+   "file_not_found_error_short_msg": {
+      "message": "Ups! Vi kunne ikke åbne den fil, du anmodede om."
+   },
+   "file_not_found_exception": {
+      "message": "Den fil, du anmoder om, er muligvis blevet slettet, omdøbt eller flyttet. Klik på \"Gem nu\" for at fortsætte."
+   },
+   "file_not_found_link_text": {
+      "message": "Læs denne artikel for at få hjælp vedrørende brug af flere konti."
+   },
+   "file_not_found_msg": {
+      "message": "Den fil, du har anmodet om, har flyttet sig."
+   },
+   "file_not_found_title": {
+      "message": "Filen blev ikke fundet."
+   },
+   "file_open_crash_error_msg": {
+      "message": "Hvis du fortsat oplever problemer, kan du rapportere et problem nedenfor."
+   },
+   "file_open_crash_error_short_msg": {
+      "message": "Ups! Vi kunne ikke åbne den fil, du anmodede om."
+   },
+   "file_open_error_msg": {
+      "message": "Indholdet af denne fil er ikke tilgængeligt."
+   },
+   "file_open_error_short_msg": {
+      "message": "Denne fil ser ud til at være beskadiget."
+   },
+   "file_open_fail_download_link_text": {
+      "message": "Download filen"
+   },
+   "file_opened_in_incognito_mode_error_details": {
+      "message": "Udvidelsen til redigering af Office-filer fungerer ikke i inkognitotilstand. Åbn denne fil i et normalt Chrome-vindue. Hvis du er i gæstetilstand, blev filen ikke åbnet. Tjek, at din fil ikke beskadiget og at dokumenttypen er gyldig, og prøv igen."
+   },
+   "file_opened_in_incognito_mode_error_title": {
+      "message": "Ups! Inkognitotilstand understøttes ikke"
+   },
+   "file_pdf_type_rename_msg": {
+      "message": "Omdøb filen til $1.pdf, og prøv igen.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_rtf_type_rename_msg": {
+      "message": "Omdøb filen til $1.rtf",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_type_unsupported_msg": {
+      "message": "Denne filtype understøttes ikke."
+   },
+   "fillcolor_aria_spoken_word": {
+      "message": "rulleliste for tekstfarve"
+   },
+   "fontface_aria_spoken_word": {
+      "message": "rulleliste for skrifttype"
+   },
+   "fontsize_aria_spoken_word": {
+      "message": "rulleliste for skriftstørrelse"
+   },
+   "forbidden_access_level_error_msg": {
+      "message": "Forhør dig hos ejeren af filen for at sikre, at du har tilladelse til at åbne denne fil. Hvis du stadig får denne fejl og har tilladelse, kan du rapportere et problem nedenfor."
+   },
+   "forbidden_access_level_error_short_msg": {
+      "message": "Ups! Vi kunne ikke åbne den fil, du anmodede om."
+   },
+   "forbidden_app_access_error_msg": {
+      "message": "Af en eller anden grund har vi ikke tilladelse til at åbne denne fil. Prøv at åbne filen fra Google Drev, eller rapportér et problem nedenfor."
+   },
+   "forbidden_app_access_error_short_msg": {
+      "message": "Ups! Vi kunne ikke åbne den fil, du anmodede om."
+   },
+   "forbidden_app_id_error_msg": {
+      "message": "Det ser ud til, at Chrome-udvidelsen ikke er konfigureret korrekt. Vi ved ikke helt hvorfor, men du kan rapportere et problem nedenfor."
+   },
+   "forbidden_app_id_error_short_msg": {
+      "message": "Ups! Vi kunne ikke åbne den fil, du anmodede om."
+   },
+   "forbidden_blacklist_error_msg": {
+      "message": "Det ser ud til, at denne Chrome-udvidelse er sortlistet. Det er helt bestemt en fejl, så giv os besked ved at rapportere et problem nedenfor."
+   },
+   "forbidden_blacklist_error_short_msg": {
+      "message": "Ups! Vi kunne ikke åbne den fil, du anmodede om."
+   },
+   "forbidden_domain_error_msg": {
+      "message": "Det ser ud til, at dit domæne ikke tillader adgang til denne fil. Kontakt din domæneadministrator, eller rapportér et problem nedenfor."
+   },
+   "forbidden_domain_error_short_msg": {
+      "message": "Ups! Vi kunne ikke åbne den fil, du anmodede om."
+   },
+   "forbidden_internal_error_msg": {
+      "message": "Google Drev fungerer desværre ikke som forventet. Prøv at åbne filen igen, eller rapportér et problem nedenfor."
+   },
+   "forbidden_internal_error_short_msg": {
+      "message": "Ups! Vi kunne ikke åbne den fil, du anmodede om."
+   },
+   "forbidden_not_installed_error_msg": {
+      "message": "Det ser ud til, at Chrome-udvidelsen ikke er installeret korrekt. Vi ved ikke helt hvorfor, men du kan rapportere et problem nedenfor."
+   },
+   "forbidden_not_installed_error_short_msg": {
+      "message": "Ups! Vi kunne ikke åbne den fil, du anmodede om."
+   },
+   "generic_error_msg": {
+      "message": "Der var et problem med indholdet i dette dokument."
+   },
+   "generic_error_short_msg": {
+      "message": "Ups! Det var ikke planen – genindlæs siden for at gendanne dine ændringer."
+   },
+   "get_lists_data_error_msg": {
+      "message": "Dokumentet gengives muligvis med forkert listeformatering."
+   },
+   "get_lists_data_error_short_msg": {
+      "message": "Dokumentformateringen kunne ikke hentes."
+   },
+   "highlightcolor_aria_spoken_word": {
+      "message": "rulleliste for tekstfremhævningsfarve"
+   },
+   "http_error_zero_msg": {
+      "message": "Kontrollér din forbindelse, eller prøv igen senere i tilfælde af, at det er et netværksproblem. Hvis problemet fortsætter, kan du rapportere det nedenfor."
+   },
+   "http_error_zero_short_msg": {
+      "message": "Filen kunne ikke åbnes."
+   },
+   "info_file_copied": {
+      "message": "Gemt"
+   },
+   "info_file_save_cancelled": {
+      "message": "Lagringen blev annulleret."
+   },
+   "info_file_save_failed": {
+      "message": "Filen kunne ikke gemmes."
+   },
+   "info_file_saved_at_location": {
+      "message": "Alle ændringer blev gemt i $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "info_file_saved_in_drive": {
+      "message": "Alle ændringer blev gemt i Drev"
+   },
+   "info_file_saved_locally": {
+      "message": "Alle ændringer blev gemt lokalt"
+   },
+   "info_file_saved_offline": {
+      "message": "Alle ændringer blev gemt offline"
+   },
+   "info_file_saving": {
+      "message": "Gemmer…"
+   },
+   "initaddshape_aria_spoken_word": {
+      "message": "tilføj tekstfelt"
+   },
+   "invalid_credentials_error_msg": {
+      "message": "Du er nødt til at logge ind på din Google-konto for at få adgang til denne fil."
+   },
+   "invalid_credentials_error_short_msg": {
+      "message": "Ups! Vi kunne ikke åbne den fil, du anmodede om."
+   },
+   "invalid_file_format_msg": {
+      "message": "Selvom filen ligner et Office-dokument og har et Office-filtypenavn, er det faktisk en anden filtype, der er blevet omdøbt eller på anden måde ændret, eller også er det en filtype, som vi ikke understøtter."
+   },
+   "invalid_file_format_short_msg": {
+      "message": "Hovsa! Det ser ud til, at vi ikke kan åbne denne dokumenttype."
+   },
+   "italic_aria_spoken_word": {
+      "message": "kursiv"
+   },
+   "keyboard_shortcut_group_actions": {
+      "message": "Handlinger"
+   },
+   "keyboard_shortcut_group_other": {
+      "message": "Anden"
+   },
+   "keyboard_shortcut_group_paragraph_formatting": {
+      "message": "Formatering af afsnit"
+   },
+   "keyboard_shortcut_group_text_formatting": {
+      "message": "Tekstformatering"
+   },
+   "keyboard_shortcut_group_top_menus": {
+      "message": "Menuer"
+   },
+   "keyboard_shortcut_group_with_slides": {
+      "message": "Med Slides"
+   },
+   "keyboard_shortcut_title": {
+      "message": "Tastaturgenveje"
+   },
+   "make_a_copy_fail_msg": {
+      "message": "Vi kan ikke lave en kopi på nuværende tidspunkt."
+   },
+   "menu_button_data": {
+      "message": "Data"
+   },
+   "menu_button_edit": {
+      "message": "Rediger"
+   },
+   "menu_button_file": {
+      "message": "Fil"
+   },
+   "menu_button_format": {
+      "message": "Format"
+   },
+   "menu_button_help": {
+      "message": "Hjælp"
+   },
+   "menu_button_insert": {
+      "message": "Indsæt"
+   },
+   "menu_button_slide": {
+      "message": "Dias"
+   },
+   "menu_button_tools": {
+      "message": "Værktøjer"
+   },
+   "menu_button_view": {
+      "message": "Se"
+   },
+   "menu_item_10_point_star": {
+      "message": "10-takket stjerne"
+   },
+   "menu_item_12_point_star": {
+      "message": "12-takket stjerne"
+   },
+   "menu_item_16_point_star": {
+      "message": "16-takket stjerne"
+   },
+   "menu_item_24_point_star": {
+      "message": "24-takket stjerne"
+   },
+   "menu_item_32_point_star": {
+      "message": "32-takket stjerne"
+   },
+   "menu_item_4_point_star": {
+      "message": "4-takket stjerne"
+   },
+   "menu_item_5_point_star": {
+      "message": "5-takket stjerne"
+   },
+   "menu_item_6_point_star": {
+      "message": "6-takket stjerne"
+   },
+   "menu_item_7_point_star": {
+      "message": "7-takket stjerne"
+   },
+   "menu_item_8_point_star": {
+      "message": "8-takket stjerne"
+   },
+   "menu_item_align": {
+      "message": "Juster"
+   },
+   "menu_item_align_center": {
+      "message": "Centrer"
+   },
+   "menu_item_align_justified": {
+      "message": "Justeret"
+   },
+   "menu_item_align_left": {
+      "message": "Venstre"
+   },
+   "menu_item_align_right": {
+      "message": "Højre"
+   },
+   "menu_item_arrows": {
+      "message": "Pile"
+   },
+   "menu_item_bent_arrow": {
+      "message": "Buet pil"
+   },
+   "menu_item_bent_up_arrow": {
+      "message": "Buet pil op"
+   },
+   "menu_item_bevel": {
+      "message": "Facet"
+   },
+   "menu_item_block_arc": {
+      "message": "Blokbue"
+   },
+   "menu_item_bold": {
+      "message": "Fed"
+   },
+   "menu_item_callouts": {
+      "message": "Billedforklaringer"
+   },
+   "menu_item_can": {
+      "message": "Cylinder"
+   },
+   "menu_item_chevron": {
+      "message": "Vinkel"
+   },
+   "menu_item_chord": {
+      "message": "Korde"
+   },
+   "menu_item_clear_formatting": {
+      "message": "Ryd formateringen"
+   },
+   "menu_item_cloud": {
+      "message": "Sky"
+   },
+   "menu_item_cloud_callout": {
+      "message": "Skyformet billedforklaring"
+   },
+   "menu_item_color_none": {
+      "message": "Ingen"
+   },
+   "menu_item_color_transparent": {
+      "message": "Gennemsigtig"
+   },
+   "menu_item_convert_to_docs": {
+      "message": "Gem som Google Docs-fil"
+   },
+   "menu_item_convert_to_sheets": {
+      "message": "Gem som Google Sheets-fil"
+   },
+   "menu_item_convert_to_slides": {
+      "message": "Gem som Google Slides-fil"
+   },
+   "menu_item_copy": {
+      "message": "Kopiér"
+   },
+   "menu_item_cross": {
+      "message": "Kryds"
+   },
+   "menu_item_cube": {
+      "message": "Kube"
+   },
+   "menu_item_curved_down_arrow": {
+      "message": "Buet pil ned"
+   },
+   "menu_item_curved_left_arrow": {
+      "message": "Buet venstrepil"
+   },
+   "menu_item_curved_right_arrow": {
+      "message": "Buet højrepil"
+   },
+   "menu_item_curved_up_arrow": {
+      "message": "Buet pil op"
+   },
+   "menu_item_cut": {
+      "message": "Klip"
+   },
+   "menu_item_decagon": {
+      "message": "Tikant"
+   },
+   "menu_item_delete_column": {
+      "message": "Slet kolonne"
+   },
+   "menu_item_delete_row": {
+      "message": "Slet række"
+   },
+   "menu_item_delete_value": {
+      "message": "Slet værdi"
+   },
+   "menu_item_deleteslide": {
+      "message": "Slet dias"
+   },
+   "menu_item_diagonal_stripe": {
+      "message": "Diagonal stribe"
+   },
+   "menu_item_diamond": {
+      "message": "Diamant"
+   },
+   "menu_item_divide": {
+      "message": "Divider"
+   },
+   "menu_item_dodecagon": {
+      "message": "Tolvkant"
+   },
+   "menu_item_donut": {
+      "message": "Donut"
+   },
+   "menu_item_double_brace": {
+      "message": "Dobbelt klammeparentes"
+   },
+   "menu_item_double_bracket": {
+      "message": "Dobbeltparentes"
+   },
+   "menu_item_down_arrow": {
+      "message": "Pil ned"
+   },
+   "menu_item_down_arrow_callout": {
+      "message": "Pil ned, billedforklaring"
+   },
+   "menu_item_duplicateslide": {
+      "message": "Identisk præsentation"
+   },
+   "menu_item_equal": {
+      "message": "Lig med"
+   },
+   "menu_item_equation": {
+      "message": "Formel"
+   },
+   "menu_item_explosion_1": {
+      "message": "Eksplosion 1"
+   },
+   "menu_item_explosion_2": {
+      "message": "Eksplosion 2"
+   },
+   "menu_item_flowchart_alternate_process": {
+      "message": "Flowchart: Alternativ proces"
+   },
+   "menu_item_flowchart_card": {
+      "message": "Flowchart: Kort"
+   },
+   "menu_item_flowchart_collate": {
+      "message": "Flowchart: Flettedele"
+   },
+   "menu_item_flowchart_connector": {
+      "message": "Flowchart: Forbindelse"
+   },
+   "menu_item_flowchart_data": {
+      "message": "Flowchart: Data"
+   },
+   "menu_item_flowchart_decision": {
+      "message": "Flowchart: Beslutning"
+   },
+   "menu_item_flowchart_delay": {
+      "message": "Flowchart: Forsinkelse"
+   },
+   "menu_item_flowchart_direct_access_storage": {
+      "message": "Flowchart: Magnettromlelager"
+   },
+   "menu_item_flowchart_display": {
+      "message": "Flowchart: Visning"
+   },
+   "menu_item_flowchart_document": {
+      "message": "Flowchart: Udfyld blanket"
+   },
+   "menu_item_flowchart_extract": {
+      "message": "Flowchart: Dele/skille"
+   },
+   "menu_item_flowchart_internal_storage": {
+      "message": "Flowchart: Internt lager"
+   },
+   "menu_item_flowchart_magnetic_disk": {
+      "message": "Flowchart: Magnetpladelager"
+   },
+   "menu_item_flowchart_manual_input": {
+      "message": "Flowchart: Manuel indlæsning"
+   },
+   "menu_item_flowchart_manual_operation": {
+      "message": "Flowchart: Manuel proces"
+   },
+   "menu_item_flowchart_merge": {
+      "message": "Flowchart: Flette"
+   },
+   "menu_item_flowchart_multidocument": {
+      "message": "Flowchart: Multidokument"
+   },
+   "menu_item_flowchart_off_page_connector": {
+      "message": "Flowchart: Forbindelse til en anden diagramside"
+   },
+   "menu_item_flowchart_or": {
+      "message": "Flowchart: Eller"
+   },
+   "menu_item_flowchart_predefined_process": {
+      "message": "Flowchart: Foruddefineret proces"
+   },
+   "menu_item_flowchart_preparation": {
+      "message": "Flowchart: Programmodifikation"
+   },
+   "menu_item_flowchart_process": {
+      "message": "Flowchart: Proces"
+   },
+   "menu_item_flowchart_punched_tape": {
+      "message": "Flowchart: Hulstrimmel"
+   },
+   "menu_item_flowchart_sequential_access_storage": {
+      "message": "Flowchart: Magnetbånd"
+   },
+   "menu_item_flowchart_sort": {
+      "message": "Flowchart: Sorter"
+   },
+   "menu_item_flowchart_stored_data": {
+      "message": "Flowchart: Gemte data"
+   },
+   "menu_item_flowchart_summing_junction": {
+      "message": "Flowchart: Opsummeringspunkt"
+   },
+   "menu_item_flowchart_terminator": {
+      "message": "Flowchart: Terminalpunkt"
+   },
+   "menu_item_folded_corner": {
+      "message": "Foldet hjørne"
+   },
+   "menu_item_frame": {
+      "message": "Ramme"
+   },
+   "menu_item_half_frame": {
+      "message": "Halvramme"
+   },
+   "menu_item_heart": {
+      "message": "Hjerte"
+   },
+   "menu_item_help_center": {
+      "message": "Hjælp"
+   },
+   "menu_item_heptagon": {
+      "message": "Syvkant"
+   },
+   "menu_item_hexagon": {
+      "message": "Sekskant"
+   },
+   "menu_item_hideslide": {
+      "message": "Skjul dias"
+   },
+   "menu_item_insert_column": {
+      "message": "Kolonne"
+   },
+   "menu_item_insert_image": {
+      "message": "Billede"
+   },
+   "menu_item_insert_row": {
+      "message": "Række"
+   },
+   "menu_item_insert_text_box": {
+      "message": "Tekstfelt"
+   },
+   "menu_item_insertslide": {
+      "message": "Nyt dias"
+   },
+   "menu_item_italic": {
+      "message": "Kursiv"
+   },
+   "menu_item_keyboard_shortcuts": {
+      "message": "Tastaturgenveje"
+   },
+   "menu_item_l_shape": {
+      "message": "L-form"
+   },
+   "menu_item_left_arrow": {
+      "message": "Venstrepil"
+   },
+   "menu_item_left_arrow_callout": {
+      "message": "Venstrepil, billedforklaring"
+   },
+   "menu_item_left_brace": {
+      "message": "Venstre klammeparentes"
+   },
+   "menu_item_left_bracket": {
+      "message": "Venstre parentes"
+   },
+   "menu_item_left_right_arrow": {
+      "message": "Venstre-højre-pil"
+   },
+   "menu_item_left_right_arrow_callout": {
+      "message": "Venstre-højre-pil, billedforklaring"
+   },
+   "menu_item_left_right_up_arrow": {
+      "message": "Venstre-højre-op-pil"
+   },
+   "menu_item_left_up_arrow": {
+      "message": "Venstre-op-pil"
+   },
+   "menu_item_lightning_bolt": {
+      "message": "Lyn"
+   },
+   "menu_item_make_a_copy": {
+      "message": "Lav en kopi..."
+   },
+   "menu_item_merge_all": {
+      "message": "Flet alle"
+   },
+   "menu_item_merge_cells": {
+      "message": "Flet celler"
+   },
+   "menu_item_merge_horizontally": {
+      "message": "Flet vandret"
+   },
+   "menu_item_merge_vertically": {
+      "message": "Flet lodret"
+   },
+   "menu_item_minus": {
+      "message": "Minus"
+   },
+   "menu_item_moon": {
+      "message": "Måne"
+   },
+   "menu_item_moveslidedown": {
+      "message": "Flyt dias ned"
+   },
+   "menu_item_moveslidetoend": {
+      "message": "Flyt dias til slutningen"
+   },
+   "menu_item_moveslidetostart": {
+      "message": "Flyt dias til begyndelsen"
+   },
+   "menu_item_moveslideup": {
+      "message": "Flyt dias op"
+   },
+   "menu_item_multiply": {
+      "message": "Gange"
+   },
+   "menu_item_new": {
+      "message": "Nyt"
+   },
+   "menu_item_no_symbol": {
+      "message": "\"Nej\"-symbol"
+   },
+   "menu_item_not_equal": {
+      "message": "Ikke lig med"
+   },
+   "menu_item_notched_right_arrow": {
+      "message": "Takket højrepil"
+   },
+   "menu_item_number_format": {
+      "message": "Talformat"
+   },
+   "menu_item_number_menu": {
+      "message": "Tal"
+   },
+   "menu_item_numbering": {
+      "message": "$1 ud af $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "menu_item_octagon": {
+      "message": "Ottekant"
+   },
+   "menu_item_open": {
+      "message": "Åbn"
+   },
+   "menu_item_oval": {
+      "message": "Oval"
+   },
+   "menu_item_oval_callout": {
+      "message": "Oval billedforklaring"
+   },
+   "menu_item_parallelogram": {
+      "message": "Parallelogram"
+   },
+   "menu_item_paste": {
+      "message": "Indsæt"
+   },
+   "menu_item_pentagon": {
+      "message": "Femkant"
+   },
+   "menu_item_pie": {
+      "message": "Cirkel"
+   },
+   "menu_item_plaque": {
+      "message": "Plade"
+   },
+   "menu_item_plus": {
+      "message": "Plus"
+   },
+   "menu_item_present": {
+      "message": "Aktuel"
+   },
+   "menu_item_print": {
+      "message": "Udskriv"
+   },
+   "menu_item_quad_arrow": {
+      "message": "Firkantet pil"
+   },
+   "menu_item_quad_arrow_callout": {
+      "message": "Firkantet pil, billedforklaring"
+   },
+   "menu_item_rectangle": {
+      "message": "Rektangel"
+   },
+   "menu_item_rectangular_callout": {
+      "message": "Rektangulær billedforklaring"
+   },
+   "menu_item_redo": {
+      "message": "Annuller fortryd"
+   },
+   "menu_item_regular_pentagon": {
+      "message": "Regulær femkant"
+   },
+   "menu_item_report_abuse": {
+      "message": "Rapportér misbrug"
+   },
+   "menu_item_report_issue": {
+      "message": "Rapportér et problem"
+   },
+   "menu_item_right_arrow": {
+      "message": "Højrepil"
+   },
+   "menu_item_right_arrow_callout": {
+      "message": "Højrepil, billedforklaring"
+   },
+   "menu_item_right_brace": {
+      "message": "Højre klammeparentes"
+   },
+   "menu_item_right_bracket": {
+      "message": "Højreparentes"
+   },
+   "menu_item_right_triangle": {
+      "message": "Retvinklet trekant"
+   },
+   "menu_item_round_diagonal_corner_rectangle": {
+      "message": "Afrundet rektangel efter diagonalt hjørne"
+   },
+   "menu_item_round_same_side_corner_rectangle": {
+      "message": "Rektangel med afrundede hjørner i samme side"
+   },
+   "menu_item_round_single_corner_rectangle": {
+      "message": "Afrundet rektangel efter enkelt hjørne"
+   },
+   "menu_item_rounded_rectangle": {
+      "message": "Afrundet rektangel"
+   },
+   "menu_item_rounded_rectangular_callout": {
+      "message": "Afrundet rektangulær billedforklaring"
+   },
+   "menu_item_save": {
+      "message": "Gem"
+   },
+   "menu_item_save_as": {
+      "message": "Gem som…"
+   },
+   "menu_item_shapes": {
+      "message": "Figurer"
+   },
+   "menu_item_share": {
+      "message": "Del"
+   },
+   "menu_item_smiley_face": {
+      "message": "Smiley"
+   },
+   "menu_item_snip_and_round_single_corner_rectangle": {
+      "message": "Klip og afrund rektangel efter enkelt hjørne"
+   },
+   "menu_item_snip_diagonal_corner_rectangle": {
+      "message": "Klip rektangel efter hjørnediagonal"
+   },
+   "menu_item_snip_same_side_corner_rectangle": {
+      "message": "Klip rektangel efter hjørne i samme side"
+   },
+   "menu_item_snip_single_corner_rectangle": {
+      "message": "Klip rektangel efter enkelt hjørne"
+   },
+   "menu_item_strikethrough": {
+      "message": "Gennemstregning"
+   },
+   "menu_item_striped_right_arrow": {
+      "message": "Stiplet højrepil"
+   },
+   "menu_item_subscript": {
+      "message": "Sænket skrift"
+   },
+   "menu_item_sun": {
+      "message": "Sol"
+   },
+   "menu_item_superscript": {
+      "message": "Hævet skrift"
+   },
+   "menu_item_teardrop": {
+      "message": "Dråbe"
+   },
+   "menu_item_trapezoid": {
+      "message": "Trapez"
+   },
+   "menu_item_triangle": {
+      "message": "Trekant"
+   },
+   "menu_item_u_turn_arrow": {
+      "message": "U-vendingspil"
+   },
+   "menu_item_underline": {
+      "message": "Understregning"
+   },
+   "menu_item_undo": {
+      "message": "Fortryd"
+   },
+   "menu_item_unhideslide": {
+      "message": "Vis dias igen"
+   },
+   "menu_item_unmerge": {
+      "message": "Fjern fletning"
+   },
+   "menu_item_up_arrow": {
+      "message": "Pil op"
+   },
+   "menu_item_up_arrow_callout": {
+      "message": "Pil op, billedforklaring"
+   },
+   "menu_item_up_down_arrow": {
+      "message": "Op-ned-pil"
+   },
+   "menu_item_version_info": {
+      "message": "Oplysninger om version"
+   },
+   "menu_item_word_count": {
+      "message": "Antal ord"
+   },
+   "menu_item_wrap_text": {
+      "message": "Ombryd tekst"
+   },
+   "menu_item_zoom_in": {
+      "message": "Zoom ind"
+   },
+   "menu_item_zoom_out": {
+      "message": "Zoom ud"
+   },
+   "merge_all_aria_spoken_word": {
+      "message": "flet alle"
+   },
+   "merge_aria_spoken_word": {
+      "message": "flet"
+   },
+   "merge_dropdown_aria_spoken_word": {
+      "message": "rullemenu for fletning"
+   },
+   "merge_horizontally_aria_spoken_word": {
+      "message": "flet vandret"
+   },
+   "merge_vertically_aria_spoken_word": {
+      "message": "flet lodret"
+   },
+   "modify_shape_transform_error_msg": {
+      "message": "Der opstod en fejl under ændringen af shape transforms"
+   },
+   "modify_shape_transform_error_short_msg": {
+      "message": "Der opstod en fejl under ændringen af shape transforms."
+   },
+   "modifyshapefillcolor_aria_spoken_word": {
+      "message": "rulleliste for fyldfarve"
+   },
+   "modifyshapeoutlinecolor_aria_spoken_word": {
+      "message": "rulleliste for formens konturfarve"
+   },
+   "modifyshapeoutlinestyle_aria_spoken_word": {
+      "message": "rulleliste for formens konturtypografi"
+   },
+   "modifyshapeoutlinewidth_aria_spoken_word": {
+      "message": "rulleliste for formens konturtykkelse"
+   },
+   "nacl_load_error_details": {
+      "message": "Prøv at geninstallere udvidelsen."
+   },
+   "nacl_load_error_title": {
+      "message": "Der opstod en fejl ved indlæsningen af appen."
+   },
+   "non_permissible_sheet_name_details": {
+      "message": "De følgende tegn er ikke tilladt * ? [ ] ' ; : Arkets navn må højst være på 31 tegn Arkets navn må ikke efterlades tomt"
+   },
+   "non_permissible_sheet_name_title": {
+      "message": "Du indtastede et ugyldigt navn, da du forsøgte at omdøbe et ark"
+   },
+   "not_pressed": {
+      "message": "Ikke trykket på"
+   },
+   "notselected": {
+      "message": "Ikke valgt"
+   },
+   "number_format_label_currency_symbol": {
+      "message": "Valutasymbol"
+   },
+   "number_format_label_date_type": {
+      "message": "Angiv"
+   },
+   "number_format_label_decimal_places": {
+      "message": "Antal decimaler"
+   },
+   "number_format_label_general": {
+      "message": "Generelt"
+   },
+   "number_format_label_negative_numbers": {
+      "message": "Negative tal"
+   },
+   "number_format_label_other": {
+      "message": "Andet"
+   },
+   "number_format_label_red": {
+      "message": "Rød"
+   },
+   "number_format_label_text": {
+      "message": "Tekst"
+   },
+   "number_format_label_use_1000_separator": {
+      "message": "Brug tusindtalsseparator"
+   },
+   "number_format_tab_accounting": {
+      "message": "Revision"
+   },
+   "number_format_tab_currency": {
+      "message": "Valuta"
+   },
+   "number_format_tab_date_time": {
+      "message": "Dato og tidspunkt"
+   },
+   "number_format_tab_general": {
+      "message": "Generelt"
+   },
+   "number_format_tab_number": {
+      "message": "Tal"
+   },
+   "number_format_tab_percentage": {
+      "message": "Procent"
+   },
+   "number_format_tab_scientific": {
+      "message": "Videnskabeligt"
+   },
+   "number_format_title": {
+      "message": "Talformater"
+   },
+   "ocm_promo_conversion_shortmsg": {
+      "message": "Du er i kompatibilitetstilstanden for Office"
+   },
+   "office_compatibility_mode": {
+      "message": "Office-kompatibilitetstilstand"
+   },
+   "office_first_time_confirm": {
+      "message": "Det er forstået"
+   },
+   "office_first_time_message_p1": {
+      "message": "Nu kan du redigere Word-, Excel- og PowerPoint-filer fra din harddisk, Google Drev, Gmail m.fl. ved hjælp Docs, Sheets og Slides."
+   },
+   "office_first_time_message_p2": {
+      "message": "Alle dine redigeringer gemmes automatisk, og du kan altid gemme i det oprindelige filformat."
+   },
+   "office_first_time_title": {
+      "message": "Office-redigering til Docs, Sheets og Slides"
+   },
+   "offline_error_msg": {
+      "message": "Det ser ud til, at du er offline. Kontrollér din internetforbindelse, og prøv igen. Hvis du stadig får denne fejl, mens du er online, kan du rapportere et problem nedenfor."
+   },
+   "offline_error_short_msg": {
+      "message": "Ups! Vi kunne ikke åbne den fil, du anmodede om."
+   },
+   "option_key": {
+      "message": "Valgmulighed"
+   },
+   "out_of_memory_error_msg": {
+      "message": "Prøv at lukke denne fane og genåbne din fil, eller prøv at lukke andre faner, som eventuelt er åbne i browseren. Hvis problemet fortsætter, kan du rapportere problemet nedenfor."
+   },
+   "out_of_memory_error_short_msg": {
+      "message": "Ups! Vi er løbet tør for hukommelse."
+   },
+   "page_count_label": {
+      "message": "Sider"
+   },
+   "partial_cell_merge_error_msg": {
+      "message": "En del af en sammenflettet celle kan ikke ændres."
+   },
+   "partial_cell_merge_error_short_msg": {
+      "message": "Fejl"
+   },
+   "point_ocm_promo_conversion_msg": {
+      "message": "Du kan redigere og gemme Office-filer direkte i Slides. Hvis du vil invitere andre til at redigere eller tilføje kommentarer, skal du gemme som en Google Slides-fil. Du kan altid gemme i det oprindelige format."
+   },
+   "point_printing_warning_msg": {
+      "message": "Vi arbejder på at løse dette."
+   },
+   "point_printing_warning_short_msg": {
+      "message": "Du kan i øjeblikket kun udskrive det dias, som du får vist."
+   },
+   "point_share_promo_conversion_msg": {
+      "message": "Forsøger du at dele denne præsentation? Konvertér den til Google Slides for at invitere andre til at redigere den sammen med dig."
+   },
+   "pointtogglebullet_aria_spoken_word": {
+      "message": "punktopstilling"
+   },
+   "pointtogglenumber_aria_spoken_word": {
+      "message": "nummereret liste"
+   },
+   "present_button": {
+      "message": "Præsenter"
+   },
+   "pressed": {
+      "message": "Trykket på"
+   },
+   "print_aria_spoken_word": {
+      "message": "udskriv"
+   },
+   "qowt_doc_mismatch_text": {
+      "message": "Der opstod en fejl under formateringen af dit dokument.\n\nGenindlæs siden for at gendanne dine ændringer."
+   },
+   "qowt_doc_mismatch_title": {
+      "message": "Ej!"
+   },
+   "qowt_hyperlink_activate_short_key": {
+      "message": "Tryk på ALT+Enter for at aktivere linket."
+   },
+   "qowt_hyperlink_dialog": {
+      "message": "Hyperlink"
+   },
+   "qowt_hyperlink_dialog_message_text": {
+      "message": "Gå til link:"
+   },
+   "qowt_modal_confirm_dialog_affirmative_button": {
+      "message": "OK"
+   },
+   "qowt_modal_confirm_dialog_negative_button": {
+      "message": "Annuller"
+   },
+   "qowt_modal_dialog_close_button": {
+      "message": "Luk"
+   },
+   "qowt_modal_dialog_coming_soon_title": {
+      "message": "Kommer snart!"
+   },
+   "qowt_modal_dialog_link_text": {
+      "message": "Få flere oplysninger"
+   },
+   "qowt_modal_dialog_ok_button": {
+      "message": "OK"
+   },
+   "qowt_modal_dialog_reload_button": {
+      "message": "Genindlæs"
+   },
+   "qowt_modal_dialog_textbox_editing_description": {
+      "message": "Vi understøtter desværre ikke redigering af tekst i tekstfelter."
+   },
+   "qowt_modal_dialog_textbox_editing_link": {
+      "message": "Sørg for at løse dette."
+   },
+   "qowt_modal_info_dialog_affirmative_button": {
+      "message": "OK"
+   },
+   "qowt_modal_multi_choice_remember_choice": {
+      "message": "Husk mit valg"
+   },
+   "qowt_modal_query_dialog_affirmative_button": {
+      "message": "Ja"
+   },
+   "qowt_modal_query_dialog_negative_button": {
+      "message": "Nej"
+   },
+   "qowt_modal_query_dialog_reload_button": {
+      "message": "Genindlæs"
+   },
+   "qowt_modal_single_choice_remember_choice": {
+      "message": "Påmind mig ikke igen"
+   },
+   "read_only": {
+      "message": "Skrivebeskyttet"
+   },
+   "redo_aria_spoken_word": {
+      "message": "annuller fortryd"
+   },
+   "right_pointed_submenu": {
+      "message": "Højremarkør med undermenu"
+   },
+   "save_aria_spoken_word": {
+      "message": "gem"
+   },
+   "save_now": {
+      "message": "Gem nu"
+   },
+   "security_error_msg": {
+      "message": "Hvis du fortsat oplever problemer, kan du rapportere et problem nedenfor."
+   },
+   "security_error_short_msg": {
+      "message": "Ups! Vi kunne ikke åbne den fil, du har anmodet om. Vi understøtter ikke åbning af filer i inkognitotilstand på nuværende tidspunkt. Åbn din fil i en anden tilstand."
+   },
+   "selected": {
+      "message": "Valgt"
+   },
+   "set_sheet_info_error_msg": {
+      "message": "Der opstod en fejl under opdateringen af arkets navn"
+   },
+   "share_button": {
+      "message": "Del"
+   },
+   "share_promo_conversion_shortmsg": {
+      "message": "Redigér med andre"
+   },
+   "sheet_delete_column_error_msg": {
+      "message": "Ups! Der opstod en fejl under forsøget på at slette kolonnen. Prøv igen."
+   },
+   "sheet_delete_row_error_msg": {
+      "message": "Ups! Der opstod en fejl under forsøget på at slette rækken. Prøv igen."
+   },
+   "sheet_format_cells_error_msg": {
+      "message": "Der opstod en formateringsfejl. Prøv igen."
+   },
+   "sheet_insert_column_error_msg": {
+      "message": "Ups! Der opstod en fejl under forsøget på at indsætte kolonnen. Prøv igen."
+   },
+   "sheet_insert_column_exceed_error_msg": {
+      "message": "Du kan desværre ikke indsætte flere kolonner på dette regneark, da vi højest understøtter 256 kolonner."
+   },
+   "sheet_insert_column_exceed_error_short_msg": {
+      "message": "Beklager."
+   },
+   "sheet_insert_row_error_msg": {
+      "message": "Ups! Der opstod en fejl under forsøget på at indsætte rækken. Prøv igen."
+   },
+   "sheet_insert_row_exceed_error_msg": {
+      "message": "Du kan desværre ikke indsætte flere rækker på dette regneark, da vi højest understøtter 256 rækker."
+   },
+   "sheet_insert_row_exceed_error_short_msg": {
+      "message": "Beklager."
+   },
+   "sheet_ocm_promo_conversion_msg": {
+      "message": "Du kan redigere og gemme Office-filer direkte i Sheets. Hvis du vil invitere andre til at redigere eller tilføje kommentarer, skal du gemme som en Google Sheets-fil. Du kan altid gemme i det oprindelige format."
+   },
+   "sheet_set_cell_content_invalid_error_msg": {
+      "message": "Der var en fejl i den indtastede formel. Ret fejlen."
+   },
+   "sheet_share_promo_conversion_msg": {
+      "message": "Forsøger du at dele dette regneark? Konvertér det til Google Sheets for at invitere andre til at redigere det sammen med dig."
+   },
+   "sheet_sort_error_title": {
+      "message": "Der opstod en fejl ved sorteringen af dette celleområde."
+   },
+   "sheet_sort_failure_msg": {
+      "message": "Der opstod en fejl ved sorteringen af dette celleområde."
+   },
+   "sheet_sort_merged_cell_error": {
+      "message": "Du kan ikke sortere celler, der er blevet flettet."
+   },
+   "sheet_sort_merged_cell_error_title": {
+      "message": "Der opstod en fejl ved sorteringen af dette celleområde."
+   },
+   "sheet_sort_one_cell_error": {
+      "message": "Vælg mere end én celle, der skal sorteres."
+   },
+   "sheet_sort_one_cell_error_title": {
+      "message": "Der opstod en fejl ved sorteringen af dette celleområde."
+   },
+   "shift_key": {
+      "message": "Shift"
+   },
+   "shortcut": {
+      "message": "Genvej $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sign_in": {
+      "message": "Log ind"
+   },
+   "slash_key": {
+      "message": "Skråstreg"
+   },
+   "something_not_right": {
+      "message": "Der er noget galt"
+   },
+   "storage_quota_exceed_error_msg": {
+      "message": "Luk alle Office-dokumenter, der er åbne i Chrome, og prøv derefter igen. Hvis problemet fortsætter, kan du rapportere det nedenfor."
+   },
+   "storage_quota_exceed_error_short_msg": {
+      "message": "Filen kunne ikke åbnes."
+   },
+   "strikethrough_aria_spoken_word": {
+      "message": "gennemstregning"
+   },
+   "style_aria_spoken_word": {
+      "message": "rulleliste for stil"
+   },
+   "submenu_spoken_text": {
+      "message": "$1 $2 $3 $4",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         }
+      }
+   },
+   "temporary_unable_to_open_error_msg": {
+      "message": "Prøv igen senere, eller rapportér problemet nedenfor, hvis det fortsætter."
+   },
+   "temporary_unable_to_open_error_short_msg": {
+      "message": "Filen kan i øjeblikket ikke åbnes."
+   },
+   "textaligncenter_aria_spoken_word": {
+      "message": "centrer tekst"
+   },
+   "textalignjustify_aria_spoken_word": {
+      "message": "lige margener"
+   },
+   "textalignleft_aria_spoken_word": {
+      "message": "venstrejuster tekst"
+   },
+   "textalignright_aria_spoken_word": {
+      "message": "højrejuster tekst"
+   },
+   "textcolor_aria_spoken_word": {
+      "message": "rulleliste for tekstfarve"
+   },
+   "textual_edit_error_msg": {
+      "message": "Der opstod en fejl under formateringen af dit dokument.\n\nGenindlæs siden for at gendanne dine ændringer."
+   },
+   "textual_edit_error_short_msg": {
+      "message": "Hov!"
+   },
+   "title_error_msg_for_merge_cells": {
+      "message": "Der opstod en fejl"
+   },
+   "title_msg_merging_multiple_cells_with_text": {
+      "message": "Bemærk!"
+   },
+   "togglebulleted_aria_spoken_word": {
+      "message": "punktopstilling"
+   },
+   "togglenumbered_aria_spoken_word": {
+      "message": "nummereret liste"
+   },
+   "togglezoom_aria_spoken_word": {
+      "message": "justeret zoom"
+   },
+   "tooltip_background_color": {
+      "message": "Fyldfarve"
+   },
+   "tooltip_bold": {
+      "message": "Fed"
+   },
+   "tooltip_border": {
+      "message": "Kanter"
+   },
+   "tooltip_border_all": {
+      "message": "Alle kanter"
+   },
+   "tooltip_border_bottom": {
+      "message": "Kanter nederst"
+   },
+   "tooltip_border_horizontal": {
+      "message": "Vandrette kanter"
+   },
+   "tooltip_border_inner": {
+      "message": "Indre kanter"
+   },
+   "tooltip_border_left": {
+      "message": "Venstre kanter"
+   },
+   "tooltip_border_none": {
+      "message": "Ingen kanter"
+   },
+   "tooltip_border_outer": {
+      "message": "Ydre kanter"
+   },
+   "tooltip_border_right": {
+      "message": "Højre kanter"
+   },
+   "tooltip_border_top": {
+      "message": "Kanter øverst"
+   },
+   "tooltip_border_vertical": {
+      "message": "Lodrette kanter"
+   },
+   "tooltip_cell_align": {
+      "message": "Cellejustering"
+   },
+   "tooltip_cell_h_align_center": {
+      "message": "Vandret centreret"
+   },
+   "tooltip_cell_h_align_left": {
+      "message": "Vandret til venstre"
+   },
+   "tooltip_cell_h_align_right": {
+      "message": "Vandret til højre"
+   },
+   "tooltip_cell_v_align_bottom": {
+      "message": "Lodret nederst"
+   },
+   "tooltip_cell_v_align_center": {
+      "message": "Lodret centreret"
+   },
+   "tooltip_cell_v_align_top": {
+      "message": "Lodret øverst"
+   },
+   "tooltip_download": {
+      "message": "Download"
+   },
+   "tooltip_dropdown_init_add_shape": {
+      "message": "Form"
+   },
+   "tooltip_fill_color": {
+      "message": "Tekstfarve"
+   },
+   "tooltip_font_face": {
+      "message": "Skrifttype"
+   },
+   "tooltip_font_size": {
+      "message": "Skriftstørrelse"
+   },
+   "tooltip_highlight_color": {
+      "message": "Fremhævningsfarve"
+   },
+   "tooltip_init_add_shape": {
+      "message": "Tekstfelt"
+   },
+   "tooltip_italic": {
+      "message": "Kursiv"
+   },
+   "tooltip_merge": {
+      "message": "Flet celler"
+   },
+   "tooltip_merge_dropdown": {
+      "message": "Vælg fletningstype..."
+   },
+   "tooltip_modify_shape_fill_color": {
+      "message": "Fyldfarve"
+   },
+   "tooltip_modify_shape_outline_color": {
+      "message": "Stregfarve"
+   },
+   "tooltip_modify_shape_outline_style": {
+      "message": "Stiplet linje"
+   },
+   "tooltip_modify_shape_outline_width": {
+      "message": "Stregtykkelse"
+   },
+   "tooltip_move_slide": {
+      "message": "Flyt $1 dias",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "tooltip_point": {
+      "message": "Startside for Slides"
+   },
+   "tooltip_point_toggle_bullet": {
+      "message": "Punktopstilling"
+   },
+   "tooltip_point_toggle_number": {
+      "message": "Nummereret liste"
+   },
+   "tooltip_presentation": {
+      "message": "Præsentation"
+   },
+   "tooltip_print": {
+      "message": "Udskriv"
+   },
+   "tooltip_redo": {
+      "message": "Annuller fortryd"
+   },
+   "tooltip_share": {
+      "message": "Del"
+   },
+   "tooltip_share_for_macroenabledfiles": {
+      "message": "Makroaktiverede filer kan kun deles fra Google Drev"
+   },
+   "tooltip_sheet": {
+      "message": "Startside for Sheets"
+   },
+   "tooltip_strikethrough": {
+      "message": "Gennemstregning"
+   },
+   "tooltip_style": {
+      "message": "Typografier"
+   },
+   "tooltip_text_align_center": {
+      "message": "Centrer"
+   },
+   "tooltip_text_align_justify": {
+      "message": "Juster"
+   },
+   "tooltip_text_align_left": {
+      "message": "Venstrejuster"
+   },
+   "tooltip_text_align_right": {
+      "message": "Højrejuster"
+   },
+   "tooltip_text_color": {
+      "message": "Tekstfarve"
+   },
+   "tooltip_toggle_bulleted": {
+      "message": "Punktopstilling"
+   },
+   "tooltip_toggle_numbered": {
+      "message": "Nummereret liste"
+   },
+   "tooltip_toggle_zoom": {
+      "message": "Slå zoom til eller fra"
+   },
+   "tooltip_underline": {
+      "message": "Understregning"
+   },
+   "tooltip_undo": {
+      "message": "Fortryd"
+   },
+   "tooltip_word": {
+      "message": "Startside for Docs"
+   },
+   "tooltip_wrap_text": {
+      "message": "Ombryd tekst"
+   },
+   "tooltip_zoom_in": {
+      "message": "Zoom ind"
+   },
+   "tooltip_zoom_out": {
+      "message": "Zoom ud"
+   },
+   "try_again": {
+      "message": "Prøv igen"
+   },
+   "unable_to_execute_msg": {
+      "message": "Dokumentet kan ikke åbnes."
+   },
+   "underline_aria_spoken_word": {
+      "message": "understregning"
+   },
+   "undo_aria_spoken_word": {
+      "message": "fortryd"
+   },
+   "unmerge_aria_spoken_word": {
+      "message": "fjern fletning"
+   },
+   "unsaved_changes": {
+      "message": "Der er ændringer, som ikke er gemt"
+   },
+   "unsaved_changes_warning": {
+      "message": "Der er ændringer, som du ikke har gemt i denne fil. Hvis du forlader denne side uden at gemme, vil dit arbejde gå permanent tabt."
+   },
+   "unsupported_file_format_error_details_p1": {
+      "message": "Denne fil indeholder desværre indhold fra Microsoft® Office 95 eller ældre, som vi ikke kan åbne."
+   },
+   "unsupported_file_format_error_details_p2": {
+      "message": "Klik på linket nedenfor, hvis du vil konvertere filen til Google Docs."
+   },
+   "unsupported_file_format_error_title": {
+      "message": "Ups!"
+   },
+   "unsupported_link_message": {
+      "message": "Vi understøtter desværre ikke webadresser af denne type på nuværende tidspunkt."
+   },
+   "up_key": {
+      "message": "Op"
+   },
+   "updated_shortcut_message": {
+      "message": "Vi har opdateret vores tastaturgenveje for at ensrette dem i alle Google Docs-produkter. Se de opdaterede genveje i Hjælp."
+   },
+   "updated_shortcut_title": {
+      "message": "Opdaterede tastaturgenveje"
+   },
+   "version_info_msg": {
+      "message": "Din version af Office-kompatibilitetstilstand er"
+   },
+   "word_binary_upsave_learnmore": {
+      "message": "Få flere oplysninger"
+   },
+   "word_binary_upsave_msg": {
+      "message": "Denne fil er i et format, der ikke understøttes. For at gemme den skal du give tilladelse til at konvertere den til et nyere filformat. Der sker ikke noget med din oprindelige fil."
+   },
+   "word_binary_upsave_shortmsg": {
+      "message": "Opdater dit dokument"
+   },
+   "word_count_label": {
+      "message": "Ord"
+   },
+   "word_count_title": {
+      "message": "Antal ord"
+   },
+   "word_ocm_promo_conversion_msg": {
+      "message": "Du kan redigere og gemme Office-filer direkte i Docs. Hvis du vil invitere andre til at redigere eller tilføje kommentarer, skal du gemme som en Google Docs-fil. Du kan altid gemme i det oprindelige format."
+   },
+   "word_share_promo_conversion_msg": {
+      "message": "Forsøger du at dele dette dokument? Konvertér det til Google Docs for at invitere andre til at redigere det sammen med dig."
+   },
+   "wraptext_aria_spoken_word": {
+      "message": "ombryd tekst"
+   },
+   "zoomin_aria_spoken_word": {
+      "message": "zoom ind"
+   },
+   "zoomout_aria_spoken_word": {
+      "message": "zoom ud"
+   }
+}

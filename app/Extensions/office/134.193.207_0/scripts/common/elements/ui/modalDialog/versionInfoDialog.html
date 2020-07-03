@@ -1,0 +1,24 @@
+<link rel="import" href="../../../../third_party/polymer/polymer.html"/>
+<link rel="import" href="./modalDialogStyles.html">
+
+<dom-module id="qowt-version-info-dialog">
+  <template>
+    <style include="modal-dialog-styles"></style>
+    <style>
+      :host {
+        width: 380px;
+        height: 40px;
+      }
+      :host p, ::content > p {
+        font-size: 16px;
+        margin: 16px 0 16px 0;
+        text-align:center;
+      }
+    </style>
+    <qowt-localized>
+      <p>{{getMessage_('version_info_msg')}}</p>
+      <content></content>
+    </qowt-localized>
+    <button id="closeButton" on-click="close" aria-label="{{getMessage_('close_dialog_aria_spoken_word')}}" focus-end></button>
+  </template>
+</dom-module>

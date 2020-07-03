@@ -1,0 +1,222 @@
+@import url("../common.css");
+
+/* Prevent a scrollbar appearing for the full app window.
+   Only the qowt-doc-root div has a scrollbar. */
+body {
+  overflow: hidden;
+  margin: 0px;
+}
+
+#qowt-msdoc {
+  padding-top: 8px;
+}
+
+#qowt-msdoc span[data-mpb] {
+  visibility: hidden;
+  -webkit-user-modify: read-only !important;
+  -webkit-user-select: none !important;
+  color: blue;
+  page-break-after: always;
+}
+
+#qowt-msdoc table {
+  /* fixed layout ensures columns do not grow due to their content */
+  table-layout: fixed;
+  border-collapse: collapse;
+  margin-top: -1px;
+}
+
+#qowt-msdoc td {
+  word-wrap: break-word;
+  vertical-align: top;
+}
+
+/* Have to add some space around images now that they
+   are selectable otherwise you cannot see the cursor
+   when placed between two images. */
+#qowt-msdoc img {
+  margin: 1px;
+}
+
+/* Styles for the Unknown Object error div, overridable by UI layer */
+.qowt-uo {
+  display: inline-block;
+  background-color: #fff;
+  border: 1px solid #000;
+  color: #f00;
+  padding: 5px;
+  -webkit-text-stroke: .05em #000;
+  -webkit-text-stroke-width: 0.05em;
+  -webkit-text-stroke-color: rgb(0, 0, 0);
+  height: 35px;
+  width: 35px;
+}
+
+.qowt-uo-img {
+  background-image: url('../img/document/red_x-10x10.gif');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 10px 10px;
+}
+
+#qowt-msdoc div.qowt-word-chart-holder {
+  border: 1px solid #aaa !important;
+  overflow: hidden;
+}
+
+/* Absolute positioned root container is needed so that the div gets the correct
+   height set, and thus the scrollbar and scrollbar track is correctly
+   proportioned. */
+#qowt-doc-container {
+  overflow: auto;
+  background-color: #eee;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.qowt-editor #qowt-doc-container {
+  /* This MUST be the same as the toolbar height, and changed if that changes.*/
+  top: 97px;
+}
+
+/* Ensure doc content is centred. */
+.qowt-doc-root {
+  overflow: auto;
+  height: 100%;
+  background-color: #eee;
+}
+
+/* Show correct cursor for background */
+.qowt-root {
+  cursor: default;
+}
+
+.qowt-page-container {
+  /* Centre all pages */
+  margin: auto auto 5mm auto;
+  font-family: Calibri, sans-serif;
+  -webkit-user-select: none;
+  background: white;
+  cursor: text !important;
+  box-shadow: 0 0 0 1px #d1d1d1,0 0 4px 1px #ccc;
+}
+
+/* CrBug 297504, 303537
+   Prevent selections showing outside of pages */
+.qowt-page-container::selection {
+  background: transparent;
+}
+
+.qowt-section {
+  -webkit-user-select: text;
+}
+
+#qowt-msdoc .qowt-a-link{
+  background: transparent;
+  color: blue;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+#qowt-msdoc div.qowt-drawing {
+  display: inline-block;
+  position: relative;
+  vertical-align: bottom;
+  text-indent: 0pt;
+  text-align : left;
+}
+
+/**
+ * Contextual paragraph spacing requires that we alter the effective
+ * margins of some paragraphs. This change must not destroy existing
+ * margin information. Therefore, we use css class selector until
+ * custom elements are available.
+ */
+.qowt-nospace-after {
+  margin-bottom: 0 !important;
+}
+
+/**
+ * Contextual paragraph spacing requires that we alter the effective
+ * margins of some paragraphs. This change must not destroy existing
+ * margin information. Therefore, we use css class selector until
+ * custom elements are available.
+ */
+.qowt-nospace-before {
+  margin-top: 0 !important;
+}
+
+
+/* The .shadowText, .outlineText, .embossText, and blink-text styling
+   really should not be in this generic word.css.  Instead these should
+   live inside the run.css so that it is contained inside the run element
+   TODO(jliebrand): Fix this!
+*/
+.shadowText {
+  text-shadow: #000000 0.07em 0.07em 0.07em;
+}
+.outlineText {
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke: .05em #000000;
+  -webkit-text-stroke-width: 0.05em
+  -webkit-text-stroke-color: rgb(0, 0, 0)
+}
+.embossText {
+  color: #ffffff;
+  text-shadow: #000000 1px 1px 2px;
+}
+.engraveText {
+  color: #999999;
+  text-shadow: #000000 -1px -1px 2px;
+}
+
+@-webkit-keyframes qowt-blinkText {
+  from {
+    opacity: 1.0;
+  }
+  to {
+    opacity: 0.0;
+  }
+}
+.blinkText {
+  -webkit-animation-name: qowt-blinkText;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: cubic-bezier(1.0, 0, 0, 1.0);
+  -webkit-animation-duration: 1s;
+}
+
+
+@media print {
+
+  /* Set page margins to 0 */
+  @page {
+    size: auto;
+    margin: 0mm;
+  }
+
+  /* Make everything invisible */
+  body * {
+    visibility: hidden !important;
+  }
+
+  /* Remove dead space made by toolbar */
+  .qowt-main-toolbar {
+    display: none !important;
+  }
+
+  /* Other tweaks to correct sizing, positioning */
+
+  #view-layout {
+    height: auto !important;
+    overflow: initial !important;
+  }
+
+  #qowt-doc-container {
+    position: static !important;
+    overflow: visible !important;
+    background-color: white !important;
+  }
+}

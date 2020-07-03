@@ -1,0 +1,60 @@
+<!-- Must always load the Polymer core first.-->
+<link rel="import" href="../../../../third_party/polymer/polymer.html"/>
+
+<dom-module name="qowt-tool-tip">
+    <template>
+       <style>
+:host:after {
+    content: '';
+    height: 0;
+    position: fixed;
+    width: 0;
+    border: 5px solid transparent;
+    border-bottom-color: black;
+    bottom: 100%;
+    margin-top: -8px;
+    margin-left: -4px;
+    left: var(--left-pos);
+    top: var(--top-pos);
+}
+
+:host:before {
+    content: '';
+    height: 0;
+    position: fixed;
+    width: 0;
+    border: 6px solid transparent;
+    border-bottom-color: white;
+    bottom: 100%;
+    margin-top: -10px;
+    margin-left: -5px;
+    left: var(--left-pos);
+    top: var(--top-pos);
+}
+
+
+
+:host{
+    background-color: black;
+    height: auto;
+    position: absolute;
+    width: auto;
+    z-index: 10000;
+    font-family: arial, sans-serif;
+    font-size: 11px;
+    color: white;
+    padding: 7px;
+    font-weight: bold;
+    visibility: hidden;
+    text-align: center;
+    pointer-events: none;
+    border: 1px solid #fff;
+    max-width: 500px;
+    word-wrap: break-word;
+
+    margin-top: 1px;
+}
+       </style>
+       <shadow></shadow>
+    </template>
+</dom-module>

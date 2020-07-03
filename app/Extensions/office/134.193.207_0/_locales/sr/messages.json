@@ -1,0 +1,2192 @@
+{
+   "action_create_user_feedback": {
+      "message": "Пријави проблем"
+   },
+   "alt_key": {
+      "message": "Alt"
+   },
+   "app_error_learn_more": {
+      "message": "Сазнајте више"
+   },
+   "app_error_report_feedback": {
+      "message": "Пошаљи повратне информације"
+   },
+   "app_icon_aria_spoken_word": {
+      "message": " почетна"
+   },
+   "app_nacl_crash_msg": {
+      "message": "Помозите нам пријављивањем проблема."
+   },
+   "app_nacl_crash_report": {
+      "message": "Пријавите проблем..."
+   },
+   "app_nacl_crash_title": {
+      "message": "Упс. То није требало да се деси – поново учитајте страницу да бисте вратили промене."
+   },
+   "app_nacl_error_load_failed": {
+      "message": "Жао нам је, отварање датотеке није успело. Затворите друге Chrome картице или поново покрените Chrome, па покушајте поново. Ако се проблем и даље јавља, пријавите га у наставку."
+   },
+   "app_nacl_error_title": {
+      "message": "Датотека не може да се отвори."
+   },
+   "app_nacl_error_unsupported_device": {
+      "message": "Овај уређај не подржава додатак за Chrome Измене у Office-у за Документе, Табеле и Презентације."
+   },
+   "app_saving_failed_error_msg": {
+      "message": "Жао нам је, дошло је до проблема при чувању датотеке. Пробајте поново да је сачувате. Ако се проблем и даље јавља, пријавите га."
+   },
+   "app_saving_failed_error_short_msg": {
+      "message": "Датотека не може да се сачува."
+   },
+   "backgroundcolor_aria_spoken_word": {
+      "message": "падајућа листа за боју позадине ћелије"
+   },
+   "bold_aria_spoken_word": {
+      "message": "подебљано"
+   },
+   "border_all_aria_spoken_word": {
+      "message": "све ивице"
+   },
+   "border_aria_spoken_word": {
+      "message": "падајућа листа за ивице"
+   },
+   "border_bottom_aria_spoken_word": {
+      "message": "доња ивица"
+   },
+   "border_horizontal_aria_spoken_word": {
+      "message": "хоризонтална ивица"
+   },
+   "border_inner_aria_spoken_word": {
+      "message": "унутрашња ивица"
+   },
+   "border_left_aria_spoken_word": {
+      "message": "лева ивица"
+   },
+   "border_none_aria_spoken_word": {
+      "message": "без ивица"
+   },
+   "border_outer_aria_spoken_word": {
+      "message": "спољашња ивица"
+   },
+   "border_right_aria_spoken_word": {
+      "message": "десна ивица"
+   },
+   "border_top_aria_spoken_word": {
+      "message": "горња ивица"
+   },
+   "border_vertical_aria_spoken_word": {
+      "message": "вертикална ивица"
+   },
+   "button_ocm_convert_cancel": {
+      "message": "Откажи"
+   },
+   "button_ocm_promo_conversion_point": {
+      "message": "Сачувај као датотеку Google презентација"
+   },
+   "button_ocm_promo_conversion_sheet": {
+      "message": "Сачувај као датотеку Google табела"
+   },
+   "button_ocm_promo_conversion_word": {
+      "message": "Сачувај као датотеку Google докумената"
+   },
+   "button_share_convert_cancel": {
+      "message": "Откажи"
+   },
+   "button_share_promo_conversion_point": {
+      "message": "Сачувај као датотеку Google презентација"
+   },
+   "button_share_promo_conversion_sheet": {
+      "message": "Сачувај као датотеку Google табела"
+   },
+   "button_share_promo_conversion_word": {
+      "message": "Сачувај као датотеку Google докумената"
+   },
+   "cell_align_aria_spoken_word": {
+      "message": "Поравнање ћелије"
+   },
+   "cellalign_aria_spoken_word": {
+      "message": "падајућа листа за поравнање ћелије"
+   },
+   "cellhaligncenter_aria_spoken_word": {
+      "message": "Центар по хоризонтали"
+   },
+   "cellhalignleft_aria_spoken_word": {
+      "message": "Лево по хоризонтали"
+   },
+   "cellhalignright_aria_spoken_word": {
+      "message": "Десно по хоризонтали"
+   },
+   "cellvalignbottom_aria_spoken_word": {
+      "message": "Доле по вертикали"
+   },
+   "cellvaligncenter_aria_spoken_word": {
+      "message": "Центар по вертикали"
+   },
+   "cellvaligntop_aria_spoken_word": {
+      "message": "Горе по вертикали"
+   },
+   "char_count_label": {
+      "message": "Број знакова"
+   },
+   "char_no_spaces_count_label": {
+      "message": "Број знакова без размака"
+   },
+   "close_dialog_aria_spoken_word": {
+      "message": "Затворите дијалог"
+   },
+   "cmd_dropdown_initaddshape_aria_spoken_word": {
+      "message": "падајућа листа за облике"
+   },
+   "collapsed": {
+      "message": "Скупљено je"
+   },
+   "collapsed_menu": {
+      "message": "$1 Скупљено је са подменијем.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "color_black": {
+      "message": "Црна"
+   },
+   "color_blaze_orange": {
+      "message": "Јарконаранџаста"
+   },
+   "color_blue": {
+      "message": "Плава"
+   },
+   "color_brown": {
+      "message": "Браон"
+   },
+   "color_cornflower_blue": {
+      "message": "Бледоплава"
+   },
+   "color_cyan": {
+      "message": "Цијан"
+   },
+   "color_dark_blue": {
+      "message": "Тамноплава"
+   },
+   "color_dark_blue_1": {
+      "message": "Тамноплава 1"
+   },
+   "color_dark_blue_2": {
+      "message": "Тамноплава 2"
+   },
+   "color_dark_blue_3": {
+      "message": "Тамноплава 3"
+   },
+   "color_dark_blue_grey": {
+      "message": "Тамна плавосива"
+   },
+   "color_dark_cornflower_blue_1": {
+      "message": "Тамна плавосива 1"
+   },
+   "color_dark_cornflower_blue_2": {
+      "message": "Тамна плавосива 2"
+   },
+   "color_dark_cornflower_blue_3": {
+      "message": "Тамна плавосива 3"
+   },
+   "color_dark_cyan": {
+      "message": "Тамноцијан"
+   },
+   "color_dark_cyan_1": {
+      "message": "Тамноцијан 1"
+   },
+   "color_dark_cyan_2": {
+      "message": "Тамноцијан 2"
+   },
+   "color_dark_cyan_3": {
+      "message": "Тамноцијан 3"
+   },
+   "color_dark_gray": {
+      "message": "Тамносива"
+   },
+   "color_dark_gray_1": {
+      "message": "Тамносива 1"
+   },
+   "color_dark_gray_2": {
+      "message": "Тамносива 2"
+   },
+   "color_dark_gray_3": {
+      "message": "Тамносива 3"
+   },
+   "color_dark_gray_4": {
+      "message": "Тамносива 4"
+   },
+   "color_dark_green": {
+      "message": "Тамнозелена"
+   },
+   "color_dark_green_1": {
+      "message": "Тамнозелена 1"
+   },
+   "color_dark_green_2": {
+      "message": "Тамнозелена 2"
+   },
+   "color_dark_green_3": {
+      "message": "Тамнозелена 3"
+   },
+   "color_dark_green_5": {
+      "message": "Тамнозелена 5"
+   },
+   "color_dark_grey_2": {
+      "message": "Тамносива 2"
+   },
+   "color_dark_grey_5": {
+      "message": "Тамносива 5"
+   },
+   "color_dark_magenta_1": {
+      "message": "Тамноциклама 1"
+   },
+   "color_dark_magenta_2": {
+      "message": "Тамноциклама 2"
+   },
+   "color_dark_magenta_3": {
+      "message": "Тамноциклама 3"
+   },
+   "color_dark_olive_green": {
+      "message": "Тамна маслинастозелена"
+   },
+   "color_dark_orange_1": {
+      "message": "Тамнонаранџаста 1"
+   },
+   "color_dark_orange_2": {
+      "message": "Тамнонаранџаста 2"
+   },
+   "color_dark_orange_3": {
+      "message": "Тамнонаранџаста 3"
+   },
+   "color_dark_purple_1": {
+      "message": "Тамнољубичаста 1"
+   },
+   "color_dark_purple_2": {
+      "message": "Тамнољубичаста 2"
+   },
+   "color_dark_purple_3": {
+      "message": "Тамнољубичаста 3"
+   },
+   "color_dark_red": {
+      "message": "Тамноцрвена"
+   },
+   "color_dark_red_1": {
+      "message": "Тамноцрвена 1"
+   },
+   "color_dark_red_2": {
+      "message": "Тамноцрвена 2"
+   },
+   "color_dark_red_3": {
+      "message": "Тамноцрвена 3"
+   },
+   "color_dark_red_berry_1": {
+      "message": "Тамнобордо 1"
+   },
+   "color_dark_red_berry_2": {
+      "message": "Тамнобордо 2"
+   },
+   "color_dark_red_berry_3": {
+      "message": "Тамнобордо 3"
+   },
+   "color_dark_slate_blue": {
+      "message": "Сивоплава, тамнија нијанса"
+   },
+   "color_dark_yellow_1": {
+      "message": "Тамножута 1"
+   },
+   "color_dark_yellow_2": {
+      "message": "Тамножута 2"
+   },
+   "color_dark_yellow_3": {
+      "message": "Тамножута 3"
+   },
+   "color_deep_pink": {
+      "message": "Тамноружичаста"
+   },
+   "color_deep_sky_blue": {
+      "message": "Тамна небескоплава"
+   },
+   "color_eucalyptus_green": {
+      "message": "Хладнозелена"
+   },
+   "color_gold": {
+      "message": "Златна"
+   },
+   "color_gray": {
+      "message": "Сива"
+   },
+   "color_green": {
+      "message": "Зелена"
+   },
+   "color_light_blue": {
+      "message": "Светлоплава"
+   },
+   "color_light_blue_1": {
+      "message": "Светлоплава 1"
+   },
+   "color_light_blue_2": {
+      "message": "Светлоплава 2"
+   },
+   "color_light_blue_3": {
+      "message": "Светлоплава 3"
+   },
+   "color_light_cornflower_blue_1": {
+      "message": "Светла бледоплава 1"
+   },
+   "color_light_cornflower_blue_2": {
+      "message": "Светла бледоплава 2"
+   },
+   "color_light_cornflower_blue_3": {
+      "message": "Светла бледоплава 3"
+   },
+   "color_light_cyan": {
+      "message": "Светлоцијан"
+   },
+   "color_light_cyan_1": {
+      "message": "Светлоцијан 1"
+   },
+   "color_light_cyan_2": {
+      "message": "Светлоцијан 2"
+   },
+   "color_light_cyan_3": {
+      "message": "Светлоцијан 3"
+   },
+   "color_light_gray": {
+      "message": "Светлосива"
+   },
+   "color_light_gray_1": {
+      "message": "Светлосива 1"
+   },
+   "color_light_gray_2": {
+      "message": "Светлосива 2"
+   },
+   "color_light_gray_3": {
+      "message": "Светлосива 3"
+   },
+   "color_light_green": {
+      "message": "Светлозелена"
+   },
+   "color_light_green_1": {
+      "message": "Светлозелена 1"
+   },
+   "color_light_green_2": {
+      "message": "Светлозелена 2"
+   },
+   "color_light_green_3": {
+      "message": "Светлозелена 3"
+   },
+   "color_light_magenta_1": {
+      "message": "Светлоциклама 1"
+   },
+   "color_light_magenta_2": {
+      "message": "Светлоциклама 2"
+   },
+   "color_light_magenta_3": {
+      "message": "Светлоциклама 3"
+   },
+   "color_light_orange_1": {
+      "message": "Светлонаранџаста 1"
+   },
+   "color_light_orange_2": {
+      "message": "Светлонаранџаста 2"
+   },
+   "color_light_orange_3": {
+      "message": "Светлонаранџаста 3"
+   },
+   "color_light_purple": {
+      "message": "Светлољубичаста"
+   },
+   "color_light_purple_1": {
+      "message": "Светлољубичаста 1"
+   },
+   "color_light_purple_2": {
+      "message": "Светлољубичаста 2"
+   },
+   "color_light_purple_3": {
+      "message": "Светлољубичаста 3"
+   },
+   "color_light_red_1": {
+      "message": "Светлоцрвена 1"
+   },
+   "color_light_red_2": {
+      "message": "Светлоцрвена 2"
+   },
+   "color_light_red_3": {
+      "message": "Светлоцрвена 3"
+   },
+   "color_light_red_berry_1": {
+      "message": "Светлобордо 1"
+   },
+   "color_light_red_berry_2": {
+      "message": "Светлобордо 2"
+   },
+   "color_light_red_berry_3": {
+      "message": "Светлобордо 3"
+   },
+   "color_light_yellow": {
+      "message": "Светложута"
+   },
+   "color_light_yellow_1": {
+      "message": "Светложута 1"
+   },
+   "color_light_yellow_2": {
+      "message": "Светложута 2"
+   },
+   "color_light_yellow_3": {
+      "message": "Светложута 3"
+   },
+   "color_magenta": {
+      "message": "Циклама"
+   },
+   "color_maroon": {
+      "message": "Црвенкастобраон"
+   },
+   "color_midnight_blue": {
+      "message": "Индигоплава"
+   },
+   "color_navy": {
+      "message": "Тегет"
+   },
+   "color_olive": {
+      "message": "Маслинаста"
+   },
+   "color_orange": {
+      "message": "Наранџаста"
+   },
+   "color_peach": {
+      "message": "Бледонаранџаста"
+   },
+   "color_pink": {
+      "message": "Розе"
+   },
+   "color_pistachio": {
+      "message": "Светлозелена"
+   },
+   "color_purple": {
+      "message": "Љубичаста"
+   },
+   "color_red": {
+      "message": "Црвена"
+   },
+   "color_red_berry": {
+      "message": "Бордо"
+   },
+   "color_royal_blue": {
+      "message": "Краљевско плава"
+   },
+   "color_teal": {
+      "message": "Плавозелена"
+   },
+   "color_turquiose": {
+      "message": "Тиркизна"
+   },
+   "color_white": {
+      "message": "Бела"
+   },
+   "color_yellow": {
+      "message": "Жута"
+   },
+   "command_key": {
+      "message": "Command"
+   },
+   "content_msg_merging_horizontally_across_vertical_section": {
+      "message": "Не можете хоризонтално да обједињујете ставке преко постојећег вертикално обједињеног одељка."
+   },
+   "content_msg_merging_multiple_cells_with_text": {
+      "message": "Обједињавање ћелија ће сачувати само вредност у горњем левом углу. Желите ли ипак да их обједините?"
+   },
+   "content_msg_merging_partially_selected_merged_cells": {
+      "message": "Морате да изаберете све ћелије из обједињеног опсега да бисте их објединили или да бисте опозвали њихово обједињавање."
+   },
+   "content_msg_merging_vertically_across_horizontal_section": {
+      "message": "Не можете вертикално да обједињујете ставке преко постојећег хоризонтално обједињеног одељка."
+   },
+   "content_render_error_msg": {
+      "message": "Дошло је до проблема са садржајем овог документа."
+   },
+   "context_menu_clipboard_copy": {
+      "message": "Копирај"
+   },
+   "context_menu_delete": {
+      "message": "Избриши"
+   },
+   "context_menu_freeze": {
+      "message": "Замрзни"
+   },
+   "context_menu_insert": {
+      "message": "Уметни"
+   },
+   "context_menu_sort_collation_ascending": {
+      "message": "Сортирај a–z"
+   },
+   "context_menu_sort_collation_descending": {
+      "message": "Сортирај z–a"
+   },
+   "context_menu_unfreeze": {
+      "message": "Одмрзни"
+   },
+   "control_key": {
+      "message": "Control"
+   },
+   "convert_attempt_when_offline": {
+      "message": "Потребно је да будете онлајн да бисте чували датотеке као Google документе. Покушајте опет када поново успоставите везу."
+   },
+   "convert_attempt_with_invalid_creds": {
+      "message": "Морате да се пријавите на Google налог да бисте конвертовали ову датотеку."
+   },
+   "convert_cancel": {
+      "message": "Откажи"
+   },
+   "convert_to_google_docs_failed": {
+      "message": "Дошло је до проблема при конвертовању документа у датотеку Google докумената."
+   },
+   "convert_to_google_point_fail_short_msg": {
+      "message": "Упс"
+   },
+   "convert_to_google_point_short_msg": {
+      "message": "Чува се као датотека Google презентација"
+   },
+   "convert_to_google_sheet_fail_short_msg": {
+      "message": "Упс"
+   },
+   "convert_to_google_sheet_short_msg": {
+      "message": "Чува се као датотека Google табела"
+   },
+   "convert_to_google_word_fail_short_msg": {
+      "message": "Упс"
+   },
+   "convert_to_google_word_short_msg": {
+      "message": "Чува се као датотека Google докумената"
+   },
+   "convert_try_again": {
+      "message": "Пробај поново"
+   },
+   "converting_to_google_point_fail_msg": {
+      "message": "Тренутно не можемо да сачувамо датотеку као датотеку Google презентација."
+   },
+   "converting_to_google_point_msg": {
+      "message": "Чува се нова верзија презентације као датотека Google презентација."
+   },
+   "converting_to_google_sheet_fail_msg": {
+      "message": "Тренутно не можемо да сачувамо датотеку као датотеку Google табела."
+   },
+   "converting_to_google_sheet_msg": {
+      "message": "Чува се нова верзија табеле као датотека Google табела."
+   },
+   "converting_to_google_word_fail_msg": {
+      "message": "Тренутно не можемо да сачувамо датотеку као датотеку Google докумената."
+   },
+   "converting_to_google_word_msg": {
+      "message": "Чува се нова верзија документа као датотека Google докумената."
+   },
+   "copy_attempt_when_offline": {
+      "message": "Морате да будете онлајн да бисте направили копију на Google диску. Пробајте поново када поново успоставите везу."
+   },
+   "copy_attempt_with_invalid_creds": {
+      "message": "Морате да се пријавите на Google налог да бисте направили копију."
+   },
+   "disabled_share_button": {
+      "message": "Датотеке са омогућеним макроима можете да делите само са Google диска. Дељење је онемогућено."
+   },
+   "disallowed_cut_copy_paste_cmd_copy": {
+      "message": "за копирање"
+   },
+   "disallowed_cut_copy_paste_cmd_cut": {
+      "message": "за исецање"
+   },
+   "disallowed_cut_copy_paste_cmd_paste": {
+      "message": "за лепљење"
+   },
+   "disallowed_cut_copy_paste_msg": {
+      "message": "Ове радње нису доступне у менију за измене и контекстуалном менију, али и даље можете да користите:"
+   },
+   "disallowed_cut_copy_paste_title": {
+      "message": "Копирање и лепљење у Режиму компатибилности за Office"
+   },
+   "dismiss": {
+      "message": "Одбаци"
+   },
+   "document_title_aria_spoken_word": {
+      "message": "Наслов документа:"
+   },
+   "down_key": {
+      "message": "Надоле"
+   },
+   "download_button": {
+      "message": "Преузми"
+   },
+   "download_file_timeout_error_msg": {
+      "message": "Учитавање датотеке коју отварате траје дуже од очекиваног. Проверите мрежну везу и покушајте поново."
+   },
+   "download_file_timeout_error_short_msg": {
+      "message": "Учитавање датотеке траје дуже од очекиваног"
+   },
+   "drive_open_timeout_error_msg": {
+      "message": "Изгледа да можда постоји проблем са интернет везом. Проверите везу и покушајте поново да отворите датотеку. Ако вам се ова грешка и даље буде приказивала док сте онлајн, пријавите проблем у наставку."
+   },
+   "drive_open_timeout_error_short_msg": {
+      "message": "Упс. Нисмо успели да отворимо датотеку коју сте тражили."
+   },
+   "duplicate_sheet_name_message": {
+      "message": "Унесите назив табеле који се не користи за другу табелу"
+   },
+   "duplicate_sheet_name_title": {
+      "message": "Овај назив табеле се већ користи"
+   },
+   "edits_not_being_saved": {
+      "message": "Измене неће бити аутоматски сачуване."
+   },
+   "edits_now_being_auto_saved": {
+      "message": "Датотека је сачувана. Све измене ће сада бити сачуване аутоматски."
+   },
+   "entry_point_error_msg": {
+      "message": "Пробајте поново или пријавите проблем у наставку."
+   },
+   "entry_point_error_short_msg": {
+      "message": "Упс. Нисмо успели да утврдимо коју датотеку желите да отворите."
+   },
+   "error_occurred": {
+      "message": "Дошло је до грешке."
+   },
+   "error_password_required_msg": {
+      "message": "Данас не подржавамо заштићене датотеке, али радимо на томе."
+   },
+   "error_password_required_short_msg": {
+      "message": "Ова датотека је заштићена лозинком."
+   },
+   "expanded": {
+      "message": "Проширено је"
+   },
+   "expanded_menu": {
+      "message": "$1 Проширено је са подменијем.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "extension_description": {
+      "message": "Прегледајте и измените Microsoft Word, Excel и PowerPoint датотеке помоћу Google докумената, табела и презентација."
+   },
+   "extension_name": {
+      "message": "Office уређивач"
+   },
+   "extension_popup_message_body": {
+      "message": "Да бисте отворили постојеће датотеке, превуците их и отпустите у прегледач"
+   },
+   "extension_popup_new_document_header": {
+      "message": "Ново..."
+   },
+   "extension_popup_new_presentation_document": {
+      "message": "PowerPoint презентација"
+   },
+   "extension_popup_new_spreadsheet_document": {
+      "message": "Excel табела"
+   },
+   "extension_popup_new_word_document": {
+      "message": "Word документ"
+   },
+   "feedback_textbox_editing": {
+      "message": "Омогућите подршку за измену текста унутар оквира за текст."
+   },
+   "feedback_ui_template": {
+      "message": "1– Опишите проблем који имате.\n2– Да ли је до проблема дошло док сте покушавали да отворите датотеку или док сте покушавали да измените датотеку?\n3– Да ли до овог проблема долази сваки пут када покушавате да отворите или измените било које датотеке или само са одређеним датотекама?\n\nАко се овај проблем односи на конкретну датотеку, слободно приложите ту датотеку у овај извештај јер ће нам то много помоћи да детаљније обрадимо проблем."
+   },
+   "file_does_not_exist_error_details": {
+      "message": "Ова датотека не постоји. Вероватно сте покушали да отворите дељени линк или обележени документ. Пробајте поново да отворите датотеку из оригиналног извора."
+   },
+   "file_does_not_exist_error_title": {
+      "message": "Датотека није пронађена."
+   },
+   "file_loading_spinner_label": {
+      "message": "Учитавање"
+   },
+   "file_missing_content_msg": {
+      "message": "Дошло је до проблема при читању целокупног садржаја ове датотеке. Препоручујемо вам да преименујете и поново отворите датотеку"
+   },
+   "file_missing_content_short_msg": {
+      "message": "Документу недостаје садржај."
+   },
+   "file_not_found_error_msg": {
+      "message": "Проверите са власником датотеке да бисте се уверили да имате дозволу за приступ. Ако вам се ова грешка и даље приказује а имате дозволу, пријавите проблем у наставку."
+   },
+   "file_not_found_error_short_msg": {
+      "message": "Упс. Нисмо успели да отворимо датотеку коју сте тражили."
+   },
+   "file_not_found_exception": {
+      "message": "Тражена датотека је можда избрисана, преименована или премештена на другу локацију. Кликните на „Сачувај“ да бисте наставили."
+   },
+   "file_not_found_link_text": {
+      "message": "За помоћ при коришћењу више налога погледајте овај чланак"
+   },
+   "file_not_found_msg": {
+      "message": "Датотека коју сте захтевали је премештена."
+   },
+   "file_not_found_title": {
+      "message": "Датотека није пронађена."
+   },
+   "file_open_crash_error_msg": {
+      "message": "Ако грешка настави да се јавља, пријавите проблем у наставку."
+   },
+   "file_open_crash_error_short_msg": {
+      "message": "Упс. Нисмо успели да отворимо датотеку коју сте тражили."
+   },
+   "file_open_error_msg": {
+      "message": "Није могуће приступити садржају ове датотеке."
+   },
+   "file_open_error_short_msg": {
+      "message": "Изгледа да је ова датотека оштећена."
+   },
+   "file_open_fail_download_link_text": {
+      "message": "Преузми датотеку"
+   },
+   "file_opened_in_incognito_mode_error_details": {
+      "message": "Додатак Измена Office датотека не функционише у режиму без архивирања. Отворите ову датотеку у обичном Chrome прозору. Ако користите режим госта, отварање датотеке није успело. Проверите да ли је датотека оштећена или да ли је тип документа важећи, па пробајте поново."
+   },
+   "file_opened_in_incognito_mode_error_title": {
+      "message": "Упс! Режим без архивирања није подржан"
+   },
+   "file_pdf_type_rename_msg": {
+      "message": "Преименујте датотеку у $1.pdf и покушајте поново.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_rtf_type_rename_msg": {
+      "message": "Преименујте датотеку у $1.rtf",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_type_unsupported_msg": {
+      "message": "Овај тип датотеке није подржан."
+   },
+   "fillcolor_aria_spoken_word": {
+      "message": "падајућа листа за боју текста"
+   },
+   "fontface_aria_spoken_word": {
+      "message": "падајућа листа за врсту фонта"
+   },
+   "fontsize_aria_spoken_word": {
+      "message": "падајућа листа за величину фонта"
+   },
+   "forbidden_access_level_error_msg": {
+      "message": "Проверите са власником датотеке да бисте се уверили да имате дозволу за отварање ове датотеке. Ако вам се ова грешка и даље приказује а имате дозволу, пријавите проблем у наставку."
+   },
+   "forbidden_access_level_error_short_msg": {
+      "message": "Упс. Нисмо успели да отворимо датотеку коју сте тражили."
+   },
+   "forbidden_app_access_error_msg": {
+      "message": "Из неког разлога, немамо дозволу за отварање ове датотеке. Покушајте да отворите датотеку са Google диска или пријавите проблем у наставку."
+   },
+   "forbidden_app_access_error_short_msg": {
+      "message": "Упс. Нисмо успели да отворимо датотеку коју сте тражили."
+   },
+   "forbidden_app_id_error_msg": {
+      "message": "Изгледа да додатак за Chrome није правилно конфигурисан. Како је то могуће? Нисмо у потпуности сигурни, али пријавите проблем у наставку."
+   },
+   "forbidden_app_id_error_short_msg": {
+      "message": "Упс. Нисмо успели да отворимо датотеку коју сте тражили."
+   },
+   "forbidden_blacklist_error_msg": {
+      "message": "Изгледа да је овај додатак за Chrome стављен на црну листу. То је очигледно грешка, па нас обавестите о томе тако што ћете пријавити проблем у наставку."
+   },
+   "forbidden_blacklist_error_short_msg": {
+      "message": "Упс. Нисмо успели да отворимо датотеку коју сте тражили."
+   },
+   "forbidden_domain_error_msg": {
+      "message": "Изгледа да је домен забранио приступ овој датотеци. Контактирајте администратора домена или пријавите проблем у наставку."
+   },
+   "forbidden_domain_error_short_msg": {
+      "message": "Упс. Нисмо успели да отворимо датотеку коју сте тражили."
+   },
+   "forbidden_internal_error_msg": {
+      "message": "Нажалост, Google диск не ради као што је очекивано. Пробајте поново да отворите датотеку или пријавите проблем у наставку."
+   },
+   "forbidden_internal_error_short_msg": {
+      "message": "Упс. Нисмо успели да отворимо датотеку коју сте тражили."
+   },
+   "forbidden_not_installed_error_msg": {
+      "message": "Изгледа да додатак за Chrome није правилно инсталиран. Како је то могуће? Нисмо у потпуности сигурни, али пријавите проблем у наставку."
+   },
+   "forbidden_not_installed_error_short_msg": {
+      "message": "Упс. Нисмо успели да отворимо датотеку коју сте тражили."
+   },
+   "generic_error_msg": {
+      "message": "Дошло је до проблема са садржајем овог документа."
+   },
+   "generic_error_short_msg": {
+      "message": "Упс. То није требало да се деси – поново учитајте страницу да бисте вратили промене."
+   },
+   "get_lists_data_error_msg": {
+      "message": "Документ може да се прикаже са нетачним форматирањем листе."
+   },
+   "get_lists_data_error_short_msg": {
+      "message": "Није могуће преузети форматирање документа."
+   },
+   "highlightcolor_aria_spoken_word": {
+      "message": "падајућа листа за боју истицања текста"
+   },
+   "http_error_zero_msg": {
+      "message": "У случају да постоји проблем са мрежом, проверите везу или покушајте поново касније. Ако се проблем настави, пријавите га у наставку."
+   },
+   "http_error_zero_short_msg": {
+      "message": "Жао нам је, нисмо успели да отворимо датотеку."
+   },
+   "info_file_copied": {
+      "message": "Сачувано"
+   },
+   "info_file_save_cancelled": {
+      "message": "Чување је отказано."
+   },
+   "info_file_save_failed": {
+      "message": "Чување није успело."
+   },
+   "info_file_saved_at_location": {
+      "message": "Све промене су сачуване у $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "info_file_saved_in_drive": {
+      "message": "Све промене су сачуване на Диску"
+   },
+   "info_file_saved_locally": {
+      "message": "Све промене су сачуване локално"
+   },
+   "info_file_saved_offline": {
+      "message": "Све промене су сачуване офлајн"
+   },
+   "info_file_saving": {
+      "message": "Чување..."
+   },
+   "initaddshape_aria_spoken_word": {
+      "message": "додај оквир за текст"
+   },
+   "invalid_credentials_error_msg": {
+      "message": "Треба да се пријавите на Google налог да бисте приступили овој датотеци."
+   },
+   "invalid_credentials_error_short_msg": {
+      "message": "Упс. Нисмо успели да отворимо датотеку коју сте тражили."
+   },
+   "invalid_file_format_msg": {
+      "message": "Иако датотека изгледа као Office документ и има ознаку типа Office датотеке, то је заправо другачији тип датотеке која је преименована или промењена на неки начин или је у питању тип датотеке који не подржавамо."
+   },
+   "invalid_file_format_short_msg": {
+      "message": "Упс, изгледа да не можемо да отворимо овај тип документа."
+   },
+   "italic_aria_spoken_word": {
+      "message": "курзив"
+   },
+   "keyboard_shortcut_group_actions": {
+      "message": "Радње"
+   },
+   "keyboard_shortcut_group_other": {
+      "message": "Друго"
+   },
+   "keyboard_shortcut_group_paragraph_formatting": {
+      "message": "Форматирање пасуса"
+   },
+   "keyboard_shortcut_group_text_formatting": {
+      "message": "Форматирање текста"
+   },
+   "keyboard_shortcut_group_top_menus": {
+      "message": "Менији"
+   },
+   "keyboard_shortcut_group_with_slides": {
+      "message": "Са презентацијама"
+   },
+   "keyboard_shortcut_title": {
+      "message": "Тастерске пречице"
+   },
+   "make_a_copy_fail_msg": {
+      "message": "Тренутно не можемо да направимо копију."
+   },
+   "menu_button_data": {
+      "message": "Подаци"
+   },
+   "menu_button_edit": {
+      "message": "Измени"
+   },
+   "menu_button_file": {
+      "message": "Датотека"
+   },
+   "menu_button_format": {
+      "message": "Формат"
+   },
+   "menu_button_help": {
+      "message": "Помоћ"
+   },
+   "menu_button_insert": {
+      "message": "Уметни"
+   },
+   "menu_button_slide": {
+      "message": "Слајд"
+   },
+   "menu_button_tools": {
+      "message": "Алатке"
+   },
+   "menu_button_view": {
+      "message": "Прикажи"
+   },
+   "menu_item_10_point_star": {
+      "message": "Десетокрака звезда"
+   },
+   "menu_item_12_point_star": {
+      "message": "Дванаестокрака звезда"
+   },
+   "menu_item_16_point_star": {
+      "message": "Шеснаестокрака звезда"
+   },
+   "menu_item_24_point_star": {
+      "message": "Двадесетчетворокрака звезда"
+   },
+   "menu_item_32_point_star": {
+      "message": "Тридесетдвокрака звезда"
+   },
+   "menu_item_4_point_star": {
+      "message": "Четворокрака звезда"
+   },
+   "menu_item_5_point_star": {
+      "message": "Петокрака звезда"
+   },
+   "menu_item_6_point_star": {
+      "message": "Шестокрака звезда"
+   },
+   "menu_item_7_point_star": {
+      "message": "Седмокрака звезда"
+   },
+   "menu_item_8_point_star": {
+      "message": "Осмокрака звезда"
+   },
+   "menu_item_align": {
+      "message": "Поравнај"
+   },
+   "menu_item_align_center": {
+      "message": "Центрирај"
+   },
+   "menu_item_align_justified": {
+      "message": "Обострано поравнато"
+   },
+   "menu_item_align_left": {
+      "message": "Лево"
+   },
+   "menu_item_align_right": {
+      "message": "Десно"
+   },
+   "menu_item_arrows": {
+      "message": "Стрелице"
+   },
+   "menu_item_bent_arrow": {
+      "message": "Савијена стрелица"
+   },
+   "menu_item_bent_up_arrow": {
+      "message": "Стрелица савијена нагоре"
+   },
+   "menu_item_bevel": {
+      "message": "Коса ивица"
+   },
+   "menu_item_block_arc": {
+      "message": "Лучни одсечак"
+   },
+   "menu_item_bold": {
+      "message": "Подебљано"
+   },
+   "menu_item_callouts": {
+      "message": "Облачићи"
+   },
+   "menu_item_can": {
+      "message": "Конзерва"
+   },
+   "menu_item_chevron": {
+      "message": "Шеврон"
+   },
+   "menu_item_chord": {
+      "message": "Одсечак"
+   },
+   "menu_item_clear_formatting": {
+      "message": "Обриши форматирање"
+   },
+   "menu_item_cloud": {
+      "message": "Облак"
+   },
+   "menu_item_cloud_callout": {
+      "message": "Облачић"
+   },
+   "menu_item_color_none": {
+      "message": "Ништа"
+   },
+   "menu_item_color_transparent": {
+      "message": "Прозирно"
+   },
+   "menu_item_convert_to_docs": {
+      "message": "Сачувај као датотеку Google докумената"
+   },
+   "menu_item_convert_to_sheets": {
+      "message": "Сачувај као датотеку Google табела"
+   },
+   "menu_item_convert_to_slides": {
+      "message": "Сачувај као датотеку Google презентација"
+   },
+   "menu_item_copy": {
+      "message": "Копирај"
+   },
+   "menu_item_cross": {
+      "message": "Крст"
+   },
+   "menu_item_cube": {
+      "message": "Коцка"
+   },
+   "menu_item_curved_down_arrow": {
+      "message": "Стрелица закривљена надоле"
+   },
+   "menu_item_curved_left_arrow": {
+      "message": "Стрелица закривљена улево"
+   },
+   "menu_item_curved_right_arrow": {
+      "message": "Стрелица закривљена удесно"
+   },
+   "menu_item_curved_up_arrow": {
+      "message": "Стрелица закривљена нагоре"
+   },
+   "menu_item_cut": {
+      "message": "Исеци"
+   },
+   "menu_item_decagon": {
+      "message": "Десетоугао"
+   },
+   "menu_item_delete_column": {
+      "message": "Избриши колону"
+   },
+   "menu_item_delete_row": {
+      "message": "Избриши ред"
+   },
+   "menu_item_delete_value": {
+      "message": "Избриши вредност"
+   },
+   "menu_item_deleteslide": {
+      "message": "Избриши слајд"
+   },
+   "menu_item_diagonal_stripe": {
+      "message": "Дијагонална пруга"
+   },
+   "menu_item_diamond": {
+      "message": "Дијамант"
+   },
+   "menu_item_divide": {
+      "message": "Дељење"
+   },
+   "menu_item_dodecagon": {
+      "message": "Дванаестоугао"
+   },
+   "menu_item_donut": {
+      "message": "Крофна"
+   },
+   "menu_item_double_brace": {
+      "message": "Двострука витичаста заграда"
+   },
+   "menu_item_double_bracket": {
+      "message": "Двострука велика заграда"
+   },
+   "menu_item_down_arrow": {
+      "message": "Стрелица надоле"
+   },
+   "menu_item_down_arrow_callout": {
+      "message": "Облачић са стрелицом надоле"
+   },
+   "menu_item_duplicateslide": {
+      "message": "Направи дупликат слајда"
+   },
+   "menu_item_equal": {
+      "message": "Једнако"
+   },
+   "menu_item_equation": {
+      "message": "Једначина"
+   },
+   "menu_item_explosion_1": {
+      "message": "Експлозија 1"
+   },
+   "menu_item_explosion_2": {
+      "message": "Експлозија 2"
+   },
+   "menu_item_flowchart_alternate_process": {
+      "message": "Графикон тока: алтернативни процес"
+   },
+   "menu_item_flowchart_card": {
+      "message": "Графикон тока: картица"
+   },
+   "menu_item_flowchart_collate": {
+      "message": "Графикон тока: упаривање"
+   },
+   "menu_item_flowchart_connector": {
+      "message": "Графикон тока: повезивач"
+   },
+   "menu_item_flowchart_data": {
+      "message": "Графикон тока: подаци"
+   },
+   "menu_item_flowchart_decision": {
+      "message": "Графикон тока: одлука"
+   },
+   "menu_item_flowchart_delay": {
+      "message": "Графикон тока: застој"
+   },
+   "menu_item_flowchart_direct_access_storage": {
+      "message": "Графикон тока: меморија са директним приступом"
+   },
+   "menu_item_flowchart_display": {
+      "message": "Графикон тока: приказ"
+   },
+   "menu_item_flowchart_document": {
+      "message": "Графикон тока: документ"
+   },
+   "menu_item_flowchart_extract": {
+      "message": "Графикон тока: извлачење"
+   },
+   "menu_item_flowchart_internal_storage": {
+      "message": "Графикон тока: интерна меморија"
+   },
+   "menu_item_flowchart_magnetic_disk": {
+      "message": "Графикон тока: магнетни диск"
+   },
+   "menu_item_flowchart_manual_input": {
+      "message": "Графикон тока: ручни унос"
+   },
+   "menu_item_flowchart_manual_operation": {
+      "message": "Графикон тока: ручна операција"
+   },
+   "menu_item_flowchart_merge": {
+      "message": "Графикон тока: спајање"
+   },
+   "menu_item_flowchart_multidocument": {
+      "message": "Графикон тока: вишеструки документ"
+   },
+   "menu_item_flowchart_off_page_connector": {
+      "message": "Графикон тока: повезивач ван странице"
+   },
+   "menu_item_flowchart_or": {
+      "message": "Графикон тока: или"
+   },
+   "menu_item_flowchart_predefined_process": {
+      "message": "Графикон тока: унапред одређен процес"
+   },
+   "menu_item_flowchart_preparation": {
+      "message": "Графикон тока: припрема"
+   },
+   "menu_item_flowchart_process": {
+      "message": "Графикон тока: процес"
+   },
+   "menu_item_flowchart_punched_tape": {
+      "message": "Графикон тока: бушена трака"
+   },
+   "menu_item_flowchart_sequential_access_storage": {
+      "message": "Графикон тока: меморија са секвенцијалним приступом"
+   },
+   "menu_item_flowchart_sort": {
+      "message": "Графикон тока: сортирање"
+   },
+   "menu_item_flowchart_stored_data": {
+      "message": "Графикон тока: сачувани подаци"
+   },
+   "menu_item_flowchart_summing_junction": {
+      "message": "Графикон тока: сабирна спојница"
+   },
+   "menu_item_flowchart_terminator": {
+      "message": "Графикон тока: завршетак"
+   },
+   "menu_item_folded_corner": {
+      "message": "Преклопљени угао"
+   },
+   "menu_item_frame": {
+      "message": "Оквир"
+   },
+   "menu_item_half_frame": {
+      "message": "Пола оквира"
+   },
+   "menu_item_heart": {
+      "message": "Срце"
+   },
+   "menu_item_help_center": {
+      "message": "Центар за помоћ"
+   },
+   "menu_item_heptagon": {
+      "message": "Седмоугао"
+   },
+   "menu_item_hexagon": {
+      "message": "Шестоугао"
+   },
+   "menu_item_hideslide": {
+      "message": "Сакриј слајд"
+   },
+   "menu_item_insert_column": {
+      "message": "Колона"
+   },
+   "menu_item_insert_image": {
+      "message": "Слика"
+   },
+   "menu_item_insert_row": {
+      "message": "Ред"
+   },
+   "menu_item_insert_text_box": {
+      "message": "Оквир за текст"
+   },
+   "menu_item_insertslide": {
+      "message": "Нови слајд"
+   },
+   "menu_item_italic": {
+      "message": "Курзив"
+   },
+   "menu_item_keyboard_shortcuts": {
+      "message": "Тастерске пречице"
+   },
+   "menu_item_l_shape": {
+      "message": "Облик слова L"
+   },
+   "menu_item_left_arrow": {
+      "message": "Стрелица улево"
+   },
+   "menu_item_left_arrow_callout": {
+      "message": "Облачић са стрелицом улево"
+   },
+   "menu_item_left_brace": {
+      "message": "Лева витичаста заграда"
+   },
+   "menu_item_left_bracket": {
+      "message": "Лева велика заграда"
+   },
+   "menu_item_left_right_arrow": {
+      "message": "Стрелица лево-десно"
+   },
+   "menu_item_left_right_arrow_callout": {
+      "message": "Облачић са стрелицом лево-десно"
+   },
+   "menu_item_left_right_up_arrow": {
+      "message": "Стрелица лево-десно-горе"
+   },
+   "menu_item_left_up_arrow": {
+      "message": "Стрелица лево-горе"
+   },
+   "menu_item_lightning_bolt": {
+      "message": "Муња"
+   },
+   "menu_item_make_a_copy": {
+      "message": "Направи копију…"
+   },
+   "menu_item_merge_all": {
+      "message": "Обједини све"
+   },
+   "menu_item_merge_cells": {
+      "message": "Обједини ћелије"
+   },
+   "menu_item_merge_horizontally": {
+      "message": "Обједини хоризонтално"
+   },
+   "menu_item_merge_vertically": {
+      "message": "Обједини вертикално"
+   },
+   "menu_item_minus": {
+      "message": "Одузимање"
+   },
+   "menu_item_moon": {
+      "message": "Месец"
+   },
+   "menu_item_moveslidedown": {
+      "message": "Помери презентацију надоле"
+   },
+   "menu_item_moveslidetoend": {
+      "message": "Помери презентацију на крај"
+   },
+   "menu_item_moveslidetostart": {
+      "message": "Помери презентацију на почетак"
+   },
+   "menu_item_moveslideup": {
+      "message": "Помери презентацију нагоре"
+   },
+   "menu_item_multiply": {
+      "message": "Множење"
+   },
+   "menu_item_new": {
+      "message": "Ново"
+   },
+   "menu_item_no_symbol": {
+      "message": "Симбол „Забрањено“"
+   },
+   "menu_item_not_equal": {
+      "message": "Није једнако"
+   },
+   "menu_item_notched_right_arrow": {
+      "message": "Урезана стрелица удесно"
+   },
+   "menu_item_number_format": {
+      "message": "Формат бројева"
+   },
+   "menu_item_number_menu": {
+      "message": "Број"
+   },
+   "menu_item_numbering": {
+      "message": "$1 од $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "menu_item_octagon": {
+      "message": "Осмоугао"
+   },
+   "menu_item_open": {
+      "message": "Отвори"
+   },
+   "menu_item_oval": {
+      "message": "Елипса"
+   },
+   "menu_item_oval_callout": {
+      "message": "Овални облачић"
+   },
+   "menu_item_parallelogram": {
+      "message": "Паралелограм"
+   },
+   "menu_item_paste": {
+      "message": "Налепи"
+   },
+   "menu_item_pentagon": {
+      "message": "Петоугао"
+   },
+   "menu_item_pie": {
+      "message": "Кружни графикон"
+   },
+   "menu_item_plaque": {
+      "message": "Плоча"
+   },
+   "menu_item_plus": {
+      "message": "Сабирање"
+   },
+   "menu_item_present": {
+      "message": "Присутно"
+   },
+   "menu_item_print": {
+      "message": "Штампај"
+   },
+   "menu_item_quad_arrow": {
+      "message": "Стрелица у четири смера"
+   },
+   "menu_item_quad_arrow_callout": {
+      "message": "Облачић са стрелицом у четири смера"
+   },
+   "menu_item_rectangle": {
+      "message": "Правоугаоник"
+   },
+   "menu_item_rectangular_callout": {
+      "message": "Правоугаони облачић"
+   },
+   "menu_item_redo": {
+      "message": "Понови"
+   },
+   "menu_item_regular_pentagon": {
+      "message": "Правилни петоугао"
+   },
+   "menu_item_report_abuse": {
+      "message": "Пријави злоупотребу"
+   },
+   "menu_item_report_issue": {
+      "message": "Пријави проблем"
+   },
+   "menu_item_right_arrow": {
+      "message": "Стрелица удесно"
+   },
+   "menu_item_right_arrow_callout": {
+      "message": "Облачић са стрелицом удесно"
+   },
+   "menu_item_right_brace": {
+      "message": "Десна витичаста заграда"
+   },
+   "menu_item_right_bracket": {
+      "message": "Десна велика заграда"
+   },
+   "menu_item_right_triangle": {
+      "message": "Правоугаони троугао"
+   },
+   "menu_item_round_diagonal_corner_rectangle": {
+      "message": "Правоугаоник са заобљеним дијагоналним угловима"
+   },
+   "menu_item_round_same_side_corner_rectangle": {
+      "message": "Правоугаоник са заобљеним угловима на истој страни"
+   },
+   "menu_item_round_single_corner_rectangle": {
+      "message": "Правоугаоник са једним заобљеним углом"
+   },
+   "menu_item_rounded_rectangle": {
+      "message": "Заобљени правоугаоник"
+   },
+   "menu_item_rounded_rectangular_callout": {
+      "message": "Правоугаони облачић са заобљеним угловима"
+   },
+   "menu_item_save": {
+      "message": "Сачувај"
+   },
+   "menu_item_save_as": {
+      "message": "Сачувај као..."
+   },
+   "menu_item_shapes": {
+      "message": "Облици"
+   },
+   "menu_item_share": {
+      "message": "Дели"
+   },
+   "menu_item_smiley_face": {
+      "message": "Смајли"
+   },
+   "menu_item_snip_and_round_single_corner_rectangle": {
+      "message": "Правоугаоник са једним одсеченим и заобљеним углом"
+   },
+   "menu_item_snip_diagonal_corner_rectangle": {
+      "message": "Правоугаоник са одсеченим дијагоналним углом"
+   },
+   "menu_item_snip_same_side_corner_rectangle": {
+      "message": "Правоугаоник са одсеченим угловима на истој страни"
+   },
+   "menu_item_snip_single_corner_rectangle": {
+      "message": "Правоугаоник са једним одсеченим углом"
+   },
+   "menu_item_strikethrough": {
+      "message": "Прецртано"
+   },
+   "menu_item_striped_right_arrow": {
+      "message": "Тракаста стрелица удесно"
+   },
+   "menu_item_subscript": {
+      "message": "Индексни текст"
+   },
+   "menu_item_sun": {
+      "message": "Сунце"
+   },
+   "menu_item_superscript": {
+      "message": "Експонентни текст"
+   },
+   "menu_item_teardrop": {
+      "message": "Суза"
+   },
+   "menu_item_trapezoid": {
+      "message": "Трапезоид"
+   },
+   "menu_item_triangle": {
+      "message": "Троугао"
+   },
+   "menu_item_u_turn_arrow": {
+      "message": "Стрелица полукружног облика"
+   },
+   "menu_item_underline": {
+      "message": "Подвучено"
+   },
+   "menu_item_undo": {
+      "message": "Опозови"
+   },
+   "menu_item_unhideslide": {
+      "message": "Не скривај слајд"
+   },
+   "menu_item_unmerge": {
+      "message": "Опозови обједињавање"
+   },
+   "menu_item_up_arrow": {
+      "message": "Стрелица нагоре"
+   },
+   "menu_item_up_arrow_callout": {
+      "message": "Облачић са стрелицом нагоре"
+   },
+   "menu_item_up_down_arrow": {
+      "message": "Стрелица горе-доле"
+   },
+   "menu_item_version_info": {
+      "message": "Информације о верзији"
+   },
+   "menu_item_word_count": {
+      "message": "Број речи"
+   },
+   "menu_item_wrap_text": {
+      "message": "Преломи текст"
+   },
+   "menu_item_zoom_in": {
+      "message": "Увећај"
+   },
+   "menu_item_zoom_out": {
+      "message": "Умањи"
+   },
+   "merge_all_aria_spoken_word": {
+      "message": "обједини све"
+   },
+   "merge_aria_spoken_word": {
+      "message": "обједини"
+   },
+   "merge_dropdown_aria_spoken_word": {
+      "message": "падајући мени за обједињавање"
+   },
+   "merge_horizontally_aria_spoken_word": {
+      "message": "обједини хоризонтално"
+   },
+   "merge_vertically_aria_spoken_word": {
+      "message": "обједини вертикално"
+   },
+   "modify_shape_transform_error_msg": {
+      "message": "Дошло је до грешке при измени трансформација облика"
+   },
+   "modify_shape_transform_error_short_msg": {
+      "message": "Дошло је до грешке при измени трансформација облика."
+   },
+   "modifyshapefillcolor_aria_spoken_word": {
+      "message": "падајућа листа за боју за попуњавање облика"
+   },
+   "modifyshapeoutlinecolor_aria_spoken_word": {
+      "message": "падајућа листа за боју контуре облика"
+   },
+   "modifyshapeoutlinestyle_aria_spoken_word": {
+      "message": "падајућа листа за стил контуре облика"
+   },
+   "modifyshapeoutlinewidth_aria_spoken_word": {
+      "message": "падајућа листа за ширину контуре облика"
+   },
+   "nacl_load_error_details": {
+      "message": "Пробајте поново да инсталирате додатак."
+   },
+   "nacl_load_error_title": {
+      "message": "Дошло је до проблема при учитавању апликације."
+   },
+   "non_permissible_sheet_name_details": {
+      "message": "Следећи знакови нису дозвољени * ? [ ] ' ; : Дужина назива табеле не сме да премашује 31 знак Назив табеле не сме да буде празан"
+   },
+   "non_permissible_sheet_name_title": {
+      "message": "Унели сте неважећи назив при преименовању табеле"
+   },
+   "not_pressed": {
+      "message": "Није притиснуто"
+   },
+   "notselected": {
+      "message": "Није изабрано"
+   },
+   "number_format_label_currency_symbol": {
+      "message": "Симбол валуте"
+   },
+   "number_format_label_date_type": {
+      "message": "Тип"
+   },
+   "number_format_label_decimal_places": {
+      "message": "Децимале"
+   },
+   "number_format_label_general": {
+      "message": "Општи"
+   },
+   "number_format_label_negative_numbers": {
+      "message": "Негативни бројеви"
+   },
+   "number_format_label_other": {
+      "message": "Друго"
+   },
+   "number_format_label_red": {
+      "message": "Црвено"
+   },
+   "number_format_label_text": {
+      "message": "Текст"
+   },
+   "number_format_label_use_1000_separator": {
+      "message": "Користи знак за раздвајање хиљада"
+   },
+   "number_format_tab_accounting": {
+      "message": "Рачуноводство"
+   },
+   "number_format_tab_currency": {
+      "message": "Валута"
+   },
+   "number_format_tab_date_time": {
+      "message": "Датум и време"
+   },
+   "number_format_tab_general": {
+      "message": "Опште"
+   },
+   "number_format_tab_number": {
+      "message": "Број"
+   },
+   "number_format_tab_percentage": {
+      "message": "Проценат"
+   },
+   "number_format_tab_scientific": {
+      "message": "Научно"
+   },
+   "number_format_title": {
+      "message": "Формати бројева"
+   },
+   "ocm_promo_conversion_shortmsg": {
+      "message": "Налазите се у Режиму компатибилности са Office-ом"
+   },
+   "office_compatibility_mode": {
+      "message": "Режим компатибилности за Office"
+   },
+   "office_first_time_confirm": {
+      "message": "Важи"
+   },
+   "office_first_time_message_p1": {
+      "message": "Сада можете да мењате Word, Excel и Powerpoint датотеке са хард-диска, Google диска, из Gmail-а и других производа помоћу Докумената, Табела и Презентација."
+   },
+   "office_first_time_message_p2": {
+      "message": "Све измене се аутоматски чувају, а увек можете да сачувате и у оригиналном формату."
+   },
+   "office_first_time_title": {
+      "message": "Мењање Office датотека за Документе, Табеле и Презентације"
+   },
+   "offline_error_msg": {
+      "message": "Изгледа да сте офлајн. Проверите интернет везу и покушајте поново. Ако вам се ова грешка и даље буде приказивала док сте онлајн, пријавите проблем у наставку."
+   },
+   "offline_error_short_msg": {
+      "message": "Упс. Нисмо успели да отворимо датотеку коју сте тражили."
+   },
+   "option_key": {
+      "message": "Опција"
+   },
+   "out_of_memory_error_msg": {
+      "message": "Покушајте да затворите ову картицу и да поново отворите датотеку или да затворите друге картице које сте можда отворили у прегледачу. Ако се овај проблем и даље јавља, пријавите га у наставку."
+   },
+   "out_of_memory_error_short_msg": {
+      "message": "Упс. Понестало нам је меморије."
+   },
+   "page_count_label": {
+      "message": "Број страница"
+   },
+   "partial_cell_merge_error_msg": {
+      "message": "Не можете да промените део обједињене ћелије."
+   },
+   "partial_cell_merge_error_short_msg": {
+      "message": "Грешка"
+   },
+   "point_ocm_promo_conversion_msg": {
+      "message": "Можете да мењате и чувате Office датотеке директно у Презентацијама. Да бисте позвали друге да уносе измене или додају коментаре, сачувајте као датотеку Google презентација. Можете поново да сачувате у оригиналном формату у било ком тренутку."
+   },
+   "point_printing_warning_msg": {
+      "message": "Радимо на решавању овог проблема."
+   },
+   "point_printing_warning_short_msg": {
+      "message": "Тренутно можете да штампате само слајд који прегледате."
+   },
+   "point_share_promo_conversion_msg": {
+      "message": "Покушавате да делите ову презентацију? Да бисте позвали друге да је мењају са вама, конвертујте је у датотеку Google презентација."
+   },
+   "pointtogglebullet_aria_spoken_word": {
+      "message": "листа за набрајање"
+   },
+   "pointtogglenumber_aria_spoken_word": {
+      "message": "листа са бројевима"
+   },
+   "present_button": {
+      "message": "Покрени презентацију"
+   },
+   "pressed": {
+      "message": "Притиснуто је"
+   },
+   "print_aria_spoken_word": {
+      "message": "штампај"
+   },
+   "qowt_doc_mismatch_text": {
+      "message": "Документ је наишао на грешку при форматирању.\n\nПоново учитајте страницу да бисте вратили промене."
+   },
+   "qowt_doc_mismatch_title": {
+      "message": "Упс!"
+   },
+   "qowt_hyperlink_activate_short_key": {
+      "message": "Притисните ALT + Enter да бисте активирали линк."
+   },
+   "qowt_hyperlink_dialog": {
+      "message": "Хиперлинк"
+   },
+   "qowt_hyperlink_dialog_message_text": {
+      "message": "Идите на линк:"
+   },
+   "qowt_modal_confirm_dialog_affirmative_button": {
+      "message": "Потврди"
+   },
+   "qowt_modal_confirm_dialog_negative_button": {
+      "message": "Откажи"
+   },
+   "qowt_modal_dialog_close_button": {
+      "message": "Затвори"
+   },
+   "qowt_modal_dialog_coming_soon_title": {
+      "message": "Ускоро!"
+   },
+   "qowt_modal_dialog_link_text": {
+      "message": "Сазнајте више"
+   },
+   "qowt_modal_dialog_ok_button": {
+      "message": "Потврди"
+   },
+   "qowt_modal_dialog_reload_button": {
+      "message": "Учитај поново"
+   },
+   "qowt_modal_dialog_textbox_editing_description": {
+      "message": "Жао нам је, не подржавамо измену текста унутар оквира за текст."
+   },
+   "qowt_modal_dialog_textbox_editing_link": {
+      "message": "Исправите ово!"
+   },
+   "qowt_modal_info_dialog_affirmative_button": {
+      "message": "Потврди"
+   },
+   "qowt_modal_multi_choice_remember_choice": {
+      "message": "запамти избор"
+   },
+   "qowt_modal_query_dialog_affirmative_button": {
+      "message": "Да"
+   },
+   "qowt_modal_query_dialog_negative_button": {
+      "message": "Не"
+   },
+   "qowt_modal_query_dialog_reload_button": {
+      "message": "Учитај поново"
+   },
+   "qowt_modal_single_choice_remember_choice": {
+      "message": "Не подсећај ме поново"
+   },
+   "read_only": {
+      "message": "Само за читање"
+   },
+   "redo_aria_spoken_word": {
+      "message": "понови"
+   },
+   "right_pointed_submenu": {
+      "message": "Десни показивач са подменијем"
+   },
+   "save_aria_spoken_word": {
+      "message": "сачувај"
+   },
+   "save_now": {
+      "message": "Сачувај одмах"
+   },
+   "security_error_msg": {
+      "message": "Ако грешка настави да се јавља, пријавите проблем у наставку."
+   },
+   "security_error_short_msg": {
+      "message": "Упс. Нисмо успели да отворимо датотеку коју сте тражили. Тренутно не подржавамо отварање датотека у режиму без архивирања. Отворите датотеку у режиму са архивирањем."
+   },
+   "selected": {
+      "message": "Изабрано је"
+   },
+   "set_sheet_info_error_msg": {
+      "message": "Дошло је до грешке при ажурирању назива табеле"
+   },
+   "share_button": {
+      "message": "Дели"
+   },
+   "share_promo_conversion_shortmsg": {
+      "message": "Мењајте са другима"
+   },
+   "sheet_delete_column_error_msg": {
+      "message": "Упс. Дошло је до грешке при брисању колоне. Пробајте поново."
+   },
+   "sheet_delete_row_error_msg": {
+      "message": "Упс. Дошло је до грешке при брисању реда. Пробајте поново."
+   },
+   "sheet_format_cells_error_msg": {
+      "message": "Дошло је до грешке у форматирању. Пробајте поново касније."
+   },
+   "sheet_insert_column_error_msg": {
+      "message": "Упс. Дошло је до грешке при уметању колоне. Пробајте поново."
+   },
+   "sheet_insert_column_exceed_error_msg": {
+      "message": "Нажалост, не можете да уметнете још колона у табелу, пошто подржавамо само 256 колона."
+   },
+   "sheet_insert_column_exceed_error_short_msg": {
+      "message": "Жао нам је!"
+   },
+   "sheet_insert_row_error_msg": {
+      "message": "Упс. Дошло је до грешке при уметању реда. Пробајте поново."
+   },
+   "sheet_insert_row_exceed_error_msg": {
+      "message": "Нажалост, не можете да уметнете још редова у табелу, пошто подржавамо само 65536 редова."
+   },
+   "sheet_insert_row_exceed_error_short_msg": {
+      "message": "Жао нам је!"
+   },
+   "sheet_ocm_promo_conversion_msg": {
+      "message": "Можете да мењате и чувате Office датотеке директно у Табелама. Да бисте позвали друге да уносе измене или додају коментаре, сачувајте као датотеку Google табела. Можете поново да сачувате у оригиналном формату у било ком тренутку."
+   },
+   "sheet_set_cell_content_invalid_error_msg": {
+      "message": "Дошло је до грешке у формули коју сте унели. Исправите грешку."
+   },
+   "sheet_share_promo_conversion_msg": {
+      "message": "Покушавате да делите ову табелу? Да бисте позвали друге да је мењају са вама, конвертујте је у датотеку Google табела."
+   },
+   "sheet_sort_error_title": {
+      "message": "Дошло је до грешке при сортирању овог опсега ћелија."
+   },
+   "sheet_sort_failure_msg": {
+      "message": "Дошло је до грешке при сортирању овог опсега ћелија."
+   },
+   "sheet_sort_merged_cell_error": {
+      "message": "Не можете да сортирате ћелије које су обједињене."
+   },
+   "sheet_sort_merged_cell_error_title": {
+      "message": "Дошло је до грешке при сортирању овог опсега ћелија."
+   },
+   "sheet_sort_one_cell_error": {
+      "message": "Изаберите више од једне ћелије за сортирање."
+   },
+   "sheet_sort_one_cell_error_title": {
+      "message": "Дошло је до грешке при сортирању овог опсега ћелија."
+   },
+   "shift_key": {
+      "message": "Shift"
+   },
+   "shortcut": {
+      "message": "Пречица $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sign_in": {
+      "message": "Пријави ме"
+   },
+   "slash_key": {
+      "message": "Коса црта"
+   },
+   "something_not_right": {
+      "message": "Нешто није у реду"
+   },
+   "storage_quota_exceed_error_msg": {
+      "message": "Затворите све Office документе отворене у Chrome-у, па покушајте поново. Ако се проблем и даље јавља, пријавите га у наставку."
+   },
+   "storage_quota_exceed_error_short_msg": {
+      "message": "Жао нам је, нисмо успели да отворимо датотеку."
+   },
+   "strikethrough_aria_spoken_word": {
+      "message": "прецртај"
+   },
+   "style_aria_spoken_word": {
+      "message": "падајућа листа за стил"
+   },
+   "submenu_spoken_text": {
+      "message": "$1 $2 $3 $4",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         }
+      }
+   },
+   "temporary_unable_to_open_error_msg": {
+      "message": "Пробајте поново касније или пријавите проблем у наставку ако се и даље јавља."
+   },
+   "temporary_unable_to_open_error_short_msg": {
+      "message": "Жао нам је, привремено не можемо да отворимо датотеку."
+   },
+   "textaligncenter_aria_spoken_word": {
+      "message": "поравнај текст централно"
+   },
+   "textalignjustify_aria_spoken_word": {
+      "message": "поравнај текст обострано"
+   },
+   "textalignleft_aria_spoken_word": {
+      "message": "поравнај текст лево"
+   },
+   "textalignright_aria_spoken_word": {
+      "message": "поравнај текст десно"
+   },
+   "textcolor_aria_spoken_word": {
+      "message": "падајућа листа за боју текста"
+   },
+   "textual_edit_error_msg": {
+      "message": "Документ је наишао на грешку при форматирању.\n\nПоново учитајте страницу да бисте вратили промене."
+   },
+   "textual_edit_error_short_msg": {
+      "message": "Упс!"
+   },
+   "title_error_msg_for_merge_cells": {
+      "message": "Дошло је до проблема"
+   },
+   "title_msg_merging_multiple_cells_with_text": {
+      "message": "Пажња!"
+   },
+   "togglebulleted_aria_spoken_word": {
+      "message": "листа за набрајање"
+   },
+   "togglenumbered_aria_spoken_word": {
+      "message": "листа са бројевима"
+   },
+   "togglezoom_aria_spoken_word": {
+      "message": "зум"
+   },
+   "tooltip_background_color": {
+      "message": "Боја за попуњавање"
+   },
+   "tooltip_bold": {
+      "message": "Подебљање"
+   },
+   "tooltip_border": {
+      "message": "Ивице"
+   },
+   "tooltip_border_all": {
+      "message": "Све ивице"
+   },
+   "tooltip_border_bottom": {
+      "message": "Доње ивице"
+   },
+   "tooltip_border_horizontal": {
+      "message": "Хоризонталне ивице"
+   },
+   "tooltip_border_inner": {
+      "message": "Унутрашње ивице"
+   },
+   "tooltip_border_left": {
+      "message": "Леве ивице"
+   },
+   "tooltip_border_none": {
+      "message": "Без ивица"
+   },
+   "tooltip_border_outer": {
+      "message": "Спољашње ивице"
+   },
+   "tooltip_border_right": {
+      "message": "Десне ивице"
+   },
+   "tooltip_border_top": {
+      "message": "Горње ивице"
+   },
+   "tooltip_border_vertical": {
+      "message": "Вертикалне ивице"
+   },
+   "tooltip_cell_align": {
+      "message": "Поравнање ћелије"
+   },
+   "tooltip_cell_h_align_center": {
+      "message": "Центар по хоризонтали"
+   },
+   "tooltip_cell_h_align_left": {
+      "message": "Лево по хоризонтали"
+   },
+   "tooltip_cell_h_align_right": {
+      "message": "Десно по хоризонтали"
+   },
+   "tooltip_cell_v_align_bottom": {
+      "message": "Доле по вертикали"
+   },
+   "tooltip_cell_v_align_center": {
+      "message": "Центар по вертикали"
+   },
+   "tooltip_cell_v_align_top": {
+      "message": "Горе по вертикали"
+   },
+   "tooltip_download": {
+      "message": "Преузимање"
+   },
+   "tooltip_dropdown_init_add_shape": {
+      "message": "Облик"
+   },
+   "tooltip_fill_color": {
+      "message": "Боја текста"
+   },
+   "tooltip_font_face": {
+      "message": "Фонт"
+   },
+   "tooltip_font_size": {
+      "message": "Величина фонта"
+   },
+   "tooltip_highlight_color": {
+      "message": "Боја истакнутог текста"
+   },
+   "tooltip_init_add_shape": {
+      "message": "Оквир за текст"
+   },
+   "tooltip_italic": {
+      "message": "Курзив"
+   },
+   "tooltip_merge": {
+      "message": "Обједини ћелије"
+   },
+   "tooltip_merge_dropdown": {
+      "message": "Изаберите тип обједињавања..."
+   },
+   "tooltip_modify_shape_fill_color": {
+      "message": "Боја за попуњавање"
+   },
+   "tooltip_modify_shape_outline_color": {
+      "message": "Боја линије"
+   },
+   "tooltip_modify_shape_outline_style": {
+      "message": "Изглед линије"
+   },
+   "tooltip_modify_shape_outline_width": {
+      "message": "Дебљина линије"
+   },
+   "tooltip_move_slide": {
+      "message": "Преместите слајдове ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "tooltip_point": {
+      "message": "Почетна за Презентације"
+   },
+   "tooltip_point_toggle_bullet": {
+      "message": "Листа за набрајање"
+   },
+   "tooltip_point_toggle_number": {
+      "message": "Листа са бројевима"
+   },
+   "tooltip_presentation": {
+      "message": "Презентација"
+   },
+   "tooltip_print": {
+      "message": "Штампање"
+   },
+   "tooltip_redo": {
+      "message": "Понови"
+   },
+   "tooltip_share": {
+      "message": "Дели"
+   },
+   "tooltip_share_for_macroenabledfiles": {
+      "message": "Датотеке са омогућеним макроима можете да делите само са Google диска"
+   },
+   "tooltip_sheet": {
+      "message": "Почетна за Табеле"
+   },
+   "tooltip_strikethrough": {
+      "message": "Прецртавање"
+   },
+   "tooltip_style": {
+      "message": "Стилови"
+   },
+   "tooltip_text_align_center": {
+      "message": "Центар"
+   },
+   "tooltip_text_align_justify": {
+      "message": "Обострано поравнање"
+   },
+   "tooltip_text_align_left": {
+      "message": "Лево поравнање"
+   },
+   "tooltip_text_align_right": {
+      "message": "Десно поравнање"
+   },
+   "tooltip_text_color": {
+      "message": "Боја текста"
+   },
+   "tooltip_toggle_bulleted": {
+      "message": "Листа за набрајање"
+   },
+   "tooltip_toggle_numbered": {
+      "message": "Листа са бројевима"
+   },
+   "tooltip_toggle_zoom": {
+      "message": "Укључивање/искључивање зумирања"
+   },
+   "tooltip_underline": {
+      "message": "Подвлачење"
+   },
+   "tooltip_undo": {
+      "message": "Опозови"
+   },
+   "tooltip_word": {
+      "message": "Почетна за Документе"
+   },
+   "tooltip_wrap_text": {
+      "message": "Преламање текста"
+   },
+   "tooltip_zoom_in": {
+      "message": "Увећајте"
+   },
+   "tooltip_zoom_out": {
+      "message": "Умањите"
+   },
+   "try_again": {
+      "message": "Пробај поново"
+   },
+   "unable_to_execute_msg": {
+      "message": "Није могуће отворити овај документ."
+   },
+   "underline_aria_spoken_word": {
+      "message": "подвучено"
+   },
+   "undo_aria_spoken_word": {
+      "message": "опозови"
+   },
+   "unmerge_aria_spoken_word": {
+      "message": "опозови обједињавање"
+   },
+   "unsaved_changes": {
+      "message": "Несачуване промене"
+   },
+   "unsaved_changes_warning": {
+      "message": "Постоје несачуване промене у овој датотеци. Ако напустите ову страницу без чувања, заувек ћете изгубити рад."
+   },
+   "unsupported_file_format_error_details_p1": {
+      "message": "Нажалост, ова датотека има садржај из Microsoft® Office-а 95 или старије верзије, који не можемо да отворимо."
+   },
+   "unsupported_file_format_error_details_p2": {
+      "message": "Ако желите да конвертујете датотеку у датотеку Google докумената, кликните на линк у наставку."
+   },
+   "unsupported_file_format_error_title": {
+      "message": "Упс!"
+   },
+   "unsupported_link_message": {
+      "message": "Жао нам је, тренутно не подржавамо URL-ове овог типа."
+   },
+   "up_key": {
+      "message": "Нагоре"
+   },
+   "updated_shortcut_message": {
+      "message": "Ажурирали смо тастерске пречице да би биле исте у свим производима Google докумената. Прегледајте ажуриране пречице у одељку за помоћ."
+   },
+   "updated_shortcut_title": {
+      "message": "Тастерске пречице су ажуриране"
+   },
+   "version_info_msg": {
+      "message": "Ваша верзија Режима компатибилности за Office је"
+   },
+   "word_binary_upsave_learnmore": {
+      "message": "Сазнајте више"
+   },
+   "word_binary_upsave_msg": {
+      "message": "Ова датотека је у формату који није подржан. Да бисмо је сачували, потребна нам је ваша дозвола да бисмо је конвертовали у новији формат датотеке, а то се неће одразити на оригиналну датотеку."
+   },
+   "word_binary_upsave_shortmsg": {
+      "message": "Ажурирање документа"
+   },
+   "word_count_label": {
+      "message": "Речи"
+   },
+   "word_count_title": {
+      "message": "Број речи"
+   },
+   "word_ocm_promo_conversion_msg": {
+      "message": "Можете да мењате и чувате Office датотеке директно у Документима. Да бисте позвали друге да уносе измене или додају коментаре, сачувајте као датотеку Google докумената. Можете поново да сачувате у оригиналном формату у било ком тренутку."
+   },
+   "word_share_promo_conversion_msg": {
+      "message": "Покушавате да делите овај документ? Да бисте позвали друге да га мењају са вама, конвертујте га у датотеку Google докумената."
+   },
+   "wraptext_aria_spoken_word": {
+      "message": "преломи текст"
+   },
+   "zoomin_aria_spoken_word": {
+      "message": "увећај"
+   },
+   "zoomout_aria_spoken_word": {
+      "message": "умањи"
+   }
+}

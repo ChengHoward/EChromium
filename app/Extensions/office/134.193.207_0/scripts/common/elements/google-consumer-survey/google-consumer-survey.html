@@ -1,0 +1,20 @@
+<!--
+`<google-consumer-survey>` is an element which when placed in the DOM will
+apply sampling calculations to determine if this particular user should be
+presented with a Google Consumer Survey.
+
+It supports weekly "bucketing" as well, allowing for users to only ever be
+presented a survey once every nth weeks at most.
+
+Note: this element uses window.localStorage to store a unique user identifier
+per survey 'siteId'. This allows you to have multiple <google-consumer-survey>
+elements within one "origin" and the sampling should be unique to each.
+
+For more information see: http://www.google.com/insights/consumersurveys/home
+-->
+
+<link rel="import" href="../../../third_party/polymer/polymer.html"/>
+
+<dom-module id="google-consumer-survey" attributes="siteId targetPercentage bucketing">
+</dom-module>
+

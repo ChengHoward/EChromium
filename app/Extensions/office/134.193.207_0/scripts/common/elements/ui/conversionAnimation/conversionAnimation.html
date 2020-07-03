@@ -1,0 +1,61 @@
+<!-- Must always load the Polymer core first.-->
+<link rel="import" href="../../../../third_party/polymer/polymer.html"/>
+<link rel="import" href="../polymerCoreDepsVulcanized.html">
+
+<!--
+  'qowt-conversion-animation' is a graphic that shows when a user chooses to
+  convert a document to Google format. This horizontally displays an icon of
+  the current app, an animation of pulsing dots, and an icon of the Google
+  equivalent app.
+
+  There are two attributes that can be set: app and animated. "app" is a value
+  that must be set if you want the icons to be shown. "animated" is set by
+  default to true so you only need to change this if you want the dots to not
+  animate.
+
+  Example 1:
+    var node = new QowtConversionAnimation();
+    node.app = 'word';
+
+  Example 2:
+    <qowt-conversion-animation app="word"></qowt-conversion-animation>
+
+  Example 3 (not animated):
+    var node = new QowtConversionAnimation();
+    node.app = 'word';
+    node.animated = false;
+
+-->
+<link rel="import"
+      href='../../../../../scripts/lib/qowt/assets/ui/appIconHiDPI.html'>
+<link rel="import"
+      href='../../../../../scripts/lib/qowt/assets/ui/appIconLowDPI.html'>
+
+<dom-module id="qowt-conversion-animation">
+
+  <template>
+    <style include="app-icon-hi-dpi app-icon-low-dpi">
+        :host {
+          margin: 44px auto 60px auto;
+          width: 245px;
+          @apply(--layout-horizontal);
+          @apply(--layout-center);
+          @apply(--layout-justified);
+        }
+
+
+        #leftIcon, #rightIcon {
+          width: 60px;
+          height: 74px;
+          background-size: 60px 74px;
+          background-repeat: no-repeat;
+          background-position: center center;
+}
+    </style>
+
+    <div id="leftIcon"></div>
+    <qowt-animated-dots self-center animated="{{animated}}">
+    </qowt-animated-dots>
+    <div id="rightIcon"></div>
+  </template>
+</dom-module>

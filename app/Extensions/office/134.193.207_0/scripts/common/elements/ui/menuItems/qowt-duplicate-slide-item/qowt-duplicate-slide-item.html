@@ -1,0 +1,23 @@
+<!--
+`qowt-duplicate-slide-item' has the rules for enabling and disabling Point's
+'duplicate slide' action.
+
+The action is goverend by both presentationEmpty signals and by screenLock
+signals which this element enables and disables on.
+
+See the declarative instance of this item in qowt-menu-bar.
+ -->
+
+<link rel="import" href="../../polymerCoreDepsVulcanized.html">
+<link rel="import" href="../../../custom/qowt-item/qowt-item-styles.html">
+
+<dom-module id="qowt-duplicate-slide-item">
+
+<template>
+  <style include="qowt-item-styles">
+  </style>
+  <iron-icon id="icon" src="[[src]]" icon="[[icon]]" item-icon></iron-icon>
+  <div id="label">[[label]]</div><content></content>
+</template>
+</dom-module>
+

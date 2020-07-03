@@ -1,0 +1,36 @@
+<!-- Must always load the Polymer core first.-->
+<link rel="import" href="../../../../third_party/polymer/polymer.html"/>
+
+<!--
+  'qowt-localized' is an element that scans through all contained textnodes
+  for keys which represent a string in the I18n module. The keys should be
+  surrounded by double underscores.
+
+  For example, if we had a key "action_copy" that was "Copy" in I18n:
+  <qowt-localized>
+    <div>
+      __example_action_copy__
+      <div>
+        __example_action_copy__
+      </div>
+    </div>
+  </qowt-localized>
+
+  after being parsed it would become:
+  <qowt-localized>
+    <div>
+      Copy
+      <div>
+        Copy
+      </div>
+    </div>
+  </qowt-localized>
+
+  Parsing happens during the "attached" callback, so if there are dynamic
+  changes, you would have to call this.parseI18nKeys() when they are complete.
+-->
+<dom-module id="qowt-localized" >
+  <template>
+    <content></content>
+  </template>
+</dom-module>

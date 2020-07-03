@@ -1,0 +1,2192 @@
+{
+   "action_create_user_feedback": {
+      "message": "Sorun bildir"
+   },
+   "alt_key": {
+      "message": "Alt"
+   },
+   "app_error_learn_more": {
+      "message": "Daha fazla bilgi edinin"
+   },
+   "app_error_report_feedback": {
+      "message": "Geri bildirim gönder"
+   },
+   "app_icon_aria_spoken_word": {
+      "message": " ana sayfa"
+   },
+   "app_nacl_crash_msg": {
+      "message": "Sorunu bildirerek bize yardımcı olun."
+   },
+   "app_nacl_crash_report": {
+      "message": "Sorun bildir..."
+   },
+   "app_nacl_crash_title": {
+      "message": "Hata. Bunun olmaması gerekiyordu. Değişikliklerinizi kurtarmak için sayfayı yeniden yükleyin."
+   },
+   "app_nacl_error_load_failed": {
+      "message": "Maalesef dosya açılamadı. Diğer Chrome sekmelerini kapatın veya Chrome'u yeniden başlatın ve sonra tekrar deneyin. Sorun devam ederse aşağıdan bildirin."
+   },
+   "app_nacl_error_title": {
+      "message": "Dosya açılamıyor."
+   },
+   "app_nacl_error_unsupported_device": {
+      "message": "Bu cihaz, Dokümanlar, E-tablolar ve Slaytlar için Office Belgeleri Düzenleme Chrome uzantısını desteklemiyor."
+   },
+   "app_saving_failed_error_msg": {
+      "message": "Maalesef dosya kaydedilirken bir sorun oluştu. Tekrar kaydetmeyi deneyin. Sorun devam ederse lütfen bildirin."
+   },
+   "app_saving_failed_error_short_msg": {
+      "message": "Dosya kaydedilemiyor."
+   },
+   "backgroundcolor_aria_spoken_word": {
+      "message": "hücre arka plan rengi açılır listesi"
+   },
+   "bold_aria_spoken_word": {
+      "message": "kalın"
+   },
+   "border_all_aria_spoken_word": {
+      "message": "tüm kenarlık"
+   },
+   "border_aria_spoken_word": {
+      "message": "kenarlık açılır listesi"
+   },
+   "border_bottom_aria_spoken_word": {
+      "message": "alt kenarlık"
+   },
+   "border_horizontal_aria_spoken_word": {
+      "message": "yatay kenarlık"
+   },
+   "border_inner_aria_spoken_word": {
+      "message": "iç kenarlık"
+   },
+   "border_left_aria_spoken_word": {
+      "message": "sol kenarlık"
+   },
+   "border_none_aria_spoken_word": {
+      "message": "kenarlık yok"
+   },
+   "border_outer_aria_spoken_word": {
+      "message": "dış kenarlık"
+   },
+   "border_right_aria_spoken_word": {
+      "message": "sağ kenarlık"
+   },
+   "border_top_aria_spoken_word": {
+      "message": "üst kenarlık"
+   },
+   "border_vertical_aria_spoken_word": {
+      "message": "dikey kenarlık"
+   },
+   "button_ocm_convert_cancel": {
+      "message": "İptal"
+   },
+   "button_ocm_promo_conversion_point": {
+      "message": "Google Slaytlar olarak kaydet"
+   },
+   "button_ocm_promo_conversion_sheet": {
+      "message": "Google E-Tablolar olarak kaydet"
+   },
+   "button_ocm_promo_conversion_word": {
+      "message": "Google Dokümanlar olarak kaydet"
+   },
+   "button_share_convert_cancel": {
+      "message": "İptal"
+   },
+   "button_share_promo_conversion_point": {
+      "message": "Google Slaytlar olarak kaydet"
+   },
+   "button_share_promo_conversion_sheet": {
+      "message": "Google E-Tablolar olarak kaydet"
+   },
+   "button_share_promo_conversion_word": {
+      "message": "Google Dokümanlar olarak kaydet"
+   },
+   "cell_align_aria_spoken_word": {
+      "message": "Hücre Hizalama"
+   },
+   "cellalign_aria_spoken_word": {
+      "message": "hücre hizalama açılır listesi"
+   },
+   "cellhaligncenter_aria_spoken_word": {
+      "message": "Yatay orta"
+   },
+   "cellhalignleft_aria_spoken_word": {
+      "message": "Yatay sol"
+   },
+   "cellhalignright_aria_spoken_word": {
+      "message": "Yatay sağ"
+   },
+   "cellvalignbottom_aria_spoken_word": {
+      "message": "Dikey alt"
+   },
+   "cellvaligncenter_aria_spoken_word": {
+      "message": "Dikey orta"
+   },
+   "cellvaligntop_aria_spoken_word": {
+      "message": "Dikey üst"
+   },
+   "char_count_label": {
+      "message": "Karakter sayısı"
+   },
+   "char_no_spaces_count_label": {
+      "message": "Boşluklar hariç karakter sayısı"
+   },
+   "close_dialog_aria_spoken_word": {
+      "message": "İletişim kutusunu kapat"
+   },
+   "cmd_dropdown_initaddshape_aria_spoken_word": {
+      "message": "şekil açılır listesi"
+   },
+   "collapsed": {
+      "message": "Daraltılmış"
+   },
+   "collapsed_menu": {
+      "message": "$1 Daraltılmış (alt menülü)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "color_black": {
+      "message": "Siyah"
+   },
+   "color_blaze_orange": {
+      "message": "Alev Turuncusu"
+   },
+   "color_blue": {
+      "message": "Mavi"
+   },
+   "color_brown": {
+      "message": "Kahverengi"
+   },
+   "color_cornflower_blue": {
+      "message": "Kantaron mavisi"
+   },
+   "color_cyan": {
+      "message": "Camgöbeği"
+   },
+   "color_dark_blue": {
+      "message": "Koyu mavi"
+   },
+   "color_dark_blue_1": {
+      "message": "Koyu mavi 1"
+   },
+   "color_dark_blue_2": {
+      "message": "Koyu mavi 2"
+   },
+   "color_dark_blue_3": {
+      "message": "Koyu mavi 3"
+   },
+   "color_dark_blue_grey": {
+      "message": "Koyu mavi gri"
+   },
+   "color_dark_cornflower_blue_1": {
+      "message": "Koyu kantaron mavisi 1"
+   },
+   "color_dark_cornflower_blue_2": {
+      "message": "Koyu kantaron mavisi 2"
+   },
+   "color_dark_cornflower_blue_3": {
+      "message": "Koyu kantaron mavisi 3"
+   },
+   "color_dark_cyan": {
+      "message": "Koyu camgöbeği"
+   },
+   "color_dark_cyan_1": {
+      "message": "Koyu camgöbeği 1"
+   },
+   "color_dark_cyan_2": {
+      "message": "Koyu camgöbeği 2"
+   },
+   "color_dark_cyan_3": {
+      "message": "Koyu camgöbeği 3"
+   },
+   "color_dark_gray": {
+      "message": "Koyu gri"
+   },
+   "color_dark_gray_1": {
+      "message": "Koyu gri 1"
+   },
+   "color_dark_gray_2": {
+      "message": "Koyu gri 2"
+   },
+   "color_dark_gray_3": {
+      "message": "Koyu gri 3"
+   },
+   "color_dark_gray_4": {
+      "message": "Koyu gri 4"
+   },
+   "color_dark_green": {
+      "message": "Koyu yeşil"
+   },
+   "color_dark_green_1": {
+      "message": "Koyu yeşil 1"
+   },
+   "color_dark_green_2": {
+      "message": "Koyu yeşil 2"
+   },
+   "color_dark_green_3": {
+      "message": "Koyu yeşil 3"
+   },
+   "color_dark_green_5": {
+      "message": "Koyu yeşil 5"
+   },
+   "color_dark_grey_2": {
+      "message": "Koyu gri 2"
+   },
+   "color_dark_grey_5": {
+      "message": "Koyu gri 5"
+   },
+   "color_dark_magenta_1": {
+      "message": "Koyu macenta 1"
+   },
+   "color_dark_magenta_2": {
+      "message": "Koyu macenta 2"
+   },
+   "color_dark_magenta_3": {
+      "message": "Koyu macenta 3"
+   },
+   "color_dark_olive_green": {
+      "message": "Koyu zeytin yeşili"
+   },
+   "color_dark_orange_1": {
+      "message": "Koyu turuncu 1"
+   },
+   "color_dark_orange_2": {
+      "message": "Koyu turuncu 2"
+   },
+   "color_dark_orange_3": {
+      "message": "Koyu turuncu 3"
+   },
+   "color_dark_purple_1": {
+      "message": "Koyu mor 1"
+   },
+   "color_dark_purple_2": {
+      "message": "Koyu mor 2"
+   },
+   "color_dark_purple_3": {
+      "message": "Koyu mor 3"
+   },
+   "color_dark_red": {
+      "message": "Koyu kırmızı"
+   },
+   "color_dark_red_1": {
+      "message": "Koyu kırmızı 1"
+   },
+   "color_dark_red_2": {
+      "message": "Koyu kırmızı 2"
+   },
+   "color_dark_red_3": {
+      "message": "Koyu kırmızı 3"
+   },
+   "color_dark_red_berry_1": {
+      "message": "Koyu böğürtlen kırmızısı 1"
+   },
+   "color_dark_red_berry_2": {
+      "message": "Koyu böğürtlen kırmızısı 2"
+   },
+   "color_dark_red_berry_3": {
+      "message": "Koyu böğürtlen kırmızısı 3"
+   },
+   "color_dark_slate_blue": {
+      "message": "Koyu Kurşun Mavisi"
+   },
+   "color_dark_yellow_1": {
+      "message": "Koyu sarı 1"
+   },
+   "color_dark_yellow_2": {
+      "message": "Koyu sarı 2"
+   },
+   "color_dark_yellow_3": {
+      "message": "Koyu sarı 3"
+   },
+   "color_deep_pink": {
+      "message": "Koyu Pembe"
+   },
+   "color_deep_sky_blue": {
+      "message": "Koyu Gökyüzü Mavisi"
+   },
+   "color_eucalyptus_green": {
+      "message": "Okaliptus Yeşili"
+   },
+   "color_gold": {
+      "message": "Altın"
+   },
+   "color_gray": {
+      "message": "Gri"
+   },
+   "color_green": {
+      "message": "Yeşil"
+   },
+   "color_light_blue": {
+      "message": "Açık Mavi"
+   },
+   "color_light_blue_1": {
+      "message": "Açık mavi 1"
+   },
+   "color_light_blue_2": {
+      "message": "Açık mavi 2"
+   },
+   "color_light_blue_3": {
+      "message": "Açık mavi 3"
+   },
+   "color_light_cornflower_blue_1": {
+      "message": "Açık kantaron mavisi 1"
+   },
+   "color_light_cornflower_blue_2": {
+      "message": "Açık kantaron mavisi 2"
+   },
+   "color_light_cornflower_blue_3": {
+      "message": "Açık kantaron mavisi 3"
+   },
+   "color_light_cyan": {
+      "message": "Açık Camgöbeği"
+   },
+   "color_light_cyan_1": {
+      "message": "Açık camgöbeği 1"
+   },
+   "color_light_cyan_2": {
+      "message": "Açık camgöbeği 2"
+   },
+   "color_light_cyan_3": {
+      "message": "Açık camgöbeği 3"
+   },
+   "color_light_gray": {
+      "message": "Açık gri"
+   },
+   "color_light_gray_1": {
+      "message": "Açık gri 1"
+   },
+   "color_light_gray_2": {
+      "message": "Açık gri 2"
+   },
+   "color_light_gray_3": {
+      "message": "Açık gri 3"
+   },
+   "color_light_green": {
+      "message": "Açık Yeşil"
+   },
+   "color_light_green_1": {
+      "message": "Açık yeşil 1"
+   },
+   "color_light_green_2": {
+      "message": "Açık yeşil 2"
+   },
+   "color_light_green_3": {
+      "message": "Açık yeşil 3"
+   },
+   "color_light_magenta_1": {
+      "message": "Açık macenta 1"
+   },
+   "color_light_magenta_2": {
+      "message": "Açık macenta 2"
+   },
+   "color_light_magenta_3": {
+      "message": "Açık macenta 3"
+   },
+   "color_light_orange_1": {
+      "message": "Açık turuncu 1"
+   },
+   "color_light_orange_2": {
+      "message": "Açık turuncu 2"
+   },
+   "color_light_orange_3": {
+      "message": "Açık turuncu 3"
+   },
+   "color_light_purple": {
+      "message": "Açık Mor"
+   },
+   "color_light_purple_1": {
+      "message": "Açık mor 1"
+   },
+   "color_light_purple_2": {
+      "message": "Açık mor 2"
+   },
+   "color_light_purple_3": {
+      "message": "Açık mor 3"
+   },
+   "color_light_red_1": {
+      "message": "Açık kırmızı 1"
+   },
+   "color_light_red_2": {
+      "message": "Açık kırmızı 2"
+   },
+   "color_light_red_3": {
+      "message": "Açık kırmızı 3"
+   },
+   "color_light_red_berry_1": {
+      "message": "Açık böğürtlen kırmızısı 1"
+   },
+   "color_light_red_berry_2": {
+      "message": "Açık böğürtlen kırmızısı 2"
+   },
+   "color_light_red_berry_3": {
+      "message": "Açık böğürtlen kırmızısı 3"
+   },
+   "color_light_yellow": {
+      "message": "Açık Sarı"
+   },
+   "color_light_yellow_1": {
+      "message": "Açık sarı 1"
+   },
+   "color_light_yellow_2": {
+      "message": "Açık sarı 2"
+   },
+   "color_light_yellow_3": {
+      "message": "Açık sarı 3"
+   },
+   "color_magenta": {
+      "message": "Macenta"
+   },
+   "color_maroon": {
+      "message": "Bordo"
+   },
+   "color_midnight_blue": {
+      "message": "Gece Mavisi"
+   },
+   "color_navy": {
+      "message": "Lacivert"
+   },
+   "color_olive": {
+      "message": "Zeytin"
+   },
+   "color_orange": {
+      "message": "Turuncu"
+   },
+   "color_peach": {
+      "message": "Şeftali"
+   },
+   "color_pink": {
+      "message": "Pembe"
+   },
+   "color_pistachio": {
+      "message": "Fıstık"
+   },
+   "color_purple": {
+      "message": "Mor"
+   },
+   "color_red": {
+      "message": "Kırmızı"
+   },
+   "color_red_berry": {
+      "message": "Böğürtlen kırmızısı"
+   },
+   "color_royal_blue": {
+      "message": "Kraliyet Mavisi"
+   },
+   "color_teal": {
+      "message": "Teal"
+   },
+   "color_turquiose": {
+      "message": "Turkuaz"
+   },
+   "color_white": {
+      "message": "Beyaz"
+   },
+   "color_yellow": {
+      "message": "Sarı"
+   },
+   "command_key": {
+      "message": "Komut"
+   },
+   "content_msg_merging_horizontally_across_vertical_section": {
+      "message": "Dikey olarak birleştirilmiş mevcut bir bölümde yatay birleştirme yapamazsınız."
+   },
+   "content_msg_merging_multiple_cells_with_text": {
+      "message": "Hücreler birleştirildiğinde yalnızca en sol üstteki değer korunacak. Yine de birleştirilsin mi?"
+   },
+   "content_msg_merging_partially_selected_merged_cells": {
+      "message": "Hücreleri birleştirmek veya çözmek için birleştirilmiş bir aralıktaki tüm hücreleri seçmelisiniz."
+   },
+   "content_msg_merging_vertically_across_horizontal_section": {
+      "message": "Yatay olarak birleştirilmiş mevcut bir bölümde dikey birleştirme yapamazsınız."
+   },
+   "content_render_error_msg": {
+      "message": "Bu dokümanın içeriğiyle ilgili bir sorun oluştu."
+   },
+   "context_menu_clipboard_copy": {
+      "message": "Kopyala"
+   },
+   "context_menu_delete": {
+      "message": "Sil"
+   },
+   "context_menu_freeze": {
+      "message": "Dondur"
+   },
+   "context_menu_insert": {
+      "message": "Ekle"
+   },
+   "context_menu_sort_collation_ascending": {
+      "message": "Sırala (a-z)"
+   },
+   "context_menu_sort_collation_descending": {
+      "message": "Sırala (z-a)"
+   },
+   "context_menu_unfreeze": {
+      "message": "Çöz"
+   },
+   "control_key": {
+      "message": "Kontrol"
+   },
+   "convert_attempt_when_offline": {
+      "message": "Google Dokümanlar olarak kaydetmek için çevrimiçi olmanız gerekir. Bağlantınız kurulduğunda tekrar deneyin."
+   },
+   "convert_attempt_with_invalid_creds": {
+      "message": "Bu dosyayı dönüştürmek için Google Hesabınızda oturum açmanız gerekir."
+   },
+   "convert_cancel": {
+      "message": "İptal"
+   },
+   "convert_to_google_docs_failed": {
+      "message": "Dokümanınız Google Dokümanlar'a dönüştürülürken bir sorun oluştu."
+   },
+   "convert_to_google_point_fail_short_msg": {
+      "message": "Hata"
+   },
+   "convert_to_google_point_short_msg": {
+      "message": "Google Slaytlar olarak kaydediliyor"
+   },
+   "convert_to_google_sheet_fail_short_msg": {
+      "message": "Hata"
+   },
+   "convert_to_google_sheet_short_msg": {
+      "message": "Google E-Tablolar olarak kaydediliyor"
+   },
+   "convert_to_google_word_fail_short_msg": {
+      "message": "Hata"
+   },
+   "convert_to_google_word_short_msg": {
+      "message": "Google Dokümanlar olarak kaydediliyor"
+   },
+   "convert_try_again": {
+      "message": "Tekrar Dene"
+   },
+   "converting_to_google_point_fail_msg": {
+      "message": "Dosyanızı şu anda Google Slaytlar dosyası olarak kaydedemedik."
+   },
+   "converting_to_google_point_msg": {
+      "message": "Sununuzun yeni bir sürümü Google Slaytlar dosyası olarak kaydediliyor."
+   },
+   "converting_to_google_sheet_fail_msg": {
+      "message": "Dosyanızı şu anda Google E-Tablolar dosyası olarak kaydedemedik."
+   },
+   "converting_to_google_sheet_msg": {
+      "message": "E-tablonuzun yeni bir sürümü Google E-Tablolar dosyası olarak kaydediliyor."
+   },
+   "converting_to_google_word_fail_msg": {
+      "message": "Dosyanızı şu anda Google Dokümanlar dosyası olarak kaydedemedik."
+   },
+   "converting_to_google_word_msg": {
+      "message": "Dosyanızın yeni bir sürümü Google Dokümanlar dosyası olarak kaydediliyor."
+   },
+   "copy_attempt_when_offline": {
+      "message": "Google Drive'da bir kopya oluşturmak için çevrimiçi olmanız gerekmektedir. Bağlantınız tekrar kurulduğunda yeniden deneyin."
+   },
+   "copy_attempt_with_invalid_creds": {
+      "message": "Bir kopya oluşturmak için Google Hesabınızda oturum açmanız gerekmektedir."
+   },
+   "disabled_share_button": {
+      "message": "Makro içeren dosyalar yalnızca Google Drive'dan paylaşılabilir. Paylaşım devre dışı bırakıldı."
+   },
+   "disallowed_cut_copy_paste_cmd_copy": {
+      "message": "kopyalama için"
+   },
+   "disallowed_cut_copy_paste_cmd_cut": {
+      "message": "kesme için"
+   },
+   "disallowed_cut_copy_paste_cmd_paste": {
+      "message": "yapıştırma için"
+   },
+   "disallowed_cut_copy_paste_msg": {
+      "message": "Bu işlemler Düzenle ve İçerik menüleri kullanılarak gerçekleştirilemez. Ancak, şunları yine kullanabilirsiniz:"
+   },
+   "disallowed_cut_copy_paste_title": {
+      "message": "Office Uyumluluk Modu'nda Kopyalama ve Yapıştırma"
+   },
+   "dismiss": {
+      "message": "Kapat"
+   },
+   "document_title_aria_spoken_word": {
+      "message": "Doküman başlığı:"
+   },
+   "down_key": {
+      "message": "Aşağı"
+   },
+   "download_button": {
+      "message": "İndir"
+   },
+   "download_file_timeout_error_msg": {
+      "message": "Açmaya çalıştığınız dosyanın yüklenmesi beklenenden uzun sürüyor. Ağ bağlantınızı kontrol edin ve tekrar deneyin."
+   },
+   "download_file_timeout_error_short_msg": {
+      "message": "Dosyanın indirilmesi beklenenden uzun sürüyor"
+   },
+   "drive_open_timeout_error_msg": {
+      "message": "İnternet bağlantınızda sorun olabilir gibi görünüyor. Lütfen bağlantınızı kontrol edin ve dosyayı tekrar açmayı deneyin. Bu hatayı almaya devam ederseniz ve çevrimiçiyseniz lütfen aşağıda bir sorun bildiriminde bulunun."
+   },
+   "drive_open_timeout_error_short_msg": {
+      "message": "Hata! İstediğiniz dosyayı açamadık."
+   },
+   "duplicate_sheet_name_message": {
+      "message": "Başka bir sayfa tarafından kullanılmayan bir sayfa adı girin"
+   },
+   "duplicate_sheet_name_title": {
+      "message": "Bu sayfa adı zaten kullanılıyor"
+   },
+   "edits_not_being_saved": {
+      "message": "Düzenlemeler otomatik olarak kaydedilmeyecek."
+   },
+   "edits_now_being_auto_saved": {
+      "message": "Dosya kaydedildi. Tüm düzenlemeler şimdi otomatik olarak kaydedilecek."
+   },
+   "entry_point_error_msg": {
+      "message": "Lütfen tekrar deneyin veya aşağıda bir sorun bildirin."
+   },
+   "entry_point_error_short_msg": {
+      "message": "Hata. Hangi dosyayı açmak istediğinizi belirleyemedik."
+   },
+   "error_occurred": {
+      "message": "Bir hata oluştu."
+   },
+   "error_password_required_msg": {
+      "message": "Korunan dosyalar şu anda desteklenmiyor, ancak bunun için çalışmalarımız devam ediyor."
+   },
+   "error_password_required_short_msg": {
+      "message": "Dosya şifreyle korunuyor."
+   },
+   "expanded": {
+      "message": "Genişletilmiş"
+   },
+   "expanded_menu": {
+      "message": "$1 Genişletilmiş (alt menülü).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "extension_description": {
+      "message": "Microsoft Word, Excel, PowerPoint dosyalarını Google Dokümanlar, E-Tablolar, Slaytlar'da görüntüleyebilir ve düzenleyebilirsiniz."
+   },
+   "extension_name": {
+      "message": "Office Belgeleri Düzenleme"
+   },
+   "extension_popup_message_body": {
+      "message": "Mevcut dosyaları açmak için sürükleyip tarayıcıya bırakın"
+   },
+   "extension_popup_new_document_header": {
+      "message": "Yeni..."
+   },
+   "extension_popup_new_presentation_document": {
+      "message": "PowerPoint sunusu"
+   },
+   "extension_popup_new_spreadsheet_document": {
+      "message": "Excel e-tablosu"
+   },
+   "extension_popup_new_word_document": {
+      "message": "Word dokümanı"
+   },
+   "feedback_textbox_editing": {
+      "message": "Lütfen metin kutularının içindeki metnin düzenlenmesini destekleyin."
+   },
+   "feedback_ui_template": {
+      "message": "1- Lütfen karşılaştığınız sorunu açıklayın.\n2- Sorun bir dosyayı açmaya mı yoksa bir dosyayı düzenlemeye mi çalışırken oluştu?\n3- Bu sorun herhangi bir dosyayı açmayı veya düzenlemeyi her denediğinizde mi,\nyoksa sadece belli dosyalarda mı ortaya çıkıyor?\n\nBu sorun belli bir dosyaya özelse sorunu daha kapsamlı incelememize yardımcı olacağından lütfen söz konusu dosyayı bu rapora ekleyin."
+   },
+   "file_does_not_exist_error_details": {
+      "message": "Bu dosya mevcut değil. Paylaşılan bir bağlantıyı veya yer işareti koyulmuş bir dokümanı açmaya çalışmış olabilirsiniz. Lütfen dosyayı orijinal kaynağından yeniden açmayı deneyin."
+   },
+   "file_does_not_exist_error_title": {
+      "message": "Dosya bulunamadı."
+   },
+   "file_loading_spinner_label": {
+      "message": "Yükleniyor"
+   },
+   "file_missing_content_msg": {
+      "message": "Bu dosyanın tüm içeriği okunurken bir sorun oluştu. Dosyayı yeniden adlandırıp tekrar açmayı denemenizi öneririz."
+   },
+   "file_missing_content_short_msg": {
+      "message": "Dokümanda içerik yok."
+   },
+   "file_not_found_error_msg": {
+      "message": "Lütfen dosyaya erişim iznine sahip olduğunuzdan emin olmak için dosyanın sahibine danışın. Bu hatayı almaya devam ederseniz ve erişim izniniz varsa lütfen aşağıda bir sorun bildiriminde bulunun."
+   },
+   "file_not_found_error_short_msg": {
+      "message": "Hata! İstediğiniz dosyayı açamadık."
+   },
+   "file_not_found_exception": {
+      "message": "İstenen dosya silinmiş, yeniden adlandırılmış veya başka bir konuma taşınmış olabilir. İlerlemek için lütfen \"Şimdi kaydet\"i tıklayın."
+   },
+   "file_not_found_link_text": {
+      "message": "Birden fazla hesapla ilgili yardım için lütfen bu makaleye bakın"
+   },
+   "file_not_found_msg": {
+      "message": "İstediğiniz dosya taşındı."
+   },
+   "file_not_found_title": {
+      "message": "Dosya bulunamadı."
+   },
+   "file_open_crash_error_msg": {
+      "message": "Hatayla karşılaşmaya devam ederseniz lütfen aşağıda sorunu bildirin."
+   },
+   "file_open_crash_error_short_msg": {
+      "message": "Hata! İstediğiniz dosyayı açamadık."
+   },
+   "file_open_error_msg": {
+      "message": "Bu dosyanın içeriğine erişilemiyor."
+   },
+   "file_open_error_short_msg": {
+      "message": "Dosya bozuk görünüyor."
+   },
+   "file_open_fail_download_link_text": {
+      "message": "Dosyayı indir"
+   },
+   "file_opened_in_incognito_mode_error_details": {
+      "message": "Office dosyalarını düzenleme uzantısı Gizli modda çalışmaz. Lütfen bu dosyayı normal bir Chrome penceresi kullanarak açın. Misafir modunu kullanıyorsanız dosya açılamaz. Lütfen dosyanızın bozuk veya geçersiz bir doküman türünde olmadığından emin olun ve tekrar deneyin."
+   },
+   "file_opened_in_incognito_mode_error_title": {
+      "message": "Hata! Gizli mod desteklenmez"
+   },
+   "file_pdf_type_rename_msg": {
+      "message": "Dosyanın adını $1.pdf olarak değiştirin ve tekrar deneyin.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_rtf_type_rename_msg": {
+      "message": "Dosyanın adını $1.rtf olarak değiştirin",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_type_unsupported_msg": {
+      "message": "Bu dosya türü desteklenmiyor."
+   },
+   "fillcolor_aria_spoken_word": {
+      "message": "metin rengi açılır listesi"
+   },
+   "fontface_aria_spoken_word": {
+      "message": "yazı tipi açılır listesi"
+   },
+   "fontsize_aria_spoken_word": {
+      "message": "yazı tipi boyutu açılır listesi"
+   },
+   "forbidden_access_level_error_msg": {
+      "message": "Lütfen bu dosyayı açma izniniz olduğundan emin olmak üzere dosyanın sahibine danışın. Bu hatayı almaya devam ederseniz lütfen aşağıda bir sorun bildiriminde bulunun."
+   },
+   "forbidden_access_level_error_short_msg": {
+      "message": "Hata! İstediğiniz dosyayı açamadık."
+   },
+   "forbidden_app_access_error_msg": {
+      "message": "Bazı sebeplerden dolayı bu dosyayı açma iznimiz bulunmamaktadır. Lütfen dosyayı Google Drive'dan açmayı deneyin ya da aşağıda bir sorun bildiriminde bulunun."
+   },
+   "forbidden_app_access_error_short_msg": {
+      "message": "Hata! İstediğiniz dosyayı açamadık."
+   },
+   "forbidden_app_id_error_msg": {
+      "message": "Chrome uzantısı düzgün yapılandırılmamış gibi görünüyor. Bu nasıl olabilir? Tam olarak emin değiliz, ama lütfen aşağıda bir sorun bildiriminde bulunun."
+   },
+   "forbidden_app_id_error_short_msg": {
+      "message": "Hata! İstediğiniz dosyayı açamadık."
+   },
+   "forbidden_blacklist_error_msg": {
+      "message": "Bu Chrome uzantısı kara listeye alınmış gibi görünüyor. Bu kesinlikle bir hatadır, bu nedenle lütfen aşağıda sorun bildiriminde bulunarak bizi bu konuda bilgilendirin."
+   },
+   "forbidden_blacklist_error_short_msg": {
+      "message": "Hata! İstediğiniz dosyayı açamadık."
+   },
+   "forbidden_domain_error_msg": {
+      "message": "Alan adınız bu dosyaya erişimi kısıtlamış gibi görünüyor. Lütfen alan adı yöneticiniz ile irtibata geçin veya aşağıda bir sorun bildiriminde bulunun."
+   },
+   "forbidden_domain_error_short_msg": {
+      "message": "Hata! İstediğiniz dosyayı açamadık."
+   },
+   "forbidden_internal_error_msg": {
+      "message": "Ne yazık ki Google Drive beklendiği gibi çalışmıyor. Lütfen dosyanızı yeniden açmayı deneyin veya aşağıda bir sorun bildiriminde bulunun."
+   },
+   "forbidden_internal_error_short_msg": {
+      "message": "Hata! İstediğiniz dosyayı açamadık."
+   },
+   "forbidden_not_installed_error_msg": {
+      "message": "Chrome uzantısı düzgün yüklenmemiş gibi görünüyor. Bu nasıl olabilir? Tam olarak emin değiliz, ama lütfen aşağıda bir sorun bildiriminde bulunun."
+   },
+   "forbidden_not_installed_error_short_msg": {
+      "message": "Hata! İstediğiniz dosyayı açamadık."
+   },
+   "generic_error_msg": {
+      "message": "Bu dokümanın içeriğiyle ilgili bir sorun oluştu."
+   },
+   "generic_error_short_msg": {
+      "message": "Hata. Bunun olmaması gerekiyordu. Değişikliklerinizi kurtarmak için sayfayı yeniden yükleyin."
+   },
+   "get_lists_data_error_msg": {
+      "message": "Doküman oluşturulurken hatalı liste biçimlendirmeleri içerebilir."
+   },
+   "get_lists_data_error_short_msg": {
+      "message": "Doküman biçimlendirmesi alınamadı."
+   },
+   "highlightcolor_aria_spoken_word": {
+      "message": "metin vurgulama rengi açılır listesi"
+   },
+   "http_error_zero_msg": {
+      "message": "Ağ sorunu olmadığından emin olmak için lütfen bağlantınızı kontrol edin veya daha sonra tekrar deneyin. Sorun devam ederse aşağıda bildirin."
+   },
+   "http_error_zero_short_msg": {
+      "message": "Maalesef dosyayı açamadık."
+   },
+   "info_file_copied": {
+      "message": "Kaydedildi"
+   },
+   "info_file_save_cancelled": {
+      "message": "Kaydetme işlemi iptal edildi."
+   },
+   "info_file_save_failed": {
+      "message": "Kaydedilemedi."
+   },
+   "info_file_saved_at_location": {
+      "message": "Tüm değişiklikler $1 konumuna kaydedildi",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "info_file_saved_in_drive": {
+      "message": "Tüm değişiklikler Drive'a kaydedildi"
+   },
+   "info_file_saved_locally": {
+      "message": "Tüm değişiklikler yerel olarak kaydedildi"
+   },
+   "info_file_saved_offline": {
+      "message": "Tüm değişiklikler çevrimdışı olarak kaydedildi"
+   },
+   "info_file_saving": {
+      "message": "Kaydediliyor…"
+   },
+   "initaddshape_aria_spoken_word": {
+      "message": "metin ekle kutusu"
+   },
+   "invalid_credentials_error_msg": {
+      "message": "Bu dosyaya erişebilmek için Google Hesabınızda oturum açmanız gerekir."
+   },
+   "invalid_credentials_error_short_msg": {
+      "message": "Hata! İstediğiniz dosyayı açamadık."
+   },
+   "invalid_file_format_msg": {
+      "message": "Dosya bir Office dokümanı gibi görünse ve Office dosyası uzantısına sahip olsa da, gerçekte bir şekilde yeniden adlandırılmış veya adı değiştirilmiş ya da desteklemediğimiz farklı bir dosya türüne sahip."
+   },
+   "invalid_file_format_short_msg": {
+      "message": "Hata, görünüşe göre bu dosya türünü açamıyoruz."
+   },
+   "italic_aria_spoken_word": {
+      "message": "italik"
+   },
+   "keyboard_shortcut_group_actions": {
+      "message": "İşlemler"
+   },
+   "keyboard_shortcut_group_other": {
+      "message": "Diğer"
+   },
+   "keyboard_shortcut_group_paragraph_formatting": {
+      "message": "Paragraf biçimlendirme"
+   },
+   "keyboard_shortcut_group_text_formatting": {
+      "message": "Metin Biçimlendirme"
+   },
+   "keyboard_shortcut_group_top_menus": {
+      "message": "Menüler"
+   },
+   "keyboard_shortcut_group_with_slides": {
+      "message": "Slaytlarla"
+   },
+   "keyboard_shortcut_title": {
+      "message": "Klavye Kısayolları"
+   },
+   "make_a_copy_fail_msg": {
+      "message": "Şu anda bir kopya oluşturamıyoruz."
+   },
+   "menu_button_data": {
+      "message": "Veri"
+   },
+   "menu_button_edit": {
+      "message": "Düzenle"
+   },
+   "menu_button_file": {
+      "message": "Dosya"
+   },
+   "menu_button_format": {
+      "message": "Biçim"
+   },
+   "menu_button_help": {
+      "message": "Yardım"
+   },
+   "menu_button_insert": {
+      "message": "Ekle"
+   },
+   "menu_button_slide": {
+      "message": "Slayt"
+   },
+   "menu_button_tools": {
+      "message": "Araçlar"
+   },
+   "menu_button_view": {
+      "message": "Görüntüle"
+   },
+   "menu_item_10_point_star": {
+      "message": "10-Nokta Yıldız"
+   },
+   "menu_item_12_point_star": {
+      "message": "12-Nokta Yıldız"
+   },
+   "menu_item_16_point_star": {
+      "message": "16-Nokta Yıldız"
+   },
+   "menu_item_24_point_star": {
+      "message": "24-Nokta Yıldız"
+   },
+   "menu_item_32_point_star": {
+      "message": "32-Nokta Yıldız"
+   },
+   "menu_item_4_point_star": {
+      "message": "4-Nokta Yıldız"
+   },
+   "menu_item_5_point_star": {
+      "message": "5-Nokta Yıldız"
+   },
+   "menu_item_6_point_star": {
+      "message": "6-Nokta Yıldız"
+   },
+   "menu_item_7_point_star": {
+      "message": "7-Nokta Yıldız"
+   },
+   "menu_item_8_point_star": {
+      "message": "8-Nokta Yıldız"
+   },
+   "menu_item_align": {
+      "message": "Hizala"
+   },
+   "menu_item_align_center": {
+      "message": "Ortala"
+   },
+   "menu_item_align_justified": {
+      "message": "Yaslanmış"
+   },
+   "menu_item_align_left": {
+      "message": "Sol"
+   },
+   "menu_item_align_right": {
+      "message": "Sağ"
+   },
+   "menu_item_arrows": {
+      "message": "Oklar"
+   },
+   "menu_item_bent_arrow": {
+      "message": "Bükülü Ok"
+   },
+   "menu_item_bent_up_arrow": {
+      "message": "Yukarı Bükülü Ok"
+   },
+   "menu_item_bevel": {
+      "message": "Eğim"
+   },
+   "menu_item_block_arc": {
+      "message": "Blok Yay"
+   },
+   "menu_item_bold": {
+      "message": "Kalın"
+   },
+   "menu_item_callouts": {
+      "message": "Açıklama metinleri"
+   },
+   "menu_item_can": {
+      "message": "Silindir"
+   },
+   "menu_item_chevron": {
+      "message": "Banner"
+   },
+   "menu_item_chord": {
+      "message": "Grup Sohbeti"
+   },
+   "menu_item_clear_formatting": {
+      "message": "Biçimlendirmeyi temizle"
+   },
+   "menu_item_cloud": {
+      "message": "Bulut"
+   },
+   "menu_item_cloud_callout": {
+      "message": "Konuşma Bulutu"
+   },
+   "menu_item_color_none": {
+      "message": "Yok"
+   },
+   "menu_item_color_transparent": {
+      "message": "Şeffaf"
+   },
+   "menu_item_convert_to_docs": {
+      "message": "Google Dokümanlar olarak kaydet"
+   },
+   "menu_item_convert_to_sheets": {
+      "message": "Google E-Tablolar olarak kaydet"
+   },
+   "menu_item_convert_to_slides": {
+      "message": "Google Slaytlar olarak kaydet"
+   },
+   "menu_item_copy": {
+      "message": "Kopyala"
+   },
+   "menu_item_cross": {
+      "message": "Çapraz"
+   },
+   "menu_item_cube": {
+      "message": "Küp"
+   },
+   "menu_item_curved_down_arrow": {
+      "message": "Aşağı Eğik Ok"
+   },
+   "menu_item_curved_left_arrow": {
+      "message": "Sola Eğik Ok"
+   },
+   "menu_item_curved_right_arrow": {
+      "message": "Sağa Eğik Ok"
+   },
+   "menu_item_curved_up_arrow": {
+      "message": "Yukarı Eğik Ok"
+   },
+   "menu_item_cut": {
+      "message": "Kes"
+   },
+   "menu_item_decagon": {
+      "message": "Ongen"
+   },
+   "menu_item_delete_column": {
+      "message": "Sütunu sil"
+   },
+   "menu_item_delete_row": {
+      "message": "Satırı sil"
+   },
+   "menu_item_delete_value": {
+      "message": "Değeri sil"
+   },
+   "menu_item_deleteslide": {
+      "message": "Slaydı Sil"
+   },
+   "menu_item_diagonal_stripe": {
+      "message": "Diyagonal Çizgi"
+   },
+   "menu_item_diamond": {
+      "message": "Karo"
+   },
+   "menu_item_divide": {
+      "message": "Bölme"
+   },
+   "menu_item_dodecagon": {
+      "message": "Onikigen"
+   },
+   "menu_item_donut": {
+      "message": "Simit"
+   },
+   "menu_item_double_brace": {
+      "message": "Çift Ayraç"
+   },
+   "menu_item_double_bracket": {
+      "message": "Çift Parantez"
+   },
+   "menu_item_down_arrow": {
+      "message": "Aşağı Ok"
+   },
+   "menu_item_down_arrow_callout": {
+      "message": "Aşağı Ok Belirtme Çizgisi"
+   },
+   "menu_item_duplicateslide": {
+      "message": "Yinelenen Slayt"
+   },
+   "menu_item_equal": {
+      "message": "Eşit"
+   },
+   "menu_item_equation": {
+      "message": "Denklem"
+   },
+   "menu_item_explosion_1": {
+      "message": "Patlama 1"
+   },
+   "menu_item_explosion_2": {
+      "message": "Patlama 2"
+   },
+   "menu_item_flowchart_alternate_process": {
+      "message": "Akış çizelgesi: Alternatif İşlem"
+   },
+   "menu_item_flowchart_card": {
+      "message": "Akış çizelgesi: Kart"
+   },
+   "menu_item_flowchart_collate": {
+      "message": "Akış çizelgesi: Harmanla"
+   },
+   "menu_item_flowchart_connector": {
+      "message": "Akış çizelgesi: Bağlayıcı"
+   },
+   "menu_item_flowchart_data": {
+      "message": "Akış çizelgesi: Veri"
+   },
+   "menu_item_flowchart_decision": {
+      "message": "Akış çizelgesi: Karar"
+   },
+   "menu_item_flowchart_delay": {
+      "message": "Akış çizelgesi: Gecikme"
+   },
+   "menu_item_flowchart_direct_access_storage": {
+      "message": "Akış çizelgesi: Doğrudan Erişimli Depolama Alanı"
+   },
+   "menu_item_flowchart_display": {
+      "message": "Akış çizelgesi: Görüntüleme"
+   },
+   "menu_item_flowchart_document": {
+      "message": "Akış çizelgesi: Doküman"
+   },
+   "menu_item_flowchart_extract": {
+      "message": "Akış çizelgesi: Çıkar"
+   },
+   "menu_item_flowchart_internal_storage": {
+      "message": "Akış çizelgesi: Dahili Depolama Alanı"
+   },
+   "menu_item_flowchart_magnetic_disk": {
+      "message": "Akış çizelgesi: Manyetik Disk"
+   },
+   "menu_item_flowchart_manual_input": {
+      "message": "Akış çizelgesi: Manuel Giriş"
+   },
+   "menu_item_flowchart_manual_operation": {
+      "message": "Akış çizelgesi: Manuel İşlem"
+   },
+   "menu_item_flowchart_merge": {
+      "message": "Akış çizelgesi: Birleştir"
+   },
+   "menu_item_flowchart_multidocument": {
+      "message": "Akış çizelgesi: Çoklu Doküman"
+   },
+   "menu_item_flowchart_off_page_connector": {
+      "message": "Akış çizelgesi: Sayfa Dışı Bağlayıcısı"
+   },
+   "menu_item_flowchart_or": {
+      "message": "Akış çizelgesi: Veya"
+   },
+   "menu_item_flowchart_predefined_process": {
+      "message": "Akış çizelgesi: Önceden Tanımlanmış İşlem"
+   },
+   "menu_item_flowchart_preparation": {
+      "message": "Akış çizelgesi: Hazırlık"
+   },
+   "menu_item_flowchart_process": {
+      "message": "Akış çizelgesi: İşlem"
+   },
+   "menu_item_flowchart_punched_tape": {
+      "message": "Akış çizelgesi: Delikli Teyp"
+   },
+   "menu_item_flowchart_sequential_access_storage": {
+      "message": "Akış çizelgesi: Ardışık Erişimli Depolama Alanı"
+   },
+   "menu_item_flowchart_sort": {
+      "message": "Akış çizelgesi: Sırala"
+   },
+   "menu_item_flowchart_stored_data": {
+      "message": "Akış çizelgesi: Depolanan Veriler"
+   },
+   "menu_item_flowchart_summing_junction": {
+      "message": "Akış çizelgesi: Toplam Birleşimi"
+   },
+   "menu_item_flowchart_terminator": {
+      "message": "Akış çizelgesi: Sonlandırıcı"
+   },
+   "menu_item_folded_corner": {
+      "message": "Katlanmış Köşe"
+   },
+   "menu_item_frame": {
+      "message": "Çerçeve"
+   },
+   "menu_item_half_frame": {
+      "message": "Yarım Çerçeve"
+   },
+   "menu_item_heart": {
+      "message": "Kalp"
+   },
+   "menu_item_help_center": {
+      "message": "Yardım Merkezi"
+   },
+   "menu_item_heptagon": {
+      "message": "Yedigen"
+   },
+   "menu_item_hexagon": {
+      "message": "Altıgen"
+   },
+   "menu_item_hideslide": {
+      "message": "Slaydı Gizle"
+   },
+   "menu_item_insert_column": {
+      "message": "Sütun"
+   },
+   "menu_item_insert_image": {
+      "message": "Resim"
+   },
+   "menu_item_insert_row": {
+      "message": "Satır"
+   },
+   "menu_item_insert_text_box": {
+      "message": "Metin kutusu"
+   },
+   "menu_item_insertslide": {
+      "message": "Yeni Slayt"
+   },
+   "menu_item_italic": {
+      "message": "İtalik"
+   },
+   "menu_item_keyboard_shortcuts": {
+      "message": "Klavye kısayolları"
+   },
+   "menu_item_l_shape": {
+      "message": "L Şekli"
+   },
+   "menu_item_left_arrow": {
+      "message": "Sol Ok"
+   },
+   "menu_item_left_arrow_callout": {
+      "message": "Sol Ok Belirtme Çizgisi"
+   },
+   "menu_item_left_brace": {
+      "message": "Sol Ayraç"
+   },
+   "menu_item_left_bracket": {
+      "message": "Sol Parantez"
+   },
+   "menu_item_left_right_arrow": {
+      "message": "Sol-Sağ Ok"
+   },
+   "menu_item_left_right_arrow_callout": {
+      "message": "Sol-Sağ Ok Belirtme Çizgisi"
+   },
+   "menu_item_left_right_up_arrow": {
+      "message": "Sol-Sağ-Yukarı Ok"
+   },
+   "menu_item_left_up_arrow": {
+      "message": "Sol-Yukarı Ok"
+   },
+   "menu_item_lightning_bolt": {
+      "message": "Şimşek İşareti"
+   },
+   "menu_item_make_a_copy": {
+      "message": "Kopya oluştur…"
+   },
+   "menu_item_merge_all": {
+      "message": "Tümünü birleştir"
+   },
+   "menu_item_merge_cells": {
+      "message": "Hücreleri birleştir"
+   },
+   "menu_item_merge_horizontally": {
+      "message": "Yatay olarak birleştir"
+   },
+   "menu_item_merge_vertically": {
+      "message": "Dikey olarak birleştir"
+   },
+   "menu_item_minus": {
+      "message": "Eksi"
+   },
+   "menu_item_moon": {
+      "message": "Ay"
+   },
+   "menu_item_moveslidedown": {
+      "message": "Slaydı Aşağı Taşı"
+   },
+   "menu_item_moveslidetoend": {
+      "message": "Slaydı Sona Taşı"
+   },
+   "menu_item_moveslidetostart": {
+      "message": "Slaydı Başa Taşı"
+   },
+   "menu_item_moveslideup": {
+      "message": "Slaydı Yukarı Taşı"
+   },
+   "menu_item_multiply": {
+      "message": "Çoğalt"
+   },
+   "menu_item_new": {
+      "message": "Yeni"
+   },
+   "menu_item_no_symbol": {
+      "message": "Simge Yok"
+   },
+   "menu_item_not_equal": {
+      "message": "Eşit Değil"
+   },
+   "menu_item_notched_right_arrow": {
+      "message": "Çentikli Sağ Ok"
+   },
+   "menu_item_number_format": {
+      "message": "Sayı Biçimi"
+   },
+   "menu_item_number_menu": {
+      "message": "Sayı"
+   },
+   "menu_item_numbering": {
+      "message": "$1 / $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "menu_item_octagon": {
+      "message": "Sekizgen"
+   },
+   "menu_item_open": {
+      "message": "Aç"
+   },
+   "menu_item_oval": {
+      "message": "Oval"
+   },
+   "menu_item_oval_callout": {
+      "message": "Oval Belirtme Çizgisi"
+   },
+   "menu_item_parallelogram": {
+      "message": "Paralelkenar"
+   },
+   "menu_item_paste": {
+      "message": "Yapıştır"
+   },
+   "menu_item_pentagon": {
+      "message": "Beşgen"
+   },
+   "menu_item_pie": {
+      "message": "Pasta"
+   },
+   "menu_item_plaque": {
+      "message": "Plaka"
+   },
+   "menu_item_plus": {
+      "message": "Artı"
+   },
+   "menu_item_present": {
+      "message": "Mevcut"
+   },
+   "menu_item_print": {
+      "message": "Yazdır"
+   },
+   "menu_item_quad_arrow": {
+      "message": "Dörtlü Ok"
+   },
+   "menu_item_quad_arrow_callout": {
+      "message": "Dörtlü Ok Belirtme Çizgisi"
+   },
+   "menu_item_rectangle": {
+      "message": "Dikdörtgen"
+   },
+   "menu_item_rectangular_callout": {
+      "message": "Dikdörtgen Belirtme Çizgisi"
+   },
+   "menu_item_redo": {
+      "message": "Yeniden Yap"
+   },
+   "menu_item_regular_pentagon": {
+      "message": "Düzgün Beşgen"
+   },
+   "menu_item_report_abuse": {
+      "message": "Kötüye kullanım bildir"
+   },
+   "menu_item_report_issue": {
+      "message": "Sorun bildir"
+   },
+   "menu_item_right_arrow": {
+      "message": "Sağ Ok"
+   },
+   "menu_item_right_arrow_callout": {
+      "message": "Sağ Ok Belirtme Çizgisi"
+   },
+   "menu_item_right_brace": {
+      "message": "Sağ Ayraç"
+   },
+   "menu_item_right_bracket": {
+      "message": "Sağ Parantez"
+   },
+   "menu_item_right_triangle": {
+      "message": "Dik Üçgen"
+   },
+   "menu_item_round_diagonal_corner_rectangle": {
+      "message": "Yuvarlak Diyagonal Köşeli Dikdörtgen"
+   },
+   "menu_item_round_same_side_corner_rectangle": {
+      "message": "Aynı Kenarın Köşesi Yuvarlak Dikdörtgen"
+   },
+   "menu_item_round_single_corner_rectangle": {
+      "message": "Tek Köşesi Yuvarlak Dikdörtgen"
+   },
+   "menu_item_rounded_rectangle": {
+      "message": "Yuvarlak Dikdörtgen"
+   },
+   "menu_item_rounded_rectangular_callout": {
+      "message": "Yuvarlak Dikdörtgen Belirtme Çizgisi"
+   },
+   "menu_item_save": {
+      "message": "Kaydet"
+   },
+   "menu_item_save_as": {
+      "message": "Farklı Kaydet…"
+   },
+   "menu_item_shapes": {
+      "message": "Şekiller"
+   },
+   "menu_item_share": {
+      "message": "Paylaş"
+   },
+   "menu_item_smiley_face": {
+      "message": "Gülen Yüz"
+   },
+   "menu_item_snip_and_round_single_corner_rectangle": {
+      "message": "Tek Köşesi Kırpılmış Yuvarlak Dikdörtgen"
+   },
+   "menu_item_snip_diagonal_corner_rectangle": {
+      "message": "Köşesi Diyagonal Kırpılmış Dikdörtgen"
+   },
+   "menu_item_snip_same_side_corner_rectangle": {
+      "message": "Aynı Kenarın Köşesi Kırpılmış Dikdörtgen"
+   },
+   "menu_item_snip_single_corner_rectangle": {
+      "message": "Tek Köşesi Kırpılmış Dikdörtgen"
+   },
+   "menu_item_strikethrough": {
+      "message": "Üstü Çizili"
+   },
+   "menu_item_striped_right_arrow": {
+      "message": "Çizgili Sağ Ok"
+   },
+   "menu_item_subscript": {
+      "message": "Altsimge"
+   },
+   "menu_item_sun": {
+      "message": "Paz"
+   },
+   "menu_item_superscript": {
+      "message": "Üstsimge"
+   },
+   "menu_item_teardrop": {
+      "message": "Gözyaşı damlası"
+   },
+   "menu_item_trapezoid": {
+      "message": "Yamuk"
+   },
+   "menu_item_triangle": {
+      "message": "Üçgen"
+   },
+   "menu_item_u_turn_arrow": {
+      "message": "U Dönüş Oku"
+   },
+   "menu_item_underline": {
+      "message": "Altı Çizili"
+   },
+   "menu_item_undo": {
+      "message": "Geri Al"
+   },
+   "menu_item_unhideslide": {
+      "message": "Slaydı Göster"
+   },
+   "menu_item_unmerge": {
+      "message": "Çöz"
+   },
+   "menu_item_up_arrow": {
+      "message": "Yukarı Ok"
+   },
+   "menu_item_up_arrow_callout": {
+      "message": "Yukarı Ok Belirtme Çizgisi"
+   },
+   "menu_item_up_down_arrow": {
+      "message": "Yukarı-Aşağı Ok"
+   },
+   "menu_item_version_info": {
+      "message": "Sürüm bilgisi"
+   },
+   "menu_item_word_count": {
+      "message": "Kelime sayısı"
+   },
+   "menu_item_wrap_text": {
+      "message": "Metin kaydır"
+   },
+   "menu_item_zoom_in": {
+      "message": "Yakınlaştır"
+   },
+   "menu_item_zoom_out": {
+      "message": "Uzaklaştır"
+   },
+   "merge_all_aria_spoken_word": {
+      "message": "tümünü birleştir"
+   },
+   "merge_aria_spoken_word": {
+      "message": "birleştir"
+   },
+   "merge_dropdown_aria_spoken_word": {
+      "message": "birleştirme açılır menüsü"
+   },
+   "merge_horizontally_aria_spoken_word": {
+      "message": "yatay olarak birleştir"
+   },
+   "merge_vertically_aria_spoken_word": {
+      "message": "dikey olarak birleştir"
+   },
+   "modify_shape_transform_error_msg": {
+      "message": "Şekil dönüşümleri değiştirilirken bir hata oluştu"
+   },
+   "modify_shape_transform_error_short_msg": {
+      "message": "Şekil dönüşümleri değiştirilirken bir hata oluştu."
+   },
+   "modifyshapefillcolor_aria_spoken_word": {
+      "message": "şekil dolgu rengi açılır listesi"
+   },
+   "modifyshapeoutlinecolor_aria_spoken_word": {
+      "message": "şekil dış hat rengi açılır listesi"
+   },
+   "modifyshapeoutlinestyle_aria_spoken_word": {
+      "message": "şekil dış hat stili açılır listesi"
+   },
+   "modifyshapeoutlinewidth_aria_spoken_word": {
+      "message": "şekil dış hat kalınlığı açılır listesi"
+   },
+   "nacl_load_error_details": {
+      "message": "Uzantıyı yeniden yüklemeyi deneyin."
+   },
+   "nacl_load_error_title": {
+      "message": "Uygulama yüklenirken bir sorun oluştu."
+   },
+   "non_permissible_sheet_name_details": {
+      "message": "Şu karakterlere izin verilmez * ? [ ] ' ; : Sayfa adı 31 karakterden uzun olmamalıdır Sayfa adı boş bırakılamaz"
+   },
+   "non_permissible_sheet_name_title": {
+      "message": "Bir sayfayı yeniden adlandırırken geçersiz bir ad girdiniz"
+   },
+   "not_pressed": {
+      "message": "Basılmadı"
+   },
+   "notselected": {
+      "message": "Seçilmedi"
+   },
+   "number_format_label_currency_symbol": {
+      "message": "Para Birimi Sembolü"
+   },
+   "number_format_label_date_type": {
+      "message": "Tür"
+   },
+   "number_format_label_decimal_places": {
+      "message": "Ondalık Ayırıcı Yerleri"
+   },
+   "number_format_label_general": {
+      "message": "Genel"
+   },
+   "number_format_label_negative_numbers": {
+      "message": "Negatif Sayılar"
+   },
+   "number_format_label_other": {
+      "message": "Diğer"
+   },
+   "number_format_label_red": {
+      "message": "Kırmızı"
+   },
+   "number_format_label_text": {
+      "message": "Metin"
+   },
+   "number_format_label_use_1000_separator": {
+      "message": "1000'lik Ayırıcı Kullan"
+   },
+   "number_format_tab_accounting": {
+      "message": "Muhasebe"
+   },
+   "number_format_tab_currency": {
+      "message": "Para Birimi"
+   },
+   "number_format_tab_date_time": {
+      "message": "Tarih ve Saat"
+   },
+   "number_format_tab_general": {
+      "message": "Genel"
+   },
+   "number_format_tab_number": {
+      "message": "Sayı"
+   },
+   "number_format_tab_percentage": {
+      "message": "Yüzde"
+   },
+   "number_format_tab_scientific": {
+      "message": "Bilimsel"
+   },
+   "number_format_title": {
+      "message": "Sayı Biçimleri"
+   },
+   "ocm_promo_conversion_shortmsg": {
+      "message": "Office Uyumluluk Modu'ndasınız"
+   },
+   "office_compatibility_mode": {
+      "message": "Office Uyumluluk Modu"
+   },
+   "office_first_time_confirm": {
+      "message": "Anlaşıldı"
+   },
+   "office_first_time_message_p1": {
+      "message": "Sabit sürücünüzde, Google Drive'da, Gmail'de ve daha pek çok yerde bulunan Word, Excel ve Powerpoint dosyalarınızı artık Dokümanlar, E-Tablolar ve Slaytlar'ı kullanarak düzenleyebilirsiniz."
+   },
+   "office_first_time_message_p2": {
+      "message": "Yaptığınız tüm düzenlemeler otomatik olarak kaydedilir. Ayrıca orijinal biçimle de istediğiniz zaman kaydedebilirsiniz."
+   },
+   "office_first_time_title": {
+      "message": "Dokümanlar, E-Tablolar ve Slaytlar İçin Office Dosyalarını Düzenleme"
+   },
+   "offline_error_msg": {
+      "message": "Çevrim dışı görünüyorsunuz. Lütfen İnternet bağlantınızı kontrol edin ve tekrar deneyin. Bu hatayı çevrimiçiyken almaya devam ediyorsanız lütfen aşağıda bir sorun bildiriminde bulunun."
+   },
+   "offline_error_short_msg": {
+      "message": "Hata! İstediğiniz dosyayı açamadık."
+   },
+   "option_key": {
+      "message": "Seçenek"
+   },
+   "out_of_memory_error_msg": {
+      "message": "Bu sekmeyi kapatıp dosyanızı yeniden açmayı veya tarayıcıda açık olabilecek diğer sekmeleri kapatmayı deneyin. Bu sorun devam ederse lütfen aşağıda bir sorun bildirin."
+   },
+   "out_of_memory_error_short_msg": {
+      "message": "Hata! Bellek kalmadı."
+   },
+   "page_count_label": {
+      "message": "Sayfa sayısı"
+   },
+   "partial_cell_merge_error_msg": {
+      "message": "Birleştirilmiş hücrelerin bir bölümü değiştirilemez."
+   },
+   "partial_cell_merge_error_short_msg": {
+      "message": "Hata"
+   },
+   "point_ocm_promo_conversion_msg": {
+      "message": "Office dosyalarını doğrudan Slaytlar'da düzenleyebilir ve kaydedebilirsiniz. Düzenlemek ve yorum eklemek üzere başkalarını davet etmek için dosyayı Google Slaytlar olarak kaydedin. İstediğiniz zaman tekrar orijinal biçimle kaydedebilirsiniz."
+   },
+   "point_printing_warning_msg": {
+      "message": "Bunu düzeltmek için çalışıyoruz."
+   },
+   "point_printing_warning_short_msg": {
+      "message": "Şu an için, yalnızca görüntülediğiniz slaydı yazdırabilirsiniz."
+   },
+   "point_share_promo_conversion_msg": {
+      "message": "Bu sunuyu paylaşmaya mı çalışıyorsunuz? Başkalarını sizinle birlikte sunuyu düzenlemeye davet etmek için sunuyu Google Slaytlar'a dönüştürün."
+   },
+   "pointtogglebullet_aria_spoken_word": {
+      "message": "madde işaretli liste"
+   },
+   "pointtogglenumber_aria_spoken_word": {
+      "message": "numaralı liste"
+   },
+   "present_button": {
+      "message": "Sunu Yap"
+   },
+   "pressed": {
+      "message": "Basıldı"
+   },
+   "print_aria_spoken_word": {
+      "message": "yazdır"
+   },
+   "qowt_doc_mismatch_text": {
+      "message": "Dokümanınız biçimlendirilirken bir hata oluştu.\n\nDeğişikliklerinizi kurtarmak için sayfayı yeniden yükleyin."
+   },
+   "qowt_doc_mismatch_title": {
+      "message": "Olmadı!"
+   },
+   "qowt_hyperlink_activate_short_key": {
+      "message": "Bağlantıyı etkinleştirmek için ALT + Enter tuşlarına basın."
+   },
+   "qowt_hyperlink_dialog": {
+      "message": "Köprü"
+   },
+   "qowt_hyperlink_dialog_message_text": {
+      "message": "Şu bağlantıya git:"
+   },
+   "qowt_modal_confirm_dialog_affirmative_button": {
+      "message": "Tamam"
+   },
+   "qowt_modal_confirm_dialog_negative_button": {
+      "message": "İptal"
+   },
+   "qowt_modal_dialog_close_button": {
+      "message": "Kapat"
+   },
+   "qowt_modal_dialog_coming_soon_title": {
+      "message": "Çok yakında!"
+   },
+   "qowt_modal_dialog_link_text": {
+      "message": "Daha fazla bilgi edinin"
+   },
+   "qowt_modal_dialog_ok_button": {
+      "message": "Tamam"
+   },
+   "qowt_modal_dialog_reload_button": {
+      "message": "Yeniden yükle"
+   },
+   "qowt_modal_dialog_textbox_editing_description": {
+      "message": "Maalesef metin kutuları içindeki metnin düzenlenmesini desteklemiyoruz."
+   },
+   "qowt_modal_dialog_textbox_editing_link": {
+      "message": "Lütfen bunu düzeltin!"
+   },
+   "qowt_modal_info_dialog_affirmative_button": {
+      "message": "Tamam"
+   },
+   "qowt_modal_multi_choice_remember_choice": {
+      "message": "Seçimimi hatırla"
+   },
+   "qowt_modal_query_dialog_affirmative_button": {
+      "message": "Evet"
+   },
+   "qowt_modal_query_dialog_negative_button": {
+      "message": "Hayır"
+   },
+   "qowt_modal_query_dialog_reload_button": {
+      "message": "Yeniden yükle"
+   },
+   "qowt_modal_single_choice_remember_choice": {
+      "message": "Tekrar hatırlatma"
+   },
+   "read_only": {
+      "message": "Salt okunur"
+   },
+   "redo_aria_spoken_word": {
+      "message": "yeniden yap"
+   },
+   "right_pointed_submenu": {
+      "message": "Sağ işaretçi (alt menülü)"
+   },
+   "save_aria_spoken_word": {
+      "message": "kaydet"
+   },
+   "save_now": {
+      "message": "Şimdi kaydet"
+   },
+   "security_error_msg": {
+      "message": "Hatayla karşılaşmaya devam ederseniz lütfen aşağıda sorunu bildirin."
+   },
+   "security_error_short_msg": {
+      "message": "Hata! İstenen dosyayı açamadık. Şu anda dosyaların Gizli modda açılması desteklenmemektedir. Lütfen dosyanızı Gizli moddan çıkarak açın."
+   },
+   "selected": {
+      "message": "Seçildi"
+   },
+   "set_sheet_info_error_msg": {
+      "message": "Sayfa adı güncellenirken bir hata oluştu"
+   },
+   "share_button": {
+      "message": "Paylaş"
+   },
+   "share_promo_conversion_shortmsg": {
+      "message": "Başkalarıyla birlikte düzenleyin"
+   },
+   "sheet_delete_column_error_msg": {
+      "message": "Hata! Sütun silinirken bir hata oluştu. Lütfen tekrar deneyin."
+   },
+   "sheet_delete_row_error_msg": {
+      "message": "Hata! Satır silinirken bir hata oluştu. Lütfen tekrar deneyin."
+   },
+   "sheet_format_cells_error_msg": {
+      "message": "Biçimlendirme hatası oluştu. Lütfen tekrar deneyin."
+   },
+   "sheet_insert_column_error_msg": {
+      "message": "Hata! Sütun eklenirken bir hata oluştu. Lütfen tekrar deneyin."
+   },
+   "sheet_insert_column_exceed_error_msg": {
+      "message": "Yalnızca 256 sütunu desteklediğimizden, maalesef e-tabloya başka sütun ekleyemezsiniz."
+   },
+   "sheet_insert_column_exceed_error_short_msg": {
+      "message": "Üzgünüz!"
+   },
+   "sheet_insert_row_error_msg": {
+      "message": "Hata! Satır eklenirken bir hata oluştu. Lütfen tekrar deneyin."
+   },
+   "sheet_insert_row_exceed_error_msg": {
+      "message": "Yalnızca 65.536 satırı desteklediğimizden, maalesef e-tabloya başka satır ekleyemezsiniz."
+   },
+   "sheet_insert_row_exceed_error_short_msg": {
+      "message": "Üzgünüz!"
+   },
+   "sheet_ocm_promo_conversion_msg": {
+      "message": "Office dosyalarını doğrudan E-Tablolar'da düzenleyebilir ve kaydedebilirsiniz. Düzenlemek veya yorum eklemek üzere başkalarını davet etmek için dosyayı Google E-Tablolar olarak kaydedin. İstediğiniz zaman tekrar orijinal biçimle kaydedebilirsiniz."
+   },
+   "sheet_set_cell_content_invalid_error_msg": {
+      "message": "Girdiğiniz formülde bir hata vardı. Lütfen hatayı düzeltin."
+   },
+   "sheet_share_promo_conversion_msg": {
+      "message": "Bu e-tabloyu paylaşmaya mı çalışıyorsunuz? Başkalarını sizinle birlikte e-tabloyu düzenlemeye davet etmek için bunu Google E-Tablolar'a dönüştürün."
+   },
+   "sheet_sort_error_title": {
+      "message": "Bu hücre aralığı sıralanırken bir hata oluştu."
+   },
+   "sheet_sort_failure_msg": {
+      "message": "Bu hücre aralığı sıralanırken bir hata oluştu."
+   },
+   "sheet_sort_merged_cell_error": {
+      "message": "Birleştirilmiş hücreleri sıralayamazsınız."
+   },
+   "sheet_sort_merged_cell_error_title": {
+      "message": "Bu hücre aralığı sıralanırken bir hata oluştu."
+   },
+   "sheet_sort_one_cell_error": {
+      "message": "Sıralamak için lütfen birden fazla hücre seçin."
+   },
+   "sheet_sort_one_cell_error_title": {
+      "message": "Bu hücre aralığı sıralanırken bir hata oluştu."
+   },
+   "shift_key": {
+      "message": "Üst Karakter"
+   },
+   "shortcut": {
+      "message": "Kısayol $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sign_in": {
+      "message": "Oturum aç"
+   },
+   "slash_key": {
+      "message": "Eğik çizgi"
+   },
+   "something_not_right": {
+      "message": "Doğru olmayan bir şey var"
+   },
+   "storage_quota_exceed_error_msg": {
+      "message": "Chrome'da açık tüm Office dokümanlarını kapatın, sonra tekrar deneyin. Sorum devam ederse aşağıdan bildirin."
+   },
+   "storage_quota_exceed_error_short_msg": {
+      "message": "Maalesef dosyayı açamadık."
+   },
+   "strikethrough_aria_spoken_word": {
+      "message": "üstü çizili"
+   },
+   "style_aria_spoken_word": {
+      "message": "stil açılır listesi"
+   },
+   "submenu_spoken_text": {
+      "message": "$1 $2 $3 $4",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         }
+      }
+   },
+   "temporary_unable_to_open_error_msg": {
+      "message": "Daha sonra tekrar deneyin veya sorun devam ederse aşağıdan bildirin."
+   },
+   "temporary_unable_to_open_error_short_msg": {
+      "message": "Maalesef dosya geçici olarak açılamıyor."
+   },
+   "textaligncenter_aria_spoken_word": {
+      "message": "metin hizalama orta"
+   },
+   "textalignjustify_aria_spoken_word": {
+      "message": "metin hizalama yasla"
+   },
+   "textalignleft_aria_spoken_word": {
+      "message": "metin hizalama sol"
+   },
+   "textalignright_aria_spoken_word": {
+      "message": "metin hizalama sağ"
+   },
+   "textcolor_aria_spoken_word": {
+      "message": "metin rengi açılır listesi"
+   },
+   "textual_edit_error_msg": {
+      "message": "Dokümanınız biçimlendirilirken bir hata oluştu.\n\nDeğişikliklerinizi kurtarmak için sayfayı yeniden yükleyin."
+   },
+   "textual_edit_error_short_msg": {
+      "message": "Olmadı!"
+   },
+   "title_error_msg_for_merge_cells": {
+      "message": "Bir sorun oluştu"
+   },
+   "title_msg_merging_multiple_cells_with_text": {
+      "message": "Uyarı!"
+   },
+   "togglebulleted_aria_spoken_word": {
+      "message": "madde işaretli liste"
+   },
+   "togglenumbered_aria_spoken_word": {
+      "message": "numaralı liste"
+   },
+   "togglezoom_aria_spoken_word": {
+      "message": "değiştirilen yakınlaştırma"
+   },
+   "tooltip_background_color": {
+      "message": "Dolgu rengi"
+   },
+   "tooltip_bold": {
+      "message": "Kalın"
+   },
+   "tooltip_border": {
+      "message": "Kenarlıklar"
+   },
+   "tooltip_border_all": {
+      "message": "Tüm kenarlıklar"
+   },
+   "tooltip_border_bottom": {
+      "message": "Alt kenarlıklar"
+   },
+   "tooltip_border_horizontal": {
+      "message": "Yatay kenarlıklar"
+   },
+   "tooltip_border_inner": {
+      "message": "İç kenarlıklar"
+   },
+   "tooltip_border_left": {
+      "message": "Sol kenarlıklar"
+   },
+   "tooltip_border_none": {
+      "message": "Kenarlık yok"
+   },
+   "tooltip_border_outer": {
+      "message": "Dış kenarlıklar"
+   },
+   "tooltip_border_right": {
+      "message": "Sağ kenarlıklar"
+   },
+   "tooltip_border_top": {
+      "message": "Üst kenarlıklar"
+   },
+   "tooltip_border_vertical": {
+      "message": "Dikey kenarlıklar"
+   },
+   "tooltip_cell_align": {
+      "message": "Hücre hizalaması"
+   },
+   "tooltip_cell_h_align_center": {
+      "message": "Yatay orta"
+   },
+   "tooltip_cell_h_align_left": {
+      "message": "Yatay sol"
+   },
+   "tooltip_cell_h_align_right": {
+      "message": "Yatay sağ"
+   },
+   "tooltip_cell_v_align_bottom": {
+      "message": "Dikey alt"
+   },
+   "tooltip_cell_v_align_center": {
+      "message": "Dikey orta"
+   },
+   "tooltip_cell_v_align_top": {
+      "message": "Dikey üst"
+   },
+   "tooltip_download": {
+      "message": "İndir"
+   },
+   "tooltip_dropdown_init_add_shape": {
+      "message": "Şekil"
+   },
+   "tooltip_fill_color": {
+      "message": "Metin rengi"
+   },
+   "tooltip_font_face": {
+      "message": "Yazı tipi"
+   },
+   "tooltip_font_size": {
+      "message": "Yazı tipi boyutu"
+   },
+   "tooltip_highlight_color": {
+      "message": "Vurgu rengi"
+   },
+   "tooltip_init_add_shape": {
+      "message": "Metin kutusu"
+   },
+   "tooltip_italic": {
+      "message": "İtalik"
+   },
+   "tooltip_merge": {
+      "message": "Hücreleri birleştir"
+   },
+   "tooltip_merge_dropdown": {
+      "message": "Birleştirme türünü seçin..."
+   },
+   "tooltip_modify_shape_fill_color": {
+      "message": "Dolgu rengi"
+   },
+   "tooltip_modify_shape_outline_color": {
+      "message": "Çizgi rengi"
+   },
+   "tooltip_modify_shape_outline_style": {
+      "message": "Kesikli çizgi"
+   },
+   "tooltip_modify_shape_outline_width": {
+      "message": "Çizgi ağırlığı"
+   },
+   "tooltip_move_slide": {
+      "message": "$1 Slaydı Taşıyın",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "tooltip_point": {
+      "message": "Slaytlar ana sayfası"
+   },
+   "tooltip_point_toggle_bullet": {
+      "message": "Madde işaretli liste"
+   },
+   "tooltip_point_toggle_number": {
+      "message": "Numaralı liste"
+   },
+   "tooltip_presentation": {
+      "message": "Sunu"
+   },
+   "tooltip_print": {
+      "message": "Yazdır"
+   },
+   "tooltip_redo": {
+      "message": "Yeniden yap"
+   },
+   "tooltip_share": {
+      "message": "Paylaş"
+   },
+   "tooltip_share_for_macroenabledfiles": {
+      "message": "Makro içeren dosyalar yalnızca Google Drive'dan paylaşılabilir"
+   },
+   "tooltip_sheet": {
+      "message": "E-Tablolar ana sayfası"
+   },
+   "tooltip_strikethrough": {
+      "message": "Üstü çizili"
+   },
+   "tooltip_style": {
+      "message": "Stiller"
+   },
+   "tooltip_text_align_center": {
+      "message": "Ortala"
+   },
+   "tooltip_text_align_justify": {
+      "message": "Yasla"
+   },
+   "tooltip_text_align_left": {
+      "message": "Sola hizala"
+   },
+   "tooltip_text_align_right": {
+      "message": "Sağa hizala"
+   },
+   "tooltip_text_color": {
+      "message": "Metin rengi"
+   },
+   "tooltip_toggle_bulleted": {
+      "message": "Madde işaretli liste"
+   },
+   "tooltip_toggle_numbered": {
+      "message": "Numaralı liste"
+   },
+   "tooltip_toggle_zoom": {
+      "message": "Yakınlaştırmayı değiştir"
+   },
+   "tooltip_underline": {
+      "message": "Altı Çizili"
+   },
+   "tooltip_undo": {
+      "message": "Geri al"
+   },
+   "tooltip_word": {
+      "message": "Dokümanlar ana sayfası"
+   },
+   "tooltip_wrap_text": {
+      "message": "Metni kaydır"
+   },
+   "tooltip_zoom_in": {
+      "message": "Yakınlaştır"
+   },
+   "tooltip_zoom_out": {
+      "message": "Uzaklaştır"
+   },
+   "try_again": {
+      "message": "Tekrar dene"
+   },
+   "unable_to_execute_msg": {
+      "message": "Bu doküman açılamıyor."
+   },
+   "underline_aria_spoken_word": {
+      "message": "altı çizili"
+   },
+   "undo_aria_spoken_word": {
+      "message": "geri al"
+   },
+   "unmerge_aria_spoken_word": {
+      "message": "birleştirilenleri ayır"
+   },
+   "unsaved_changes": {
+      "message": "Kaydedilmeyen değişiklikler"
+   },
+   "unsaved_changes_warning": {
+      "message": "Bu dosyada kaydedilmeyen değişiklikler var. Değişiklikleri kaydetmeden bu sayfadan ayrılırsanız çalışmalarınız sonsuza kadar kaybolacaktır."
+   },
+   "unsupported_file_format_error_details_p1": {
+      "message": "Maalesef bu dosya, Microsoft® Office \"95 veya daha önceki bir sürümde oluşturulmuş içeriğe sahip ve bu içeriği açamıyoruz."
+   },
+   "unsupported_file_format_error_details_p2": {
+      "message": "Dosyayı, Google Dokümanlar dosyasına dönüştürmek isterseniz aşağıdaki bağlantıyı tıklayın."
+   },
+   "unsupported_file_format_error_title": {
+      "message": "Hata!"
+   },
+   "unsupported_link_message": {
+      "message": "Maalesef şu anda bu URL türünü desteklemiyoruz."
+   },
+   "up_key": {
+      "message": "Yukarı"
+   },
+   "updated_shortcut_message": {
+      "message": "Google Dokümanlar ürünleri genelinde tutarlı olmaları için klavye kısayollarımızı güncelledik. Güncellenmiş kısayollara yardım bölümünde göz atabilirsiniz."
+   },
+   "updated_shortcut_title": {
+      "message": "Güncellenmiş klavye kısayolları"
+   },
+   "version_info_msg": {
+      "message": "Office Uyumluluk Modu sürümünüz:"
+   },
+   "word_binary_upsave_learnmore": {
+      "message": "Daha fazla bilgi edinin"
+   },
+   "word_binary_upsave_msg": {
+      "message": "Bu dosya desteklenmeyen bir biçime sahip. Dosyayı kaydetmek üzere daha güncel bir dosya biçimine dönüştürmek için izninize ihtiyacımız var. Bu işlem orijinal dosyanızı etkilemeyecektir."
+   },
+   "word_binary_upsave_shortmsg": {
+      "message": "Dokümanınızı güncelleyin"
+   },
+   "word_count_label": {
+      "message": "Kelime Sayısı"
+   },
+   "word_count_title": {
+      "message": "Kelime sayısı"
+   },
+   "word_ocm_promo_conversion_msg": {
+      "message": "Office dosyalarını doğrudan Dokümanlar'da düzenleyebilir ve kaydedebilirsiniz. Düzenlemek veya yorum eklemek üzere başkalarını davet etmek için dosyayı Google Dokümanlar olarak kaydedin. İstediğiniz zaman tekrar orijinal biçimle kaydedebilirsiniz."
+   },
+   "word_share_promo_conversion_msg": {
+      "message": "Bu dokümanı paylaşmaya mı çalışıyorsunuz? Başkalarını sizinle birlikte dokümanı düzenlemeye davet etmek için dokümanı Google Slaytlar'a dönüştürün."
+   },
+   "wraptext_aria_spoken_word": {
+      "message": "metni kaydır"
+   },
+   "zoomin_aria_spoken_word": {
+      "message": "yakınlaştır"
+   },
+   "zoomout_aria_spoken_word": {
+      "message": "uzaklaştır"
+   }
+}

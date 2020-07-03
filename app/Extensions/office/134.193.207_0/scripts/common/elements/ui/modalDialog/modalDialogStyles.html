@@ -1,0 +1,227 @@
+<dom-module id="modal-dialog-styles">
+  <template>
+    <style>
+
+:host {
+  display: block;
+
+  background: white;
+
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  -webkit-animation: fade-in-dialog 0.1s ease-in 1;
+  animation: fade-in-dialog 0.1s ease-in 1;
+  border: 1px solid #acacac;
+  -webkit-box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  font-family: 'Open Sans', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  font-size: 13px;
+  padding: 30px 42px;
+  width: 326px;
+}
+
+
+:host::backdrop {
+  background: rgba(255, 255, 255, 0.75);
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  -webkit-animation: fade-in-background 0.1s ease-in 1;
+  animation: fade-in-background 0.1s ease-in 1;
+}
+
+
+@-webkit-keyframes fade-in-dialog {
+  from { opacity: 0.0; }
+  to   { opacity: 1.0; }
+}
+
+
+@keyframes fade-in-dialog {
+  from { opacity: 0.0; }
+  to   { opacity: 1.0; }
+}
+
+
+@-webkit-keyframes fade-in-background {
+  from { opacity: 0.0; }
+  to   { opacity: 0.75; }
+}
+
+
+@keyframes fade-in-background {
+  from { opacity: 0.0; }
+  to   { opacity: 0.75; }
+}
+
+
+:host header {
+  font-family: Arial;
+  font-size: 16px;
+  margin-bottom: 16px;
+}
+
+
+:host p {
+  font-family: Arial;
+  font-size: 13px;
+  margin-bottom: 0;
+  margin-top: 13;
+}
+
+
+:host p:first-of-type {
+  margin-top: 0;
+}
+
+
+:host .image {
+  /* Our UI design allows only for 200px tall images. */
+  height: 200px;
+  margin-bottom: 18px;
+  margin-top: 2px;
+}
+
+
+:host footer button.action:hover,
+:host footer button.action:active,
+:host footer button.action {
+  background-color: #4D90FE;
+  background-image: -webkit-linear-gradient(top, #4D90FE, #4787ED);
+  background-image: linear-gradient(top, #4D90FE, #4787ED);
+  border: 1px solid #3079ED;
+  color: #fff;
+}
+
+
+:host footer button {
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  cursor: default;
+  display: inline-block;
+  font-size: 11px;
+  font-weight: bold;
+  height: 29px;
+  margin: 40px 16px 0 0;
+  min-width: 72px;
+  outline: 0;
+  padding: 0 8px;
+  text-align: center;
+  -webkit-user-select: none;
+}
+
+
+:host footer button.affirmative {
+  background-color: #4d90fe;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#4d90fe), to(#4787ed));
+  background-image: -webkit-linear-gradient(top, #4d90fe, #4787ed);
+  background-image: linear-gradient(top, #4d90fe, #4787ed);
+  border: 1px solid #3079ed;
+  color: #fff;
+}
+
+
+:host footer button.negative {
+  background-color: #f5f5f5;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f5f5f5), to(#f1f1f1));
+  background-image: -webkit-linear-gradient(top, #f5f5f5, #f1f1f1);
+  background-image: linear-gradient(top, #f5f5f5, #f1f1f1);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  color: #333;
+}
+
+
+:host footer button:hover {
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+
+:host footer button.affirmative:hover {
+  background-color: #357ae8;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#4d90fe), to(#357ae8));
+  background-image: -webkit-linear-gradient(top, #4d90fe, #357ae8);
+  background-image: linear-gradient(top, #4d90fe, #357ae8);
+  border: 1px solid #2f5bb7;
+  color: #fff;
+}
+
+
+:host footer button.negative:hover {
+  background-color: #f8f8f8;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f8f8f8), to(#f1f1f1));
+  background-image: -webkit-linear-gradient(top, #f8f8f8, #f1f1f1);
+  background-image: linear-gradient(top, #f8f8f8, #f1f1f1);
+  border: 1px solid #c6c6c6;
+  color: #111;
+}
+
+
+:host footer button.affirmative:active {
+  background-color: #357ae8;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#4d90fe), to(#357ae8));
+  background-image: -webkit-linear-gradient(top, #4d90fe, #357ae8);
+  background-image: linear-gradient(top, #4d90fe, #357ae8);
+  border: 1px solid #2f5bb7;
+  -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.3);
+  color: #fff;
+}
+
+
+:host footer button.negative:active {
+  background-color: #f8f8f8;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f8f8f8), to(#f1f1f1));
+  background-image: -webkit-linear-gradient(top, #f8f8f8, #f1f1f1);
+  background-image: linear-gradient(top, #f8f8f8, #f1f1f1);
+  border: 1px solid #c6c6c6;
+  -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+  color: #111;
+}
+
+
+:host footer button.affirmative:focus {
+  -webkit-box-shadow: inset 0 0 0 1px #fff;
+  border: rgba(0, 0, 0, 0) solid 1px;
+  box-shadow: inset 0 0 0 1px #fff;
+  outline: rgba(0, 0, 0, 0) 0;
+}
+
+
+:host footer button.negative:focus {
+  border: 1px solid #4d90fe;
+}
+
+
+:host footer .rememberChoice {
+  margin-top: 10px;
+}
+
+
+:host footer .rememberChoice input {
+  margin-left: 0px;
+}
+
+
+#closeButton {
+  background-color: transparent;
+  background-image: -webkit-image-set(url('../../../../lib/qowt/assets/img/ui/dialog/close_dialog.png') 1x, url('../../../../lib/qowt/assets/img/ui/dialog/close_dialog_2x.png') 2x);
+  background-position: center;
+  background-repeat: no-repeat;
+  border: none;
+  height: 14px;
+  opacity: 0.7;
+  position: absolute;
+  right: 13px;
+  top: 13px;
+  width: 14px;
+}
+
+
+#closeButton:hover, #closeButton:focus, #closeButton:active {
+  opacity: 1.0;
+}
+
+    </style>
+  </template>
+</dom-module>

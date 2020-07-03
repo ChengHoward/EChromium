@@ -1,0 +1,141 @@
+#qowt-sheet-workbook .qowt-sheet-col-header-container::-webkit-scrollbar,
+#qowt-sheet-workbook .qowt-sheet-row-header-container::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+
+.qowt-sheet-container-panes .bottom-right::-webkit-scrollbar,
+.qowt-chart-sheet::-webkit-scrollbar {
+  right: 0;
+  bottom: 0;
+  background: whiteSmoke;
+}
+
+.qowt-sheet-container-panes .bottom-right::-webkit-scrollbar-button:horizontal:decrement,
+.qowt-chart-sheet::-webkit-scrollbar-button:horizontal:decrement {
+  background: no-repeat url("../img/ui/scrollbar/horizontal-arrow-decrement.png");
+  -webkit-background-size: 100% 100%;
+  border: 1px solid #aaa;
+}
+
+.qowt-sheet-container-panes .bottom-right::-webkit-scrollbar-button:horizontal:increment,
+.qowt-chart-sheet::-webkit-scrollbar-button:horizontal:increment {
+  background: no-repeat url("../img/ui/scrollbar/horizontal-arrow-increment.png");
+  -webkit-background-size: 100% 100%;
+  border: 1px solid #aaa;
+}
+
+.qowt-sheet-container-panes .bottom-right::-webkit-scrollbar-button:vertical:decrement,
+.qowt-chart-sheet::-webkit-scrollbar-button:vertical:decrement {
+  background: no-repeat url("../img/ui/scrollbar/vertical-arrow-decrement.png");
+  -webkit-background-size: 100% 100%;
+  border: 1px solid #aaa;
+}
+
+.qowt-sheet-container-panes .bottom-right::-webkit-scrollbar-button:vertical:increment,
+.qowt-chart-sheet::-webkit-scrollbar-button:vertical:increment {
+  background: no-repeat url("../img/ui/scrollbar/vertical-arrow-increment.png");
+  -webkit-background-size: 100% 100%;
+  border: 1px solid #aaa;
+}
+
+.qowt-sheet-container-panes .bottom-right::-webkit-scrollbar-button:hover,
+.qowt-chart-sheet::-webkit-scrollbar-button:hover {
+  background-color: rgba(0, 0, 0, 0.3) !important;
+}
+
+.qowt-sheet-container-panes .bottom-right::-webkit-scrollbar-button:horizontal:decrement:active,
+.qowt-chart-sheet::-webkit-scrollbar-button:horizontal:decrement:active {
+  background: no-repeat url("../img/ui/scrollbar/horizontal-arrow-decrement-active.png") !important;
+  -webkit-background-size: 100% 100% !important;
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+.qowt-sheet-container-panes .bottom-right::-webkit-scrollbar-button:horizontal:increment:active,
+.qowt-chart-sheet::-webkit-scrollbar-button:horizontal:increment:active {
+  background: no-repeat url("../img/ui/scrollbar/horizontal-arrow-increment-active.png") !important;
+  -webkit-background-size: 100% 100% !important;
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+.qowt-sheet-container-panes .bottom-right::-webkit-scrollbar-button:vertical:decrement:active,
+.qowt-chart-sheet::-webkit-scrollbar-button:vertical:decrement:active {
+  background: no-repeat url("../img/ui/scrollbar/vertical-arrow-decrement-active.png") !important;
+  -webkit-background-size: 100% 100% !important;
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+.qowt-sheet-container-panes .bottom-right::-webkit-scrollbar-button:vertical:increment:active,
+.qowt-chart-sheet::-webkit-scrollbar-button:vertical:increment:active {
+  background: no-repeat url("../img/ui/scrollbar/vertical-arrow-increment-active.png") !important;
+  -webkit-background-size: 100% 100% !important;
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+.qowt-sheet-container-panes .bottom-right::-webkit-scrollbar-corner,
+.qowt-chart-sheet::-webkit-scrollbar-corner {
+  background: #f5f5f5;
+}
+
+.qowt-sheet-container-panes .bottom-right::-webkit-scrollbar-button:start,
+.qowt-chart-sheet::-webkit-scrollbar-button:start {
+  display: none;
+}
+
+.qowt-sheet-container-panes .bottom-right::-webkit-scrollbar-button:end,
+.qowt-chart-sheet::-webkit-scrollbar-button:end {
+  display: block;
+}
+
+.qowt-sheet-container-panes .bottom-right::-webkit-scrollbar-track,
+.qowt-chart-sheet::-webkit-scrollbar-track {
+  border: 1px solid #aaa;
+}
+
+.qowt-sheet-container-panes .bottom-right::-webkit-scrollbar-thumb:hover,
+.qowt-chart-sheet::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.qowt-sheet-container-panes .bottom-right::-webkit-scrollbar-thumb,
+.qowt-chart-sheet::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.3) inset;
+}
+
+.qowt-sheet-container-panes .bottom-right::-webkit-scrollbar-thumb:active,
+.qowt-chart-sheet::-webkit-scrollbar-thumb:active {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* The following section has been moved from the app to QOWT.
+  TODO: Check if it is still needed or not. It may be old stuff. */
+
+.qowt-sheet-container-panes::-webkit-scrollbar-button:start:decrement,
+.qowt-sheet-container-panes::-webkit-scrollbar-button:end:increment {
+  display: block;
+  height: 0;
+  width: 0;
+}
+
+.qowt-sheet-container-panes::-webkit-scrollbar-button:vertical:increment,
+.qowt-sheet-container-panes::-webkit-scrollbar-button:horizontal:increment {
+  background-color: transparent;
+  display: block;
+  height: 0;
+  width: 0;
+}
+
+.qowt-sheet-container-panes::-webkit-scrollbar-track-piece {
+  border: 1px solid #aaa;
+}
+
+.qowt-sheet-container-panes::-webkit-scrollbar-thumb:vertical {
+  background-color: #aaa;
+}
+
+.qowt-sheet-container-panes::-webkit-scrollbar-thumb:horizontal {
+  background-color: #aaa;
+}
+
+/* DONE SECTION */

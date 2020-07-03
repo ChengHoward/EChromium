@@ -1,0 +1,2910 @@
+{
+   "action_create_user_feedback": {
+      "description": "Button label. Button to encourage the user to report issues observed in the app. Word, Sheet and Point all have such a button available, always visible on the screen.",
+      "message": "Report an issue"
+   },
+   "alt_key": {
+      "description": "Text to be spoken for alt key",
+      "message": "Alt"
+   },
+   "app_error_learn_more": {
+      "description": "Dialog link text. The link people can use to be taken to the support pages in case an error occurred. (Seen on bottom of Error dialog as informative hyperlink).",
+      "message": "Learn more"
+   },
+   "app_error_report_feedback": {
+      "description": "Dialog link text. The link people can use to be taken to the chrome feedback UI in case an error occurred.",
+      "message": "Report feedback"
+   },
+   "app_icon_aria_spoken_word": {
+      "description": "ARIA spoken words for app icon. ARIA for app icon is combination of app type(wordsheetpoint) +  home. For eg, for word app it will be - word home, for sheet app it will be - sheet home, for point app it will be - point home.",
+      "message": " home"
+   },
+   "app_nacl_crash_msg": {
+      "description": "Error dialog detail text. Shown whenever we detect the plugin has crashed. See previous.",
+      "message": "Help us by reporting the issue."
+   },
+   "app_nacl_crash_report": {
+      "description": "Generic error message detail, shown with above previous whenever we detect the plugin has crashed.",
+      "message": "Report an issue..."
+   },
+   "app_nacl_crash_title": {
+      "description": "Error dialog title. Generic error shown whenever we detect the plugin has crashed.",
+      "message": "Whoops. That wasn't supposed to happen - reload the page to recover your changes."
+   },
+   "app_nacl_error_load_failed": {
+      "description": "Error dialog detailed text. Shown when plugin fails to load a file.",
+      "message": "Sorry, we couldn't open the file. Close other Chrome tabs or restart Chrome, then try again. If the problem continues, report the issue below."
+   },
+   "app_nacl_error_title": {
+      "description": "Error dialog title. Shown when plugin fails on opening a file.",
+      "message": "The file cannot be opened."
+   },
+   "app_nacl_error_unsupported_device": {
+      "description": "Error dialog detailed text. Shown when naCl load fails for unsupported device.",
+      "message": "This device doesn't support the Chrome extension Office Editing for Docs, Sheets & Slides."
+   },
+   "app_saving_failed_error_msg": {
+      "description": "Error dialog title. Generic message title shown when a save fails.",
+      "message": "Sorry, there was a problem while saving the file. Try saving again. If the problem continues then please report the issue."
+   },
+   "app_saving_failed_error_short_msg": {
+      "description": "Error dialog title. Generic message title shown when a save fails.",
+      "message": "File cannot be saved."
+   },
+   "backgroundcolor_aria_spoken_word": {
+      "description": "ARIA spoken word for sheet cell background color drop down button.",
+      "message": "cell background color drop down list"
+   },
+   "bold_aria_spoken_word": {
+      "description": "ARIA spoken word for toolbar buttons.",
+      "message": "bold"
+   },
+   "border_all_aria_spoken_word": {
+      "description": "ARIA spoken word for border toolbar buttons.",
+      "message": "all border"
+   },
+   "border_aria_spoken_word": {
+      "description": "ARIA spoken word for border toolbar buttons.",
+      "message": "border drop down list"
+   },
+   "border_bottom_aria_spoken_word": {
+      "description": "ARIA spoken word for border buttons.",
+      "message": "bottom border"
+   },
+   "border_horizontal_aria_spoken_word": {
+      "description": "ARIA spoken word for border buttons.",
+      "message": "horizontal border"
+   },
+   "border_inner_aria_spoken_word": {
+      "description": "ARIA spoken word for border buttons.",
+      "message": "inner border"
+   },
+   "border_left_aria_spoken_word": {
+      "description": "ARIA spoken word for border buttons.",
+      "message": "left border"
+   },
+   "border_none_aria_spoken_word": {
+      "description": "ARIA spoken word for border buttons.",
+      "message": "none border"
+   },
+   "border_outer_aria_spoken_word": {
+      "description": "ARIA spoken word for border buttons.",
+      "message": "outer border"
+   },
+   "border_right_aria_spoken_word": {
+      "description": "ARIA spoken word for border buttons.",
+      "message": "right border"
+   },
+   "border_top_aria_spoken_word": {
+      "description": "ARIA spoken word for border buttons.",
+      "message": "top border"
+   },
+   "border_vertical_aria_spoken_word": {
+      "description": "ARIA spoken word for border buttons.",
+      "message": "vertical border"
+   },
+   "button_ocm_convert_cancel": {
+      "description": "Negative button for OCM promotion dialog, to cancel the dialog. All apps.",
+      "message": "Cancel"
+   },
+   "button_ocm_promo_conversion_point": {
+      "description": "Point-specific OCM promotion dialog affirmative button text. Point app only. Triggered from the point-apps file menu save as google docs.",
+      "message": "Save as Google Slides"
+   },
+   "button_ocm_promo_conversion_sheet": {
+      "description": "Sheet-specific OCM promotion dialog affirmative button text. Sheet app only. Triggered from the sheet-apps file menu save as google docs.",
+      "message": "Save as Google Sheets"
+   },
+   "button_ocm_promo_conversion_word": {
+      "description": "Word-specific OCM promotion dialog affirmative button text. Word app only. Triggered from the word-apps file menu save as google docs.",
+      "message": "Save as Google Docs"
+   },
+   "button_share_convert_cancel": {
+      "description": "Dialog negative button text All editor apps. The cancel button, present on the Share promo dialog from the Share toolbar button.",
+      "message": "Cancel"
+   },
+   "button_share_promo_conversion_point": {
+      "description": "Dialog affirmative button text. Point only. Present on the Share promotion dialog from the Share toolbar button.",
+      "message": "Save as Google Slides"
+   },
+   "button_share_promo_conversion_sheet": {
+      "description": "Dialog affirmative button text. Sheet only. Present on the Share promotion dialog from the Share toolbar button.",
+      "message": "Save as Google Sheets"
+   },
+   "button_share_promo_conversion_word": {
+      "description": "Dialog affirmative button text. Word only. Present on the Share promotion dialog from the Share toolbar button.",
+      "message": "Save as Google Docs"
+   },
+   "cell_align_aria_spoken_word": {
+      "description": "Cell align dropdown",
+      "message": "Cell Align"
+   },
+   "cellalign_aria_spoken_word": {
+      "description": "ARIA spoken word for sheet cell align drop down button.",
+      "message": "cell align drop down list"
+   },
+   "cellhaligncenter_aria_spoken_word": {
+      "description": "Horizontal center align button",
+      "message": "Horizontal center"
+   },
+   "cellhalignleft_aria_spoken_word": {
+      "description": "Horizontal left align button",
+      "message": "Horizontal left"
+   },
+   "cellhalignright_aria_spoken_word": {
+      "description": "Horizontal right align button",
+      "message": "Horizontal right"
+   },
+   "cellvalignbottom_aria_spoken_word": {
+      "description": "Vertical bottom align button",
+      "message": "Vertical bottom"
+   },
+   "cellvaligncenter_aria_spoken_word": {
+      "description": "Vertical center align button",
+      "message": "Vertical center"
+   },
+   "cellvaligntop_aria_spoken_word": {
+      "description": "Vertical top align button",
+      "message": "Vertical top"
+   },
+   "char_count_label": {
+      "description": "Label to show character count in document.",
+      "message": "Characters"
+   },
+   "char_no_spaces_count_label": {
+      "description": "Label to show character excluding spaces count in document.",
+      "message": "Characters excluding spaces"
+   },
+   "close_dialog_aria_spoken_word": {
+      "description": "ARIA spoken word for modal dialog close button. This label is specific to dialog boxes.",
+      "message": "Close dialog"
+   },
+   "cmd_dropdown_initaddshape_aria_spoken_word": {
+      "description": "ARIA spoken word for add shape drop down in Point.",
+      "message": "shape drop down list "
+   },
+   "collapsed": {
+      "description": "General purpose text to denote if a list is collapsed",
+      "message": "Collapsed"
+   },
+   "collapsed_menu": {
+      "description": "Text to be spoken for collapsed menu with its label",
+      "message": "$MENU_ARIA_LABEL$ Collapsed with submenu.",
+      "placeholders": {
+         "menu_aria_label": {
+            "content": "$1",
+            "example": "Tools"
+         }
+      }
+   },
+   "color_black": {
+      "description": "Black color",
+      "message": "Black"
+   },
+   "color_blaze_orange": {
+      "description": "Blaze orange color",
+      "message": "Blaze Orange"
+   },
+   "color_blue": {
+      "description": "Blue color",
+      "message": "Blue"
+   },
+   "color_brown": {
+      "description": "Brown color",
+      "message": "Brown"
+   },
+   "color_cornflower_blue": {
+      "description": "Cornflower blue  color",
+      "message": "Cornflower blue"
+   },
+   "color_cyan": {
+      "description": "Cyan color",
+      "message": "Cyan"
+   },
+   "color_dark_blue": {
+      "description": "Dark blue  color",
+      "message": "Dark blue"
+   },
+   "color_dark_blue_1": {
+      "description": "Dark blue 1 color",
+      "message": "Dark blue 1"
+   },
+   "color_dark_blue_2": {
+      "description": "Dark blue 2 color",
+      "message": "Dark blue 2"
+   },
+   "color_dark_blue_3": {
+      "description": "Dark blue 3 color",
+      "message": "Dark blue 3"
+   },
+   "color_dark_blue_grey": {
+      "description": "Dark blue grey color",
+      "message": "Dark blue grey"
+   },
+   "color_dark_cornflower_blue_1": {
+      "description": "Dark cornflower blue 1 color",
+      "message": "Dark cornflower blue 1"
+   },
+   "color_dark_cornflower_blue_2": {
+      "description": "Dark cornflower blue 2 color",
+      "message": "Dark cornflower blue 2"
+   },
+   "color_dark_cornflower_blue_3": {
+      "description": "Dark cornflower blue 3 color",
+      "message": "Dark cornflower blue 3"
+   },
+   "color_dark_cyan": {
+      "description": "Dark cyan color",
+      "message": "Dark cyan"
+   },
+   "color_dark_cyan_1": {
+      "description": "Dark cyan 1 color",
+      "message": "Dark cyan 1"
+   },
+   "color_dark_cyan_2": {
+      "description": "Dark cyan 2 color",
+      "message": "Dark cyan 2"
+   },
+   "color_dark_cyan_3": {
+      "description": "Dark cyan 3 color",
+      "message": "Dark cyan 3"
+   },
+   "color_dark_gray": {
+      "description": "Dark gray color",
+      "message": "Dark gray"
+   },
+   "color_dark_gray_1": {
+      "description": "Dark gray 1 color",
+      "message": "Dark gray 1"
+   },
+   "color_dark_gray_2": {
+      "description": "Dark gray 2 color",
+      "message": "Dark gray 2"
+   },
+   "color_dark_gray_3": {
+      "description": "Dark gray 3 color",
+      "message": "Dark gray 3"
+   },
+   "color_dark_gray_4": {
+      "description": "Dark gray 4 color",
+      "message": "Dark gray 4"
+   },
+   "color_dark_green": {
+      "description": "Dark green color",
+      "message": "Dark green"
+   },
+   "color_dark_green_1": {
+      "description": "Dark green 1 color",
+      "message": "Dark green 1"
+   },
+   "color_dark_green_2": {
+      "description": "Dark green 2 color",
+      "message": "Dark green 2"
+   },
+   "color_dark_green_3": {
+      "description": "Dark green 3 color",
+      "message": "Dark green 3"
+   },
+   "color_dark_green_5": {
+      "description": "Drak green 5 color",
+      "message": "Dark green 5"
+   },
+   "color_dark_grey_2": {
+      "description": "Dark grey 2 color",
+      "message": "Dark grey 2"
+   },
+   "color_dark_grey_5": {
+      "description": "Dark grey 5 color",
+      "message": "Dark grey 5"
+   },
+   "color_dark_magenta_1": {
+      "description": "Dark magenta 1 color",
+      "message": "Dark magenta 1"
+   },
+   "color_dark_magenta_2": {
+      "description": "Dark magenta 2 color",
+      "message": "Dark magenta 2"
+   },
+   "color_dark_magenta_3": {
+      "description": "Dark magenta 3 color",
+      "message": "Dark magenta 3"
+   },
+   "color_dark_olive_green": {
+      "description": "Dark olive green color",
+      "message": "Dark olive green"
+   },
+   "color_dark_orange_1": {
+      "description": "Dark orange 1 color",
+      "message": "Dark orange 1"
+   },
+   "color_dark_orange_2": {
+      "description": "Dark orange 2 color",
+      "message": "Dark orange 2"
+   },
+   "color_dark_orange_3": {
+      "description": "Dark orange 3 color",
+      "message": "Dark orange 3"
+   },
+   "color_dark_purple_1": {
+      "description": "Dark purple 1 color",
+      "message": "Dark purple 1"
+   },
+   "color_dark_purple_2": {
+      "description": "Dark purple 2 color",
+      "message": "Dark purple 2"
+   },
+   "color_dark_purple_3": {
+      "description": "Dark purple 3 color",
+      "message": "Dark purple 3"
+   },
+   "color_dark_red": {
+      "description": "Dark red color",
+      "message": "Dark red"
+   },
+   "color_dark_red_1": {
+      "description": "Dark red 1 color",
+      "message": "Dark red 1"
+   },
+   "color_dark_red_2": {
+      "description": "Dark red 2 color",
+      "message": "Dark red 2"
+   },
+   "color_dark_red_3": {
+      "description": "Dark red 3 color",
+      "message": "Dark red 3"
+   },
+   "color_dark_red_berry_1": {
+      "description": "Dark red berry 1 color",
+      "message": "Dark red berry 1"
+   },
+   "color_dark_red_berry_2": {
+      "description": "Dark red berry 2 color",
+      "message": "Dark red berry 2"
+   },
+   "color_dark_red_berry_3": {
+      "description": "Dark red berry 3 color",
+      "message": "Dark red berry 3"
+   },
+   "color_dark_slate_blue": {
+      "description": "Dark slate blue color",
+      "message": "Dark Slate Blue"
+   },
+   "color_dark_yellow_1": {
+      "description": "Dark yellow 1 color",
+      "message": "Dark yellow 1"
+   },
+   "color_dark_yellow_2": {
+      "description": "Dark yellow 2 color",
+      "message": "Dark yellow 2"
+   },
+   "color_dark_yellow_3": {
+      "description": "Dark yellow 3 color",
+      "message": "Dark yellow 3"
+   },
+   "color_deep_pink": {
+      "description": "Deep pink color",
+      "message": "Deep Pink"
+   },
+   "color_deep_sky_blue": {
+      "description": "Deep sky blue color",
+      "message": "Deep Sky Blue"
+   },
+   "color_eucalyptus_green": {
+      "description": "Eucalyptus green color",
+      "message": "Eucalyptus Green"
+   },
+   "color_gold": {
+      "description": "Gold color",
+      "message": "Gold"
+   },
+   "color_gray": {
+      "description": "Gray color",
+      "message": "Gray"
+   },
+   "color_green": {
+      "description": "Green color",
+      "message": "Green"
+   },
+   "color_light_blue": {
+      "description": "Light blue color",
+      "message": "Light Blue"
+   },
+   "color_light_blue_1": {
+      "description": "Light blue 1 color",
+      "message": "Light blue 1"
+   },
+   "color_light_blue_2": {
+      "description": "Light blue 2 color",
+      "message": "Light blue 2"
+   },
+   "color_light_blue_3": {
+      "description": "Light blue 3 color",
+      "message": "Light blue 3"
+   },
+   "color_light_cornflower_blue_1": {
+      "description": "Light cornflower blue 1 color",
+      "message": "Light cornflower blue 1"
+   },
+   "color_light_cornflower_blue_2": {
+      "description": "Light cornflower blue 2 color",
+      "message": "Light cornflower blue 2"
+   },
+   "color_light_cornflower_blue_3": {
+      "description": "Light cornflower blue 3 color",
+      "message": "Light cornflower blue 3"
+   },
+   "color_light_cyan": {
+      "description": "Light cyan color",
+      "message": "Light Cyan"
+   },
+   "color_light_cyan_1": {
+      "description": "Light cyan 1 color",
+      "message": "Light cyan 1"
+   },
+   "color_light_cyan_2": {
+      "description": "Light cyan 2 color",
+      "message": "Light cyan 2"
+   },
+   "color_light_cyan_3": {
+      "description": "Light cyan 3 color",
+      "message": "Light cyan 3"
+   },
+   "color_light_gray": {
+      "description": "Light gray color",
+      "message": "Light gray"
+   },
+   "color_light_gray_1": {
+      "description": "Light gray 1 color",
+      "message": "Light gray 1"
+   },
+   "color_light_gray_2": {
+      "description": "Light gray 2 color",
+      "message": "Light gray 2"
+   },
+   "color_light_gray_3": {
+      "description": "Light gray 3 color",
+      "message": "Light gray 3"
+   },
+   "color_light_green": {
+      "description": "Light green color",
+      "message": "Light Green"
+   },
+   "color_light_green_1": {
+      "description": "Light green 1 color",
+      "message": "Light green 1"
+   },
+   "color_light_green_2": {
+      "description": "Light green 2 color",
+      "message": "Light green 2"
+   },
+   "color_light_green_3": {
+      "description": "Light green 3 color",
+      "message": "Light green 3"
+   },
+   "color_light_magenta_1": {
+      "description": "Light magenta 1 color",
+      "message": "Light magenta 1"
+   },
+   "color_light_magenta_2": {
+      "description": "Light magenta 2 color",
+      "message": "Light magenta 2"
+   },
+   "color_light_magenta_3": {
+      "description": "Light magenta 3 color",
+      "message": "Light magenta 3"
+   },
+   "color_light_orange_1": {
+      "description": "Light orange 1 color",
+      "message": "Light orange 1"
+   },
+   "color_light_orange_2": {
+      "description": "Light orange 2 color",
+      "message": "Light orange 2"
+   },
+   "color_light_orange_3": {
+      "description": "Light orange 3 color",
+      "message": "Light orange 3"
+   },
+   "color_light_purple": {
+      "description": "Light purple color",
+      "message": "Light Purple"
+   },
+   "color_light_purple_1": {
+      "description": "Light purple 1 color",
+      "message": "Light purple 1"
+   },
+   "color_light_purple_2": {
+      "description": "Light purple 2 color",
+      "message": "Light purple 2"
+   },
+   "color_light_purple_3": {
+      "description": "Light purple 3 color",
+      "message": "Light purple 3"
+   },
+   "color_light_red_1": {
+      "description": "Light red 1 color",
+      "message": "Light red 1"
+   },
+   "color_light_red_2": {
+      "description": "Light red 2 color",
+      "message": "Light red 2"
+   },
+   "color_light_red_3": {
+      "description": "Light red 3 color",
+      "message": "Light red 3"
+   },
+   "color_light_red_berry_1": {
+      "description": "Light red berry 1 color",
+      "message": "Light red berry 1"
+   },
+   "color_light_red_berry_2": {
+      "description": "Light red berry 2 color",
+      "message": "Light red berry 2"
+   },
+   "color_light_red_berry_3": {
+      "description": "Light red berry 3 color",
+      "message": "Light red berry 3"
+   },
+   "color_light_yellow": {
+      "description": "Light yellow color",
+      "message": "Light Yellow"
+   },
+   "color_light_yellow_1": {
+      "description": "Light yellow 1 color",
+      "message": "Light yellow 1"
+   },
+   "color_light_yellow_2": {
+      "description": "Light yellow 2 color",
+      "message": "Light yellow 2"
+   },
+   "color_light_yellow_3": {
+      "description": "Light yellow 3 color",
+      "message": "Light yellow 3"
+   },
+   "color_magenta": {
+      "description": "Magenta color",
+      "message": "Magenta"
+   },
+   "color_maroon": {
+      "description": "Maroon color",
+      "message": "Maroon"
+   },
+   "color_midnight_blue": {
+      "description": "Midnight blue color",
+      "message": "Midnight Blue"
+   },
+   "color_navy": {
+      "description": "Navy blue color",
+      "message": "Navy blue"
+   },
+   "color_olive": {
+      "description": "Olive color",
+      "message": "Olive"
+   },
+   "color_orange": {
+      "description": "Orange color",
+      "message": "Orange"
+   },
+   "color_peach": {
+      "description": "Peach color",
+      "message": "Peach"
+   },
+   "color_pink": {
+      "description": "Pink color",
+      "message": "Pink"
+   },
+   "color_pistachio": {
+      "description": "Pistachio color",
+      "message": "Pistachio"
+   },
+   "color_purple": {
+      "description": "Purple color",
+      "message": "Purple"
+   },
+   "color_red": {
+      "description": "Red color",
+      "message": "Red"
+   },
+   "color_red_berry": {
+      "description": "Red berry color",
+      "message": "Red berry"
+   },
+   "color_royal_blue": {
+      "description": "Royal blue color",
+      "message": "Royal Blue"
+   },
+   "color_teal": {
+      "description": "Teal  color",
+      "message": "Teal"
+   },
+   "color_turquiose": {
+      "description": "Turquiose color",
+      "message": "Turquiose"
+   },
+   "color_white": {
+      "description": "White color",
+      "message": "White"
+   },
+   "color_yellow": {
+      "description": "Yellow color",
+      "message": "Yellow"
+   },
+   "command_key": {
+      "description": "Text to be spoken for command key",
+      "message": "Command"
+   },
+   "content_msg_merging_horizontally_across_vertical_section": {
+      "description": "Content message for merge cell. This message will shown when user selects a existing merged cell for mergeHorizontally option.",
+      "message": "You can't merge horizontally across an existing vertically merged section."
+   },
+   "content_msg_merging_multiple_cells_with_text": {
+      "description": "Content message for merge cell. This message will shown when user selects multiple cells having text to merge.",
+      "message": "Merging cells will only preserve the top-leftmost value. Merge anyway?"
+   },
+   "content_msg_merging_partially_selected_merged_cells": {
+      "description": "Content message for merge cell. This message will shown when user partially selects a existing merged cell for merge operation. This is typically the case of selecting an entire rowcolumn which has some cells merged whose range extends that rowcolumn.",
+      "message": "You must select all cells in a merged range to merge or unmerge them."
+   },
+   "content_msg_merging_vertically_across_horizontal_section": {
+      "description": "Content message for merge cell. This message will shown when user selects a existing merged cell for mergeVertically option.",
+      "message": "You can't merge vertically across an existing horizontally merged section."
+   },
+   "content_render_error_msg": {
+      "description": "Error dialog body text. Reflects an error across app generally in response to a failed command to openget file content. eg during file opening.",
+      "message": "There was a problem with the content of this document."
+   },
+   "context_menu_clipboard_copy": {
+      "description": "Context menu label. All apps. Command label to copy selected data to system clipboard.",
+      "message": "Copy"
+   },
+   "context_menu_delete": {
+      "description": "Context menu label. Sheet only. Shown when either whole rows or cols are selected. Deletes selected rows or cols in the grid.",
+      "message": "Delete"
+   },
+   "context_menu_freeze": {
+      "description": "Context menu label. Sheet only. Command to freeze worksheet rows and columns at current cell. Single word shown in small flyout context sensitive menu.",
+      "message": "Freeze"
+   },
+   "context_menu_insert": {
+      "description": "Context menu label. Sheet only. Shown when either whole rows or cols are selected. Inserts new rowscols into the grid.",
+      "message": "Insert"
+   },
+   "context_menu_sort_collation_ascending": {
+      "description": "Context menu label. Sheet only. Command to set ascending sort order according to current collation. Here a-z represents english standard alaphabet collation.",
+      "message": "Sort a-z"
+   },
+   "context_menu_sort_collation_descending": {
+      "description": "Context menu label. Sheet only. Command to set descending sort order according to current collation. Here z-a represents english standard alaphabet collation.",
+      "message": "Sort z-a"
+   },
+   "context_menu_unfreeze": {
+      "description": "Context menu label. Sheet only. Command to unfreeze all frozen worksheet rows and columns. Single word shown in small flyout context sensitive menu.",
+      "message": "Unfreeze"
+   },
+   "control_key": {
+      "description": "Text to be spoken for control key",
+      "message": "Control"
+   },
+   "convert_attempt_when_offline": {
+      "description": "Dialog body text. Tells the user that they have attempted to convert  to Google Docs whilst offline.",
+      "message": "You need to be online to save as Google Docs. Try again when your connection is restored."
+   },
+   "convert_attempt_with_invalid_creds": {
+      "description": "Dialog body text. Tells the user that they have attempted to convert to Google Docs without the necessary credentials (e.g. they are logged out of Drive).",
+      "message": "You need to sign in to your Google Account in order to convert this file."
+   },
+   "convert_cancel": {
+      "description": "Text on the Cancel button of the convert-to-google-docs-format dialog box.",
+      "message": "Cancel"
+   },
+   "convert_to_google_docs_failed": {
+      "description": "Dialog body text. Tells the user that an attempt to convert to Google Docs has failed Note for translators: |Google Docs| here refers to the brand |Google Docs|.",
+      "message": "There was an issue converting your document to Google Docs."
+   },
+   "convert_to_google_point_fail_short_msg": {
+      "description": "Dialog title Show user that conversion from Office PowerPoint format to Google Slides format failed.",
+      "message": "Oops"
+   },
+   "convert_to_google_point_short_msg": {
+      "description": "Dialog title Show the progress of the task to convert the file to a Google Slides file. NOTE: the use of Google Slides is subject to specific branding and thus you must check the rules on translation of that phrase.",
+      "message": "Saving as Google Slides"
+   },
+   "convert_to_google_sheet_fail_short_msg": {
+      "description": "Dialog title Show user that conversion from Office Excel format to Google Sheets format failed.",
+      "message": "Oops"
+   },
+   "convert_to_google_sheet_short_msg": {
+      "description": "Dialog title Show the progress of the task to convert the file to a Google Sheets file. NOTE: the use of Google Sheets is subject to specific branding and thus you must check the rules on translation of that phrase.",
+      "message": "Saving as Google Sheets"
+   },
+   "convert_to_google_word_fail_short_msg": {
+      "description": "Dialog title Show user that conversion from Office Word format to Google Docs format failed.",
+      "message": "Oops"
+   },
+   "convert_to_google_word_short_msg": {
+      "description": "Dialog title Show the progress of the task to convert the file to a Google Docs file. NOTE: the use of Google Docs is subject to specific branding and thus you must check the rules on translation of that phrase.",
+      "message": "Saving as Google Docs"
+   },
+   "convert_try_again": {
+      "description": "Text on the Try Again button of the convert-to-google-docs-format dialog box.",
+      "message": "Try Again"
+   },
+   "converting_to_google_point_fail_msg": {
+      "description": "Dialog body text Tell user that something went wrong when saving an Office PowerPoint file as Google Slides. NOTE: the use of Google Slides is subject to specific branding and thus you must check the rules on translation of that phrase.",
+      "message": "We couldn't save your file as Google Slides at this time."
+   },
+   "converting_to_google_point_msg": {
+      "description": "Dialog body text Tells the user what it is that is happening that the user is waiting for. Appears on the convert-to-google-docs progress dialog.",
+      "message": "Saving a new version of your presentation as Google Slides."
+   },
+   "converting_to_google_sheet_fail_msg": {
+      "description": "Dialog body text Tell user that something went wrong when saving an Office Excel file as Google Sheets. NOTE: the use of Google Sheets is subject to specific branding and thus you must check the rules on translation of that phrase.",
+      "message": "We couldn't save your file as Google Sheets at this time."
+   },
+   "converting_to_google_sheet_msg": {
+      "description": "Dialog body text Tells the user what it is that is happening that the user is waiting for. Appears on the convert-to-google-docs progress dialog.",
+      "message": "Saving a new version of your spreadsheet as Google Sheets."
+   },
+   "converting_to_google_word_fail_msg": {
+      "description": "Dialog body text Tell user that something went wrong when saving an Office Word file as Google Docs. NOTE: the use of Google Docs is subject to specific branding and thus you must check the rules on translation of that phrase.",
+      "message": "We couldn't save your file as Google Docs at this time."
+   },
+   "converting_to_google_word_msg": {
+      "description": "Dialog body text Tells the user what it is that is happening that the user is waiting for. Appears on the convert-to-google-docs progress dialog.",
+      "message": "Saving a new version of your document as Google Docs."
+   },
+   "copy_attempt_when_offline": {
+      "description": "Dialog body text. Tells the user that they have attempted to make a copy on Drive whilst offline.",
+      "message": "You need to be online to make a copy on Google Drive. Try again when your connection is restored."
+   },
+   "copy_attempt_with_invalid_creds": {
+      "description": "Dialog body text. Tells the user that they have attempted to make a copy on Drive without the necessary credentials (e.g. they are logged out of Drive).",
+      "message": "You need to sign in to your Google Account in order to make a copy."
+   },
+   "disabled_share_button": {
+      "description": "ARIA spoken word for Disabled Share button.",
+      "message": "Macro-enabled files can only be shared from Google Drive. Disabled Sharing."
+   },
+   "disallowed_cut_copy_paste_cmd_copy": {
+      "description": "Copy cmd label that is placed under the CTRL+C shortcut in the disallowed cut/copy/paste dialog.",
+      "message": "for copy"
+   },
+   "disallowed_cut_copy_paste_cmd_cut": {
+      "description": "Cut cmd label that is placed under the CTRL+X shortcut in the disallowed cut/copy/paste dialog.",
+      "message": "for cut"
+   },
+   "disallowed_cut_copy_paste_cmd_paste": {
+      "description": "Paste cmd label that is placed under the CTRL+V shortcut in the disallowed cut/copy/paste dialog.",
+      "message": "for paste"
+   },
+   "disallowed_cut_copy_paste_msg": {
+      "description": "Warning message for disallowed cut/copy/paste dialog.",
+      "message": "These actions are unavailable using the Edit and Context menus, but you can still use:"
+   },
+   "disallowed_cut_copy_paste_title": {
+      "description": "Title for disallowed cut copy paste dialog that shows the disallowed cut/copy/paste message.",
+      "message": "Copy and Paste in Office Compatibility Mode"
+   },
+   "dismiss": {
+      "description": "Butter bar dismiss text.",
+      "message": "Dismiss"
+   },
+   "document_title_aria_spoken_word": {
+      "description": "ARIA spoken words for document title. The name of document will be appended after this message. For eg. Document title: test.docx.",
+      "message": "Document title: "
+   },
+   "down_key": {
+      "description": "Text to be spoken for down key",
+      "message": "Down"
+   },
+   "download_button": {
+      "description": "Coloured button on the toolbar header. Standard Google Download button.",
+      "message": "Download"
+   },
+   "download_file_timeout_error_msg": {
+      "description": "Warning details for timeout when downloading a file timeouts; this is a fatal error.",
+      "message": "The file you are opening is taking longer than expected to load. Check your network connection and try again."
+   },
+   "download_file_timeout_error_short_msg": {
+      "description": "Warning title for timeout when downloading a file timeouts; this is a fatal error.",
+      "message": "File is taking longer than expected"
+   },
+   "drive_open_timeout_error_msg": {
+      "description": "Crash screen body text. Error shown when a |Timeout| Drive error occurs while opening a file.",
+      "message": "It looks like there may be a problem with your internet connection. Please check your connection and retry opening the file. If you continue to receive this error and are online, please report an issue below."
+   },
+   "drive_open_timeout_error_short_msg": {
+      "description": "Crash screen title text. Error shown when a |Timeout| Drive error occurs while opening a file.",
+      "message": "Whoops. We were unable to open the file you requested."
+   },
+   "duplicate_sheet_name_message": {
+      "description": "Notification text to prompt the user to choose another name for the active sheet.",
+      "message": "Enter a sheet name that is not in use by another sheet"
+   },
+   "duplicate_sheet_name_title": {
+      "description": "Notification text that the sheet name entered for the active sheet is already present for another sheet.",
+      "message": "That sheet name is already in use"
+   },
+   "edits_not_being_saved": {
+      "description": "Bacon bar main text.",
+      "message": "Edits will not be automatically saved."
+   },
+   "edits_now_being_auto_saved": {
+      "description": "Butter bar main text.",
+      "message": "File saved. All edits will now be saved automatically."
+   },
+   "entry_point_error_msg": {
+      "description": "Error dialog body text.",
+      "message": "Please try again or report an issue below."
+   },
+   "entry_point_error_short_msg": {
+      "description": "Error dialog title text. Error shown when we can not determine the entry point of a file.",
+      "message": "Whoops. We were unable to determine which file you wanted to open."
+   },
+   "error_occurred": {
+      "description": "Notification text that an error occurred during editing. It is a general error notification applicable to Word, Sheet and Point. Notification text on the app menu bar.",
+      "message": "An error occurred."
+   },
+   "error_password_required_msg": {
+      "description": "Error dialog body text. Whilst we do not support password entry, we show this explanatory error text. The file will be closed on error dismissal. TODO(dusk): Remove or change this text when we do support password entry for protected files.",
+      "message": "We do not support protected files today, but we are working on it."
+   },
+   "error_password_required_short_msg": {
+      "description": "Error dialog title. Shown when we try to open a password protected file.",
+      "message": "This file is password protected."
+   },
+   "expanded": {
+      "description": "General purpose text to denote if a list is expanded",
+      "message": "Expanded"
+   },
+   "expanded_menu": {
+      "description": "Text to be spoken for expanded menu with its label",
+      "message": "$MENU_ARIA_LABEL$ Expanded with submenu.",
+      "placeholders": {
+         "menu_aria_label": {
+            "content": "$1",
+            "example": "Tools"
+         }
+      }
+   },
+   "extension_description": {
+      "description": "The description of the application, displayed in extensions manager.",
+      "message": "View and edit Microsoft Word, Excel, and PowerPoint files with Google Docs, Sheets, and Slides"
+   },
+   "extension_name": {
+      "description": "The name of the application, displayed in extensions manager.",
+      "message": "Office Editing for Docs, Sheets & Slides"
+   },
+   "extension_popup_message_body": {
+      "description": "Message to be shown to the user when he clicks on the extension icon",
+      "message": "To open existing files, drag and drop them into the browser"
+   },
+   "extension_popup_new_document_header": {
+      "description": "The new document menu header.",
+      "message": "New..."
+   },
+   "extension_popup_new_presentation_document": {
+      "description": "New presentation document option in extension popup.",
+      "message": "Powerpoint presentation"
+   },
+   "extension_popup_new_spreadsheet_document": {
+      "description": "New spreadsheet document option in extension popup.",
+      "message": "Excel spreadsheet"
+   },
+   "extension_popup_new_word_document": {
+      "description": "New word document option in extension popup.",
+      "message": "Word document"
+   },
+   "feedback_textbox_editing": {
+      "description": "Text for a feedback report saying the user would like to request text box editing.",
+      "message": "Please support editing of text inside text boxes."
+   },
+   "feedback_ui_template": {
+      "description": "Template text to be pre-populated in the feedback UI dialogue.",
+      "message": "1- Please describe the problem you encountered.\n2- Did the issue occur while trying to open a file, or while trying to edit a file?\n3- Does this issue occur anytime you try to open or edit any files, or just with specific files?\n\nIf this issue is specific to a file, please feel free to attach that file to this report, as it will be very helpful in allowing us to troubleshoot the issue more thoroughly."
+   },
+   "file_does_not_exist_error_details": {
+      "description": "Error dialog body text.",
+      "message": "This file does not exist. You may have tried to open a shared link or a bookmarked document. Please try to reopen the file from its original source."
+   },
+   "file_does_not_exist_error_title": {
+      "description": "Error dialog title text. Error shown when trying to open a file that is an unsupported file format All apps.",
+      "message": "File not found."
+   },
+   "file_loading_spinner_label": {
+      "description": "Loading string in lower left corner displayed when a document is loaded in the viewer.",
+      "message": "Loading"
+   },
+   "file_missing_content_msg": {
+      "description": "Warning details that not all the content was retrieved when opening the document; this is a non-fatal error.",
+      "message": "There was a problem reading the entire content of this file; we recommend you try re-naming and re-opening the file"
+   },
+   "file_missing_content_short_msg": {
+      "description": "Warning title that not all the content was retrieved when opening the document; this is a non-fatal error.",
+      "message": "The document is missing content."
+   },
+   "file_not_found_error_msg": {
+      "description": "Crash screen body text. Error shown when a |file not found| Drive error occurs.",
+      "message": "Please check with the owner of the file to ensure you have permission to access it. If you continue to receive this error and have permission, please report an issue below."
+   },
+   "file_not_found_error_short_msg": {
+      "description": "Crash screen title text. Error shown when a |file not found| Drive error occurs.",
+      "message": "Whoops. We were unable to open the file you requested."
+   },
+   "file_not_found_exception": {
+      "description": "Error message when file is renamed or deleted or moved by user",
+      "message": "The requested file might be deleted, renamed or moved to another location. Please click 'Save now' to proceed further."
+   },
+   "file_not_found_link_text": {
+      "description": "Crash screen link text. Error shown when a |file not found| Drive error occurs.",
+      "message": "For help with multiple accounts, please see this article"
+   },
+   "file_not_found_msg": {
+      "description": "Error shown when file downloads (blue links) fail to be downloaded.",
+      "message": "The file you've requested has up and moved."
+   },
+   "file_not_found_title": {
+      "description": "Error shown when file downloads (blue links) fail to be downloaded or the file being autosaved is deleted, renamed or moved to another location.",
+      "message": "File not found."
+   },
+   "file_open_crash_error_msg": {
+      "description": "Crash screen body text. Error shown when an error occurs during file opening.",
+      "message": "If you continue to experience an error, please report an issue below."
+   },
+   "file_open_crash_error_short_msg": {
+      "description": "Crash screen title text. Error shown when an error occurs during file opening.",
+      "message": "Whoops. We were unable to open the file you requested."
+   },
+   "file_open_error_msg": {
+      "description": "Error dialog body text.",
+      "message": "The contents of this file aren't accessible."
+   },
+   "file_open_error_short_msg": {
+      "description": "Error dialog title text. Error shown we an openDocument command fails.",
+      "message": "This file appears corrupt."
+   },
+   "file_open_fail_download_link_text": {
+      "description": "When a file fails to open, the error dialog offers a |download| link so the user can download the linked file and access it anyway. This string is the text for this |download anyway| link. Note this is only used for streams that failed to open. It is not used for local files.",
+      "message": "Download the file"
+   },
+   "file_opened_in_incognito_mode_error_details": {
+      "description": "Error dialog body text.",
+      "message": "The Office editing extension does not work in Incognito. Please open this file using a normal Chrome window. If you are using guest mode then the file failed to open. Please ensure that your file is not corrupt or an invalid document type and try again."
+   },
+   "file_opened_in_incognito_mode_error_title": {
+      "description": "Error dialog title text. Error shown when trying to open a file in Incognito mode of the browser. All apps.",
+      "message": "Whoops! Incognito mode unsupported"
+   },
+   "file_pdf_type_rename_msg": {
+      "description": "Crash screen body text. This is shown when error occurs while opening a pdf file with .doc[x] extension.",
+      "message": "Rename the file to $FILE_NAME$.pdf and try again.",
+      "placeholders": {
+         "file_name": {
+            "content": "$1",
+            "example": "sampleFile"
+         }
+      }
+   },
+   "file_rtf_type_rename_msg": {
+      "description": "Crash screen body text. This is shown when error occurs while opening a rtf file with .doc[x] extension.",
+      "message": "Rename the file to $FILE_NAME$.rtf",
+      "placeholders": {
+         "file_name": {
+            "content": "$1",
+            "example": "sampleFile"
+         }
+      }
+   },
+   "file_type_unsupported_msg": {
+      "description": "Crash screen title text. Error shown when a error occurs while opening unsupported file.",
+      "message": "This file type isn't supported."
+   },
+   "fillcolor_aria_spoken_word": {
+      "description": "ARIA spoken word for text fill color drop down in Point.",
+      "message": "text color drop down list "
+   },
+   "fontface_aria_spoken_word": {
+      "description": "ARIA spoken word for toolbar buttons.",
+      "message": "font face drop down list"
+   },
+   "fontsize_aria_spoken_word": {
+      "description": "ARIA spoken word for toolbar buttons.",
+      "message": "font size drop down list"
+   },
+   "forbidden_access_level_error_msg": {
+      "description": "Crash screen body text. Error shown when a |Forbidden| Drive error occurs while opening a file. 403: Invalid accessLevel. This method requires at least {requiredAcl} level access to act on the file with ID {fileId}.",
+      "message": "Please check with the owner of the file to ensure that you have permission to open this file. If you continue to receive this error and have permission, please report an issue below."
+   },
+   "forbidden_access_level_error_short_msg": {
+      "description": "Crash screen title text. Error shown when a |Forbidden| Drive error occurs while opening a file. 403: Invalid accessLevel. This method requires at least {requiredAcl} level access to act on the file with ID {fileId}.",
+      "message": "Whoops. We were unable to open the file you requested."
+   },
+   "forbidden_app_access_error_msg": {
+      "description": "Crash screen body text.",
+      "message": "For some reason we don't have permission to open this file. Please try opening the file from Google Drive, or report an issue below."
+   },
+   "forbidden_app_access_error_short_msg": {
+      "description": "Crash screen title text. Error shown when a |Forbidden| Drive error occurs while opening a file. 403: The authenticated user has not granted the app {appId} access to the file {fileId}.",
+      "message": "Whoops. We were unable to open the file you requested."
+   },
+   "forbidden_app_id_error_msg": {
+      "description": "Crash screen body text. Error shown when a |Forbidden| Drive error occurs while opening a file. 403: The app with id {appId} does not exist or is not properly configured as a Google Drive app.",
+      "message": "It looks like the Chrome extension is not properly configured. How is this possible? We're not entirely sure, but please report an issue below."
+   },
+   "forbidden_app_id_error_short_msg": {
+      "description": "Crash screen title text. Error shown when a |Forbidden| Drive error occurs while opening a file. 403: The app with id {appId} does not exist or is not properly configured as a Google Drive app.",
+      "message": "Whoops. We were unable to open the file you requested."
+   },
+   "forbidden_blacklist_error_msg": {
+      "description": "Crash screen body text. Error shown when a |Forbidden| Drive error occurs while opening a file. 403: The app with id {appId} is blacklisted as a Google Drive app.",
+      "message": "It looks like this Chrome extension has been blacklisted. This is clearly a mistake, so please tell us about it by reporting an issue below."
+   },
+   "forbidden_blacklist_error_short_msg": {
+      "description": "Crash screen title text. Error shown when a |Forbidden| Drive error occurs while opening a file. 403: The app with id {appId} is blacklisted as a Google Drive app.",
+      "message": "Whoops. We were unable to open the file you requested."
+   },
+   "forbidden_domain_error_msg": {
+      "description": "Crash screen body text. Error shown when a |Forbidden| Drive error occurs while opening a file. 403: App with id {appId} cannot be used within the authenticated users domain.",
+      "message": "It looks like your domain has prohibited access to this file. Please contact your domain administrator or report an issue below."
+   },
+   "forbidden_domain_error_short_msg": {
+      "description": "Crash screen title text. Error shown when a |Forbidden| Drive error occurs while opening a file. 403: App with id {appId} cannot be used within the authenticated users domain.",
+      "message": "Whoops. We were unable to open the file you requested."
+   },
+   "forbidden_internal_error_msg": {
+      "description": "Crash screen body text. Error shown when a |Internal Server Error| Drive error occurs while opening a file. (Error 500).",
+      "message": "Unfortunately, Google Drive is not working as expected. Please try opening your file again, or report an issue below."
+   },
+   "forbidden_internal_error_short_msg": {
+      "description": "Crash screen title text. Error shown when a |Internal Server Error| Drive error occurs while opening a file. (Error 500).",
+      "message": "Whoops. We were unable to open the file you requested."
+   },
+   "forbidden_not_installed_error_msg": {
+      "description": "Crash screen body text. Error shown when a |Forbidden| Drive error occurs while opening a file. 403: The authenticated user has not installed the app with client id {clientId}.",
+      "message": "It looks like the Chrome extension isn't installed properly. How is that possible? We're not entirely sure, but please report an issue below."
+   },
+   "forbidden_not_installed_error_short_msg": {
+      "description": "Crash screen title text. Error shown when a |Forbidden| Drive error occurs while opening a file. 403: The authenticated user has not installed the app with client id {clientId}.",
+      "message": "Whoops. We were unable to open the file you requested."
+   },
+   "generic_error_msg": {
+      "description": "Error dialog body text. Longer message for a generic error, can be used as the main text body in a dialog.",
+      "message": "There was a problem with the content of this document."
+   },
+   "generic_error_short_msg": {
+      "description": "Dialog title. Short message for a generic error, used as a title in a dialog.",
+      "message": "Whoops. That wasn't supposed to happen - reload the page to recover your changes."
+   },
+   "get_lists_data_error_msg": {
+      "description": "Error dialog body text. Word only. List style data was not read from the file, so list formatting may be wrong.",
+      "message": "The document may render with incorrect list formatting."
+   },
+   "get_lists_data_error_short_msg": {
+      "description": "Error dialog title. Word only. List style data was not read from the file, so list formatting may be wrong.",
+      "message": "Could not retrieve document formatting."
+   },
+   "highlightcolor_aria_spoken_word": {
+      "description": "ARIA spoken word for toolbar buttons.",
+      "message": "text highlight color drop down list"
+   },
+   "http_error_zero_msg": {
+      "message": "In case it's a network problem, please check your connection or try again later. If the problem continues, report the issue below."
+   },
+   "http_error_zero_short_msg": {
+      "description": "Error dialog body text.",
+      "message": "Sorry, we couldn't open the file."
+   },
+   "info_file_copied": {
+      "description": "Button bar notification in the Viewers. Notifies the user a file save (file copy) operation has completed successfully.",
+      "message": "Saved"
+   },
+   "info_file_save_cancelled": {
+      "description": "Activity notification in the Editors. Notifies the user that a file save operation has been cancelled.",
+      "message": "Saving cancelled."
+   },
+   "info_file_save_failed": {
+      "description": "Activity notification in the Editors. Notifies the user that a file save operation has failed.",
+      "message": "Saving failed."
+   },
+   "info_file_saved_at_location": {
+      "description": "Activity notification in the Editors. Notifies the user that a file save operation at given location has completed successfully.",
+      "message": "All changes saved at $FILE_PATH$",
+      "placeholders": {
+         "file_path": {
+            "content": "$1",
+            "example": "/home/folder/sample.docx"
+         }
+      }
+   },
+   "info_file_saved_in_drive": {
+      "description": "Activity notification in the Editors. Notifies the user that a file save operation to Drive has completed successfully. Note for translators: |Drive| here refers to the brand |Google Drive|.",
+      "message": "All changes saved in Drive"
+   },
+   "info_file_saved_locally": {
+      "description": "Activity notification in the Editors. Notifies the user that a file save operation has completed successfully.",
+      "message": "All changes saved locally"
+   },
+   "info_file_saved_offline": {
+      "description": "Activity notification in the Editors. Notifies the user that a file save operation to Drive has only resulted in the changes being saved offline (because there was no internet connection to save them to Drive).",
+      "message": "All changes saved offline"
+   },
+   "info_file_saving": {
+      "description": "Button bar notification. Notifies the user that a user_initiated file save operation is startedongoing. The ellipsis indicate ongoing activity.",
+      "message": "Saving…"
+   },
+   "initaddshape_aria_spoken_word": {
+      "description": "ARIA spoken word for add shape button in Point.",
+      "message": "add text box"
+   },
+   "invalid_credentials_error_msg": {
+      "description": "Crash screen body text. Error shown when a |invalid credentials| Drive error occurs while opening a file.",
+      "message": "You need to sign in to your Google Account in order to access this file."
+   },
+   "invalid_credentials_error_short_msg": {
+      "description": "Crash screen title text. Error shown when a |invalid credentials| Drive error occurs while opening a file.",
+      "message": "Whoops. We were unable to open the file you requested."
+   },
+   "invalid_file_format_msg": {
+      "description": "Error dialog body text.",
+      "message": "Even though the file looks like an Office document and has an Office file extension, it's actually a different file type that was renamed or changed in some way, or it's a file type that we don't support."
+   },
+   "invalid_file_format_short_msg": {
+      "description": "Error dialog title text. Error shown when trying to open a file that is an invalid file format. All apps.",
+      "message": "Whoops, it looks like we can't open this type of document."
+   },
+   "italic_aria_spoken_word": {
+      "description": "ARIA spoken word for toolbar buttons.",
+      "message": "italic"
+   },
+   "keyboard_shortcut_group_actions": {
+      "description": "Keyboard Shortcut Actions group. All apps. Note: This is name of a grouping that will be listed in the keyboard shortcuts dialog.",
+      "message": "Actions"
+   },
+   "keyboard_shortcut_group_other": {
+      "description": "Keyboard Shortcut Other group. All apps. Note: This is name of a grouping that will be listed in the keyboard shortcuts dialog.",
+      "message": "Other"
+   },
+   "keyboard_shortcut_group_paragraph_formatting": {
+      "description": "Keyboard Shortcut Paragraph Formatting group. All apps. Note: This is name of a grouping that will be listed in the keyboard shortcuts dialog.",
+      "message": "Paragraph formatting"
+   },
+   "keyboard_shortcut_group_text_formatting": {
+      "description": "Keyboard Shortcut Text Formatting group. All apps. Note: This is name of a grouping that will be listed in the keyboard shortcuts dialog.",
+      "message": "Text Formatting"
+   },
+   "keyboard_shortcut_group_top_menus": {
+      "description": "Keyboard Shortcut Top level menu group. All apps. Note: This is name of a grouping that will be listed in the keyboard shortcuts dialog.",
+      "message": "Menus"
+   },
+   "keyboard_shortcut_group_with_slides": {
+      "description": "Keyboard Shortcut With Slides group. Point only. Note: This is name of a grouping that will be listed in the keyboard shortcuts dialog.",
+      "message": "With Slides"
+   },
+   "keyboard_shortcut_title": {
+      "description": "Title of the keyboard shortcuts dialog. All Apps.",
+      "message": "Keyboard Shortcuts"
+   },
+   "make_a_copy_fail_msg": {
+      "description": "Dialog body text Tell user that something went wrong when making a copy of a file.",
+      "message": "We couldn't make a copy at this time."
+   },
+   "menu_button_data": {
+      "description": "Name of the top-level app menu item for the |Data| menu. At least in Sheet Show only in the editor products.",
+      "message": "Data"
+   },
+   "menu_button_edit": {
+      "description": "Name of the top-level app menu item for the |Edit| menu. All apps. Show only in the editor products.",
+      "message": "Edit"
+   },
+   "menu_button_file": {
+      "description": "Name of the top-level app menu item for the |File| menu. All apps. Show only in the editor products.",
+      "message": "File"
+   },
+   "menu_button_format": {
+      "description": "Name of the top-level app menu item for the |Format| menu. All apps. Show only in the editor products.",
+      "message": "Format"
+   },
+   "menu_button_help": {
+      "description": "Name of the top-level app menu item for the |Help| menu. All apps. Show only in the editor products.",
+      "message": "Help"
+   },
+   "menu_button_insert": {
+      "description": "Name of the top-level app menu item for the |Insert| menu. All apps. Show only in the editor products.",
+      "message": "Insert"
+   },
+   "menu_button_slide": {
+      "description": "Name of the top-level app menu item for the |Slide| menu. Point only. Show only in the editor products.",
+      "message": "Slide"
+   },
+   "menu_button_tools": {
+      "description": "Name of the top-level app menu item for the |Tools| menu. Word only.",
+      "message": "Tools"
+   },
+   "menu_button_view": {
+      "description": "Name of the top-level app menu item for the |View| menu. At least in Sheet Show only in the editor products.",
+      "message": "View"
+   },
+   "menu_item_10_point_star": {
+      "description": "Callouts submenu item- 10-Point Star",
+      "message": "10-Point Star"
+   },
+   "menu_item_12_point_star": {
+      "description": "Callouts submenu item- 12-Point Star",
+      "message": "12-Point Star"
+   },
+   "menu_item_16_point_star": {
+      "description": "Callouts submenu item- 16-Point Star",
+      "message": "16-Point Star"
+   },
+   "menu_item_24_point_star": {
+      "description": "Callouts submenu item- 24-Point Star",
+      "message": "24-Point Star"
+   },
+   "menu_item_32_point_star": {
+      "description": "Callouts submenu item- 32-Point Star",
+      "message": "32-Point Star"
+   },
+   "menu_item_4_point_star": {
+      "description": "Callouts submenu item- 4-Point Star",
+      "message": "4-Point Star"
+   },
+   "menu_item_5_point_star": {
+      "description": "Callouts submenu item- 5-Point Star",
+      "message": "5-Point Star"
+   },
+   "menu_item_6_point_star": {
+      "description": "Callouts submenu item- 6-Point Star",
+      "message": "6-Point Star"
+   },
+   "menu_item_7_point_star": {
+      "description": "Callouts submenu item- 7-Point Star",
+      "message": "7-Point Star"
+   },
+   "menu_item_8_point_star": {
+      "description": "Callouts submenu item- 8-Point Star",
+      "message": "8-Point Star"
+   },
+   "menu_item_align": {
+      "description": "Menu item. Launches a sub-menu with alignment options. All apps. Show only in the editor products.",
+      "message": "Align"
+   },
+   "menu_item_align_center": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Center"
+   },
+   "menu_item_align_justified": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Justified"
+   },
+   "menu_item_align_left": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Left"
+   },
+   "menu_item_align_right": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Right"
+   },
+   "menu_item_arrows": {
+      "description": "Arrows submenu",
+      "message": "Arrows"
+   },
+   "menu_item_bent_arrow": {
+      "description": "Arrows submenu item- Bent Arrow",
+      "message": "Bent Arrow"
+   },
+   "menu_item_bent_up_arrow": {
+      "description": "Arrows submenu item- Bent-Up Arrow",
+      "message": "Bent-Up Arrow"
+   },
+   "menu_item_bevel": {
+      "description": "Shapes submenu item- Bevel",
+      "message": "Bevel"
+   },
+   "menu_item_block_arc": {
+      "description": "Shapes submenu item- Block Arc",
+      "message": "Block Arc"
+   },
+   "menu_item_bold": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Bold"
+   },
+   "menu_item_callouts": {
+      "description": "Callouts submenu",
+      "message": "Callouts"
+   },
+   "menu_item_can": {
+      "description": "Shapes submenu item- Can",
+      "message": "Can"
+   },
+   "menu_item_chevron": {
+      "description": "Arrows submenu item- Chevron",
+      "message": "Chevron"
+   },
+   "menu_item_chord": {
+      "description": "Shapes submenu item- Chord",
+      "message": "Chord"
+   },
+   "menu_item_clear_formatting": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Clear formatting"
+   },
+   "menu_item_cloud": {
+      "description": "Shapes submenu item- Cloud",
+      "message": "Cloud"
+   },
+   "menu_item_cloud_callout": {
+      "description": "Callouts submenu item- Cloud Callout",
+      "message": "Cloud Callout"
+   },
+   "menu_item_color_none": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "None"
+   },
+   "menu_item_color_transparent": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Transparent"
+   },
+   "menu_item_convert_to_docs": {
+      "description": "Menu item in Word Triggers a conversion from Office format to Google Doc document format. Pay specific attention to the branding reference to Google Docs.",
+      "message": "Save as Google Docs"
+   },
+   "menu_item_convert_to_sheets": {
+      "description": "Menu item in Sheet Triggers a conversion from Office format to Google Sheets document format. Pay specific attention to the branding reference to Google Sheets.",
+      "message": "Save as Google Sheets"
+   },
+   "menu_item_convert_to_slides": {
+      "description": "Menu item in Point Triggers a conversion from Office format to Google Slides document format. Pay specific attention to the branding reference to Google Slides.",
+      "message": "Save as Google Slides"
+   },
+   "menu_item_copy": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Copy"
+   },
+   "menu_item_cross": {
+      "description": "Shapes submenu item- Cross",
+      "message": "Cross"
+   },
+   "menu_item_cube": {
+      "description": "Shapes submenu item- Cube",
+      "message": "Cube"
+   },
+   "menu_item_curved_down_arrow": {
+      "description": "Arrows submenu item- Curved Down Arrow",
+      "message": "Curved Down Arrow"
+   },
+   "menu_item_curved_left_arrow": {
+      "description": "Arrows submenu item- Curved Left Arrow",
+      "message": "Curved Left Arrow"
+   },
+   "menu_item_curved_right_arrow": {
+      "description": "Arrows submenu item- Curved Right Arrow",
+      "message": "Curved Right Arrow"
+   },
+   "menu_item_curved_up_arrow": {
+      "description": "Arrows submenu item- Curved Up Arrow",
+      "message": "Curved Up Arrow"
+   },
+   "menu_item_cut": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Cut"
+   },
+   "menu_item_decagon": {
+      "description": "Shapes submenu item- Decagon",
+      "message": "Decagon"
+   },
+   "menu_item_delete_column": {
+      "description": "Menu item. Sheet only. Show only in the editor products.",
+      "message": "Delete column"
+   },
+   "menu_item_delete_row": {
+      "description": "Menu item. Sheet only. Show only in the editor products.",
+      "message": "Delete row"
+   },
+   "menu_item_delete_value": {
+      "description": "Menu item. Sheet only. Show only in the editor products.",
+      "message": "Delete value"
+   },
+   "menu_item_deleteslide": {
+      "description": "Menu item. Point  app. Show only in the editor products.",
+      "message": "Delete Slide"
+   },
+   "menu_item_diagonal_stripe": {
+      "description": "Shapes submenu item- Diagonal Stripe",
+      "message": "Diagonal Stripe"
+   },
+   "menu_item_diamond": {
+      "description": "Shapes submenu item- Diamond",
+      "message": "Diamond"
+   },
+   "menu_item_divide": {
+      "description": "Equation submenu item - Divide",
+      "message": "Divide"
+   },
+   "menu_item_dodecagon": {
+      "description": "Shapes submenu item- Dodecagon",
+      "message": "Dodecagon"
+   },
+   "menu_item_donut": {
+      "description": "Shapes submenu item- Donut",
+      "message": "Donut"
+   },
+   "menu_item_double_brace": {
+      "description": "Equation submenu item - Double Brace",
+      "message": "Double Brace"
+   },
+   "menu_item_double_bracket": {
+      "description": "Equation submenu item - Double Bracket",
+      "message": "Double Bracket"
+   },
+   "menu_item_down_arrow": {
+      "description": "Arrows submenu item- Down Arrow",
+      "message": "Down Arrow"
+   },
+   "menu_item_down_arrow_callout": {
+      "description": "Arrows submenu item- Down Arrow Callout",
+      "message": "Down Arrow Callout"
+   },
+   "menu_item_duplicateslide": {
+      "description": "Menu item. Point  app. Show only in the editor products.",
+      "message": "Duplicate Slide"
+   },
+   "menu_item_equal": {
+      "description": "Equation submenu item - Equal",
+      "message": "Equal"
+   },
+   "menu_item_equation": {
+      "description": "Equation submenu",
+      "message": "Equation"
+   },
+   "menu_item_explosion_1": {
+      "description": "Callouts submenu item- Explosion 1",
+      "message": "Explosion 1"
+   },
+   "menu_item_explosion_2": {
+      "description": "Callouts submenu item- Explosion 2",
+      "message": "Explosion 2"
+   },
+   "menu_item_flowchart_alternate_process": {
+      "description": "Shapes submenu item- Flowchart: Alternate Process",
+      "message": "Flowchart: Alternate Process"
+   },
+   "menu_item_flowchart_card": {
+      "description": "Shapes submenu item- Flowchart: Card",
+      "message": "Flowchart: Card"
+   },
+   "menu_item_flowchart_collate": {
+      "description": "Shapes submenu item- Flowchart: Collate",
+      "message": "Flowchart: Collate"
+   },
+   "menu_item_flowchart_connector": {
+      "description": "Shapes submenu item- Flowchart: Connector",
+      "message": "Flowchart: Connector"
+   },
+   "menu_item_flowchart_data": {
+      "description": "Shapes submenu item- Flowchart: Data",
+      "message": "Flowchart: Data"
+   },
+   "menu_item_flowchart_decision": {
+      "description": "Shapes submenu item- Flowchart: Decision",
+      "message": "Flowchart: Decision"
+   },
+   "menu_item_flowchart_delay": {
+      "description": "Shapes submenu item- Flowchart: Delay",
+      "message": "Flowchart: Delay"
+   },
+   "menu_item_flowchart_direct_access_storage": {
+      "description": "Shapes submenu item- Flowchart: Direct Access Storage",
+      "message": "Flowchart: Direct Access Storage"
+   },
+   "menu_item_flowchart_display": {
+      "description": "Shapes submenu item- Flowchart: Display",
+      "message": "Flowchart: Display"
+   },
+   "menu_item_flowchart_document": {
+      "description": "Shapes submenu item- Flowchart: Document",
+      "message": "Flowchart: Document"
+   },
+   "menu_item_flowchart_extract": {
+      "description": "Shapes submenu item- Flowchart: Extract",
+      "message": "Flowchart: Extract"
+   },
+   "menu_item_flowchart_internal_storage": {
+      "description": "Shapes submenu item- Flowchart: Internal Storage",
+      "message": "Flowchart: Internal Storage"
+   },
+   "menu_item_flowchart_magnetic_disk": {
+      "description": "Shapes submenu item- Flowchart: Magnetic Disk",
+      "message": "Flowchart: Magnetic Disk"
+   },
+   "menu_item_flowchart_manual_input": {
+      "description": "Shapes submenu item- Flowchart: Manual Input",
+      "message": "Flowchart: Manual Input"
+   },
+   "menu_item_flowchart_manual_operation": {
+      "description": "Shapes submenu item- Flowchart: Manual Operation",
+      "message": "Flowchart: Manual Operation"
+   },
+   "menu_item_flowchart_merge": {
+      "description": "Shapes submenu item- Flowchart: Merge",
+      "message": "Flowchart: Merge"
+   },
+   "menu_item_flowchart_multidocument": {
+      "description": "Shapes submenu item- Flowchart: Multidocument",
+      "message": "Flowchart: Multidocument"
+   },
+   "menu_item_flowchart_off_page_connector": {
+      "description": "Shapes submenu item- Flowchart: Off-page Connector",
+      "message": "Flowchart: Off-page Connector"
+   },
+   "menu_item_flowchart_or": {
+      "description": "Shapes submenu item- Flowchart: Or",
+      "message": "Flowchart: Or"
+   },
+   "menu_item_flowchart_predefined_process": {
+      "description": "Shapes submenu item- Flowchart: Predefined Process",
+      "message": "Flowchart: Predefined Process"
+   },
+   "menu_item_flowchart_preparation": {
+      "description": "Shapes submenu item- Flowchart: Preparation",
+      "message": "Flowchart: Preparation"
+   },
+   "menu_item_flowchart_process": {
+      "description": "Shapes submenu item- Flowchart: Process",
+      "message": "Flowchart: Process"
+   },
+   "menu_item_flowchart_punched_tape": {
+      "description": "Shapes submenu item- Flowchart: Punched Tape",
+      "message": "Flowchart: Punched Tape"
+   },
+   "menu_item_flowchart_sequential_access_storage": {
+      "description": "Shapes submenu item- Flowchart: Sequential Access Storage",
+      "message": "Flowchart: Sequential Access Storage"
+   },
+   "menu_item_flowchart_sort": {
+      "description": "Shapes submenu item- Flowchart: Sort",
+      "message": "Flowchart: Sort"
+   },
+   "menu_item_flowchart_stored_data": {
+      "description": "Shapes submenu item- Flowchart: Stored Data",
+      "message": "Flowchart: Stored Data"
+   },
+   "menu_item_flowchart_summing_junction": {
+      "description": "Shapes submenu item- Flowchart: Summing Junction",
+      "message": "Flowchart: Summing Junction"
+   },
+   "menu_item_flowchart_terminator": {
+      "description": "Shapes submenu item- Flowchart: Terminator",
+      "message": "Flowchart: Terminator"
+   },
+   "menu_item_folded_corner": {
+      "description": "Shapes submenu item- Folded Corner",
+      "message": "Folded Corner"
+   },
+   "menu_item_frame": {
+      "description": "Shapes submenu item- Frame",
+      "message": "Frame"
+   },
+   "menu_item_half_frame": {
+      "description": "Shapes submenu item- Half Frame",
+      "message": "Half Frame"
+   },
+   "menu_item_heart": {
+      "description": "Shapes submenu item- Heart",
+      "message": "Heart"
+   },
+   "menu_item_help_center": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Help Center"
+   },
+   "menu_item_heptagon": {
+      "description": "Shapes submenu item- Heptagon",
+      "message": "Heptagon"
+   },
+   "menu_item_hexagon": {
+      "description": "Shapes submenu item- Hexagon",
+      "message": "Hexagon"
+   },
+   "menu_item_hideslide": {
+      "description": "Menu item. Point app. Show only in the editor products.",
+      "message": "Hide Slide"
+   },
+   "menu_item_insert_column": {
+      "description": "Menu item. Sheet only. Show only in the editor products. Note, this is in |Insert| menu so no need to have text |Insert| in the string.",
+      "message": "Column"
+   },
+   "menu_item_insert_image": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Image"
+   },
+   "menu_item_insert_row": {
+      "description": "Menu item. Sheet only. Show only in the editor products. Note, this is in |Insert| menu so no need to have text |Insert| in the string.",
+      "message": "Row"
+   },
+   "menu_item_insert_text_box": {
+      "description": "Menu item. Point only. Show only in the editor products.",
+      "message": "Text box"
+   },
+   "menu_item_insertslide": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "New Slide"
+   },
+   "menu_item_italic": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Italic"
+   },
+   "menu_item_keyboard_shortcuts": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Keyboard shortcuts"
+   },
+   "menu_item_l_shape": {
+      "description": "Shapes submenu item- L-Shape",
+      "message": "L-Shape"
+   },
+   "menu_item_left_arrow": {
+      "description": "Arrows submenu item- Left Arrow",
+      "message": "Left Arrow"
+   },
+   "menu_item_left_arrow_callout": {
+      "description": "Arrows submenu item- Left Arrow Callout",
+      "message": "Left Arrow Callout"
+   },
+   "menu_item_left_brace": {
+      "description": "Equation submenu item - Left Brace",
+      "message": "Left Brace"
+   },
+   "menu_item_left_bracket": {
+      "description": "Equation submenu item - Left Bracket",
+      "message": "Left Bracket"
+   },
+   "menu_item_left_right_arrow": {
+      "description": "Arrows submenu item- Left-Right Arrow",
+      "message": "Left-Right Arrow"
+   },
+   "menu_item_left_right_arrow_callout": {
+      "description": "Arrows submenu item- Left-Right Arrow Callout",
+      "message": "Left-Right Arrow Callout"
+   },
+   "menu_item_left_right_up_arrow": {
+      "description": "Arrows submenu item- Left-Right-Up Arrow",
+      "message": "Left-Right-Up Arrow"
+   },
+   "menu_item_left_up_arrow": {
+      "description": "Arrows submenu item- Left-Up Arrow",
+      "message": "Left-Up Arrow"
+   },
+   "menu_item_lightning_bolt": {
+      "description": "Shapes submenu item- Lightning Bolt",
+      "message": "Lightning Bolt"
+   },
+   "menu_item_make_a_copy": {
+      "description": "Menu item in the File menu. All applications have this. Google terminology for making a duplicate copy of the current file. The string is termined by an ellipsis character.",
+      "message": "Make a copy…"
+   },
+   "menu_item_merge_all": {
+      "description": "Menu item. Sheet only. Show only in the editor products.",
+      "message": "Merge all"
+   },
+   "menu_item_merge_cells": {
+      "description": "Menu item. Sheet only. Show only in the editor products. Launches a sub-menu with all merge-unmerge options.",
+      "message": "Merge cells"
+   },
+   "menu_item_merge_horizontally": {
+      "description": "Menu item. Sheet only. Show only in the editor products.",
+      "message": "Merge horizontally"
+   },
+   "menu_item_merge_vertically": {
+      "description": "Menu item. Sheet only. Show only in the editor products.",
+      "message": "Merge vertically"
+   },
+   "menu_item_minus": {
+      "description": "Equation submenu item - Minus",
+      "message": "Minus"
+   },
+   "menu_item_moon": {
+      "description": "Shapes submenu item- Moon",
+      "message": "Moon"
+   },
+   "menu_item_moveslidedown": {
+      "description": "Menu item. Point  app. Show only in the editor products.",
+      "message": "Move Slide Down"
+   },
+   "menu_item_moveslidetoend": {
+      "description": "Menu item. Point  app. Show only in the editor products.",
+      "message": "Move Slide To End"
+   },
+   "menu_item_moveslidetostart": {
+      "description": "Menu item. Point  app. Show only in the editor products.",
+      "message": "Move Slide To Beginning"
+   },
+   "menu_item_moveslideup": {
+      "description": "Menu item. Point  app. Show only in the editor products.",
+      "message": "Move Slide Up"
+   },
+   "menu_item_multiply": {
+      "description": "Equation submenu item - Multiply",
+      "message": "Multiply"
+   },
+   "menu_item_new": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "New"
+   },
+   "menu_item_no_symbol": {
+      "description": "Shapes submenu item- No Symbol",
+      "message": "No Symbol"
+   },
+   "menu_item_not_equal": {
+      "description": "Equation submenu item - Not Equal",
+      "message": "Not Equal"
+   },
+   "menu_item_notched_right_arrow": {
+      "description": "Arrows submenu item- Notched Right Arrow",
+      "message": "Notched Right Arrow"
+   },
+   "menu_item_number_format": {
+      "description": "Menu item. Sheet only. Show only in the editor products.",
+      "message": "Number Format"
+   },
+   "menu_item_number_menu": {
+      "description": "Menu item (opens sub menu). Sheet only. Show only in the editor products. This opens a number format sub menu.",
+      "message": "Number"
+   },
+   "menu_item_numbering": {
+      "description": "Message to indicate the position of menu item in the menu items list.",
+      "message": "$ITEM_POSITION$ of $MENU_COUNT$",
+      "placeholders": {
+         "item_position": {
+            "content": "$1",
+            "example": "1"
+         },
+         "menu_count": {
+            "content": "$2",
+            "example": "5"
+         }
+      }
+   },
+   "menu_item_octagon": {
+      "description": "Shapes submenu item- Octagon",
+      "message": "Octagon"
+   },
+   "menu_item_open": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Open"
+   },
+   "menu_item_oval": {
+      "description": "Shapes submenu item- Oval",
+      "message": "Oval"
+   },
+   "menu_item_oval_callout": {
+      "description": "Callouts submenu item- Oval Callout",
+      "message": "Oval Callout"
+   },
+   "menu_item_parallelogram": {
+      "description": "Shapes submenu item- Parallelogram",
+      "message": "Parallelogram"
+   },
+   "menu_item_paste": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Paste"
+   },
+   "menu_item_pentagon": {
+      "description": "Arrows submenu item- Pentagon",
+      "message": "Pentagon"
+   },
+   "menu_item_pie": {
+      "description": "Shapes submenu item- Pie",
+      "message": "Pie"
+   },
+   "menu_item_plaque": {
+      "description": "Shapes submenu item- Plaque",
+      "message": "Plaque"
+   },
+   "menu_item_plus": {
+      "description": "Equation submenu item- Plus",
+      "message": "Plus"
+   },
+   "menu_item_present": {
+      "description": "Name of the top-level app menu item for the |Present| option. Point only. Show only in the editor products.",
+      "message": "Present"
+   },
+   "menu_item_print": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Print"
+   },
+   "menu_item_quad_arrow": {
+      "description": "Arrows submenu item- Quad Arrow",
+      "message": "Quad Arrow"
+   },
+   "menu_item_quad_arrow_callout": {
+      "description": "Arrows submenu item- Quad Arrow Callout",
+      "message": "Quad Arrow Callout"
+   },
+   "menu_item_rectangle": {
+      "description": "Shapes submenu item- Rectangle",
+      "message": "Rectangle"
+   },
+   "menu_item_rectangular_callout": {
+      "description": "Callouts submenu item- Rectangular Callout",
+      "message": "Rectangular Callout"
+   },
+   "menu_item_redo": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Redo"
+   },
+   "menu_item_regular_pentagon": {
+      "description": "Shapes submenu item- Regular Pentagon",
+      "message": "Regular Pentagon"
+   },
+   "menu_item_report_abuse": {
+      "description": "Menu item. All apps. Show only in the editor products. |None| is a color choice, it means no color has been chosen.",
+      "message": "Report abuse"
+   },
+   "menu_item_report_issue": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Report an issue"
+   },
+   "menu_item_right_arrow": {
+      "description": "Arrows submenu item- Right Arrow",
+      "message": "Right Arrow"
+   },
+   "menu_item_right_arrow_callout": {
+      "description": "Arrows submenu item- Right Arrow Callout",
+      "message": "Right Arrow Callout"
+   },
+   "menu_item_right_brace": {
+      "description": "Equation submenu item - Right Brace",
+      "message": "Right Brace"
+   },
+   "menu_item_right_bracket": {
+      "description": "Equation submenu item - Right Bracket",
+      "message": "Right Bracket"
+   },
+   "menu_item_right_triangle": {
+      "description": "Shapes submenu item- Right Triangle",
+      "message": "Right Triangle"
+   },
+   "menu_item_round_diagonal_corner_rectangle": {
+      "description": "Shapes submenu item- Round Diagonal Corner Rectangle",
+      "message": "Round Diagonal Corner Rectangle"
+   },
+   "menu_item_round_same_side_corner_rectangle": {
+      "description": "Shapes submenu item- Round Same Side Corner Rectangle",
+      "message": "Round Same Side Corner Rectangle"
+   },
+   "menu_item_round_single_corner_rectangle": {
+      "description": "Shapes submenu item- Round Single Corner Rectangle",
+      "message": "Round Single Corner Rectangle"
+   },
+   "menu_item_rounded_rectangle": {
+      "description": "Shapes submenu item- Rounded Rectangle",
+      "message": "Rounded Rectangle"
+   },
+   "menu_item_rounded_rectangular_callout": {
+      "description": "Callouts submenu item- Rounded Rectangular Callout",
+      "message": "Rounded Rectangular Callout"
+   },
+   "menu_item_save": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Save"
+   },
+   "menu_item_save_as": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Save As…"
+   },
+   "menu_item_shapes": {
+      "description": "Shapes submenu",
+      "message": "Shapes"
+   },
+   "menu_item_share": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Share"
+   },
+   "menu_item_smiley_face": {
+      "description": "Shapes submenu item- Smiley Face",
+      "message": "Smiley Face"
+   },
+   "menu_item_snip_and_round_single_corner_rectangle": {
+      "description": "Shapes submenu item- Snip and Round Single Corner Rectangle",
+      "message": "Snip and Round Single Corner Rectangle"
+   },
+   "menu_item_snip_diagonal_corner_rectangle": {
+      "description": "Shapes submenu item- Snip Diagonal Corner Rectangle",
+      "message": "Snip Diagonal Corner Rectangle"
+   },
+   "menu_item_snip_same_side_corner_rectangle": {
+      "description": "Shapes submenu item- Snip Same Side Corner Rectangle",
+      "message": "Snip Same Side Corner Rectangle"
+   },
+   "menu_item_snip_single_corner_rectangle": {
+      "description": "Shapes submenu item- Snip Single Corner Rectangle",
+      "message": "Snip Single Corner Rectangle"
+   },
+   "menu_item_strikethrough": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Strikethrough"
+   },
+   "menu_item_striped_right_arrow": {
+      "description": "Arrows submenu item- Striped Right Arrow",
+      "message": "Striped Right Arrow"
+   },
+   "menu_item_subscript": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Subscript"
+   },
+   "menu_item_sun": {
+      "description": "Shapes submenu item- Sun",
+      "message": "Sun"
+   },
+   "menu_item_superscript": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Superscript"
+   },
+   "menu_item_teardrop": {
+      "description": "Shapes submenu item- Teardrop",
+      "message": "Teardrop"
+   },
+   "menu_item_trapezoid": {
+      "description": "Shapes submenu item- Trapezoid",
+      "message": "Trapezoid"
+   },
+   "menu_item_triangle": {
+      "description": "Shapes submenu item- Triangle",
+      "message": "Triangle"
+   },
+   "menu_item_u_turn_arrow": {
+      "description": "Arrows submenu item- U-Turn Arrow",
+      "message": "U-Turn Arrow"
+   },
+   "menu_item_underline": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Underline"
+   },
+   "menu_item_undo": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Undo"
+   },
+   "menu_item_unhideslide": {
+      "description": "Menu item. Point  app. Show only in the editor products.",
+      "message": "Unhide Slide"
+   },
+   "menu_item_unmerge": {
+      "description": "Menu item. Sheet only. Show only in the editor products.",
+      "message": "Unmerge"
+   },
+   "menu_item_up_arrow": {
+      "description": "Arrows submenu item- Up Arrow",
+      "message": "Up Arrow"
+   },
+   "menu_item_up_arrow_callout": {
+      "description": "Arrows submenu item- Up Arrow Callout",
+      "message": "Up Arrow Callout"
+   },
+   "menu_item_up_down_arrow": {
+      "description": "Arrows submenu item- Up-Down Arrow",
+      "message": "Up-Down Arrow"
+   },
+   "menu_item_version_info": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Version info"
+   },
+   "menu_item_word_count": {
+      "description": "Menu item for word count information dialog. Word only",
+      "message": "Word count"
+   },
+   "menu_item_wrap_text": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Wrap text"
+   },
+   "menu_item_zoom_in": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Zoom In"
+   },
+   "menu_item_zoom_out": {
+      "description": "Menu item. All apps. Show only in the editor products.",
+      "message": "Zoom Out"
+   },
+   "merge_all_aria_spoken_word": {
+      "description": "ARIA spoken word for merge menu item.",
+      "message": "merge all"
+   },
+   "merge_aria_spoken_word": {
+      "description": "ARIA spoken word for merge menu item.",
+      "message": "merge"
+   },
+   "merge_dropdown_aria_spoken_word": {
+      "description": "ARIA spoken word for merge drop down menu.",
+      "message": "merge drop down menu"
+   },
+   "merge_horizontally_aria_spoken_word": {
+      "description": "ARIA spoken word for merge menu item.",
+      "message": "merge horizontally"
+   },
+   "merge_vertically_aria_spoken_word": {
+      "description": "ARIA spoken word for merge menu item.",
+      "message": "merge vertically"
+   },
+   "modify_shape_transform_error_msg": {
+      "description": "Error dialog body text. Longer message for modify shape transform error, can be used as the main text body in a dialog. Notification message in case of modify shape transform command fails at service.",
+      "message": "An error has occurred while modifying shape transforms"
+   },
+   "modify_shape_transform_error_short_msg": {
+      "description": "Dialog title. Short message for a modify shape transform error, used as a title in a dialog. Notification message in case of modify shape transform command fails at service.",
+      "message": "There was an error modifying shape transforms."
+   },
+   "modifyshapefillcolor_aria_spoken_word": {
+      "description": "ARIA spoken word for shape fill color drop down in Point.",
+      "message": "shape fill color drop down list "
+   },
+   "modifyshapeoutlinecolor_aria_spoken_word": {
+      "description": "ARIA spoken word for shape outline color drop down in Point.",
+      "message": "shape outline color drop down list "
+   },
+   "modifyshapeoutlinestyle_aria_spoken_word": {
+      "description": "ARIA spoken word for shape outline style drop down in Point.",
+      "message": "shape outline style drop down list "
+   },
+   "modifyshapeoutlinewidth_aria_spoken_word": {
+      "description": "ARIA spoken word for modifyShape outline width drop down in Point.",
+      "message": "shape outline width drop down list "
+   },
+   "nacl_load_error_details": {
+      "description": "Error dialog detail text. Shown when plugin fails to load.",
+      "message": "Try reinstalling the extension."
+   },
+   "nacl_load_error_title": {
+      "description": "Error dialog title. Shown when plugin fails to load.",
+      "message": "There was a problem loading the application."
+   },
+   "non_permissible_sheet_name_details": {
+      "description": "non-permissible character detail message.",
+      "message": "Following characters are not permitted * ? [ ] ' ; : Length of sheet name should not exceed 31 characters Sheet name should not be left blank"
+   },
+   "non_permissible_sheet_name_title": {
+      "description": "non-permissible character for sheet name.",
+      "message": "While renaming a sheet you entered an invalid name"
+   },
+   "not_pressed": {
+      "description": "General purpose text to denote if a button is not pressed",
+      "message": "Not Pressed"
+   },
+   "notselected": {
+      "description": "General purpose text to denote if an item is not selected",
+      "message": "Not Selected"
+   },
+   "number_format_label_currency_symbol": {
+      "description": "Field name in the number format dialog. Sheet only. Show only in the editor products.",
+      "message": "Currency Symbol"
+   },
+   "number_format_label_date_type": {
+      "description": "Field name in the number format dialog. Sheet only. Show only in the editor products.",
+      "message": "Type"
+   },
+   "number_format_label_decimal_places": {
+      "description": "Field name in the number format dialog. Sheet only. Show only in the editor products.",
+      "message": "Decimal Places"
+   },
+   "number_format_label_general": {
+      "description": "Field name in the number format dialog. Sheet only. Show only in the editor products.",
+      "message": "General"
+   },
+   "number_format_label_negative_numbers": {
+      "description": "Field name in the number format dialog. Sheet only. Show only in the editor products.",
+      "message": "Negative Numbers"
+   },
+   "number_format_label_other": {
+      "description": "Field name in the number format dialog. Sheet only. Show only in the editor products.",
+      "message": "Other"
+   },
+   "number_format_label_red": {
+      "description": "Field name in the number format dialog. Sheet only. Show only in the editor products.",
+      "message": "Red"
+   },
+   "number_format_label_text": {
+      "description": "Field name in the number format dialog. Sheet only. Show only in the editor products.",
+      "message": "Text"
+   },
+   "number_format_label_use_1000_separator": {
+      "description": "Field name in the number format dialog. Sheet only. Show only in the editor products.",
+      "message": "Use 1000 Separator"
+   },
+   "number_format_tab_accounting": {
+      "description": "Tab name in the number format dialog. Sheet only. Show only in the editor products.",
+      "message": "Accounting"
+   },
+   "number_format_tab_currency": {
+      "description": "Tab name in the number format dialog. Sheet only. Show only in the editor products.",
+      "message": "Currency"
+   },
+   "number_format_tab_date_time": {
+      "description": "Tab name in the number format dialog. Sheet only. Show only in the editor products.",
+      "message": "Date & Time"
+   },
+   "number_format_tab_general": {
+      "description": "Tab name in the number format dialog. Sheet only. Show only in the editor products.",
+      "message": "General"
+   },
+   "number_format_tab_number": {
+      "description": "Tab name in the number format dialog. Sheet only. Show only in the editor products.",
+      "message": "Number"
+   },
+   "number_format_tab_percentage": {
+      "description": "Tab name in the number format dialog. Sheet only. Show only in the editor products.",
+      "message": "Percentage"
+   },
+   "number_format_tab_scientific": {
+      "description": "Tab name in the number format dialog. Sheet only. Show only in the editor products.",
+      "message": "Scientific"
+   },
+   "number_format_title": {
+      "description": "Title in the number format dialog. Sheet only. Show only in the editor products.",
+      "message": "Number Formats"
+   },
+   "ocm_promo_conversion_shortmsg": {
+      "description": "OCM Promotion Dialog Title NOTE: For Translators - please notice the use of the word Office and follow the appropriate translation process for this loaded word.",
+      "message": "You're in Office Compatibility Mode"
+   },
+   "office_compatibility_mode": {
+      "description": "Menu Item All apps Shown as he first item in each of the main application menus.",
+      "message": "Office Compatibility Mode"
+   },
+   "office_first_time_confirm": {
+      "description": "First Time Usage Dialog Confirm Message.",
+      "message": "Got it"
+   },
+   "office_first_time_message_p1": {
+      "description": "First Time Usage Dialog Message.",
+      "message": "You can now edit Word, Excel, and Powerpoint files from your hard drive, Google Drive, Gmail, and more, using Docs, Sheets, and Slides."
+   },
+   "office_first_time_message_p2": {
+      "message": "All your edits are automatically saved and you can always save as the original format too."
+   },
+   "office_first_time_title": {
+      "description": "First Time Usage Dialog Title.",
+      "message": "Office Editing for Docs, Sheets and Slides"
+   },
+   "offline_error_msg": {
+      "description": "Crash screen body text. Error shown when connection lost while accessing drive file.",
+      "message": "It appears that you are offline. Please check your internet connection and try again. If you continue to receive this error while online, please report an issue below."
+   },
+   "offline_error_short_msg": {
+      "description": "Crash screen title text. Error shown when connection lost while accessing drive file.",
+      "message": "Whoops. We were unable to open the file you requested."
+   },
+   "option_key": {
+      "description": "Text to be spoken for option key",
+      "message": "Option"
+   },
+   "out_of_memory_error_msg": {
+      "description": "Crash screen body text. Error shown when an operation fails because of out of memory error.",
+      "message": "Try closing this tab and re-opening your file, or closing other tabs you may have open in the browser. If this problem persists, please report an issue below."
+   },
+   "out_of_memory_error_short_msg": {
+      "description": "Crash screen title text. Error shown when an operation fails because of out of memory error.",
+      "message": "Whoops. We ran out of memory."
+   },
+   "page_count_label": {
+      "description": "Label to show page count in document.",
+      "message": "Pages"
+   },
+   "partial_cell_merge_error_msg": {
+      "description": "Crash screen body text. Error shown when a user copy multiple cells and paste across merge cell.",
+      "message": "Cannot change part of a merged cell."
+   },
+   "partial_cell_merge_error_short_msg": {
+      "description": "Crash screen title text. Error shown when a user copy multiple cells and paste across merge cell.",
+      "message": "Error"
+   },
+   "point_ocm_promo_conversion_msg": {
+      "description": "Point-specific OCM promotion dialog detail. Point app only. NOTE: For Translators - please notice the use of the word Office and follow the appropriate translation process for this loaded word.",
+      "message": "You can edit and save Office files directly in Slides. To invite others to edit or add comments, save as Google Slides. You can save back to the original format at any time."
+   },
+   "point_printing_warning_msg": {
+      "description": "Error dialog body text. Point only. Addition info about limitations on printing of slide deck.",
+      "message": "We are working to fix this."
+   },
+   "point_printing_warning_short_msg": {
+      "description": "Error dialog title Point only. Informs the user of current limitations on printing of slide deck.",
+      "message": "Currently, you can only print the slide that you are viewing."
+   },
+   "point_share_promo_conversion_msg": {
+      "description": "Dialog body message Point app only. Shown in the Edit with others dialog, invoked from the Share toolbar button in the top right.",
+      "message": "Trying to share this presentation? To invite others to edit it with you, convert it to Google Slides."
+   },
+   "pointtogglebullet_aria_spoken_word": {
+      "description": "ARIA spoken word for toggle bullet button in Point.",
+      "message": "bulleted list"
+   },
+   "pointtogglenumber_aria_spoken_word": {
+      "description": "ARIA spoken word for toggle number button in Point.",
+      "message": "numbered list"
+   },
+   "present_button": {
+      "description": "Coloured button on the toolbar header. Used in the Presentation app. Standard Google Present button.",
+      "message": "Present"
+   },
+   "pressed": {
+      "description": "General purpose text to denote if a button is pressed",
+      "message": "Pressed"
+   },
+   "print_aria_spoken_word": {
+      "description": "ARIA spoken word for toolbar buttons.",
+      "message": "print"
+   },
+   "qowt_doc_mismatch_text": {
+      "description": "Body text for the doc mismatch error dialog. Dialog text. Word_specific.",
+      "message": "Your document encountered an error during formatting.\n\nReload the page to recover your changes."
+   },
+   "qowt_doc_mismatch_title": {
+      "description": "Title for the doc mismatch error dialog. Dialog title. Word_specific.",
+      "message": "Yikes!"
+   },
+   "qowt_hyperlink_activate_short_key": {
+      "description": "Message text for screen reader to indicate the shortcut key to activate hyperlink.",
+      "message": "Press ALT + Enter to activate link."
+   },
+   "qowt_hyperlink_dialog": {
+      "description": "Hyperlink dialog name for screen reader.",
+      "message": "Hyperlink"
+   },
+   "qowt_hyperlink_dialog_message_text": {
+      "description": "Message text for hyperlink dialog.",
+      "message": "Go to link: "
+   },
+   "qowt_modal_confirm_dialog_affirmative_button": {
+      "description": "Affirmative button for modal confirmation dialog.",
+      "message": "OK"
+   },
+   "qowt_modal_confirm_dialog_negative_button": {
+      "description": "Negative button for modal confirmation dialog.",
+      "message": "Cancel"
+   },
+   "qowt_modal_dialog_close_button": {
+      "description": "Close button for modal dialog.",
+      "message": "Close"
+   },
+   "qowt_modal_dialog_coming_soon_title": {
+      "description": "Coming soon title for features that are soon to be released.",
+      "message": "Coming soon!"
+   },
+   "qowt_modal_dialog_link_text": {
+      "description": "Default link text for modal dialogs.",
+      "message": "Learn more"
+   },
+   "qowt_modal_dialog_ok_button": {
+      "description": "OK button for modal dialog.",
+      "message": "OK"
+   },
+   "qowt_modal_dialog_reload_button": {
+      "description": "Reload button for modal dialog.",
+      "message": "Reload"
+   },
+   "qowt_modal_dialog_textbox_editing_description": {
+      "description": "Description for the text box editing feature.",
+      "message": "Sorry, we do not support editing of text inside text boxes."
+   },
+   "qowt_modal_dialog_textbox_editing_link": {
+      "description": "Link for a user to request the text box editing feature.",
+      "message": "Please fix this!"
+   },
+   "qowt_modal_info_dialog_affirmative_button": {
+      "description": "Affirmative button for modal information dialog.",
+      "message": "OK"
+   },
+   "qowt_modal_multi_choice_remember_choice": {
+      "description": "Default |remember choice| text for multi button dialogs.",
+      "message": "Remember my choice"
+   },
+   "qowt_modal_query_dialog_affirmative_button": {
+      "description": "Affirmative button for modal query dialog.",
+      "message": "Yes"
+   },
+   "qowt_modal_query_dialog_negative_button": {
+      "description": "Negative button for modal query dialog.",
+      "message": "No"
+   },
+   "qowt_modal_query_dialog_reload_button": {
+      "description": "Reload button for modal query dialog.",
+      "message": "Reload"
+   },
+   "qowt_modal_single_choice_remember_choice": {
+      "description": "Default |remember choice| text for single button dialogs.",
+      "message": "Don't remind me again"
+   },
+   "read_only": {
+      "description": "Notification text to warn users that they only have read permission on the opened file. Notification text on app menu bar. Applies to Word, Sheet and Point.",
+      "message": "Read only"
+   },
+   "redo_aria_spoken_word": {
+      "description": "ARIA spoken word for toolbar buttons.",
+      "message": "redo"
+   },
+   "right_pointed_submenu": {
+      "description": "Text to be spoken for indicating right pointer with submenu",
+      "message": "Right pointer with submenu"
+   },
+   "save_aria_spoken_word": {
+      "description": "ARIA spoken word for toolbar buttons. Assistive tools internally uses TTS engine, so if there will be any requirement in future, appropriate punctuation marks, spaces etc can be used to ensure correct speech.",
+      "message": "save"
+   },
+   "save_now": {
+      "description": "Bacon bar dismiss text.",
+      "message": "Save now"
+   },
+   "security_error_msg": {
+      "description": "Crash screen body text. Error shown when a security error occurs during file opening.",
+      "message": "If you continue to experience an error, please report an issue below."
+   },
+   "security_error_short_msg": {
+      "description": "Crash screen title text. Error shown when a security error occurs during file opening.",
+      "message": "Whoops. We were unable to open the file you requested. At this time, we don't support opening files in Incognito mode. Please open your file in non-Incognito mode."
+   },
+   "selected": {
+      "description": "General purpose text to denote if an item is selected",
+      "message": "Selected"
+   },
+   "set_sheet_info_error_msg": {
+      "description": "qowt notification message in case optimistic command to update sheet name fails.",
+      "message": "An error has occurred while updating the sheet name"
+   },
+   "share_button": {
+      "description": "Coloured button on the toolbar header. Standard Google Share button.",
+      "message": "Share"
+   },
+   "share_promo_conversion_shortmsg": {
+      "description": "Dialog title Invoked from the Share toolbar button in the top right. This flow is to promote conversion of Office files to GDoc files to gain access to sharingcollaboration features.",
+      "message": "Edit with others"
+   },
+   "sheet_delete_column_error_msg": {
+      "description": "Error dialog body text. Sheet only. Shown when the user attempts to delete cols and it fails.",
+      "message": "Whoops. There was an error deleting the column. Please try again."
+   },
+   "sheet_delete_row_error_msg": {
+      "description": "Error dialog body text. Sheet only. Shown when the user attempts to delete rows and it fails.",
+      "message": "Whoops. There was an error deleting the row. Please try again."
+   },
+   "sheet_format_cells_error_msg": {
+      "description": "Error notification body text. Sheet only. Shown when a formatting error occurs.",
+      "message": "There was a formatting error. Please try again."
+   },
+   "sheet_insert_column_error_msg": {
+      "description": "Error dialog body text. Sheet only. Shown when the user attempts to add cols and it fails.",
+      "message": "Whoops. There was an error inserting the column. Please try again."
+   },
+   "sheet_insert_column_exceed_error_msg": {
+      "description": "Error dialog body text. Sheet only. Shown when the user attempts to add too many cols.",
+      "message": "Unfortunately, you cannot insert more columns into this spreadsheet, as we only support 256 columns."
+   },
+   "sheet_insert_column_exceed_error_short_msg": {
+      "description": "Error dialog title. Sheet only. Shown when the user attempts to add too many cols.",
+      "message": "Sorry!"
+   },
+   "sheet_insert_row_error_msg": {
+      "description": "Error dialog body text. Sheet only. Shown when the user attempts to add rows and it fails.",
+      "message": "Whoops. There was an error inserting the row. Please try again."
+   },
+   "sheet_insert_row_exceed_error_msg": {
+      "description": "Error dialog body text. Sheet only. Shown when the user attempts to add too many rows.",
+      "message": "Unfortunately, you cannot insert more rows into this spreadsheet, as we only support 65536 rows."
+   },
+   "sheet_insert_row_exceed_error_short_msg": {
+      "description": "Error dialog title. Sheet only. Shown when the user attempts to add too many rows.",
+      "message": "Sorry!"
+   },
+   "sheet_ocm_promo_conversion_msg": {
+      "description": "Sheet-specific OCM promotion dialog detail. Sheet app only. NOTE: For Translators - please notice the use of the word Office and follow the appropriate translation process for this loaded word.",
+      "message": "You can edit and save Office files directly in Sheets. To invite others to edit or add comments, save as Google Sheets. You can save back to the original format at any time."
+   },
+   "sheet_set_cell_content_invalid_error_msg": {
+      "description": "Error notification body text. Sheet only. Shown when the user attempts to enter invalid text into a cell or cells.",
+      "message": "There was an error in the formula you entered. Please correct the error."
+   },
+   "sheet_share_promo_conversion_msg": {
+      "description": "Dialog body message Sheet app only. Shown in the Edit with others dialog, invoked from the Share toolbar button in the top right.",
+      "message": "Trying to share this spreadsheet? To invite others to edit it with you, convert it to Google Sheets."
+   },
+   "sheet_sort_error_title": {
+      "description": "Error dialog title. Sheet only. Shown when the user attempts to sort invalid range.",
+      "message": "There was an error sorting this cell range."
+   },
+   "sheet_sort_failure_msg": {
+      "description": "Error notification body text. Sheet only. Shown when the user attempts to sort a range and the sort fails.",
+      "message": "There was an error sorting this cell range."
+   },
+   "sheet_sort_merged_cell_error": {
+      "description": "Error dialog body text. Sheet only. Shown when the user attempts to sort merged cell.",
+      "message": "You cannot sort cells that have been merged."
+   },
+   "sheet_sort_merged_cell_error_title": {
+      "description": "Error dialog title. Sheet only. Shown when the user attempts to sort merged cell.",
+      "message": "There was an error sorting this cell range."
+   },
+   "sheet_sort_one_cell_error": {
+      "description": "Error dialog body text. Sheet only. Shown when the user attempts to sort just one cell.",
+      "message": "Please select more than one cell to sort."
+   },
+   "sheet_sort_one_cell_error_title": {
+      "description": "Error dialog title. Sheet only. Shown when the user attempts to sort just one cell.",
+      "message": "There was an error sorting this cell range."
+   },
+   "shift_key": {
+      "description": "Text to be spoken for shift key",
+      "message": "Shift"
+   },
+   "shortcut": {
+      "description": "Text to be spoken for shortcut",
+      "message": "Shortcut $SHORTCUT_KEYS$",
+      "placeholders": {
+         "shortcut_keys": {
+            "content": "$1",
+            "example": "Command+b"
+         }
+      }
+   },
+   "sign_in": {
+      "description": "Button text on the invalid creds dialog.",
+      "message": "Sign in"
+   },
+   "slash_key": {
+      "description": "Text to be spoken for slash key",
+      "message": "Slash"
+   },
+   "something_not_right": {
+      "description": "Dialog title. Generic error dialog title.",
+      "message": "Something's not right"
+   },
+   "storage_quota_exceed_error_msg": {
+      "description": "Crash screen body text. Error shown when an error occurs while writing a file on local storage.",
+      "message": "Close any Office documents open in Chrome, then try again. If the problem continues, report the issue below."
+   },
+   "storage_quota_exceed_error_short_msg": {
+      "description": "Crash screen title text. Error shown when an error occurs while writing a file on local storage.",
+      "message": "Sorry, we couldn't open the file."
+   },
+   "strikethrough_aria_spoken_word": {
+      "description": "ARIA spoken word for toolbar buttons.",
+      "message": "strikethrough"
+   },
+   "style_aria_spoken_word": {
+      "description": "ARIA spoken word for toolbar style drop down menu button.",
+      "message": "style drop down list"
+   },
+   "submenu_spoken_text": {
+      "description": "Text to be spoken for submenu. Details like submenu's aria label, shorcut keys, menu position are spoken.",
+      "message": "$MENU_ARIA_LABEL$ $RIGHT_POINTER$ $SHORTCUT_LABEL$ $POSITION_TEXT$",
+      "placeholders": {
+         "menu_aria_label": {
+            "content": "$1",
+            "example": "Tools"
+         },
+         "position_text": {
+            "content": "$4",
+            "example": "Message from menu_item_numbering like: 1 of 2"
+         },
+         "right_pointer": {
+            "content": "$2",
+            "example": "Message from right_pointed_submenu"
+         },
+         "shortcut_label": {
+            "content": "$3",
+            "example": "Message from shortcut like: Shortcut Command+b"
+         }
+      }
+   },
+   "temporary_unable_to_open_error_msg": {
+      "description": "Crash screen body text. Error shown when an error occurs while opening a file. (Error -1, 500, 404).",
+      "message": "Try again later, or report the issue below if the problem continues."
+   },
+   "temporary_unable_to_open_error_short_msg": {
+      "description": "Crash screen title text. Error shown when an error occurs while opening a file. (Error -1, 500, 404).",
+      "message": "Sorry, we're temporarily unable to open the file."
+   },
+   "textaligncenter_aria_spoken_word": {
+      "description": "ARIA spoken word for toolbar buttons.",
+      "message": "text align center"
+   },
+   "textalignjustify_aria_spoken_word": {
+      "description": "ARIA spoken word for toolbar buttons.",
+      "message": "text align justify"
+   },
+   "textalignleft_aria_spoken_word": {
+      "description": "ARIA spoken word for toolbar buttons.",
+      "message": "text align left"
+   },
+   "textalignright_aria_spoken_word": {
+      "description": "ARIA spoken word for toolbar buttons.",
+      "message": "text align right"
+   },
+   "textcolor_aria_spoken_word": {
+      "description": "ARIA spoken word for toolbar buttons.",
+      "message": "text color drop down list"
+   },
+   "textual_edit_error_msg": {
+      "description": "Error message for any failures during an edit operation.",
+      "message": "Your document encountered an error during formatting.\n\nReload the page to recover your changes."
+   },
+   "textual_edit_error_short_msg": {
+      "description": "Error title during any edit operation.",
+      "message": "Yikes!"
+   },
+   "title_error_msg_for_merge_cells": {
+      "description": "Title error message for merge cell. This message will shown when user tries to merge an existing merged cell or partial merged area.",
+      "message": "There was a problem"
+   },
+   "title_msg_merging_multiple_cells_with_text": {
+      "description": "Title message for merge cell. This message will shown when user selects multiple cells having text to merge.",
+      "message": "Heads Up!"
+   },
+   "togglebulleted_aria_spoken_word": {
+      "description": "ARIA spoken word for toolbar buttons.",
+      "message": "bulleted list"
+   },
+   "togglenumbered_aria_spoken_word": {
+      "description": "ARIA spoken word for toolbar buttons.",
+      "message": "numbered list"
+   },
+   "togglezoom_aria_spoken_word": {
+      "description": "ARIA spoken word for toolbar buttons.",
+      "message": "toggled zoom"
+   },
+   "tooltip_background_color": {
+      "description": "Message text for background color button tooltip.",
+      "message": "Fill color"
+   },
+   "tooltip_bold": {
+      "description": "Message text for bold button tooltip.",
+      "message": "Bold"
+   },
+   "tooltip_border": {
+      "description": "Message text for border drop down button tooltip.",
+      "message": "Borders"
+   },
+   "tooltip_border_all": {
+      "description": "Message text for border all button tooltip.",
+      "message": "All borders"
+   },
+   "tooltip_border_bottom": {
+      "description": "Message text for border bottom button tooltip.",
+      "message": "Bottom borders"
+   },
+   "tooltip_border_horizontal": {
+      "description": "Message text for border horizontal button tooltip.",
+      "message": "Horizontal borders"
+   },
+   "tooltip_border_inner": {
+      "description": "Message text for border inner button tooltip.",
+      "message": "Inner borders"
+   },
+   "tooltip_border_left": {
+      "description": "Message text for border left button tooltip.",
+      "message": "Left borders"
+   },
+   "tooltip_border_none": {
+      "description": "Message text for border none button tooltip.",
+      "message": "None borders"
+   },
+   "tooltip_border_outer": {
+      "description": "Message text for border outer button tooltip.",
+      "message": "Outer borders"
+   },
+   "tooltip_border_right": {
+      "description": "Message text for border right button tooltip.",
+      "message": "Right borders"
+   },
+   "tooltip_border_top": {
+      "description": "Message text for border top button tooltip.",
+      "message": "Top borders"
+   },
+   "tooltip_border_vertical": {
+      "description": "Message text for border vertical button tooltip.",
+      "message": "Vertical borders"
+   },
+   "tooltip_cell_align": {
+      "description": "Message text for cell align drop down button tooltip.",
+      "message": "Cell align"
+   },
+   "tooltip_cell_h_align_center": {
+      "description": "Message text for cell horizontal align center button tooltip.",
+      "message": "Horizontal center"
+   },
+   "tooltip_cell_h_align_left": {
+      "description": "Message text for cell horizontal align left button tooltip.",
+      "message": "Horizontal left"
+   },
+   "tooltip_cell_h_align_right": {
+      "description": "Message text for cell horizontal align right button tooltip.",
+      "message": "Horizontal right"
+   },
+   "tooltip_cell_v_align_bottom": {
+      "description": "Message text for cell vertical align bottom button tooltip.",
+      "message": "Vertical bottom"
+   },
+   "tooltip_cell_v_align_center": {
+      "description": "Message text for cell vertical align center button tooltip.",
+      "message": "Vertical center"
+   },
+   "tooltip_cell_v_align_top": {
+      "description": "Message text for cell vertical align top button tooltip.",
+      "message": "Vertical top"
+   },
+   "tooltip_download": {
+      "description": "Message text for download button tooltip.",
+      "message": "Download"
+   },
+   "tooltip_dropdown_init_add_shape": {
+      "description": "Message text for init add shape button tooltip.",
+      "message": "Shape"
+   },
+   "tooltip_fill_color": {
+      "description": "Message text for fill color drop down button tooltip.",
+      "message": "Text color"
+   },
+   "tooltip_font_face": {
+      "description": "Message text for font face drop down button tooltip.",
+      "message": "Font"
+   },
+   "tooltip_font_size": {
+      "description": "Message text for font size drop down button tooltip.",
+      "message": "Font size"
+   },
+   "tooltip_highlight_color": {
+      "description": "Message text for highlight color drop down button tooltip.",
+      "message": "Highlight color"
+   },
+   "tooltip_init_add_shape": {
+      "description": "Message text for init add text box button tooltip.",
+      "message": "Text box"
+   },
+   "tooltip_italic": {
+      "description": "Message text for italic button tooltip.",
+      "message": "Italic"
+   },
+   "tooltip_merge": {
+      "description": "Message text for the merge button",
+      "message": "Merge cells"
+   },
+   "tooltip_merge_dropdown": {
+      "description": "Message text for the merge drop down",
+      "message": "Select merge type..."
+   },
+   "tooltip_modify_shape_fill_color": {
+      "description": "Message text for modify shape fill color dropDown button tooltip.",
+      "message": "Fill color"
+   },
+   "tooltip_modify_shape_outline_color": {
+      "description": "Message text for modify shape outline color dropDown button tooltip.",
+      "message": "Line color"
+   },
+   "tooltip_modify_shape_outline_style": {
+      "description": "Message text for modify shape outline style dropDown button tooltip.",
+      "message": "Line dash"
+   },
+   "tooltip_modify_shape_outline_width": {
+      "description": "Message text for modify shape outline width dropDown button tooltip.",
+      "message": "Line weight"
+   },
+   "tooltip_move_slide": {
+      "description": "Tooltip message to indicate number of slide(s) moving.",
+      "message": "Move $NO_OF_SLIDES$ Slide(s)",
+      "placeholders": {
+         "no_of_slides": {
+            "content": "$1",
+            "example": "1"
+         }
+      }
+   },
+   "tooltip_point": {
+      "message": "Slides home"
+   },
+   "tooltip_point_toggle_bullet": {
+      "description": "Message text for point toggle bullet list button tooltip.",
+      "message": "Bulleted list"
+   },
+   "tooltip_point_toggle_number": {
+      "description": "Message text for point toggle number list button tooltip.",
+      "message": "Numbered list"
+   },
+   "tooltip_presentation": {
+      "description": "Message text for presentation button tooltip.",
+      "message": "Presentation"
+   },
+   "tooltip_print": {
+      "description": "Message text for print button tooltip.",
+      "message": "Print"
+   },
+   "tooltip_redo": {
+      "description": "Message text for redo button tooltip.",
+      "message": "Redo"
+   },
+   "tooltip_share": {
+      "description": "Message text for share button tooltip.",
+      "message": "Share"
+   },
+   "tooltip_share_for_macroenabledfiles": {
+      "description": "Message text for disabled share button tooltip.",
+      "message": "Macro-enabled files can only be shared from Google Drive"
+   },
+   "tooltip_sheet": {
+      "message": "Sheets home"
+   },
+   "tooltip_strikethrough": {
+      "description": "Message text for strike through button tooltip.",
+      "message": "Strikethrough"
+   },
+   "tooltip_style": {
+      "description": "Message text for style drop down button tooltip.",
+      "message": "Styles"
+   },
+   "tooltip_text_align_center": {
+      "description": "Message text for text align center button tooltip.",
+      "message": "Center"
+   },
+   "tooltip_text_align_justify": {
+      "description": "Message text for text align justified button tooltip.",
+      "message": "Justify"
+   },
+   "tooltip_text_align_left": {
+      "description": "Message text for text align left button tooltip.",
+      "message": "Left align"
+   },
+   "tooltip_text_align_right": {
+      "description": "Message text for text align right button tooltip.",
+      "message": "Right align"
+   },
+   "tooltip_text_color": {
+      "description": "Message text for text color drop down button tooltip.",
+      "message": "Text color"
+   },
+   "tooltip_toggle_bulleted": {
+      "description": "Message text for toggle bulleted list button tooltip.",
+      "message": "Bulleted list"
+   },
+   "tooltip_toggle_numbered": {
+      "description": "Message text for toggle numbered list button tooltip.",
+      "message": "Numbered list"
+   },
+   "tooltip_toggle_zoom": {
+      "description": "Message text for toggle zoom button tooltip.",
+      "message": "Toggle zoom"
+   },
+   "tooltip_underline": {
+      "description": "Message text for underline button tooltip.",
+      "message": "Underline"
+   },
+   "tooltip_undo": {
+      "description": "Message text for undo button tooltip.",
+      "message": "Undo"
+   },
+   "tooltip_word": {
+      "message": "Docs home"
+   },
+   "tooltip_wrap_text": {
+      "description": "Message text for wrap text button tooltip.",
+      "message": "Wrap text"
+   },
+   "tooltip_zoom_in": {
+      "description": "Message text for zoom in button tooltip.",
+      "message": "Zoom in"
+   },
+   "tooltip_zoom_out": {
+      "description": "Message text for zoom out button tooltip.",
+      "message": "Zoom out"
+   },
+   "try_again": {
+      "description": "Button text on the convert_to_google_docs_failed dialog.",
+      "message": "Try again"
+   },
+   "unable_to_execute_msg": {
+      "description": "Error dialog body text. The file may be corrupt or unsupported format.",
+      "message": "Unable to open this document."
+   },
+   "underline_aria_spoken_word": {
+      "description": "ARIA spoken word for toolbar buttons.",
+      "message": "underline"
+   },
+   "undo_aria_spoken_word": {
+      "description": "ARIA spoken word for toolbar buttons.",
+      "message": "undo"
+   },
+   "unmerge_aria_spoken_word": {
+      "description": "ARIA spoken word for merge menu item.",
+      "message": "unmerge"
+   },
+   "unsaved_changes": {
+      "description": "Notification text to warn users that they have unsaved changes. The user must save their work so as to not lose the edits they have made. Notification text on app menu bar. Applies to Word, Sheet and Point.",
+      "message": "Unsaved changes"
+   },
+   "unsaved_changes_warning": {
+      "description": "Unsaved changes warning. This warning occurs in a modal dialog when a user attempts to close or navigate away when there are unsaved changes in the document.",
+      "message": "You have unsaved changes in this file. If you leave this page without saving, your work will be lost forever."
+   },
+   "unsupported_file_format_error_details_p1": {
+      "description": "Error dialog body text.",
+      "message": "Unfortunately, this file contains content from Microsoft® Office \"95 or earlier, which we\"re not able to open."
+   },
+   "unsupported_file_format_error_details_p2": {
+      "message": "If you\"d like to convert the file to Google Docs, click the link below."
+   },
+   "unsupported_file_format_error_title": {
+      "description": "Error dialog title text. Error shown when trying to open a file that is an unsupported file format All apps.",
+      "message": "Whoops!"
+   },
+   "unsupported_link_message": {
+      "description": "Unsupported hyperlink message text. Tells the user that the hyperlink he clicked upon in slideshow mode is not supported.",
+      "message": "Sorry, we currently do not support URLs of this type."
+   },
+   "up_key": {
+      "description": "Text to be spoken for up key",
+      "message": "Up"
+   },
+   "updated_shortcut_message": {
+      "description": "This is the message to be shown in dialog which informs user that keyboard shortcuts are updated.",
+      "message": "We have updated our keyboard shortcuts to make them consistent across Google Docs products. Take a look at the updated shortcuts in help."
+   },
+   "updated_shortcut_title": {
+      "description": "This is the title to be shown in dialog which informs user that keyboard shortcuts are updated.",
+      "message": "Updated keyboard shortcuts"
+   },
+   "version_info_msg": {
+      "description": "Title of the Version info dialog. All Apps.",
+      "message": "Your version of Office Compatibility Mode is"
+   },
+   "word_binary_upsave_learnmore": {
+      "description": "Used on the word binary upsave dialog warning for the learn more link.",
+      "message": "Learn more"
+   },
+   "word_binary_upsave_msg": {
+      "description": "Dialog body text. Word only. Warning dialog shown when a user upsaves a 2003 file to a 2007 file.",
+      "message": "This file is in a format that is unsupported. In order to save it, we need your permission to convert it to a more recent file format, and your original file will not be affected."
+   },
+   "word_binary_upsave_shortmsg": {
+      "description": "Dialog title. Word only. Warning dialog shown when a user upsaves a 2003 file to a 2007 file.",
+      "message": "Update your document"
+   },
+   "word_count_label": {
+      "description": "Label to show word count in document.",
+      "message": "Words"
+   },
+   "word_count_title": {
+      "description": "Title for word count dialog that shows page, word and character count.",
+      "message": "Word count"
+   },
+   "word_ocm_promo_conversion_msg": {
+      "description": "Docs-specific OCM promotion dialog detail. Word app only. NOTE: For Translators - please notice the use of the word Office and follow the appropriate translation process for this loaded word.",
+      "message": "You can edit and save Office files directly in Docs. To invite others to edit or add comments, save as Google Docs. You can save back to the original format at any time."
+   },
+   "word_share_promo_conversion_msg": {
+      "description": "Dialog body message Word app only. Shown in the Edit with others dialog, invoked from the Share toolbar button in the top right.",
+      "message": "Trying to share this document? To invite others to edit it with you, convert it to Google Docs."
+   },
+   "wraptext_aria_spoken_word": {
+      "description": "ARIA spoken word for sheet wrap text toolbar button.",
+      "message": "wrap text"
+   },
+   "zoomin_aria_spoken_word": {
+      "description": "ARIA spoken word for toolbar buttons.",
+      "message": "zoom in"
+   },
+   "zoomout_aria_spoken_word": {
+      "description": "ARIA spoken word for toolbar buttons.",
+      "message": "zoom out"
+   }
+}

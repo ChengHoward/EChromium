@@ -1,0 +1,83 @@
+<link rel="import" href="../../../../third_party/polymer/polymer.html"/>
+<link rel="import" href="./modalDialogStyles.html">
+
+<dom-module id="qowt-promo-dialog">
+  <template>
+    <style include="modal-dialog-styles"></style>
+
+    <style>
+      :host {
+        width: 362px;
+      }
+
+      .image {
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 100%;
+      }
+
+      @media (-webkit-min-device-pixel-ratio: 1.3),
+             (min-device-pixel-ratio: 1.3) {
+        .ocm_word {
+          background-image: url('../../../../lib/qowt/assets/img/ui/hiDPI/ocm_promo_word.png');
+        }
+        .ocm_point {
+          background-image: url('../../../../lib/qowt/assets/img/ui/hiDPI/ocm_promo_point.png');
+        }
+        .ocm_sheet {
+          background-image: url('../../../../lib/qowt/assets/img/ui/hiDPI/ocm_promo_sheet.png');
+        }
+        .share_word {
+          background-image: url('../../../../lib/qowt/assets/img/ui/hiDPI/promo_sharing_word.png');
+        }
+        .share_point {
+          background-image: url('../../../../lib/qowt/assets/img/ui/hiDPI/promo_sharing_point.png');
+        }
+        .share_sheet {
+          background-image: url('../../../../lib/qowt/assets/img/ui/hiDPI/promo_sharing_sheet.png');
+        }
+      }
+
+      @media (-webkit-max-device-pixel-ratio: 1.3),
+             (max-device-pixel-ratio: 1.3) {
+        .ocm_word {
+          background-image: url('../../../../lib/qowt/assets/img/ui/lowDPI/ocm_promo_word.png');
+        }
+        .ocm_point {
+          background-image: url('../../../../lib/qowt/assets/img/ui/lowDPI/ocm_promo_point.png');
+        }
+        .ocm_sheet {
+          background-image: url('../../../../lib/qowt/assets/img/ui/lowDPI/ocm_promo_sheet.png');
+        }
+        .share_word {
+          background-image: url('../../../../lib/qowt/assets/img/ui/lowDPI/promo_sharing_word.png');
+        }
+        .share_point {
+          background-image: url('../../../../lib/qowt/assets/img/ui/lowDPI/promo_sharing_point.png');
+        }
+        .share_sheet {
+          background-image: url('../../../../lib/qowt/assets/img/ui/lowDPI/promo_sharing_sheet.png');
+        }
+      }
+    </style>
+
+    <qowt-localized id='localized'>
+      <header>{{localizeString(promoType, app, '{{promoType}}_promo_conversion_shortmsg')}}</header>
+      <div class$="{{imageClass(promoType, app)}}"></div>
+      <p>
+        <span>{{localizeString(promoType, app, '{{app}}_ocm_promo_conversion_msg')}}</span>
+        <qowt-platform-anchor
+            CROS="http://support.google.com/chromeos/bin/answer.py?hl=en&answer=2481498"
+            OTHER="https://support.google.com/docs/?p=ocm_share">
+          __qowt_modal_dialog_link_text__
+        </qowt-platform-anchor>
+      </p>
+
+      <footer>
+        <button id="convert" class="affirmative" on-click="handleAction_" autofocus>{{localizeString(promoType, app,'button_{{promoType}}_promo_conversion_{{app}}')}}</button>
+        <button id="close" class="negative" on-click="handleAction_">{{localizeString(promoType, app, 'button_{{promoType}}_convert_cancel')}}</button>
+      </footer>
+    </qowt-localized>
+    <button id="closeButton" on-click="close" aria-label="{{getMessage_('close_dialog_aria_spoken_word')}}" focus-end></button>
+  </template>
+</dom-module>

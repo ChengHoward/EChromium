@@ -1,0 +1,2192 @@
+{
+   "action_create_user_feedback": {
+      "message": "الإبلاغ عن مشكلة"
+   },
+   "alt_key": {
+      "message": "Alt"
+   },
+   "app_error_learn_more": {
+      "message": "مزيد من المعلومات"
+   },
+   "app_error_report_feedback": {
+      "message": "إعداد تقرير بالتعليقات"
+   },
+   "app_icon_aria_spoken_word": {
+      "message": " الصفحة الرئيسية"
+   },
+   "app_nacl_crash_msg": {
+      "message": "قدم لنا المساعدة بالإبلاغ عن المشكلة."
+   },
+   "app_nacl_crash_report": {
+      "message": "الإبلاغ عن مشكلة..."
+   },
+   "app_nacl_crash_title": {
+      "message": "للأسف، لم يكن من المفترض أن يحدث ذلك - أعد تحميل الصفحة لاستعادة تغييراتك."
+   },
+   "app_nacl_error_load_failed": {
+      "message": "عذرًا، لا يمكن فتح الملف. أغلق علامات تبويب Chrome الأخرى أو أعد تشغيل Chrome، ثم حاول مرة أخرى. وإذا استمرت المشكلة، فأبلغ عنها أدناه."
+   },
+   "app_nacl_error_title": {
+      "message": "يتعذر فتح الملف."
+   },
+   "app_nacl_error_unsupported_device": {
+      "message": "لا يدعم هذا الجهاز إضافة Chrome، تعديل Office للمستندات وجداول البيانات والعروض التقديمية."
+   },
+   "app_saving_failed_error_msg": {
+      "message": "عذرًا، حدثت مشكلة أثناء حفظ الملف. جرّب الحفظ مرة أخرى. وإذا استمرت المشكلة، يُرجى حينئذٍ الإبلاغ عنها."
+   },
+   "app_saving_failed_error_short_msg": {
+      "message": "يتعذر حفظ الملف."
+   },
+   "backgroundcolor_aria_spoken_word": {
+      "message": "القائمة المنسدلة للون خلفية الخلية"
+   },
+   "bold_aria_spoken_word": {
+      "message": "عريض"
+   },
+   "border_all_aria_spoken_word": {
+      "message": "جميع الحدود"
+   },
+   "border_aria_spoken_word": {
+      "message": "القائمة المنسدلة للحدود"
+   },
+   "border_bottom_aria_spoken_word": {
+      "message": "الحد السفلي"
+   },
+   "border_horizontal_aria_spoken_word": {
+      "message": "الحد الأفقي"
+   },
+   "border_inner_aria_spoken_word": {
+      "message": "الحد الداخلي"
+   },
+   "border_left_aria_spoken_word": {
+      "message": "الحد الأيسر"
+   },
+   "border_none_aria_spoken_word": {
+      "message": "بدون حدود"
+   },
+   "border_outer_aria_spoken_word": {
+      "message": "الحد الخارجي"
+   },
+   "border_right_aria_spoken_word": {
+      "message": "الحد الأيمن"
+   },
+   "border_top_aria_spoken_word": {
+      "message": "الحد العلوي"
+   },
+   "border_vertical_aria_spoken_word": {
+      "message": "الحد العمودي"
+   },
+   "button_ocm_convert_cancel": {
+      "message": "إلغاء"
+   },
+   "button_ocm_promo_conversion_point": {
+      "message": "حفظ كعروض تقديمية من Google"
+   },
+   "button_ocm_promo_conversion_sheet": {
+      "message": "حفظ كجداول بيانات Google"
+   },
+   "button_ocm_promo_conversion_word": {
+      "message": "حفظ كمستندات Google"
+   },
+   "button_share_convert_cancel": {
+      "message": "إلغاء"
+   },
+   "button_share_promo_conversion_point": {
+      "message": "حفظ كشرائح Google"
+   },
+   "button_share_promo_conversion_sheet": {
+      "message": "حفظ كأوراق Google"
+   },
+   "button_share_promo_conversion_word": {
+      "message": "حفظ كمستندات Google"
+   },
+   "cell_align_aria_spoken_word": {
+      "message": "محاذاة الخلية"
+   },
+   "cellalign_aria_spoken_word": {
+      "message": "القائمة المنسدلة لمحاذاة الخلايا"
+   },
+   "cellhaligncenter_aria_spoken_word": {
+      "message": "التوسيط الأفقي"
+   },
+   "cellhalignleft_aria_spoken_word": {
+      "message": "يسار أفقي"
+   },
+   "cellhalignright_aria_spoken_word": {
+      "message": "يمين أفقي"
+   },
+   "cellvalignbottom_aria_spoken_word": {
+      "message": "أسفل عمودي"
+   },
+   "cellvaligncenter_aria_spoken_word": {
+      "message": "توسيط عمودي"
+   },
+   "cellvaligntop_aria_spoken_word": {
+      "message": "أعلى عمودي"
+   },
+   "char_count_label": {
+      "message": "الأحرف"
+   },
+   "char_no_spaces_count_label": {
+      "message": "عدد الأحرف باستثناء المسافات"
+   },
+   "close_dialog_aria_spoken_word": {
+      "message": "إغلاق مربع الحوار"
+   },
+   "cmd_dropdown_initaddshape_aria_spoken_word": {
+      "message": "القائمة المنسدلة للأشكال"
+   },
+   "collapsed": {
+      "message": "مصغّرة"
+   },
+   "collapsed_menu": {
+      "message": "تم تصغير $1 مع القائمة الفرعية.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "color_black": {
+      "message": "أسود"
+   },
+   "color_blaze_orange": {
+      "message": "برتقالي ناري"
+   },
+   "color_blue": {
+      "message": "أزرق"
+   },
+   "color_brown": {
+      "message": "بنيّ"
+   },
+   "color_cornflower_blue": {
+      "message": "أزرق قنطريوني"
+   },
+   "color_cyan": {
+      "message": "سماوي"
+   },
+   "color_dark_blue": {
+      "message": "أزرق داكن"
+   },
+   "color_dark_blue_1": {
+      "message": "أزرق داكن 1"
+   },
+   "color_dark_blue_2": {
+      "message": "أزرق داكن 2"
+   },
+   "color_dark_blue_3": {
+      "message": "أزرق داكن 3"
+   },
+   "color_dark_blue_grey": {
+      "message": "أزرق رمادي داكن"
+   },
+   "color_dark_cornflower_blue_1": {
+      "message": "أزرق قنطريوني داكن 1"
+   },
+   "color_dark_cornflower_blue_2": {
+      "message": "أزرق قنطريوني داكن 2"
+   },
+   "color_dark_cornflower_blue_3": {
+      "message": "أزرق قنطريوني داكن 3"
+   },
+   "color_dark_cyan": {
+      "message": "سماوي داكن"
+   },
+   "color_dark_cyan_1": {
+      "message": "سماوي داكن 1"
+   },
+   "color_dark_cyan_2": {
+      "message": "سماوي داكن 2"
+   },
+   "color_dark_cyan_3": {
+      "message": "سماوي داكن 3"
+   },
+   "color_dark_gray": {
+      "message": "رمادي داكن"
+   },
+   "color_dark_gray_1": {
+      "message": "رمادي داكن 1"
+   },
+   "color_dark_gray_2": {
+      "message": "رمادي داكن 2"
+   },
+   "color_dark_gray_3": {
+      "message": "رمادي داكن 3"
+   },
+   "color_dark_gray_4": {
+      "message": "رمادي داكن 4"
+   },
+   "color_dark_green": {
+      "message": "أخضر داكن"
+   },
+   "color_dark_green_1": {
+      "message": "أخضر داكن 1"
+   },
+   "color_dark_green_2": {
+      "message": "أخضر داكن 2"
+   },
+   "color_dark_green_3": {
+      "message": "أخضر داكن 3"
+   },
+   "color_dark_green_5": {
+      "message": "أخضر داكن 5"
+   },
+   "color_dark_grey_2": {
+      "message": "رمادي داكن 2"
+   },
+   "color_dark_grey_5": {
+      "message": "رمادي داكن 5"
+   },
+   "color_dark_magenta_1": {
+      "message": "أحمر أرجواني داكن 1"
+   },
+   "color_dark_magenta_2": {
+      "message": "أحمر أرجواني داكن 2"
+   },
+   "color_dark_magenta_3": {
+      "message": "أحمر أرجواني داكن 3"
+   },
+   "color_dark_olive_green": {
+      "message": "أخضر زيتوني داكن"
+   },
+   "color_dark_orange_1": {
+      "message": "برتقالي داكن 1"
+   },
+   "color_dark_orange_2": {
+      "message": "برتقالي داكن 2"
+   },
+   "color_dark_orange_3": {
+      "message": "برتقالي داكن 3"
+   },
+   "color_dark_purple_1": {
+      "message": "أرجواني داكن 1"
+   },
+   "color_dark_purple_2": {
+      "message": "أرجواني داكن 2"
+   },
+   "color_dark_purple_3": {
+      "message": "أرجواني داكن 3"
+   },
+   "color_dark_red": {
+      "message": "أحمر داكن"
+   },
+   "color_dark_red_1": {
+      "message": "أحمر داكن 1"
+   },
+   "color_dark_red_2": {
+      "message": "أحمر داكن 2"
+   },
+   "color_dark_red_3": {
+      "message": "أحمر داكن 3"
+   },
+   "color_dark_red_berry_1": {
+      "message": "أحمر قانٍ داكن 1"
+   },
+   "color_dark_red_berry_2": {
+      "message": "أحمر قانٍ داكن 2"
+   },
+   "color_dark_red_berry_3": {
+      "message": "أحمر قانٍ داكن 3"
+   },
+   "color_dark_slate_blue": {
+      "message": "أزرق أردوازي داكن"
+   },
+   "color_dark_yellow_1": {
+      "message": "أصفر داكن 1"
+   },
+   "color_dark_yellow_2": {
+      "message": "أصفر داكن 2"
+   },
+   "color_dark_yellow_3": {
+      "message": "أصفر داكن 3"
+   },
+   "color_deep_pink": {
+      "message": "قرنفلي غامق"
+   },
+   "color_deep_sky_blue": {
+      "message": "أزرق سماوي غامق"
+   },
+   "color_eucalyptus_green": {
+      "message": "أخضر يوكالبتوس"
+   },
+   "color_gold": {
+      "message": "ذهبي"
+   },
+   "color_gray": {
+      "message": "رمادي"
+   },
+   "color_green": {
+      "message": "أخضر"
+   },
+   "color_light_blue": {
+      "message": "أزرق فاتح"
+   },
+   "color_light_blue_1": {
+      "message": "أزرق فاتح 1"
+   },
+   "color_light_blue_2": {
+      "message": "أزرق فاتح 2"
+   },
+   "color_light_blue_3": {
+      "message": "أزرق فاتح 3"
+   },
+   "color_light_cornflower_blue_1": {
+      "message": "أزرق قنطريوني فاتح 1"
+   },
+   "color_light_cornflower_blue_2": {
+      "message": "أزرق قنطريوني فاتح 2"
+   },
+   "color_light_cornflower_blue_3": {
+      "message": "أزرق قنطريوني فاتح 3"
+   },
+   "color_light_cyan": {
+      "message": "سماوي فاتح"
+   },
+   "color_light_cyan_1": {
+      "message": "سماوي فاتح 1"
+   },
+   "color_light_cyan_2": {
+      "message": "سماوي فاتح 2"
+   },
+   "color_light_cyan_3": {
+      "message": "سماوي فاتح 3"
+   },
+   "color_light_gray": {
+      "message": "رمادي فاتح"
+   },
+   "color_light_gray_1": {
+      "message": "رمادي فاتح 1"
+   },
+   "color_light_gray_2": {
+      "message": "رمادي فاتح 2"
+   },
+   "color_light_gray_3": {
+      "message": "رمادي فاتح 3"
+   },
+   "color_light_green": {
+      "message": "أخضر فاتح"
+   },
+   "color_light_green_1": {
+      "message": "أخضر فاتح 1"
+   },
+   "color_light_green_2": {
+      "message": "أخضر فاتح 2"
+   },
+   "color_light_green_3": {
+      "message": "أخضر فاتح 3"
+   },
+   "color_light_magenta_1": {
+      "message": "أحمر أرجواني فاتح 1"
+   },
+   "color_light_magenta_2": {
+      "message": "أحمر أرجواني فاتح 2"
+   },
+   "color_light_magenta_3": {
+      "message": "أحمر أرجواني فاتح 3"
+   },
+   "color_light_orange_1": {
+      "message": "برتقالي فاتح 1"
+   },
+   "color_light_orange_2": {
+      "message": "برتقالي فاتح 2"
+   },
+   "color_light_orange_3": {
+      "message": "برتقالي فاتح 3"
+   },
+   "color_light_purple": {
+      "message": "أرجواني فاتح"
+   },
+   "color_light_purple_1": {
+      "message": "أرجواني فاتح 1"
+   },
+   "color_light_purple_2": {
+      "message": "أرجواني فاتح 2"
+   },
+   "color_light_purple_3": {
+      "message": "أرجواني فاتح 3"
+   },
+   "color_light_red_1": {
+      "message": "أحمر فاتح 1"
+   },
+   "color_light_red_2": {
+      "message": "أحمر فاتح 2"
+   },
+   "color_light_red_3": {
+      "message": "أحمر فاتح 3"
+   },
+   "color_light_red_berry_1": {
+      "message": "أحمر قانٍ فاتح 1"
+   },
+   "color_light_red_berry_2": {
+      "message": "أحمر قانٍ فاتح 2"
+   },
+   "color_light_red_berry_3": {
+      "message": "أحمر قانٍ فاتح 3"
+   },
+   "color_light_yellow": {
+      "message": "أصفر فاتح"
+   },
+   "color_light_yellow_1": {
+      "message": "أصفر فاتح 1"
+   },
+   "color_light_yellow_2": {
+      "message": "أصفر فاتح 2"
+   },
+   "color_light_yellow_3": {
+      "message": "أصفر فاتح 3"
+   },
+   "color_magenta": {
+      "message": "أحمر أرجواني"
+   },
+   "color_maroon": {
+      "message": "كستنائي"
+   },
+   "color_midnight_blue": {
+      "message": "أزرق ليلي"
+   },
+   "color_navy": {
+      "message": "أزرق بحري"
+   },
+   "color_olive": {
+      "message": "زيتوني"
+   },
+   "color_orange": {
+      "message": "برتقالي"
+   },
+   "color_peach": {
+      "message": "خوخي"
+   },
+   "color_pink": {
+      "message": "قرنفلي"
+   },
+   "color_pistachio": {
+      "message": "أخضر فستقي"
+   },
+   "color_purple": {
+      "message": "أرجواني"
+   },
+   "color_red": {
+      "message": "أحمر"
+   },
+   "color_red_berry": {
+      "message": "أحمر قانٍ"
+   },
+   "color_royal_blue": {
+      "message": "أزرق ملكي"
+   },
+   "color_teal": {
+      "message": "أزرق مخضر"
+   },
+   "color_turquiose": {
+      "message": "فيروزي"
+   },
+   "color_white": {
+      "message": "أبيض"
+   },
+   "color_yellow": {
+      "message": "أصفر"
+   },
+   "command_key": {
+      "message": "Command"
+   },
+   "content_msg_merging_horizontally_across_vertical_section": {
+      "message": "لا يمكنك الدمج أفقيًا عبر قسم مُدمَج عمودي حالي."
+   },
+   "content_msg_merging_multiple_cells_with_text": {
+      "message": "لن تحتفظ خلايا الدمج إلا بالقيمة الموجودة في أقصى اليمين للأعلى. أترغب في الدمج على أي حال؟"
+   },
+   "content_msg_merging_partially_selected_merged_cells": {
+      "message": "يجب تحديد جميع الخلايا في نطاق مدمَج لدمجهم أو عدم دمجهم."
+   },
+   "content_msg_merging_vertically_across_horizontal_section": {
+      "message": "يتعذَّر دمج الخلايا عموديًا عبر قسم مُدمَج أفقيًا حالي."
+   },
+   "content_render_error_msg": {
+      "message": "حدثت مشكلة في محتوى هذا المستند."
+   },
+   "context_menu_clipboard_copy": {
+      "message": "نسخ"
+   },
+   "context_menu_delete": {
+      "message": "حذف"
+   },
+   "context_menu_freeze": {
+      "message": "تجميد"
+   },
+   "context_menu_insert": {
+      "message": "إدخال"
+   },
+   "context_menu_sort_collation_ascending": {
+      "message": "فرز تصاعدي"
+   },
+   "context_menu_sort_collation_descending": {
+      "message": "فرز تنازلي"
+   },
+   "context_menu_unfreeze": {
+      "message": "إلغاء التجميد"
+   },
+   "control_key": {
+      "message": "Control"
+   },
+   "convert_attempt_when_offline": {
+      "message": "الاتصال على الإنترنت ضروري كي يتم الحفظ كمستندات Google. حاول مرة أخرى عند إعادة الاتصال."
+   },
+   "convert_attempt_with_invalid_creds": {
+      "message": "تسجيل الدخول إلى حسابك على Google ضروري كي يتم تحويل هذا الملف."
+   },
+   "convert_cancel": {
+      "message": "إلغاء"
+   },
+   "convert_to_google_docs_failed": {
+      "message": "حدثت مشكلة أثناء تحويل مستندك إلى مستندات Google."
+   },
+   "convert_to_google_point_fail_short_msg": {
+      "message": "عفوًا"
+   },
+   "convert_to_google_point_short_msg": {
+      "message": "جارٍ الحفظ كشرائح Google"
+   },
+   "convert_to_google_sheet_fail_short_msg": {
+      "message": "عفوًا"
+   },
+   "convert_to_google_sheet_short_msg": {
+      "message": "جارٍ الحفظ كأوراق Google"
+   },
+   "convert_to_google_word_fail_short_msg": {
+      "message": "عفوًا"
+   },
+   "convert_to_google_word_short_msg": {
+      "message": "جارٍ الحفظ كمستندات Google"
+   },
+   "convert_try_again": {
+      "message": "إعادة المحاولة"
+   },
+   "converting_to_google_point_fail_msg": {
+      "message": "لم نتمكن من حفظ الملف كشرائح Google في الوقت الحالي."
+   },
+   "converting_to_google_point_msg": {
+      "message": "حفظ نسخة جديدة من عرضك التقديمي كشرائح Google."
+   },
+   "converting_to_google_sheet_fail_msg": {
+      "message": "لم نتمكن من حفظ الملف كأوراق Google في الوقت الحالي."
+   },
+   "converting_to_google_sheet_msg": {
+      "message": "حفظ نسخة جديدة من جدول بياناتك كأوراق Google."
+   },
+   "converting_to_google_word_fail_msg": {
+      "message": "لم نتمكن من حفظ ملفك كمستندات Google في الوقت الحالي."
+   },
+   "converting_to_google_word_msg": {
+      "message": "حفظ نسخة جديدة من مستندك كمستندات Google."
+   },
+   "copy_attempt_when_offline": {
+      "message": "يلزمك الاتصال بالإنترنت لحفظ نسخة على Google Drive. حاول مرة أخرى عند استعادة الاتصال."
+   },
+   "copy_attempt_with_invalid_creds": {
+      "message": "يلزمك تسجيل الدخول إلى حسابك على Google لإنشاء نسخة."
+   },
+   "disabled_share_button": {
+      "message": "لا يمكن مشاركة الملفات المُمكّنة بماكرو إلا من خلال Google Drive. تم إيقاف المشاركة."
+   },
+   "disallowed_cut_copy_paste_cmd_copy": {
+      "message": "للنسخ"
+   },
+   "disallowed_cut_copy_paste_cmd_cut": {
+      "message": "للقص"
+   },
+   "disallowed_cut_copy_paste_cmd_paste": {
+      "message": "للصق"
+   },
+   "disallowed_cut_copy_paste_msg": {
+      "message": "هذه الإجراءات غير متوفّرة في قائمتَي \"تعديل\" و\"السياق\"، إلا أنّه يمكنك استخدام ما يلي:"
+   },
+   "disallowed_cut_copy_paste_title": {
+      "message": "النسخ واللصق في \"وضع التوافق مع ملفات Office\""
+   },
+   "dismiss": {
+      "message": "تجاهل"
+   },
+   "document_title_aria_spoken_word": {
+      "message": "عنوان المستند:"
+   },
+   "down_key": {
+      "message": "لأسفل"
+   },
+   "download_button": {
+      "message": "تنزيل"
+   },
+   "download_file_timeout_error_msg": {
+      "message": "يستغرق الملف الذي تحاول فتحه وقتًا أطول من المتوقع لتحميله. تحقق من اتصال الشبكة وأعد المحاولة."
+   },
+   "download_file_timeout_error_short_msg": {
+      "message": "يستغرق الملف وقتًا أطول من المتوقع"
+   },
+   "drive_open_timeout_error_msg": {
+      "message": "يبدو أن هناك مشكلة في اتصال الإنترنت. يُرجى التحقق من الاتصال وإعادة محاولة فتح الملف. إذا استمر ظهور هذا الخطأ أثناء الاتصال بالإنترنت، يُرجى الإبلاغ عن المشكلة أدناه."
+   },
+   "drive_open_timeout_error_short_msg": {
+      "message": "نأسف، لم نتمكن من فتح الملف المطلوب."
+   },
+   "duplicate_sheet_name_message": {
+      "message": "أدخل اسم ورقة ليست قيد الاستخدام من قبل ورقة أخرى"
+   },
+   "duplicate_sheet_name_title": {
+      "message": "اسم الورقة هذا قيد الاستخدام بالفعل"
+   },
+   "edits_not_being_saved": {
+      "message": "لن يتم حفظ التعديلات تلقائيًا."
+   },
+   "edits_now_being_auto_saved": {
+      "message": "تم حفظ الملف. سيتم الآن حفظ جميع التعديلات تلقائيًا."
+   },
+   "entry_point_error_msg": {
+      "message": "يُرجى المحاولة مرة أخرى أو الإبلاغ عن مشكلة أدناه."
+   },
+   "entry_point_error_short_msg": {
+      "message": "للأسف، لم نتمكن من تحديد أي ملف كنت ترغب في فتحه."
+   },
+   "error_occurred": {
+      "message": "حدث خطأ."
+   },
+   "error_password_required_msg": {
+      "message": "لا ندعم الملفات المحمية حاليًا لكننا نعكف على حل هذا."
+   },
+   "error_password_required_short_msg": {
+      "message": "هذا الملف محمي بكلمة مرور."
+   },
+   "expanded": {
+      "message": "موسعة"
+   },
+   "expanded_menu": {
+      "message": "تم توسيع $1 مع القائمة الفرعية.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "extension_description": {
+      "message": "عرض ملفات Microsoft Word وExcel وPowerPoint وتعديلها باستخدام تطبيقات المستندات وجداول البيانات والعروض التقديمية من Google."
+   },
+   "extension_name": {
+      "message": "أدوات تحرير مستندات Office"
+   },
+   "extension_popup_message_body": {
+      "message": "لفتح الملفات الحالية، يمكنك سحبها وإفلاتها في المتصفّح."
+   },
+   "extension_popup_new_document_header": {
+      "message": "جديد..."
+   },
+   "extension_popup_new_presentation_document": {
+      "message": "عرض تقديمي من PowerPoint"
+   },
+   "extension_popup_new_spreadsheet_document": {
+      "message": "جدول بيانات Excel"
+   },
+   "extension_popup_new_word_document": {
+      "message": "مستند Word"
+   },
+   "feedback_textbox_editing": {
+      "message": "يُرجى دعم تعديل النص داخل مربعات النص."
+   },
+   "feedback_ui_template": {
+      "message": "1- يُرجى وصف المشكلة التي واجهتها. 2- هل حدثت هذه المشكلة عند محاولة فتح ملف، أو عند محاولة تعديل ملف؟ 3- هل تحدث هذه المشكلة في أي وقت عند محاولة فتح أو تعديل أي ملفات، أو مع ملفات معينة فقط؟\n\nإذا كانت هذه المشكلة خاصة بملف معين، يُرجى إرفاق ذلك الملف إلى هذا التقرير، حيث إنه سيساعدنا على التمكن من تحديد المشاكل وحلّها بشكل وافٍ."
+   },
+   "file_does_not_exist_error_details": {
+      "message": "الملف غير موجود. من المحتمَل أن تكون قد فتحتَ مستندًا على رابط مشترك أو مستندًا مميزًا بإشارة مرجعية. يُرجى محاولة إعادة فتح الملف من المصدر الأصلي."
+   },
+   "file_does_not_exist_error_title": {
+      "message": "لم يتم العثور على الملف."
+   },
+   "file_loading_spinner_label": {
+      "message": "جارٍ التحميل"
+   },
+   "file_missing_content_msg": {
+      "message": "حدثت مشكلة في قراءة محتوى الملف بأكمله؛ ننصحك بمحاولة إعادة تسمية الملف وإعادة فتحه"
+   },
+   "file_missing_content_short_msg": {
+      "message": "محتوى المستند مفقود"
+   },
+   "file_not_found_error_msg": {
+      "message": "يُرجى مراجعة مالك الملف للتأكد من حصولك على إذن للوصول إليه. إذا استمر ظهور هذا الخطأ وكان لديك إذن، يُرجى الإبلاغ عن مشكلة أدناه."
+   },
+   "file_not_found_error_short_msg": {
+      "message": "نأسف، لم نتمكن من فتح الملف المطلوب."
+   },
+   "file_not_found_exception": {
+      "message": "ربما تم حذف الملف المطلوب أو إعادة تسميته أو نقله إلى مكان آخر. يُرجى النقر على \"حفظ الآن\" لمتابعة المزيد."
+   },
+   "file_not_found_link_text": {
+      "message": "للمساعدة في حسابات متعددة، يُرجى الاطّلاع على هذه المقالة"
+   },
+   "file_not_found_msg": {
+      "message": "لقد تم نقل الملف الذي طلبته."
+   },
+   "file_not_found_title": {
+      "message": "لم يتم العثور على الملف."
+   },
+   "file_open_crash_error_msg": {
+      "message": "إذا كنت لا تزال تواجه خطأ ما، يُرجى الإبلاغ عن المشكلة أدناه."
+   },
+   "file_open_crash_error_short_msg": {
+      "message": "نأسف، لم نتمكن من فتح الملف المطلوب."
+   },
+   "file_open_error_msg": {
+      "message": "لا يُمكن الدخول إلى محتوى هذا الملف."
+   },
+   "file_open_error_short_msg": {
+      "message": "يبدو هذا الملف تالفًا."
+   },
+   "file_open_fail_download_link_text": {
+      "message": "تنزيل الملف"
+   },
+   "file_opened_in_incognito_mode_error_details": {
+      "message": "لا تعمل إضافة \"تعديل ملفات Office\" وضع التصفح المتخفي. يُرجى فتح نافذة التصفُّح المتخفي من نافذة Chrome العادية. في حال استخدام \"وضع الضيف\" سيتعذّر فتح الملف. يُرجى التأكّد من أن الملف غير تالف وأن نوع المستند صالحًا وإعادة المحاولة."
+   },
+   "file_opened_in_incognito_mode_error_title": {
+      "message": "انتبه! وضع التصفُّح المتخفي غير متوافق"
+   },
+   "file_pdf_type_rename_msg": {
+      "message": "يمكنك إعادة تسمية الملف إلى $1.pdf والمحاولة مرة أخرى.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_rtf_type_rename_msg": {
+      "message": "إعادة تسمية الملف إلى $1.rtf",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_type_unsupported_msg": {
+      "message": "لا يتم دعم نوع الملف هذا."
+   },
+   "fillcolor_aria_spoken_word": {
+      "message": "القائمة المنسدلة للون النص"
+   },
+   "fontface_aria_spoken_word": {
+      "message": "القائمة المنسدلة لواجهة الخط"
+   },
+   "fontsize_aria_spoken_word": {
+      "message": "القائمة المنسدلة لحجم الخط"
+   },
+   "forbidden_access_level_error_msg": {
+      "message": "يُرجى مراجعة مالك الملف للتأكد من حصولك على إذن لفتح الملف. إذا استمر ظهور هذا الخطأ وكان لديك إذن، يُرجى الإبلاغ عن مشكلة أدناه."
+   },
+   "forbidden_access_level_error_short_msg": {
+      "message": "نأسف، لم نتمكن من فتح الملف المطلوب."
+   },
+   "forbidden_app_access_error_msg": {
+      "message": "لا أمتلك الإذن لفتح هذا الملف لسبب ما. يُرجى محاولة فتح الملف من Google Drive أو الإبلاغ عن المشكلة أدناه."
+   },
+   "forbidden_app_access_error_short_msg": {
+      "message": "نأسف، لم نتمكن من فتح الملف المطلوب."
+   },
+   "forbidden_app_id_error_msg": {
+      "message": "يبدو أن إضافة Chrome لم يتم تهيئتها بشكل مناسب. كيفية حدوث ذلك؟ نحن غير متأكدين تمامًا، لكن يُرجى الإبلاغ عن المشكلة أدناه."
+   },
+   "forbidden_app_id_error_short_msg": {
+      "message": "نأسف، لم نتمكن من فتح الملف المطلوب."
+   },
+   "forbidden_blacklist_error_msg": {
+      "message": "يبدو أنه قد تم وضع إضافة Chrome في القائمة السوداء. لقد حدث هذا عن طريق الخطأ، لذا يُرجى إخبارنا حول هذه المشكلة عن طريق الإبلاغ عن المشكلة أدناه."
+   },
+   "forbidden_blacklist_error_short_msg": {
+      "message": "نأسف، لم نتمكن من فتح الملف المطلوب."
+   },
+   "forbidden_domain_error_msg": {
+      "message": "يبدو أن نطاقك قد حظر الدخول لهذا الملف. يُرجى الاتصال بمشرف النطاق أو الإبلاغ عن المشكلة أدناه."
+   },
+   "forbidden_domain_error_short_msg": {
+      "message": "نأسف، لم نتمكن من فتح الملف المطلوب."
+   },
+   "forbidden_internal_error_msg": {
+      "message": "للأسف، لا يعمل Google Drive على النحو المتوقع. يُرجى إعادة محاولة فتح الملف، أو الإبلاغ عن المشكلة أدناه."
+   },
+   "forbidden_internal_error_short_msg": {
+      "message": "نأسف، لم نتمكن من فتح الملف المطلوب."
+   },
+   "forbidden_not_installed_error_msg": {
+      "message": "يبدو أنه لم يتم تثبيت إضافة Chrome بشكل مناسب. كيفية حدوث ذلك؟ نحن غير متأكدين تمامًا، لكن يٌرجى الإبلاغ عن المشكلة أدناه."
+   },
+   "forbidden_not_installed_error_short_msg": {
+      "message": "نأسف، لم نتمكن من فتح الملف المطلوب."
+   },
+   "generic_error_msg": {
+      "message": "حدثت مشكلة في محتوى هذا المستند."
+   },
+   "generic_error_short_msg": {
+      "message": "للأسف، لم يكن من المفترض أن يحدث ذلك - أعد تحميل الصفحة لاستعادة تغييراتك."
+   },
+   "get_lists_data_error_msg": {
+      "message": "ربما يتم عرض المستند بتنسيق قائمة غير صحيح."
+   },
+   "get_lists_data_error_short_msg": {
+      "message": "تعذر استرداد تنسيق المستند."
+   },
+   "highlightcolor_aria_spoken_word": {
+      "message": "القائمة المنسدلة للون تحديد النص"
+   },
+   "http_error_zero_msg": {
+      "message": "إذا كانت المشكلة في الشبكة، يُرجى التحقق من الاتصال أو إعادة المحاولة لاحقًا. وإذا استمرت المشكلة، فأبلغ عنها أدناه."
+   },
+   "http_error_zero_short_msg": {
+      "message": "عذرًا، لا يمكن فتح الملف."
+   },
+   "info_file_copied": {
+      "message": "تم الحفظ"
+   },
+   "info_file_save_cancelled": {
+      "message": "تم إلغاء عملية الحفظ."
+   },
+   "info_file_save_failed": {
+      "message": "فشل الحفظ."
+   },
+   "info_file_saved_at_location": {
+      "message": "تم حفظ جميع التغييرات في $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "info_file_saved_in_drive": {
+      "message": "تم حفظ جميع التغييرات على Drive"
+   },
+   "info_file_saved_locally": {
+      "message": "تم حفظ جميع التغييرات في الوسائط المحلية"
+   },
+   "info_file_saved_offline": {
+      "message": "تم حفظ جميع التغييرات بلا إنترنت بالإنترنت"
+   },
+   "info_file_saving": {
+      "message": "جارٍ الحفظ..."
+   },
+   "initaddshape_aria_spoken_word": {
+      "message": "إضافة مربع نص"
+   },
+   "invalid_credentials_error_msg": {
+      "message": "تحتاج إلى تسجيل الدخول إلى حساب Google من أجل الوصول إلى هذا الملف."
+   },
+   "invalid_credentials_error_short_msg": {
+      "message": "نأسف، لم نتمكن من فتح الملف المطلوب."
+   },
+   "invalid_file_format_msg": {
+      "message": "على الرغم من أن الملف يبدو وكأنه مستند Office ولديه امتداد ملف Office، إلا أنه في الواقع نوع مختلف من الملفات تمت إعادة تسميته أو تغييره بطريقة ما، أو أنه ينتمي لنوع من الملفات التي لا ندعمها."
+   },
+   "invalid_file_format_short_msg": {
+      "message": "عفوًا، يبدو أنه لا يمكن فتح هذا النوع من المستندات."
+   },
+   "italic_aria_spoken_word": {
+      "message": "مائل"
+   },
+   "keyboard_shortcut_group_actions": {
+      "message": "الإجراءات"
+   },
+   "keyboard_shortcut_group_other": {
+      "message": "أخرى"
+   },
+   "keyboard_shortcut_group_paragraph_formatting": {
+      "message": "تنسيق الفقرة"
+   },
+   "keyboard_shortcut_group_text_formatting": {
+      "message": "تنسيق النص"
+   },
+   "keyboard_shortcut_group_top_menus": {
+      "message": "القوائم"
+   },
+   "keyboard_shortcut_group_with_slides": {
+      "message": "الشرائح"
+   },
+   "keyboard_shortcut_title": {
+      "message": "اختصارات لوحة المفاتيح"
+   },
+   "make_a_copy_fail_msg": {
+      "message": "لم نتمكن من إنشاء نسخة في الوقت الحالي."
+   },
+   "menu_button_data": {
+      "message": "البيانات"
+   },
+   "menu_button_edit": {
+      "message": "تعديل"
+   },
+   "menu_button_file": {
+      "message": "ملف"
+   },
+   "menu_button_format": {
+      "message": "التنسيق"
+   },
+   "menu_button_help": {
+      "message": "مساعدة"
+   },
+   "menu_button_insert": {
+      "message": "إدخال"
+   },
+   "menu_button_slide": {
+      "message": "شريحة"
+   },
+   "menu_button_tools": {
+      "message": "الأدوات"
+   },
+   "menu_button_view": {
+      "message": "عرض"
+   },
+   "menu_item_10_point_star": {
+      "message": "نجمة ذات 10 نقاط"
+   },
+   "menu_item_12_point_star": {
+      "message": "نجمة ذات 12 نقطة"
+   },
+   "menu_item_16_point_star": {
+      "message": "نجمة ذات 16 نقطة"
+   },
+   "menu_item_24_point_star": {
+      "message": "نجمة ذات 24 نقطة"
+   },
+   "menu_item_32_point_star": {
+      "message": "نجمة ذات 32 نقطة"
+   },
+   "menu_item_4_point_star": {
+      "message": "نجمة ذات 4 نقاط"
+   },
+   "menu_item_5_point_star": {
+      "message": "نجمة ذات 5 نقاط"
+   },
+   "menu_item_6_point_star": {
+      "message": "نجمة ذات 6 نقاط"
+   },
+   "menu_item_7_point_star": {
+      "message": "نجمة ذات 7 نقاط"
+   },
+   "menu_item_8_point_star": {
+      "message": "نجمة ذات 8 نقاط"
+   },
+   "menu_item_align": {
+      "message": "محاذاة"
+   },
+   "menu_item_align_center": {
+      "message": "توسيط"
+   },
+   "menu_item_align_justified": {
+      "message": "ضبط"
+   },
+   "menu_item_align_left": {
+      "message": "يسار"
+   },
+   "menu_item_align_right": {
+      "message": "يمين"
+   },
+   "menu_item_arrows": {
+      "message": "الأسهم"
+   },
+   "menu_item_bent_arrow": {
+      "message": "سهم منحنٍ"
+   },
+   "menu_item_bent_up_arrow": {
+      "message": "سهم منحنٍ إلى الأعلى"
+   },
+   "menu_item_bevel": {
+      "message": "مجسم مشطوف الحواف"
+   },
+   "menu_item_block_arc": {
+      "message": "قوس ممتلئ"
+   },
+   "menu_item_bold": {
+      "message": "عريض"
+   },
+   "menu_item_callouts": {
+      "message": "وسائل الشرح"
+   },
+   "menu_item_can": {
+      "message": "علبة"
+   },
+   "menu_item_chevron": {
+      "message": "شارة رتبة"
+   },
+   "menu_item_chord": {
+      "message": "وتر"
+   },
+   "menu_item_clear_formatting": {
+      "message": "محو التنسيق"
+   },
+   "menu_item_cloud": {
+      "message": "سحابة"
+   },
+   "menu_item_cloud_callout": {
+      "message": "وسيلة شرح على شكل سحابة"
+   },
+   "menu_item_color_none": {
+      "message": "لا شيء"
+   },
+   "menu_item_color_transparent": {
+      "message": "شفافة"
+   },
+   "menu_item_convert_to_docs": {
+      "message": "حفظ كمستندات Google"
+   },
+   "menu_item_convert_to_sheets": {
+      "message": "حفظ كأوراق Google"
+   },
+   "menu_item_convert_to_slides": {
+      "message": "حفظ كشرائح Google"
+   },
+   "menu_item_copy": {
+      "message": "نسخ"
+   },
+   "menu_item_cross": {
+      "message": "تقاطع"
+   },
+   "menu_item_cube": {
+      "message": "مكعب"
+   },
+   "menu_item_curved_down_arrow": {
+      "message": "سهم منحنٍ إلى الأسفل"
+   },
+   "menu_item_curved_left_arrow": {
+      "message": "سهم منحنٍ إلى اليسار"
+   },
+   "menu_item_curved_right_arrow": {
+      "message": "سهم منحنٍ إلى اليمين"
+   },
+   "menu_item_curved_up_arrow": {
+      "message": "سهم منحنٍ إلى الأعلى"
+   },
+   "menu_item_cut": {
+      "message": "قص"
+   },
+   "menu_item_decagon": {
+      "message": "مضلع عشري"
+   },
+   "menu_item_delete_column": {
+      "message": "حذف عمود"
+   },
+   "menu_item_delete_row": {
+      "message": "حذف صف"
+   },
+   "menu_item_delete_value": {
+      "message": "حذف قيمة"
+   },
+   "menu_item_deleteslide": {
+      "message": "حذف شريحة"
+   },
+   "menu_item_diagonal_stripe": {
+      "message": "شريط قطري"
+   },
+   "menu_item_diamond": {
+      "message": "معيّن"
+   },
+   "menu_item_divide": {
+      "message": "علامة القسمة"
+   },
+   "menu_item_dodecagon": {
+      "message": "مضلع اثنا عشري"
+   },
+   "menu_item_donut": {
+      "message": "دائرة مجوفة"
+   },
+   "menu_item_double_brace": {
+      "message": "قوس كبير مزدوج"
+   },
+   "menu_item_double_bracket": {
+      "message": "قوس مزدوج"
+   },
+   "menu_item_down_arrow": {
+      "message": "سهم متّجه للأسفل"
+   },
+   "menu_item_down_arrow_callout": {
+      "message": "وسيلة شرح ذات سهم متّجه للأسفل"
+   },
+   "menu_item_duplicateslide": {
+      "message": "شريحة مكررة"
+   },
+   "menu_item_equal": {
+      "message": "علامة التساوي"
+   },
+   "menu_item_equation": {
+      "message": "معادلة"
+   },
+   "menu_item_explosion_1": {
+      "message": "انفجار 1"
+   },
+   "menu_item_explosion_2": {
+      "message": "انفجار 2"
+   },
+   "menu_item_flowchart_alternate_process": {
+      "message": "رسم بياني انسيابي: معالجة بديلة"
+   },
+   "menu_item_flowchart_card": {
+      "message": "رسم بياني انسيابي: بطاقة"
+   },
+   "menu_item_flowchart_collate": {
+      "message": "رسم بياني انسيابي: مقارنة"
+   },
+   "menu_item_flowchart_connector": {
+      "message": "رسم بياني انسيابي: موصل"
+   },
+   "menu_item_flowchart_data": {
+      "message": "رسم بياني انسيابي: بيانات"
+   },
+   "menu_item_flowchart_decision": {
+      "message": "رسم بياني انسيابي: قرار"
+   },
+   "menu_item_flowchart_delay": {
+      "message": "رسم بياني انسيابي: تأخير"
+   },
+   "menu_item_flowchart_direct_access_storage": {
+      "message": "رسم بياني انسيابي: تخزين بالدخول المباشر"
+   },
+   "menu_item_flowchart_display": {
+      "message": "رسم بياني انسيابي: عرض"
+   },
+   "menu_item_flowchart_document": {
+      "message": "رسم بياني انسيابي: مستند"
+   },
+   "menu_item_flowchart_extract": {
+      "message": "رسم بياني انسيابي: استخراج"
+   },
+   "menu_item_flowchart_internal_storage": {
+      "message": "رسم بياني انسيابي: تخزين داخلي"
+   },
+   "menu_item_flowchart_magnetic_disk": {
+      "message": "رسم بياني انسيابي: قرص ممغنط"
+   },
+   "menu_item_flowchart_manual_input": {
+      "message": "رسم بياني انسيابي: إدخال يدوي"
+   },
+   "menu_item_flowchart_manual_operation": {
+      "message": "رسم بياني انسيابي: عملية يدوية"
+   },
+   "menu_item_flowchart_merge": {
+      "message": "رسم بياني انسيابي: دمج"
+   },
+   "menu_item_flowchart_multidocument": {
+      "message": "رسم بياني انسيابي: متعدد المستندات"
+   },
+   "menu_item_flowchart_off_page_connector": {
+      "message": "رسم بياني انسيابي: موصل خارج الصفحة"
+   },
+   "menu_item_flowchart_or": {
+      "message": "رسم بياني انسيابي: أو"
+   },
+   "menu_item_flowchart_predefined_process": {
+      "message": "رسم بياني انسيابي: معالجة مُعرّفة مسبقًا"
+   },
+   "menu_item_flowchart_preparation": {
+      "message": "رسم بياني انسيابي: تحضير"
+   },
+   "menu_item_flowchart_process": {
+      "message": "رسم بياني انسيابي: معالجة"
+   },
+   "menu_item_flowchart_punched_tape": {
+      "message": "رسم بياني انسيابي: شريط مثقب"
+   },
+   "menu_item_flowchart_sequential_access_storage": {
+      "message": "رسم بياني انسيابي: تخزين بالدخول التسلسلي"
+   },
+   "menu_item_flowchart_sort": {
+      "message": "رسم بياني انسيابي: تصنيف"
+   },
+   "menu_item_flowchart_stored_data": {
+      "message": "رسم بياني انسيابي: بيانات مخزنة"
+   },
+   "menu_item_flowchart_summing_junction": {
+      "message": "رسم بياني انسيابي: وصلة جمع"
+   },
+   "menu_item_flowchart_terminator": {
+      "message": "رسم بياني انسيابي: محطة طرفية"
+   },
+   "menu_item_folded_corner": {
+      "message": "زاوية مطوية"
+   },
+   "menu_item_frame": {
+      "message": "إطار"
+   },
+   "menu_item_half_frame": {
+      "message": "نصف إطار"
+   },
+   "menu_item_heart": {
+      "message": "قلب"
+   },
+   "menu_item_help_center": {
+      "message": "مركز المساعدة"
+   },
+   "menu_item_heptagon": {
+      "message": "سباعي"
+   },
+   "menu_item_hexagon": {
+      "message": "سداسي"
+   },
+   "menu_item_hideslide": {
+      "message": "إخفاء شريحة"
+   },
+   "menu_item_insert_column": {
+      "message": "عمود"
+   },
+   "menu_item_insert_image": {
+      "message": "صورة"
+   },
+   "menu_item_insert_row": {
+      "message": "صف"
+   },
+   "menu_item_insert_text_box": {
+      "message": "مربع النص"
+   },
+   "menu_item_insertslide": {
+      "message": "شريحة جديدة"
+   },
+   "menu_item_italic": {
+      "message": "مائل"
+   },
+   "menu_item_keyboard_shortcuts": {
+      "message": "اختصارات لوحة المفاتيح"
+   },
+   "menu_item_l_shape": {
+      "message": "شكل حرف L"
+   },
+   "menu_item_left_arrow": {
+      "message": "سهم لليسار"
+   },
+   "menu_item_left_arrow_callout": {
+      "message": "وسيلة شرح ذات سهم إلى اليسار"
+   },
+   "menu_item_left_brace": {
+      "message": "قوس كبير أيسر"
+   },
+   "menu_item_left_bracket": {
+      "message": "قوس أيسر"
+   },
+   "menu_item_left_right_arrow": {
+      "message": "سهم إلى اليسار واليمين"
+   },
+   "menu_item_left_right_arrow_callout": {
+      "message": "وسيلة شرح ذات سهم إلى اليسار واليمين"
+   },
+   "menu_item_left_right_up_arrow": {
+      "message": "سهم متّجه لليسار ولليمين وللأعلى"
+   },
+   "menu_item_left_up_arrow": {
+      "message": "سهم إلى اليسار وإلى أعلى"
+   },
+   "menu_item_lightning_bolt": {
+      "message": "صاعقة البرق"
+   },
+   "menu_item_make_a_copy": {
+      "message": "إنشاء نسخة..."
+   },
+   "menu_item_merge_all": {
+      "message": "دمج الكل"
+   },
+   "menu_item_merge_cells": {
+      "message": "دمج الخلايا"
+   },
+   "menu_item_merge_horizontally": {
+      "message": "دمج أفقي"
+   },
+   "menu_item_merge_vertically": {
+      "message": "دمج عمودي"
+   },
+   "menu_item_minus": {
+      "message": "علامة الطرح"
+   },
+   "menu_item_moon": {
+      "message": "قمر"
+   },
+   "menu_item_moveslidedown": {
+      "message": "نقل الشريحة لأسفل"
+   },
+   "menu_item_moveslidetoend": {
+      "message": "نقل الشريحة إلى النهاية"
+   },
+   "menu_item_moveslidetostart": {
+      "message": "نقل الشريحة إلى البداية"
+   },
+   "menu_item_moveslideup": {
+      "message": "نقل الشريحة لأعلى"
+   },
+   "menu_item_multiply": {
+      "message": "علامة الضرب"
+   },
+   "menu_item_new": {
+      "message": "جديد"
+   },
+   "menu_item_no_symbol": {
+      "message": "رمز \"ممنوع\""
+   },
+   "menu_item_not_equal": {
+      "message": "علامة \"لا يساوي\""
+   },
+   "menu_item_notched_right_arrow": {
+      "message": "سهم مسنن إلى اليمين"
+   },
+   "menu_item_number_format": {
+      "message": "تنسيق الأرقام"
+   },
+   "menu_item_number_menu": {
+      "message": "الرقم"
+   },
+   "menu_item_numbering": {
+      "message": "$1 من $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "menu_item_octagon": {
+      "message": "ثمانيّ"
+   },
+   "menu_item_open": {
+      "message": "مفتوح"
+   },
+   "menu_item_oval": {
+      "message": "بيضويّ"
+   },
+   "menu_item_oval_callout": {
+      "message": "وسيلة شرح بيضوية"
+   },
+   "menu_item_parallelogram": {
+      "message": "متوازي أضلاع"
+   },
+   "menu_item_paste": {
+      "message": "لصق"
+   },
+   "menu_item_pentagon": {
+      "message": "خماسيّ"
+   },
+   "menu_item_pie": {
+      "message": "دائريّ"
+   },
+   "menu_item_plaque": {
+      "message": "لوحة منقوشة"
+   },
+   "menu_item_plus": {
+      "message": "علامة \"زائد\""
+   },
+   "menu_item_present": {
+      "message": "حاليًا"
+   },
+   "menu_item_print": {
+      "message": "طباعة"
+   },
+   "menu_item_quad_arrow": {
+      "message": "سهم رباعيّ"
+   },
+   "menu_item_quad_arrow_callout": {
+      "message": "وسيلة شرح ذات سهم رباعيّ"
+   },
+   "menu_item_rectangle": {
+      "message": "مستطيل"
+   },
+   "menu_item_rectangular_callout": {
+      "message": "وسيلة شرح مستطيلة"
+   },
+   "menu_item_redo": {
+      "message": "إعادة"
+   },
+   "menu_item_regular_pentagon": {
+      "message": "خماسيّ منتظم"
+   },
+   "menu_item_report_abuse": {
+      "message": "الإبلاغ عن إساءة الاستخدام"
+   },
+   "menu_item_report_issue": {
+      "message": "الإبلاغ عن مشكلة"
+   },
+   "menu_item_right_arrow": {
+      "message": "سهم لليمين"
+   },
+   "menu_item_right_arrow_callout": {
+      "message": "وسيلة شرح ذات سهم إلى اليمين"
+   },
+   "menu_item_right_brace": {
+      "message": "قوس كبير أيمن"
+   },
+   "menu_item_right_bracket": {
+      "message": "قوس أيمن"
+   },
+   "menu_item_right_triangle": {
+      "message": "مثلث قائم الزاوية"
+   },
+   "menu_item_round_diagonal_corner_rectangle": {
+      "message": "مستطيل ذو زوايا قطرية مستديرة"
+   },
+   "menu_item_round_same_side_corner_rectangle": {
+      "message": "مستطيل ذو زاويتين مستديرتين في نفس الجانب"
+   },
+   "menu_item_round_single_corner_rectangle": {
+      "message": "مستطيل ذو زاوية واحدة مستديرة"
+   },
+   "menu_item_rounded_rectangle": {
+      "message": "مستطيل مستدير الزوايا"
+   },
+   "menu_item_rounded_rectangular_callout": {
+      "message": "وسيلة شرح مستطيلة مستديرة الزوايا"
+   },
+   "menu_item_save": {
+      "message": "حفظ"
+   },
+   "menu_item_save_as": {
+      "message": "حفظ باسم…"
+   },
+   "menu_item_shapes": {
+      "message": "الأشكال"
+   },
+   "menu_item_share": {
+      "message": "مشاركة"
+   },
+   "menu_item_smiley_face": {
+      "message": "وجه مبتسم"
+   },
+   "menu_item_snip_and_round_single_corner_rectangle": {
+      "message": "مستطيل ذو زاوية واحدة مقتصة ودائرية"
+   },
+   "menu_item_snip_diagonal_corner_rectangle": {
+      "message": "مستطيل ذو زوايا قطرية مقتصة"
+   },
+   "menu_item_snip_same_side_corner_rectangle": {
+      "message": "مستطيل ذو زاويتين مقتصتين من نفس الجانب"
+   },
+   "menu_item_snip_single_corner_rectangle": {
+      "message": "مستطيل ذو زاوية واحدة مقتصة"
+   },
+   "menu_item_strikethrough": {
+      "message": "يتوسطه خط"
+   },
+   "menu_item_striped_right_arrow": {
+      "message": "سهم مخطط إلى اليمين"
+   },
+   "menu_item_subscript": {
+      "message": "منخفض"
+   },
+   "menu_item_sun": {
+      "message": "شمس"
+   },
+   "menu_item_superscript": {
+      "message": "مرتفع"
+   },
+   "menu_item_teardrop": {
+      "message": "دمعة"
+   },
+   "menu_item_trapezoid": {
+      "message": "شبه منحرف"
+   },
+   "menu_item_triangle": {
+      "message": "مثلث"
+   },
+   "menu_item_u_turn_arrow": {
+      "message": "سهم بشكل حرف U"
+   },
+   "menu_item_underline": {
+      "message": "تحته خط"
+   },
+   "menu_item_undo": {
+      "message": "تراجع"
+   },
+   "menu_item_unhideslide": {
+      "message": "عدم إخفاء شريحة"
+   },
+   "menu_item_unmerge": {
+      "message": "إلغاء الدمج"
+   },
+   "menu_item_up_arrow": {
+      "message": "سهم متّجه للأعلى"
+   },
+   "menu_item_up_arrow_callout": {
+      "message": "وسيلة شرح ذات سهم متّجه للأعلى"
+   },
+   "menu_item_up_down_arrow": {
+      "message": "سهم متّجه للأعلى وللأسفل"
+   },
+   "menu_item_version_info": {
+      "message": "معلومات الإصدار"
+   },
+   "menu_item_word_count": {
+      "message": "عدد الكلمات"
+   },
+   "menu_item_wrap_text": {
+      "message": "التفاف النص"
+   },
+   "menu_item_zoom_in": {
+      "message": "تكبير"
+   },
+   "menu_item_zoom_out": {
+      "message": "تصغير"
+   },
+   "merge_all_aria_spoken_word": {
+      "message": "دمج الكل"
+   },
+   "merge_aria_spoken_word": {
+      "message": "دمج"
+   },
+   "merge_dropdown_aria_spoken_word": {
+      "message": "دمج القائمة المنسدلة"
+   },
+   "merge_horizontally_aria_spoken_word": {
+      "message": "دمج أفقي"
+   },
+   "merge_vertically_aria_spoken_word": {
+      "message": "دمج عمودي"
+   },
+   "modify_shape_transform_error_msg": {
+      "message": "حدث خطأ أثناء تعديل عمليات تحويل الأشكال"
+   },
+   "modify_shape_transform_error_short_msg": {
+      "message": "حدث خطأ أثناء تعديل عمليات تحويل الأشكال."
+   },
+   "modifyshapefillcolor_aria_spoken_word": {
+      "message": "القائمة المنسدلة للون تعبئة الشكل"
+   },
+   "modifyshapeoutlinecolor_aria_spoken_word": {
+      "message": "القائمة المنسدلة للون إطار الشكل"
+   },
+   "modifyshapeoutlinestyle_aria_spoken_word": {
+      "message": "القائمة المنسدلة لنمط إطار الشكل"
+   },
+   "modifyshapeoutlinewidth_aria_spoken_word": {
+      "message": "القائمة المنسدلة لعرض إطار الشكل"
+   },
+   "nacl_load_error_details": {
+      "message": "جرِّب إعادة تثبيت الإضافة."
+   },
+   "nacl_load_error_title": {
+      "message": "حدثت مشكلة أثناء تحميل التطبيق."
+   },
+   "non_permissible_sheet_name_details": {
+      "message": "لا يسمح بالأحرف التالية * ? [ ] ' ; : يجب ألا يتجاوز طول اسم الورقة 31 حرفًا يجب عدم ترك اسم الورقة فارغًا"
+   },
+   "non_permissible_sheet_name_title": {
+      "message": "أدخلت اسمًا غير صالح أثناء إعادة تسمية الورقة"
+   },
+   "not_pressed": {
+      "message": "غير مضغوط"
+   },
+   "notselected": {
+      "message": "غير محدد"
+   },
+   "number_format_label_currency_symbol": {
+      "message": "رمز العملة"
+   },
+   "number_format_label_date_type": {
+      "message": "اكتب"
+   },
+   "number_format_label_decimal_places": {
+      "message": "المنازل العشرية"
+   },
+   "number_format_label_general": {
+      "message": "عام"
+   },
+   "number_format_label_negative_numbers": {
+      "message": "الأرقام السالبة"
+   },
+   "number_format_label_other": {
+      "message": "أخرى"
+   },
+   "number_format_label_red": {
+      "message": "أحمر"
+   },
+   "number_format_label_text": {
+      "message": "نص"
+   },
+   "number_format_label_use_1000_separator": {
+      "message": "استخدام فاصل الآلاف"
+   },
+   "number_format_tab_accounting": {
+      "message": "محاسبة"
+   },
+   "number_format_tab_currency": {
+      "message": "العملة"
+   },
+   "number_format_tab_date_time": {
+      "message": "التاريخ والوقت"
+   },
+   "number_format_tab_general": {
+      "message": "عام"
+   },
+   "number_format_tab_number": {
+      "message": "الرقم"
+   },
+   "number_format_tab_percentage": {
+      "message": "النسبة المئوية"
+   },
+   "number_format_tab_scientific": {
+      "message": "علمي"
+   },
+   "number_format_title": {
+      "message": "تنسيقات الأرقام"
+   },
+   "ocm_promo_conversion_shortmsg": {
+      "message": "أنت في وضع توافق مع Office"
+   },
+   "office_compatibility_mode": {
+      "message": "وضع التوافق مع ملفات Office"
+   },
+   "office_first_time_confirm": {
+      "message": "حسنًا"
+   },
+   "office_first_time_message_p1": {
+      "message": "يمكنك الآن تعديل ملفات Word وExcel وPowerpoint من محرك القرص الثابت وGoogle Drive وGmail والمزيد، وذلك باستخدام المستندات والأوراق والشرائح."
+   },
+   "office_first_time_message_p2": {
+      "message": "يتم حفظ جميع تعديلاتك تلقائيًا، وبإمكانك دائمًا حفظها بالتنسيق الأصلي أيضًا."
+   },
+   "office_first_time_title": {
+      "message": "\"تعديل Office\" للمستندات والأوراق والشرائح"
+   },
+   "offline_error_msg": {
+      "message": "يبدو أنك غير متصل بالإنترنت. يُرجى التحقق من اتصال الإنترنت وإعادة المحاولة. إذا استمر ظهور هذا الخطأ أثناء الاتصال بالإنترنت، يُرجى الإبلاغ عن المشكلة أدناه."
+   },
+   "offline_error_short_msg": {
+      "message": "نأسف، لم نتمكن من فتح الملف المطلوب."
+   },
+   "option_key": {
+      "message": "الخيار"
+   },
+   "out_of_memory_error_msg": {
+      "message": "جرِّب إغلاق علامة التبويب هذه وإعادة فتح الملف، أو إغلاق علامات التبويب الأخرى التي من الممكن أن تكون مفتوحة في المتصفِّح. في حالة استمرار هذه المشكلة، يُرجى الإبلاغ عن المشكلة أدناه."
+   },
+   "out_of_memory_error_short_msg": {
+      "message": "عذرًا. نفذت الذاكرة."
+   },
+   "page_count_label": {
+      "message": "الصفحات"
+   },
+   "partial_cell_merge_error_msg": {
+      "message": "يتعذر تغيير جزء من خلية مدمجة."
+   },
+   "partial_cell_merge_error_short_msg": {
+      "message": "خطأ"
+   },
+   "point_ocm_promo_conversion_msg": {
+      "message": "يمكنك تعديل ملفات Office وحفظها مباشرة في الشرائح. لدعوة الآخرين للتعديل أو إضافة تعليقات، احفظ الملف كشرائح Google. يمكنك حفظ الرجوع إلى التنسيق الأصلي في أي وقت."
+   },
+   "point_printing_warning_msg": {
+      "message": "نعمل على حل هذا الأمر."
+   },
+   "point_printing_warning_short_msg": {
+      "message": "لا يمكنك حاليًا سوى طباعة الشريحة التي تشاهدها."
+   },
+   "point_share_promo_conversion_msg": {
+      "message": "هل تحاول مشاركة هذا العرض التقديمي؟ كي تتمكن من دعوة الآخرين لتعديله معك، يرجى تحويله إلى شرائح Google."
+   },
+   "pointtogglebullet_aria_spoken_word": {
+      "message": "قائمة نقطية"
+   },
+   "pointtogglenumber_aria_spoken_word": {
+      "message": "قائمة ذات تعداد رقمي"
+   },
+   "present_button": {
+      "message": "مشاركة العرض"
+   },
+   "pressed": {
+      "message": "مضغوط"
+   },
+   "print_aria_spoken_word": {
+      "message": "طباعة"
+   },
+   "qowt_doc_mismatch_text": {
+      "message": "واجه مستندك خطأً أثناء التنسيق.\n\nأعد تحميل الصفحة لاستعادة تغييراتك."
+   },
+   "qowt_doc_mismatch_title": {
+      "message": "خطأ!"
+   },
+   "qowt_hyperlink_activate_short_key": {
+      "message": "اضغط على ALT + Enter لتفعيل الرابط."
+   },
+   "qowt_hyperlink_dialog": {
+      "message": "الارتباط التشعبي"
+   },
+   "qowt_hyperlink_dialog_message_text": {
+      "message": "الانتقال إلى الرابط:"
+   },
+   "qowt_modal_confirm_dialog_affirmative_button": {
+      "message": "موافق"
+   },
+   "qowt_modal_confirm_dialog_negative_button": {
+      "message": "إلغاء"
+   },
+   "qowt_modal_dialog_close_button": {
+      "message": "إغلاق"
+   },
+   "qowt_modal_dialog_coming_soon_title": {
+      "message": "يتوفر قريبًا!"
+   },
+   "qowt_modal_dialog_link_text": {
+      "message": "مزيد من المعلومات"
+   },
+   "qowt_modal_dialog_ok_button": {
+      "message": "موافق"
+   },
+   "qowt_modal_dialog_reload_button": {
+      "message": "إعادة التحميل"
+   },
+   "qowt_modal_dialog_textbox_editing_description": {
+      "message": "عذرا، لا ندعم تعديل النص داخل مربعات النص."
+   },
+   "qowt_modal_dialog_textbox_editing_link": {
+      "message": "يُرجى إصلاح هذا!"
+   },
+   "qowt_modal_info_dialog_affirmative_button": {
+      "message": "موافق"
+   },
+   "qowt_modal_multi_choice_remember_choice": {
+      "message": "تذكر اختياري"
+   },
+   "qowt_modal_query_dialog_affirmative_button": {
+      "message": "نعم"
+   },
+   "qowt_modal_query_dialog_negative_button": {
+      "message": "لا"
+   },
+   "qowt_modal_query_dialog_reload_button": {
+      "message": "إعادة التحميل"
+   },
+   "qowt_modal_single_choice_remember_choice": {
+      "message": "لا تذكرني مرة أخرى"
+   },
+   "read_only": {
+      "message": "للقراءة فقط"
+   },
+   "redo_aria_spoken_word": {
+      "message": "إعادة"
+   },
+   "right_pointed_submenu": {
+      "message": "المؤشر الأيمن مع القائمة الفرعية"
+   },
+   "save_aria_spoken_word": {
+      "message": "حفظ"
+   },
+   "save_now": {
+      "message": "حفظ الآن"
+   },
+   "security_error_msg": {
+      "message": "إذا كنت لا تزال تواجه خطأ ما، يُرجى الإبلاغ عن المشكلة أدناه."
+   },
+   "security_error_short_msg": {
+      "message": "نأسف، لم نتمكن من فتح الملف المطلوب. لا ندعم فتح الملفات في وضع التصفح المتخفي، يُرجى فتح الملف في وضع غير وضع التصفح المتخفي."
+   },
+   "selected": {
+      "message": "محدد"
+   },
+   "set_sheet_info_error_msg": {
+      "message": "حدث خطأ أثناء تحديث اسم الورقة"
+   },
+   "share_button": {
+      "message": "مشاركة"
+   },
+   "share_promo_conversion_shortmsg": {
+      "message": "التعديل مع الآخرين"
+   },
+   "sheet_delete_column_error_msg": {
+      "message": "عفوًا، حدث خطأ أثناء حذف العمود. يُرجى إعادة المحاولة."
+   },
+   "sheet_delete_row_error_msg": {
+      "message": "عفوًا، حدث خطأ أثناء حذف الصف. يُرجى إعادة المحاولة."
+   },
+   "sheet_format_cells_error_msg": {
+      "message": "حدث خطأ في التنسيق. يُرجى إعادة المحاولة."
+   },
+   "sheet_insert_column_error_msg": {
+      "message": "عفوًا، حدث خطأ أثناء إدخال العمود. يُرجى إعادة المحاولة."
+   },
+   "sheet_insert_column_exceed_error_msg": {
+      "message": "للأسف، لا يمكنك إدخال المزيد من الأعمدة في جدول البيانات هذا، نظرًا لأننا لا ندعم سوى 256 من الأعمدة فقط."
+   },
+   "sheet_insert_column_exceed_error_short_msg": {
+      "message": "عذرًا!"
+   },
+   "sheet_insert_row_error_msg": {
+      "message": "عفوًا، حدث خطأ أثناء إدخال الصف. يُرجى إعادة المحاولة."
+   },
+   "sheet_insert_row_exceed_error_msg": {
+      "message": "للأسف، لا يمكنك إدخال المزيد من الصفوف في جدول البيانات هذا، نظرًا لأننا لا ندعم سوى 65536 من الصفوف فقط."
+   },
+   "sheet_insert_row_exceed_error_short_msg": {
+      "message": "عذرًا!"
+   },
+   "sheet_ocm_promo_conversion_msg": {
+      "message": "يمكنك تعديل ملفات Office وحفظها مباشرة في الأوراق. لدعوة الآخرين للتعديل أو إضافة تعليقات، احفظ الملفات كأوراق Google. يمكنك حفظ الرجوع إلى التنسيق الأصلي في أي وقت."
+   },
+   "sheet_set_cell_content_invalid_error_msg": {
+      "message": "حدث خطأ في الصيغة التي أدخلتها. يُرجى تصحيح هذا الخطأ."
+   },
+   "sheet_share_promo_conversion_msg": {
+      "message": "هل تحاول مشاركة جدول البيانات هذا؟ كي تتمكن من دعوة الآخرين لتعديله معك، يرجى تحويله إلى أوراق Google."
+   },
+   "sheet_sort_error_title": {
+      "message": "حدث خطأ في فرز نطاق الخلايا هذا."
+   },
+   "sheet_sort_failure_msg": {
+      "message": "حدث خطأ في فرز نطاق الخلايا هذا."
+   },
+   "sheet_sort_merged_cell_error": {
+      "message": "يتعذر عليك فرز الخلايا التي تم دمجها."
+   },
+   "sheet_sort_merged_cell_error_title": {
+      "message": "حدث خطأ في فرز نطاق الخلايا هذا."
+   },
+   "sheet_sort_one_cell_error": {
+      "message": "يُرجى اختيار أكثر من خلية لإجراء الفرز."
+   },
+   "sheet_sort_one_cell_error_title": {
+      "message": "حدث خطأ في فرز نطاق الخلايا هذا."
+   },
+   "shift_key": {
+      "message": "Shift"
+   },
+   "shortcut": {
+      "message": "الاختصار $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sign_in": {
+      "message": "تسجيل الدخول"
+   },
+   "slash_key": {
+      "message": "شرطة مائلة"
+   },
+   "something_not_right": {
+      "message": "هناك خطأ ما"
+   },
+   "storage_quota_exceed_error_msg": {
+      "message": "أغلق أي مستندات Office مفتوحة في Chrome، ثم حاول مرة أخرى. وإذا استمرت المشكلة، فأبلغ عنها أدناه."
+   },
+   "storage_quota_exceed_error_short_msg": {
+      "message": "عذرًا، لا يمكن فتح الملف."
+   },
+   "strikethrough_aria_spoken_word": {
+      "message": "يتوسطه خط"
+   },
+   "style_aria_spoken_word": {
+      "message": "القائمة المنسدلة للأنماط"
+   },
+   "submenu_spoken_text": {
+      "message": "$1 $2 $3 $4",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         }
+      }
+   },
+   "temporary_unable_to_open_error_msg": {
+      "message": "حاول مرة أخرى في وقت لاحق، أو إذا استمرت المشكلة، فأبلغ عنها أدناه."
+   },
+   "temporary_unable_to_open_error_short_msg": {
+      "message": "عذرًا، لا يمكن فتح الملف مؤقتًا."
+   },
+   "textaligncenter_aria_spoken_word": {
+      "message": "مركز محاذاة النص"
+   },
+   "textalignjustify_aria_spoken_word": {
+      "message": "ضبط محاذاة النص"
+   },
+   "textalignleft_aria_spoken_word": {
+      "message": "محاذاة النص إلى اليسار"
+   },
+   "textalignright_aria_spoken_word": {
+      "message": "محاذاة النص إلى اليمين"
+   },
+   "textcolor_aria_spoken_word": {
+      "message": "القائمة المنسدلة للون النص"
+   },
+   "textual_edit_error_msg": {
+      "message": "واجه مستندك خطأً أثناء التنسيق.\n\nأعد تحميل الصفحة لاستعادة تغييراتك."
+   },
+   "textual_edit_error_short_msg": {
+      "message": "خطأ!"
+   },
+   "title_error_msg_for_merge_cells": {
+      "message": "حدثت مشكلة"
+   },
+   "title_msg_merging_multiple_cells_with_text": {
+      "message": "تنبيه!"
+   },
+   "togglebulleted_aria_spoken_word": {
+      "message": "قائمة نقطية"
+   },
+   "togglenumbered_aria_spoken_word": {
+      "message": "قائمة ذات تعداد رقمي"
+   },
+   "togglezoom_aria_spoken_word": {
+      "message": "تكبير/تصغير بالتبديل"
+   },
+   "tooltip_background_color": {
+      "message": "لون التعبئة"
+   },
+   "tooltip_bold": {
+      "message": "غامق"
+   },
+   "tooltip_border": {
+      "message": "الحدود"
+   },
+   "tooltip_border_all": {
+      "message": "كل الحدود"
+   },
+   "tooltip_border_bottom": {
+      "message": "الحدود السفلية"
+   },
+   "tooltip_border_horizontal": {
+      "message": "الحدود الأفقية"
+   },
+   "tooltip_border_inner": {
+      "message": "الحدود الداخلية"
+   },
+   "tooltip_border_left": {
+      "message": "الحدود اليسرى"
+   },
+   "tooltip_border_none": {
+      "message": "بلا حدود"
+   },
+   "tooltip_border_outer": {
+      "message": "الحدود الخارجية"
+   },
+   "tooltip_border_right": {
+      "message": "الحدود اليمنى"
+   },
+   "tooltip_border_top": {
+      "message": "الحدود العلوية"
+   },
+   "tooltip_border_vertical": {
+      "message": "الحدود العمودية"
+   },
+   "tooltip_cell_align": {
+      "message": "محاذاة الخلية"
+   },
+   "tooltip_cell_h_align_center": {
+      "message": "التوسيط الأفقي"
+   },
+   "tooltip_cell_h_align_left": {
+      "message": "يسار أفقي"
+   },
+   "tooltip_cell_h_align_right": {
+      "message": "يمين أفقي"
+   },
+   "tooltip_cell_v_align_bottom": {
+      "message": "أسفل عمودي"
+   },
+   "tooltip_cell_v_align_center": {
+      "message": "توسيط عمودي"
+   },
+   "tooltip_cell_v_align_top": {
+      "message": "أعلى عمودي"
+   },
+   "tooltip_download": {
+      "message": "تنزيل"
+   },
+   "tooltip_dropdown_init_add_shape": {
+      "message": "شكل"
+   },
+   "tooltip_fill_color": {
+      "message": "لون النص"
+   },
+   "tooltip_font_face": {
+      "message": "الخطّ"
+   },
+   "tooltip_font_size": {
+      "message": "حجم الخط"
+   },
+   "tooltip_highlight_color": {
+      "message": "لون التمييز"
+   },
+   "tooltip_init_add_shape": {
+      "message": "مربع النص"
+   },
+   "tooltip_italic": {
+      "message": "مائل"
+   },
+   "tooltip_merge": {
+      "message": "دمج الخلايا"
+   },
+   "tooltip_merge_dropdown": {
+      "message": "حدد نوع الدمج..."
+   },
+   "tooltip_modify_shape_fill_color": {
+      "message": "لون التعبئة"
+   },
+   "tooltip_modify_shape_outline_color": {
+      "message": "لون الخط"
+   },
+   "tooltip_modify_shape_outline_style": {
+      "message": "شرطة الخط"
+   },
+   "tooltip_modify_shape_outline_width": {
+      "message": "عرض الخط"
+   },
+   "tooltip_move_slide": {
+      "message": "نقل $1 شريحة",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "tooltip_point": {
+      "message": "الصفحة الرئيسية للشرائح"
+   },
+   "tooltip_point_toggle_bullet": {
+      "message": "قائمة نقطية"
+   },
+   "tooltip_point_toggle_number": {
+      "message": "قائمة ذات تعداد رقمي"
+   },
+   "tooltip_presentation": {
+      "message": "عرض تقديمي"
+   },
+   "tooltip_print": {
+      "message": "طباعة"
+   },
+   "tooltip_redo": {
+      "message": "إعادة"
+   },
+   "tooltip_share": {
+      "message": "مشاركة"
+   },
+   "tooltip_share_for_macroenabledfiles": {
+      "message": "لا يمكن مشاركة الملفات المُمكّنة بماكرو إلا من خلال Google Drive."
+   },
+   "tooltip_sheet": {
+      "message": "الصفحة الرئيسية لجداول البيانات"
+   },
+   "tooltip_strikethrough": {
+      "message": "يتوسطه خط"
+   },
+   "tooltip_style": {
+      "message": "الأنماط"
+   },
+   "tooltip_text_align_center": {
+      "message": "توسيط"
+   },
+   "tooltip_text_align_justify": {
+      "message": "ضبط"
+   },
+   "tooltip_text_align_left": {
+      "message": "محاذاة إلى اليسار"
+   },
+   "tooltip_text_align_right": {
+      "message": "محاذاة إلى اليمين"
+   },
+   "tooltip_text_color": {
+      "message": "لون النص"
+   },
+   "tooltip_toggle_bulleted": {
+      "message": "قائمة نقطية"
+   },
+   "tooltip_toggle_numbered": {
+      "message": "قائمة ذات تعداد رقمي"
+   },
+   "tooltip_toggle_zoom": {
+      "message": "التبديل بين وضعي التكبير والتصغير"
+   },
+   "tooltip_underline": {
+      "message": "تحته خط"
+   },
+   "tooltip_undo": {
+      "message": "تراجع"
+   },
+   "tooltip_word": {
+      "message": "الصفحة الرئيسية للمستندات"
+   },
+   "tooltip_wrap_text": {
+      "message": "التفاف النص"
+   },
+   "tooltip_zoom_in": {
+      "message": "تكبير"
+   },
+   "tooltip_zoom_out": {
+      "message": "تصغير"
+   },
+   "try_again": {
+      "message": "إعادة"
+   },
+   "unable_to_execute_msg": {
+      "message": "يتعذر فتح هذا المستند."
+   },
+   "underline_aria_spoken_word": {
+      "message": "خط تحتي"
+   },
+   "undo_aria_spoken_word": {
+      "message": "تراجع"
+   },
+   "unmerge_aria_spoken_word": {
+      "message": "إلغاء الدمج"
+   },
+   "unsaved_changes": {
+      "message": "لم يتم حفظ التغييرات"
+   },
+   "unsaved_changes_warning": {
+      "message": "لديك تغييرات في هذا الملف لم يتم حفظها. وإذا غادرت هذه الصفحة بدون إجراء حفظ، فستفقد عملك نهائيًا."
+   },
+   "unsupported_file_format_error_details_p1": {
+      "message": "للأسف، يتضمن هذا الملف محتوى من الإصدار 95 من Microsoft® Office أو إصدارات أقدم، والتي يتعذَّر علينا فتحها."
+   },
+   "unsupported_file_format_error_details_p2": {
+      "message": "إذا كنتَ ترغب في تحويل الملف إلى مستندات Google، فانقر على الرابط أدناه."
+   },
+   "unsupported_file_format_error_title": {
+      "message": "انتبه!"
+   },
+   "unsupported_link_message": {
+      "message": "عذرًا، لا ندعِّم حاليًا عناوين URL من هذا النوع."
+   },
+   "up_key": {
+      "message": "لأعلى"
+   },
+   "updated_shortcut_message": {
+      "message": "لقد حدّثنا اختصارات لوحة المفاتيح لجعلها متسقة في جميع منتجات \"مستندات Google\". يمكنك الاطّلاع على الاختصارات المُحدّثة في المساعدة."
+   },
+   "updated_shortcut_title": {
+      "message": "تحديث اختصارات لوحة المفاتيح"
+   },
+   "version_info_msg": {
+      "message": "إصدارك لوضع التوافق مع ملفات Office هو"
+   },
+   "word_binary_upsave_learnmore": {
+      "message": "مزيد من المعلومات"
+   },
+   "word_binary_upsave_msg": {
+      "message": "هذا الملف موجود بصيغة غير مدعومة. لكي يتم حفظ هذا الملف، نحن بحاجة إلى إذن منك لتحويله إلى صيغة ملف أكثر حداثة، ولن يؤثر هذا على الملف الأصلي."
+   },
+   "word_binary_upsave_shortmsg": {
+      "message": "تحديث المستند"
+   },
+   "word_count_label": {
+      "message": "الكلمات"
+   },
+   "word_count_title": {
+      "message": "عدد الكلمات"
+   },
+   "word_ocm_promo_conversion_msg": {
+      "message": "يمكنك تعديل ملفات Office وحفظها مباشرة في المستندات. لدعوة الآخرين للتعديل أو إضافة تعليقات، احفظ الملفات كمستندات Google. يمكنك حفظ الرجوع إلى التنسيق الأصلي في أي وقت."
+   },
+   "word_share_promo_conversion_msg": {
+      "message": "هل تحاول مشاركة هذا المستند؟ كي تتمكن من دعوة الآخرين لتعديله معك، يرجى تحويله إلى مستندات Google."
+   },
+   "wraptext_aria_spoken_word": {
+      "message": "التفاف النص"
+   },
+   "zoomin_aria_spoken_word": {
+      "message": "تكبير"
+   },
+   "zoomout_aria_spoken_word": {
+      "message": "تصغير"
+   }
+}

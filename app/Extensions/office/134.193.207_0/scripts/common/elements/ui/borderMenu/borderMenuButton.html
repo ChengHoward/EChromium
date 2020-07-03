@@ -1,0 +1,13 @@
+<!-- Must always load the Polymer core first.-->
+<link rel="import" href="../../../../third_party/polymer/polymer.html"/>
+
+<!-- Depends on behaviors that are vulcancized -->
+<link rel="import" href="../polymerCoreDepsVulcanized.html" />
+<link rel="import" href="../baseMenu/baseMenuButton.html">
+
+<dom-module id="qowt-border-menu-button">
+  <template>
+    <style include="base-menu-button"></style>
+    <iron-icon src="[[src]]" icon="[[icon]]"></iron-icon>
+  </template>
+</dom-module>

@@ -1,0 +1,19 @@
+<!--
+`qowt-sheet-rowcol-item' is a base class for Sheet row and column editing items
+that can only be enabled when a sheetCell selection is active. If for example a
+sheetText selection is active then all sheet-rowcol item type are disabled.
+
+It acheives this by having items declared with the `enableOn` attribute set to
+the `qowt:selectionChanged` signal.
+ -->
+<link rel="import" href="../../../custom/qowt-item/qowt-item-styles.html">
+
+<dom-module id="qowt-sheet-rowcol-item">
+<template>
+    <style include="qowt-item-styles">
+    </style>
+    <iron-icon id="icon" src="[[src]]" icon="[[icon]]" item-icon></iron-icon>
+  <div id="label">[[label]]</div><content></content>
+</template>
+</dom-module>
+

@@ -1,0 +1,2192 @@
+{
+   "action_create_user_feedback": {
+      "message": "Báo cáo sự cố"
+   },
+   "alt_key": {
+      "message": "Alt"
+   },
+   "app_error_learn_more": {
+      "message": "Tìm hiểu thêm"
+   },
+   "app_error_report_feedback": {
+      "message": "Báo cáo phản hồi"
+   },
+   "app_icon_aria_spoken_word": {
+      "message": " màn hình chính"
+   },
+   "app_nacl_crash_msg": {
+      "message": "Giúp chúng tôi bằng cách báo cáo sự cố."
+   },
+   "app_nacl_crash_report": {
+      "message": "Báo cáo sự cố..."
+   },
+   "app_nacl_crash_title": {
+      "message": "Rất tiếc. Đây là sự cố không mong muốn xảy ra - hãy tải lại trang để khôi phục các thay đổi của bạn."
+   },
+   "app_nacl_error_load_failed": {
+      "message": "Rất tiếc, chúng tôi không thể mở tệp. Hãy đóng các tab Chrome khác hoặc khởi động lại Chrome, sau đó thử lại. Nếu sự cố vẫn tiếp diễn, hãy báo cáo sự cố ở bên dưới."
+   },
+   "app_nacl_error_title": {
+      "message": "Không thể mở tệp."
+   },
+   "app_nacl_error_unsupported_device": {
+      "message": "Thiết bị này không hỗ trợ tiện ích Chỉnh sửa Office của Chrome cho Tài liệu, Trang tính và Trang trình bày."
+   },
+   "app_saving_failed_error_msg": {
+      "message": "Rất tiếc, đã xảy ra sự cố khi lưu tệp. Hãy thử lưu lại. Nếu sự cố vẫn tiếp diễn thì hãy báo cáo sự cố."
+   },
+   "app_saving_failed_error_short_msg": {
+      "message": "Không thể lưu tệp."
+   },
+   "backgroundcolor_aria_spoken_word": {
+      "message": "danh sách thả xuống màu nền của ô"
+   },
+   "bold_aria_spoken_word": {
+      "message": "in đậm"
+   },
+   "border_all_aria_spoken_word": {
+      "message": "tất cả đường viền"
+   },
+   "border_aria_spoken_word": {
+      "message": "danh sách thả xuống đường viền"
+   },
+   "border_bottom_aria_spoken_word": {
+      "message": "đường viền dưới cùng"
+   },
+   "border_horizontal_aria_spoken_word": {
+      "message": "đường viền ngang"
+   },
+   "border_inner_aria_spoken_word": {
+      "message": "đường viền trong"
+   },
+   "border_left_aria_spoken_word": {
+      "message": "đường viền trái"
+   },
+   "border_none_aria_spoken_word": {
+      "message": "không có đường viền"
+   },
+   "border_outer_aria_spoken_word": {
+      "message": "đường viền ngoài"
+   },
+   "border_right_aria_spoken_word": {
+      "message": "đường viền phải"
+   },
+   "border_top_aria_spoken_word": {
+      "message": "đường viền trên cùng"
+   },
+   "border_vertical_aria_spoken_word": {
+      "message": "đường viền dọc"
+   },
+   "button_ocm_convert_cancel": {
+      "message": "Hủy"
+   },
+   "button_ocm_promo_conversion_point": {
+      "message": "Lưu dưới dạng tệp Google Trang trình bày"
+   },
+   "button_ocm_promo_conversion_sheet": {
+      "message": "Lưu dưới dạng tệp Google Trang tính"
+   },
+   "button_ocm_promo_conversion_word": {
+      "message": "Lưu dưới dạng tệp Google Tài liệu"
+   },
+   "button_share_convert_cancel": {
+      "message": "Hủy"
+   },
+   "button_share_promo_conversion_point": {
+      "message": "Lưu dưới dạng tệp Google Trang trình bày"
+   },
+   "button_share_promo_conversion_sheet": {
+      "message": "Lưu dưới dạng tệp Google Trang tính"
+   },
+   "button_share_promo_conversion_word": {
+      "message": "Lưu dưới dạng tệp Google Tài liệu"
+   },
+   "cell_align_aria_spoken_word": {
+      "message": "Căn chỉnh ô"
+   },
+   "cellalign_aria_spoken_word": {
+      "message": "danh sách thả xuống căn chỉnh ô"
+   },
+   "cellhaligncenter_aria_spoken_word": {
+      "message": "Giữa theo chiều ngang"
+   },
+   "cellhalignleft_aria_spoken_word": {
+      "message": "Bên trái theo chiều ngang"
+   },
+   "cellhalignright_aria_spoken_word": {
+      "message": "Bên phải theo chiều ngang"
+   },
+   "cellvalignbottom_aria_spoken_word": {
+      "message": "Dưới cùng theo chiều dọc"
+   },
+   "cellvaligncenter_aria_spoken_word": {
+      "message": "Giữa theo chiều dọc"
+   },
+   "cellvaligntop_aria_spoken_word": {
+      "message": "Trên cùng theo chiều dọc"
+   },
+   "char_count_label": {
+      "message": "Ký tự"
+   },
+   "char_no_spaces_count_label": {
+      "message": "Các ký tự không bao gồm dấu cách"
+   },
+   "close_dialog_aria_spoken_word": {
+      "message": "Đóng hộp thoại"
+   },
+   "cmd_dropdown_initaddshape_aria_spoken_word": {
+      "message": "danh sách thả xuống hình vẽ"
+   },
+   "collapsed": {
+      "message": "Đã thu gọn"
+   },
+   "collapsed_menu": {
+      "message": "$1 Được thu gọn với menu con.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "color_black": {
+      "message": "Màu đen"
+   },
+   "color_blaze_orange": {
+      "message": "Màu cam sáng"
+   },
+   "color_blue": {
+      "message": "Màu xanh lam"
+   },
+   "color_brown": {
+      "message": "Màu nâu"
+   },
+   "color_cornflower_blue": {
+      "message": "Xanh hoa bông ngô"
+   },
+   "color_cyan": {
+      "message": "Màu xanh lục lam"
+   },
+   "color_dark_blue": {
+      "message": "Màu lam đậm"
+   },
+   "color_dark_blue_1": {
+      "message": "Màu lam đậm 1"
+   },
+   "color_dark_blue_2": {
+      "message": "Màu lam đậm 2"
+   },
+   "color_dark_blue_3": {
+      "message": "Màu lam đậm 3"
+   },
+   "color_dark_blue_grey": {
+      "message": "Màu xám lam đậm"
+   },
+   "color_dark_cornflower_blue_1": {
+      "message": "Xanh hoa bông ngô đậm 1"
+   },
+   "color_dark_cornflower_blue_2": {
+      "message": "Xanh hoa bông ngô đậm 2"
+   },
+   "color_dark_cornflower_blue_3": {
+      "message": "Xanh hoa bông ngô đậm 3"
+   },
+   "color_dark_cyan": {
+      "message": "Màu xanh lục lam sẫm"
+   },
+   "color_dark_cyan_1": {
+      "message": "Màu xanh lục lam sẫm 1"
+   },
+   "color_dark_cyan_2": {
+      "message": "Màu xanh lục lam sẫm 2"
+   },
+   "color_dark_cyan_3": {
+      "message": "Màu xanh lục lam sẫm 3"
+   },
+   "color_dark_gray": {
+      "message": "Màu xám đậm"
+   },
+   "color_dark_gray_1": {
+      "message": "Màu xám đậm 1"
+   },
+   "color_dark_gray_2": {
+      "message": "Màu xám đậm 2"
+   },
+   "color_dark_gray_3": {
+      "message": "Màu xám đậm 3"
+   },
+   "color_dark_gray_4": {
+      "message": "Màu xám đậm 4"
+   },
+   "color_dark_green": {
+      "message": "Màu xanh lục đậm"
+   },
+   "color_dark_green_1": {
+      "message": "Màu xanh lục đậm 1"
+   },
+   "color_dark_green_2": {
+      "message": "Màu xanh lục đậm 2"
+   },
+   "color_dark_green_3": {
+      "message": "Màu xanh lục đậm 3"
+   },
+   "color_dark_green_5": {
+      "message": "Màu xanh lục đậm 5"
+   },
+   "color_dark_grey_2": {
+      "message": "Màu xám đen 2"
+   },
+   "color_dark_grey_5": {
+      "message": "Màu xám đen 5"
+   },
+   "color_dark_magenta_1": {
+      "message": "Màu đỏ tía đậm 1"
+   },
+   "color_dark_magenta_2": {
+      "message": "Màu đỏ tía đậm 2"
+   },
+   "color_dark_magenta_3": {
+      "message": "Màu đỏ tía đậm 3"
+   },
+   "color_dark_olive_green": {
+      "message": "Màu xanh ô liu đậm"
+   },
+   "color_dark_orange_1": {
+      "message": "Màu cam đậm 1"
+   },
+   "color_dark_orange_2": {
+      "message": "Màu cam đậm 2"
+   },
+   "color_dark_orange_3": {
+      "message": "Màu cam đậm 3"
+   },
+   "color_dark_purple_1": {
+      "message": "Màu tía sẫm 1"
+   },
+   "color_dark_purple_2": {
+      "message": "Màu tía sẫm 2"
+   },
+   "color_dark_purple_3": {
+      "message": "Màu tía sẫm 3"
+   },
+   "color_dark_red": {
+      "message": "Màu đỏ đậm"
+   },
+   "color_dark_red_1": {
+      "message": "Màu đỏ đậm 1"
+   },
+   "color_dark_red_2": {
+      "message": "Màu đỏ đậm 2"
+   },
+   "color_dark_red_3": {
+      "message": "Màu đỏ đậm 3"
+   },
+   "color_dark_red_berry_1": {
+      "message": "Màu dâu đỏ đậm 1"
+   },
+   "color_dark_red_berry_2": {
+      "message": "Màu dâu đỏ đậm 2"
+   },
+   "color_dark_red_berry_3": {
+      "message": "Màu dâu đỏ đậm 3"
+   },
+   "color_dark_slate_blue": {
+      "message": "Màu lam đá phiến đậm"
+   },
+   "color_dark_yellow_1": {
+      "message": "Màu vàng đậm 1"
+   },
+   "color_dark_yellow_2": {
+      "message": "Màu vàng đậm 2"
+   },
+   "color_dark_yellow_3": {
+      "message": "Màu vàng đậm 3"
+   },
+   "color_deep_pink": {
+      "message": "Màu hồng đậm"
+   },
+   "color_deep_sky_blue": {
+      "message": "Xanh da trời đậm"
+   },
+   "color_eucalyptus_green": {
+      "message": "Màu xanh bạch đàn"
+   },
+   "color_gold": {
+      "message": "Màu vàng"
+   },
+   "color_gray": {
+      "message": "Màu xám"
+   },
+   "color_green": {
+      "message": "Màu xanh lục"
+   },
+   "color_light_blue": {
+      "message": "Màu lam nhạt"
+   },
+   "color_light_blue_1": {
+      "message": "Màu lam nhạt 1"
+   },
+   "color_light_blue_2": {
+      "message": "Màu lam nhạt 2"
+   },
+   "color_light_blue_3": {
+      "message": "Màu lam nhạt 3"
+   },
+   "color_light_cornflower_blue_1": {
+      "message": "Xanh hoa bông ngô nhạt 1"
+   },
+   "color_light_cornflower_blue_2": {
+      "message": "Xanh hoa bông ngô nhạt 2"
+   },
+   "color_light_cornflower_blue_3": {
+      "message": "Xanh hoa bông ngô nhạt 3"
+   },
+   "color_light_cyan": {
+      "message": "Màu xanh lục lam nhạt"
+   },
+   "color_light_cyan_1": {
+      "message": "Màu xanh lục lam nhạt 1"
+   },
+   "color_light_cyan_2": {
+      "message": "Màu xanh lục lam nhạt 2"
+   },
+   "color_light_cyan_3": {
+      "message": "Màu xanh lục lam nhạt 3"
+   },
+   "color_light_gray": {
+      "message": "Màu xám nhạt"
+   },
+   "color_light_gray_1": {
+      "message": "Màu xám nhạt 1"
+   },
+   "color_light_gray_2": {
+      "message": "Màu xám nhạt 2"
+   },
+   "color_light_gray_3": {
+      "message": "Màu xám nhạt 3"
+   },
+   "color_light_green": {
+      "message": "Màu xanh lục nhạt"
+   },
+   "color_light_green_1": {
+      "message": "Màu xanh lục nhạt 1"
+   },
+   "color_light_green_2": {
+      "message": "Màu xanh lục nhạt 2"
+   },
+   "color_light_green_3": {
+      "message": "Màu xanh lục nhạt 3"
+   },
+   "color_light_magenta_1": {
+      "message": "Màu đỏ tía nhạt 1"
+   },
+   "color_light_magenta_2": {
+      "message": "Màu đỏ tía nhạt 2"
+   },
+   "color_light_magenta_3": {
+      "message": "Màu đỏ tía nhạt 3"
+   },
+   "color_light_orange_1": {
+      "message": "Màu cam nhạt 1"
+   },
+   "color_light_orange_2": {
+      "message": "Màu cam nhạt 2"
+   },
+   "color_light_orange_3": {
+      "message": "Màu cam nhạt 3"
+   },
+   "color_light_purple": {
+      "message": "Màu tím nhạt"
+   },
+   "color_light_purple_1": {
+      "message": "Màu tím nhạt 1"
+   },
+   "color_light_purple_2": {
+      "message": "Màu tím nhạt 2"
+   },
+   "color_light_purple_3": {
+      "message": "Màu tím nhạt 3"
+   },
+   "color_light_red_1": {
+      "message": "Màu đỏ nhạt 1"
+   },
+   "color_light_red_2": {
+      "message": "Màu đỏ nhạt 2"
+   },
+   "color_light_red_3": {
+      "message": "Màu đỏ nhạt 3"
+   },
+   "color_light_red_berry_1": {
+      "message": "Màu dâu đỏ nhạt 1"
+   },
+   "color_light_red_berry_2": {
+      "message": "Màu dâu đỏ nhạt 2"
+   },
+   "color_light_red_berry_3": {
+      "message": "Màu dâu đỏ nhạt 3"
+   },
+   "color_light_yellow": {
+      "message": "Màu vàng nhạt"
+   },
+   "color_light_yellow_1": {
+      "message": "Màu vàng nhạt 1"
+   },
+   "color_light_yellow_2": {
+      "message": "Màu vàng nhạt 2"
+   },
+   "color_light_yellow_3": {
+      "message": "Màu vàng nhạt 3"
+   },
+   "color_magenta": {
+      "message": "Màu đỏ thẫm"
+   },
+   "color_maroon": {
+      "message": "Màu nâu sẫm"
+   },
+   "color_midnight_blue": {
+      "message": "Màu xanh da trời sẫm"
+   },
+   "color_navy": {
+      "message": "Màu xanh hải quân"
+   },
+   "color_olive": {
+      "message": "Màu xanh ô liu"
+   },
+   "color_orange": {
+      "message": "Màu cam"
+   },
+   "color_peach": {
+      "message": "Màu quả đào"
+   },
+   "color_pink": {
+      "message": "Màu hồng"
+   },
+   "color_pistachio": {
+      "message": "Màu hồ trăn"
+   },
+   "color_purple": {
+      "message": "Màu tía"
+   },
+   "color_red": {
+      "message": "Màu đỏ"
+   },
+   "color_red_berry": {
+      "message": "Màu dâu đỏ"
+   },
+   "color_royal_blue": {
+      "message": "Màu xanh dương"
+   },
+   "color_teal": {
+      "message": "Màu xanh két"
+   },
+   "color_turquiose": {
+      "message": "Màu ngọc lam"
+   },
+   "color_white": {
+      "message": "Màu trắng"
+   },
+   "color_yellow": {
+      "message": "Màu vàng"
+   },
+   "command_key": {
+      "message": "Command"
+   },
+   "content_msg_merging_horizontally_across_vertical_section": {
+      "message": "Bạn không thể hợp nhất theo chiều ngang trên một phần đã hợp nhất theo chiều dọc hiện có."
+   },
+   "content_msg_merging_multiple_cells_with_text": {
+      "message": "Hợp nhất ô sẽ chỉ giữ lại giá trị ngoài cùng bên trái ở trên cùng. Vẫn hợp nhất?"
+   },
+   "content_msg_merging_partially_selected_merged_cells": {
+      "message": "Bạn phải chọn tất cả các ô trong dải ô đã hợp nhất để hợp nhất hoặc hủy hợp nhất chúng."
+   },
+   "content_msg_merging_vertically_across_horizontal_section": {
+      "message": "Bạn không thể hợp nhất theo chiều dọc trên một phần đã hợp nhất theo chiều ngang hiện có."
+   },
+   "content_render_error_msg": {
+      "message": "Đã xảy ra sự cố với nội dung của tài liệu này."
+   },
+   "context_menu_clipboard_copy": {
+      "message": "Sao chép"
+   },
+   "context_menu_delete": {
+      "message": "Xóa"
+   },
+   "context_menu_freeze": {
+      "message": "Cố định"
+   },
+   "context_menu_insert": {
+      "message": "Chèn"
+   },
+   "context_menu_sort_collation_ascending": {
+      "message": "Sắp xếp a-z"
+   },
+   "context_menu_sort_collation_descending": {
+      "message": "Sắp xếp z-a"
+   },
+   "context_menu_unfreeze": {
+      "message": "Hủy cố định"
+   },
+   "control_key": {
+      "message": "Control"
+   },
+   "convert_attempt_when_offline": {
+      "message": "Bạn cần phải trực tuyến để lưu dưới dạng Google Tài liệu. Thử lại khi kết nối của bạn được khôi phục."
+   },
+   "convert_attempt_with_invalid_creds": {
+      "message": "Bạn cần phải đăng nhập vào tài khoản Google để chuyển đổi tệp này."
+   },
+   "convert_cancel": {
+      "message": "Hủy"
+   },
+   "convert_to_google_docs_failed": {
+      "message": "Đã xảy ra sự cố khi chuyển đổi tài liệu của bạn sang Google Tài liệu."
+   },
+   "convert_to_google_point_fail_short_msg": {
+      "message": "Rất tiếc"
+   },
+   "convert_to_google_point_short_msg": {
+      "message": "Đang lưu dưới dạng Google Trang trình bày"
+   },
+   "convert_to_google_sheet_fail_short_msg": {
+      "message": "Rất tiếc"
+   },
+   "convert_to_google_sheet_short_msg": {
+      "message": "Đang lưu dưới dạng Google Trang tính"
+   },
+   "convert_to_google_word_fail_short_msg": {
+      "message": "Rất tiếc"
+   },
+   "convert_to_google_word_short_msg": {
+      "message": "Đang lưu dưới dạng Google Tài liệu"
+   },
+   "convert_try_again": {
+      "message": "Thử lại"
+   },
+   "converting_to_google_point_fail_msg": {
+      "message": "Chúng tôi không thể lưu tệp của bạn dưới dạng tệp Google Trang trình bày tại thời điểm này."
+   },
+   "converting_to_google_point_msg": {
+      "message": "Đang lưu phiên bản mới của bản trình bày dưới dạng tệp Google Trang trình bày."
+   },
+   "converting_to_google_sheet_fail_msg": {
+      "message": "Chúng tôi không thể lưu tệp của bạn dưới dạng tệp Google Trang tính tại thời điểm này."
+   },
+   "converting_to_google_sheet_msg": {
+      "message": "Đang lưu phiên bản mới của bảng tính dưới dạng tệp Google Trang tính."
+   },
+   "converting_to_google_word_fail_msg": {
+      "message": "Chúng tôi không thể lưu tệp của bạn dưới dạng tệp Google Tài liệu tại thời điểm này."
+   },
+   "converting_to_google_word_msg": {
+      "message": "Đang lưu phiên bản mới của tài liệu dưới dạng tệp Google Tài liệu."
+   },
+   "copy_attempt_when_offline": {
+      "message": "Bạn cần trực tuyến để tạo bản sao trên Google Drive. Hãy thử lại khi kết nối của bạn được khôi phục."
+   },
+   "copy_attempt_with_invalid_creds": {
+      "message": "Bạn cần phải đăng nhập vào tài khoản Google của mình để tạo bản sao."
+   },
+   "disabled_share_button": {
+      "message": "Bạn chỉ có thể chia sẻ các tệp được bật macro từ Google Drive. Nút Chia sẻ đã bị tắt."
+   },
+   "disallowed_cut_copy_paste_cmd_copy": {
+      "message": "để sao chép"
+   },
+   "disallowed_cut_copy_paste_cmd_cut": {
+      "message": "để cắt"
+   },
+   "disallowed_cut_copy_paste_cmd_paste": {
+      "message": "để dán"
+   },
+   "disallowed_cut_copy_paste_msg": {
+      "message": "Bạn không thể thực hiện các hành động này bằng trình đơn Chỉnh sửa và Ngữ cảnh, nhưng vẫn có thể dùng:"
+   },
+   "disallowed_cut_copy_paste_title": {
+      "message": "Sao chép và dán trong Chế độ tương thích với Office"
+   },
+   "dismiss": {
+      "message": "Loại bỏ"
+   },
+   "document_title_aria_spoken_word": {
+      "message": "Tiêu đề tài liệu:"
+   },
+   "down_key": {
+      "message": "Xuống"
+   },
+   "download_button": {
+      "message": "Tải xuống"
+   },
+   "download_file_timeout_error_msg": {
+      "message": "Thời gian tải tệp bạn đang mở lâu hơn dự kiến. Hãy kiểm tra kết nối mạng của bạn và thử lại."
+   },
+   "download_file_timeout_error_short_msg": {
+      "message": "Tải tệp diễn ra lâu hơn dự kiến"
+   },
+   "drive_open_timeout_error_msg": {
+      "message": "Có vẻ như có sự cố với kết nối internet của bạn. Hãy kiểm tra kết nối của bạn và thử mở lại tệp. Nếu bạn vẫn gặp lỗi này và đang vào mạng thì hãy báo cáo sự cố bên dưới."
+   },
+   "drive_open_timeout_error_short_msg": {
+      "message": "Rất tiếc. Chúng tôi không thể mở tệp bạn đã yêu cầu."
+   },
+   "duplicate_sheet_name_message": {
+      "message": "Nhập tên trang tính chưa được trang tính khác sử dụng"
+   },
+   "duplicate_sheet_name_title": {
+      "message": "Tên trang tính đó đã được sử dụng"
+   },
+   "edits_not_being_saved": {
+      "message": "Các chỉnh sửa sẽ không được lưu tự động."
+   },
+   "edits_now_being_auto_saved": {
+      "message": "Đã lưu tệp. Giờ đây, tất cả các chỉnh sửa sẽ được lưu tự động."
+   },
+   "entry_point_error_msg": {
+      "message": "Vui lòng thử lại hoặc báo cáo sự cố ở bên dưới."
+   },
+   "entry_point_error_short_msg": {
+      "message": "Rất tiếc. Chúng tôi không thể xác định tệp nào bạn muốn mở."
+   },
+   "error_occurred": {
+      "message": "Đã xảy ra lỗi."
+   },
+   "error_password_required_msg": {
+      "message": "Hiện tại, chúng tôi không hỗ trợ tệp được bảo vệ nhưng chúng tôi đang nghiên cứu vấn đề này."
+   },
+   "error_password_required_short_msg": {
+      "message": "Tệp này được bảo vệ bằng mật khẩu."
+   },
+   "expanded": {
+      "message": "Được mở rộng"
+   },
+   "expanded_menu": {
+      "message": "$1 Được mở rộng với menu con.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "extension_description": {
+      "message": "Xem và chỉnh sửa tệp Microsoft Word, Excel và PowerPoint với Google Tài liệu, Trang tính và Trang trình bày"
+   },
+   "extension_name": {
+      "message": "Chỉnh sửa Office"
+   },
+   "extension_popup_message_body": {
+      "message": "Để mở các tệp hiện có, hãy kéo và thả tệp vào trình duyệt"
+   },
+   "extension_popup_new_document_header": {
+      "message": "Tài liệu mới..."
+   },
+   "extension_popup_new_presentation_document": {
+      "message": "Bản trình bày PowerPoint"
+   },
+   "extension_popup_new_spreadsheet_document": {
+      "message": "Bảng tính Excel"
+   },
+   "extension_popup_new_word_document": {
+      "message": "Tài liệu Word"
+   },
+   "feedback_textbox_editing": {
+      "message": "Vui lòng hỗ trợ chỉnh sửa văn bản trong hộp văn bản."
+   },
+   "feedback_ui_template": {
+      "message": "1- Hãy mô tả sự cố bạn gặp phải.\n2- Sự cố có xảy ra khi bạn đang cố mở tệp hay chỉnh sửa tệp không?\n3- Sự cố này có xảy ra mỗi khi bạn cố mở hoặc chỉnh sửa tệp bất kỳ hay chỉ xảy ra với một số tệp?\n\nNếu sự cố này xảy ra với một tệp cụ thể, vui lòng đính kèm tệp đó vào báo cáo này vì điều này sẽ giúp chúng tôi khắc phục sự cố triệt để hơn."
+   },
+   "file_does_not_exist_error_details": {
+      "message": "Tệp này không tồn tại. Bạn có thể đã tìm cách mở liên kết được chia sẻ hoặc tài liệu được đánh dấu trang. Vui lòng thử mở lại tệp từ nguồn ban đầu."
+   },
+   "file_does_not_exist_error_title": {
+      "message": "Không tìm thấy tệp."
+   },
+   "file_loading_spinner_label": {
+      "message": "Đang tải"
+   },
+   "file_missing_content_msg": {
+      "message": "Đã xảy ra sự cố khi đọc toàn bộ nội dung của tệp này; chúng tôi khuyên bạn nên đổi tên và mở lại tệp đó"
+   },
+   "file_missing_content_short_msg": {
+      "message": "Tài liệu này thiếu nội dung."
+   },
+   "file_not_found_error_msg": {
+      "message": "Hãy hỏi chủ sở hữu tệp để đảm bảo rằng bạn có quyền truy cập vào tệp. Nếu bạn vẫn gặp lỗi này trong khi bạn có quyền thì hãy báo cáo sự cố bên dưới."
+   },
+   "file_not_found_error_short_msg": {
+      "message": "Rất tiếc. Chúng tôi không thể mở tệp bạn đã yêu cầu."
+   },
+   "file_not_found_exception": {
+      "message": "Tệp yêu cầu có thể đã bị xóa hoặc di chuyển tới vị trí khác. Vui lòng nhấp vào 'Lưu ngay' để tiếp tục."
+   },
+   "file_not_found_link_text": {
+      "message": "Để được trợ giúp với nhiều tài khoản, hãy xem bài viết này"
+   },
+   "file_not_found_msg": {
+      "message": "Tệp bạn yêu cầu đã không còn và đã bị di chuyển."
+   },
+   "file_not_found_title": {
+      "message": "Không tìm thấy tệp."
+   },
+   "file_open_crash_error_msg": {
+      "message": "Nếu bạn tiếp tục gặp phải lỗi, vui lòng báo cáo sự cố dưới đây."
+   },
+   "file_open_crash_error_short_msg": {
+      "message": "Rất tiếc. Chúng tôi không thể mở tệp bạn đã yêu cầu."
+   },
+   "file_open_error_msg": {
+      "message": "Không thể truy cập nội dung của tệp này."
+   },
+   "file_open_error_short_msg": {
+      "message": "Tệp này có vẻ bị hỏng."
+   },
+   "file_open_fail_download_link_text": {
+      "message": "Tải tệp xuống"
+   },
+   "file_opened_in_incognito_mode_error_details": {
+      "message": "Tiện ích chỉnh sửa tệp Office không hoạt động ở chế độ Ẩn danh. Vui lòng mở tệp này bằng cửa sổ Chrome thông thường. Nếu bạn đang sử dụng chế độ khách thì tệp đó sẽ không mở được. Hãy đảm bảo rằng tệp của bạn là loại tài liệu hợp lệ hoặc không bị hỏng rồi thử lại."
+   },
+   "file_opened_in_incognito_mode_error_title": {
+      "message": "Rất tiếc! Chế độ ẩn danh không được hỗ trợ"
+   },
+   "file_pdf_type_rename_msg": {
+      "message": "Đổi tên tệp thành $1.pdf và thử lại.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_rtf_type_rename_msg": {
+      "message": "Đổi tên tệp thành $1.rtf",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_type_unsupported_msg": {
+      "message": "Loại tệp này không được hỗ trợ."
+   },
+   "fillcolor_aria_spoken_word": {
+      "message": "danh sách thả xuống màu văn bản"
+   },
+   "fontface_aria_spoken_word": {
+      "message": "danh sách thả xuống phông chữ"
+   },
+   "fontsize_aria_spoken_word": {
+      "message": "danh sách thả xuống kích thước phông chữ"
+   },
+   "forbidden_access_level_error_msg": {
+      "message": "Hãy hỏi chủ sở hữu tệp để đảm bảo rằng bạn có quyền truy cập vào tệp. Nếu bạn vẫn gặp lỗi này trong khi bạn có quyền thì hãy báo cáo sự cố bên dưới."
+   },
+   "forbidden_access_level_error_short_msg": {
+      "message": "Rất tiếc. Chúng tôi không thể mở tệp bạn đã yêu cầu."
+   },
+   "forbidden_app_access_error_msg": {
+      "message": "Vì lý do nào đó, chúng tôi không được phép mở tệp này. Hãy thử mở tệp từ Google Drive hoặc báo cáo sự cố bên dưới."
+   },
+   "forbidden_app_access_error_short_msg": {
+      "message": "Rất tiếc. Chúng tôi không thể mở tệp bạn đã yêu cầu."
+   },
+   "forbidden_app_id_error_msg": {
+      "message": "Có vẻ như tiện ích dành cho Chrome chưa được định cấu hình đúng cách. Điều này có thể xảy ra như thế nào? Chúng tôi không hoàn toàn chắc chắn, nhưng bạn hãy báo cáo sự cố bên dưới."
+   },
+   "forbidden_app_id_error_short_msg": {
+      "message": "Rất tiếc. Chúng tôi không thể mở tệp bạn đã yêu cầu."
+   },
+   "forbidden_blacklist_error_msg": {
+      "message": "Có vẻ như tiện ích dành cho Chrome đã bị đưa vào danh sách đen. Đây rõ ràng là sự nhầm lẫn, nên hãy cho chúng tôi biết về điều này bằng cách báo cáo sự cố bên dưới."
+   },
+   "forbidden_blacklist_error_short_msg": {
+      "message": "Rất tiếc. Chúng tôi không thể mở tệp bạn đã yêu cầu."
+   },
+   "forbidden_domain_error_msg": {
+      "message": "Có vẻ như miền của bạn đã bị cấm truy cập vào tệp này. Hãy liên hệ với quản trị viên miền của bạn hoặc báo cáo sự cố bên dưới."
+   },
+   "forbidden_domain_error_short_msg": {
+      "message": "Rất tiếc. Chúng tôi không thể mở tệp bạn đã yêu cầu."
+   },
+   "forbidden_internal_error_msg": {
+      "message": "Rất tiếc, Google Drive không hoạt động như mong đợi. Hãy thử mở lại tệp hoặc báo cáo sự cố bên dưới."
+   },
+   "forbidden_internal_error_short_msg": {
+      "message": "Rất tiếc. Chúng tôi không thể mở tệp bạn đã yêu cầu."
+   },
+   "forbidden_not_installed_error_msg": {
+      "message": "Có vẻ như tiện ích dành cho Chrome chưa được cài đặt đúng cách. Điều đó xảy ra như thế nào? Chúng tôi không hoàn toàn chắc chắn, nhưng bạn hãy báo cáo sự cố bên dưới."
+   },
+   "forbidden_not_installed_error_short_msg": {
+      "message": "Rất tiếc. Chúng tôi không thể mở tệp bạn đã yêu cầu."
+   },
+   "generic_error_msg": {
+      "message": "Đã xảy ra sự cố với nội dung của tài liệu này."
+   },
+   "generic_error_short_msg": {
+      "message": "Rất tiếc. Đây là sự cố không mong muốn xảy ra - hãy tải lại trang để khôi phục các thay đổi của bạn."
+   },
+   "get_lists_data_error_msg": {
+      "message": "Tài liệu có thể hiển thị với định dạng danh sách không chính xác."
+   },
+   "get_lists_data_error_short_msg": {
+      "message": "Không thể truy xuất định dạng tài liệu."
+   },
+   "highlightcolor_aria_spoken_word": {
+      "message": "danh sách thả xuống màu đánh dấu văn bản"
+   },
+   "http_error_zero_msg": {
+      "message": "Trong trường hợp có sự cố mạng, vui lòng kiểm tra kết nối của bạn hoặc thử lại sau. Nếu sự cố vẫn tiếp diễn, hãy báo cáo sự cố ở bên dưới."
+   },
+   "http_error_zero_short_msg": {
+      "message": "Rất tiếc, chúng tôi không thể mở tệp."
+   },
+   "info_file_copied": {
+      "message": "Đã lưu"
+   },
+   "info_file_save_cancelled": {
+      "message": "Đã hủy lưu."
+   },
+   "info_file_save_failed": {
+      "message": "Lưu không thành công."
+   },
+   "info_file_saved_at_location": {
+      "message": "Đã lưu các nội dung thay đổi trong $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "info_file_saved_in_drive": {
+      "message": "Đã lưu mọi thay đổi trong Drive"
+   },
+   "info_file_saved_locally": {
+      "message": "Đã lưu mọi thay đổi cục bộ"
+   },
+   "info_file_saved_offline": {
+      "message": "Đã lưu mọi thay đổi ngoại tuyến"
+   },
+   "info_file_saving": {
+      "message": "Đang lưu…"
+   },
+   "initaddshape_aria_spoken_word": {
+      "message": "thêm hộp văn bản"
+   },
+   "invalid_credentials_error_msg": {
+      "message": "Bạn cần phải đăng nhập vào tài khoản Google của mình để truy cập tệp này."
+   },
+   "invalid_credentials_error_short_msg": {
+      "message": "Rất tiếc. Chúng tôi không thể mở tệp bạn đã yêu cầu."
+   },
+   "invalid_file_format_msg": {
+      "message": "Mặc dù tệp trông giống như một tài liệu Office và có đuôi tệp Office nhưng tệp đó thực tế là một loại tệp khác đã được đổi tên hoặc được thay đổi theo một cách nào đó hoặc đó là loại tệp mà chúng tôi không hỗ trợ."
+   },
+   "invalid_file_format_short_msg": {
+      "message": "Rất tiếc, có vẻ chúng tôi không thể mở loại tài liệu này."
+   },
+   "italic_aria_spoken_word": {
+      "message": "in nghiêng"
+   },
+   "keyboard_shortcut_group_actions": {
+      "message": "Thao tác"
+   },
+   "keyboard_shortcut_group_other": {
+      "message": "Khác"
+   },
+   "keyboard_shortcut_group_paragraph_formatting": {
+      "message": "Định dạng đoạn"
+   },
+   "keyboard_shortcut_group_text_formatting": {
+      "message": "Định dạng văn bản"
+   },
+   "keyboard_shortcut_group_top_menus": {
+      "message": "Menu"
+   },
+   "keyboard_shortcut_group_with_slides": {
+      "message": "Với Trang trình bày"
+   },
+   "keyboard_shortcut_title": {
+      "message": "Phím tắt"
+   },
+   "make_a_copy_fail_msg": {
+      "message": "Chúng tôi không thể tạo bản sao vào thời điểm này."
+   },
+   "menu_button_data": {
+      "message": "Dữ liệu"
+   },
+   "menu_button_edit": {
+      "message": "Chỉnh sửa"
+   },
+   "menu_button_file": {
+      "message": "Tệp"
+   },
+   "menu_button_format": {
+      "message": "Định dạng"
+   },
+   "menu_button_help": {
+      "message": "Trợ giúp"
+   },
+   "menu_button_insert": {
+      "message": "Chèn"
+   },
+   "menu_button_slide": {
+      "message": "Trang trình bày"
+   },
+   "menu_button_tools": {
+      "message": "Công cụ"
+   },
+   "menu_button_view": {
+      "message": "Xem"
+   },
+   "menu_item_10_point_star": {
+      "message": "Hình sao 10 cánh"
+   },
+   "menu_item_12_point_star": {
+      "message": "Hình sao 12 cánh"
+   },
+   "menu_item_16_point_star": {
+      "message": "Hình sao 16 cánh"
+   },
+   "menu_item_24_point_star": {
+      "message": "Hình sao 24 cánh"
+   },
+   "menu_item_32_point_star": {
+      "message": "Hình sao 32 cánh"
+   },
+   "menu_item_4_point_star": {
+      "message": "Hình sao 4 cánh"
+   },
+   "menu_item_5_point_star": {
+      "message": "Hình sao 5 cánh"
+   },
+   "menu_item_6_point_star": {
+      "message": "Hình sao 6 cánh"
+   },
+   "menu_item_7_point_star": {
+      "message": "Hình sao 7 cánh"
+   },
+   "menu_item_8_point_star": {
+      "message": "Hình sao 8 cánh"
+   },
+   "menu_item_align": {
+      "message": "Căn chỉnh"
+   },
+   "menu_item_align_center": {
+      "message": "Giữa"
+   },
+   "menu_item_align_justified": {
+      "message": "Đều"
+   },
+   "menu_item_align_left": {
+      "message": "Trái"
+   },
+   "menu_item_align_right": {
+      "message": "Phải"
+   },
+   "menu_item_arrows": {
+      "message": "Mũi tên"
+   },
+   "menu_item_bent_arrow": {
+      "message": "Mũi tên uốn cong"
+   },
+   "menu_item_bent_up_arrow": {
+      "message": "Mũi tên uốn cong lên"
+   },
+   "menu_item_bevel": {
+      "message": "Hiệu ứng góc xiên"
+   },
+   "menu_item_block_arc": {
+      "message": "Khối hình cung"
+   },
+   "menu_item_bold": {
+      "message": "In đậm"
+   },
+   "menu_item_callouts": {
+      "message": "Chú thích"
+   },
+   "menu_item_can": {
+      "message": "Hình hộp"
+   },
+   "menu_item_chevron": {
+      "message": "Sọc chữ V"
+   },
+   "menu_item_chord": {
+      "message": "Hình dây cung"
+   },
+   "menu_item_clear_formatting": {
+      "message": "Xóa định dạng"
+   },
+   "menu_item_cloud": {
+      "message": "Hình đám mây"
+   },
+   "menu_item_cloud_callout": {
+      "message": "Hộp chú thích hình đám mây"
+   },
+   "menu_item_color_none": {
+      "message": "Không có"
+   },
+   "menu_item_color_transparent": {
+      "message": "Trong suốt"
+   },
+   "menu_item_convert_to_docs": {
+      "message": "Lưu dưới dạng Google Tài liệu"
+   },
+   "menu_item_convert_to_sheets": {
+      "message": "Lưu dưới dạng Google Trang tính"
+   },
+   "menu_item_convert_to_slides": {
+      "message": "Lưu dưới dạng Google Trang trình bày"
+   },
+   "menu_item_copy": {
+      "message": "Sao chép"
+   },
+   "menu_item_cross": {
+      "message": "Hình chữ thập"
+   },
+   "menu_item_cube": {
+      "message": "Hình khối"
+   },
+   "menu_item_curved_down_arrow": {
+      "message": "Mũi tên cong xuống"
+   },
+   "menu_item_curved_left_arrow": {
+      "message": "Mũi tên trái cong"
+   },
+   "menu_item_curved_right_arrow": {
+      "message": "Mũi tên phải cong"
+   },
+   "menu_item_curved_up_arrow": {
+      "message": "Mũi tên cong lên"
+   },
+   "menu_item_cut": {
+      "message": "Cắt"
+   },
+   "menu_item_decagon": {
+      "message": "Hình thập giác"
+   },
+   "menu_item_delete_column": {
+      "message": "Xóa cột"
+   },
+   "menu_item_delete_row": {
+      "message": "Xóa hàng"
+   },
+   "menu_item_delete_value": {
+      "message": "Xóa giá trị"
+   },
+   "menu_item_deleteslide": {
+      "message": "Xóa trang trình bày"
+   },
+   "menu_item_diagonal_stripe": {
+      "message": "Sọc chéo"
+   },
+   "menu_item_diamond": {
+      "message": "Hình kim cương"
+   },
+   "menu_item_divide": {
+      "message": "Chia"
+   },
+   "menu_item_dodecagon": {
+      "message": "Hình mười hai cạnh"
+   },
+   "menu_item_donut": {
+      "message": "Hình vành khăn"
+   },
+   "menu_item_double_brace": {
+      "message": "Ngoặc móc kép"
+   },
+   "menu_item_double_bracket": {
+      "message": "Dấu ngoặc kép"
+   },
+   "menu_item_down_arrow": {
+      "message": "Mũi tên xuống"
+   },
+   "menu_item_down_arrow_callout": {
+      "message": "Hộp chú thích hình mũi tên xuống"
+   },
+   "menu_item_duplicateslide": {
+      "message": "Nhân bản trang trình bày"
+   },
+   "menu_item_equal": {
+      "message": "Bằng"
+   },
+   "menu_item_equation": {
+      "message": "Phương trình"
+   },
+   "menu_item_explosion_1": {
+      "message": "Kiểu nổ 1"
+   },
+   "menu_item_explosion_2": {
+      "message": "Kiểu nổ 2"
+   },
+   "menu_item_flowchart_alternate_process": {
+      "message": "Lưu đồ: Quy trình thay thế"
+   },
+   "menu_item_flowchart_card": {
+      "message": "Lưu đồ: Thẻ"
+   },
+   "menu_item_flowchart_collate": {
+      "message": "Lưu đồ: Đối chiếu"
+   },
+   "menu_item_flowchart_connector": {
+      "message": "Lưu đồ: Kết nối"
+   },
+   "menu_item_flowchart_data": {
+      "message": "Lưu đồ: Dữ liệu"
+   },
+   "menu_item_flowchart_decision": {
+      "message": "Lưu đồ: Quyết định"
+   },
+   "menu_item_flowchart_delay": {
+      "message": "Lưu đồ: Trì hoãn"
+   },
+   "menu_item_flowchart_direct_access_storage": {
+      "message": "Lưu đồ: Bộ nhớ truy cập trực tiếp"
+   },
+   "menu_item_flowchart_display": {
+      "message": "Lưu đồ: Hiển thị"
+   },
+   "menu_item_flowchart_document": {
+      "message": "Lưu đồ: Tài liệu"
+   },
+   "menu_item_flowchart_extract": {
+      "message": "Lưu đồ: Trích xuất"
+   },
+   "menu_item_flowchart_internal_storage": {
+      "message": "Lưu đồ: Bộ nhớ trong"
+   },
+   "menu_item_flowchart_magnetic_disk": {
+      "message": "Lưu đồ: Đĩa từ"
+   },
+   "menu_item_flowchart_manual_input": {
+      "message": "Lưu đồ: Nhập thủ công"
+   },
+   "menu_item_flowchart_manual_operation": {
+      "message": "Lưu đồ: Vận hành thủ công"
+   },
+   "menu_item_flowchart_merge": {
+      "message": "Lưu đồ: Hợp nhất"
+   },
+   "menu_item_flowchart_multidocument": {
+      "message": "Lưu đồ: Nhiều tài liệu"
+   },
+   "menu_item_flowchart_off_page_connector": {
+      "message": "Lưu đồ: Kết nối ngoài trang"
+   },
+   "menu_item_flowchart_or": {
+      "message": "Lưu đồ: Hoặc"
+   },
+   "menu_item_flowchart_predefined_process": {
+      "message": "Lưu đồ: Quy trình định trước"
+   },
+   "menu_item_flowchart_preparation": {
+      "message": "Lưu đồ: Chuẩn bị"
+   },
+   "menu_item_flowchart_process": {
+      "message": "Lưu đồ: Quy trình"
+   },
+   "menu_item_flowchart_punched_tape": {
+      "message": "Lưu đồ: Băng đục lỗ"
+   },
+   "menu_item_flowchart_sequential_access_storage": {
+      "message": "Lưu đồ: Bộ nhớ truy cập tuần tự"
+   },
+   "menu_item_flowchart_sort": {
+      "message": "Lưu đồ: Sắp xếp"
+   },
+   "menu_item_flowchart_stored_data": {
+      "message": "Lưu đồ: Dữ liệu đã lưu"
+   },
+   "menu_item_flowchart_summing_junction": {
+      "message": "Lưu đồ: Điểm nối tổng"
+   },
+   "menu_item_flowchart_terminator": {
+      "message": "Lưu đồ: Dấu kết thúc"
+   },
+   "menu_item_folded_corner": {
+      "message": "Góc gập"
+   },
+   "menu_item_frame": {
+      "message": "Khung"
+   },
+   "menu_item_half_frame": {
+      "message": "Nửa khung"
+   },
+   "menu_item_heart": {
+      "message": "Hình trái tim"
+   },
+   "menu_item_help_center": {
+      "message": "Trung tâm trợ giúp"
+   },
+   "menu_item_heptagon": {
+      "message": "Hình bảy cạnh"
+   },
+   "menu_item_hexagon": {
+      "message": "Hình lục giác"
+   },
+   "menu_item_hideslide": {
+      "message": "Ẩn trang trình bày"
+   },
+   "menu_item_insert_column": {
+      "message": "Cột"
+   },
+   "menu_item_insert_image": {
+      "message": "Hình ảnh"
+   },
+   "menu_item_insert_row": {
+      "message": "Hàng"
+   },
+   "menu_item_insert_text_box": {
+      "message": "Hộp văn bản"
+   },
+   "menu_item_insertslide": {
+      "message": "Trang trình bày mới"
+   },
+   "menu_item_italic": {
+      "message": "In nghiêng"
+   },
+   "menu_item_keyboard_shortcuts": {
+      "message": "Phím tắt"
+   },
+   "menu_item_l_shape": {
+      "message": "Hình chữ L"
+   },
+   "menu_item_left_arrow": {
+      "message": "Mũi tên trái"
+   },
+   "menu_item_left_arrow_callout": {
+      "message": "Hộp chú thích hình mũi tên trái"
+   },
+   "menu_item_left_brace": {
+      "message": "Ngoặc móc trái"
+   },
+   "menu_item_left_bracket": {
+      "message": "Dấu ngoặc đơn trái"
+   },
+   "menu_item_left_right_arrow": {
+      "message": "Mũi tên trái-phải"
+   },
+   "menu_item_left_right_arrow_callout": {
+      "message": "Hộp chú thích hình mũi tên trái-phải"
+   },
+   "menu_item_left_right_up_arrow": {
+      "message": "Mũi tên trái-phải-lên"
+   },
+   "menu_item_left_up_arrow": {
+      "message": "Mũi tên trái-lên"
+   },
+   "menu_item_lightning_bolt": {
+      "message": "Tia chớp"
+   },
+   "menu_item_make_a_copy": {
+      "message": "Tạo bản sao…"
+   },
+   "menu_item_merge_all": {
+      "message": "Hợp nhất tất cả"
+   },
+   "menu_item_merge_cells": {
+      "message": "Hợp nhất các ô"
+   },
+   "menu_item_merge_horizontally": {
+      "message": "Hợp nhất theo chiều ngang"
+   },
+   "menu_item_merge_vertically": {
+      "message": "Hợp nhất theo chiều dọc"
+   },
+   "menu_item_minus": {
+      "message": "Trừ"
+   },
+   "menu_item_moon": {
+      "message": "Mặt trăng"
+   },
+   "menu_item_moveslidedown": {
+      "message": "Di chuyển trang trình bày xuống dưới"
+   },
+   "menu_item_moveslidetoend": {
+      "message": "Di chuyển trang trình bày đến cuối"
+   },
+   "menu_item_moveslidetostart": {
+      "message": "Di chuyển trang trình bày về đầu"
+   },
+   "menu_item_moveslideup": {
+      "message": "Di chuyển trang trình bày lên trên"
+   },
+   "menu_item_multiply": {
+      "message": "Nhân"
+   },
+   "menu_item_new": {
+      "message": "Mới"
+   },
+   "menu_item_no_symbol": {
+      "message": "Không có biểu tượng"
+   },
+   "menu_item_not_equal": {
+      "message": "Không bằng"
+   },
+   "menu_item_notched_right_arrow": {
+      "message": "Mũi tên phải có khía chữ V"
+   },
+   "menu_item_number_format": {
+      "message": "Định dạng số"
+   },
+   "menu_item_number_menu": {
+      "message": "Số"
+   },
+   "menu_item_numbering": {
+      "message": "$1 / $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "menu_item_octagon": {
+      "message": "Hình bát giác"
+   },
+   "menu_item_open": {
+      "message": "Mở"
+   },
+   "menu_item_oval": {
+      "message": "Hình ôvan"
+   },
+   "menu_item_oval_callout": {
+      "message": "Hộp chú thích hình ôvan"
+   },
+   "menu_item_parallelogram": {
+      "message": "Hình bình hành"
+   },
+   "menu_item_paste": {
+      "message": "Dán"
+   },
+   "menu_item_pentagon": {
+      "message": "Hình ngũ giác"
+   },
+   "menu_item_pie": {
+      "message": "Hình tròn"
+   },
+   "menu_item_plaque": {
+      "message": "Hình thẻ bài"
+   },
+   "menu_item_plus": {
+      "message": "Cộng"
+   },
+   "menu_item_present": {
+      "message": "Thuyết trình"
+   },
+   "menu_item_print": {
+      "message": "In"
+   },
+   "menu_item_quad_arrow": {
+      "message": "Khối mũi tên bốn hướng"
+   },
+   "menu_item_quad_arrow_callout": {
+      "message": "Hộp chú thích hình mũi tên bốn hướng"
+   },
+   "menu_item_rectangle": {
+      "message": "Hình chữ nhật"
+   },
+   "menu_item_rectangular_callout": {
+      "message": "Hộp chú thích hình chữ nhật"
+   },
+   "menu_item_redo": {
+      "message": "Làm lại"
+   },
+   "menu_item_regular_pentagon": {
+      "message": "Hình ngũ giác đều"
+   },
+   "menu_item_report_abuse": {
+      "message": "Báo cáo lạm dụng"
+   },
+   "menu_item_report_issue": {
+      "message": "Báo cáo sự cố"
+   },
+   "menu_item_right_arrow": {
+      "message": "Mũi tên phải"
+   },
+   "menu_item_right_arrow_callout": {
+      "message": "Hộp chú thích hình mũi tên phải"
+   },
+   "menu_item_right_brace": {
+      "message": "Ngoặc móc phải"
+   },
+   "menu_item_right_bracket": {
+      "message": "Dấu ngoặc đơn phải"
+   },
+   "menu_item_right_triangle": {
+      "message": "Tam giác vuông"
+   },
+   "menu_item_round_diagonal_corner_rectangle": {
+      "message": "Hình chữ nhật làm tròn góc chéo"
+   },
+   "menu_item_round_same_side_corner_rectangle": {
+      "message": "Hình chữ nhật làm tròn góc cùng phía"
+   },
+   "menu_item_round_single_corner_rectangle": {
+      "message": "Hình chữ nhật một góc tròn"
+   },
+   "menu_item_rounded_rectangle": {
+      "message": "Hình chữ nhật tròn"
+   },
+   "menu_item_rounded_rectangular_callout": {
+      "message": "Hộp chú thích hình chữ nhật tròn"
+   },
+   "menu_item_save": {
+      "message": "Lưu"
+   },
+   "menu_item_save_as": {
+      "message": "Lưu dưới dạng…"
+   },
+   "menu_item_shapes": {
+      "message": "Hình dạng"
+   },
+   "menu_item_share": {
+      "message": "Chia sẻ"
+   },
+   "menu_item_smiley_face": {
+      "message": "Mặt cười"
+   },
+   "menu_item_snip_and_round_single_corner_rectangle": {
+      "message": "Hình chữ nhật vát có một góc tròn"
+   },
+   "menu_item_snip_diagonal_corner_rectangle": {
+      "message": "Hình chữ nhật vát góc chéo"
+   },
+   "menu_item_snip_same_side_corner_rectangle": {
+      "message": "Hình chữ nhật vát góc cùng phía"
+   },
+   "menu_item_snip_single_corner_rectangle": {
+      "message": "Hình chữ nhật một góc vát"
+   },
+   "menu_item_strikethrough": {
+      "message": "Gạch ngang chữ"
+   },
+   "menu_item_striped_right_arrow": {
+      "message": "Mũi tên phải có sọc"
+   },
+   "menu_item_subscript": {
+      "message": "Chỉ số dưới"
+   },
+   "menu_item_sun": {
+      "message": "Hình mặt trời"
+   },
+   "menu_item_superscript": {
+      "message": "Chỉ số trên"
+   },
+   "menu_item_teardrop": {
+      "message": "Hình giọt nước"
+   },
+   "menu_item_trapezoid": {
+      "message": "Hình thang"
+   },
+   "menu_item_triangle": {
+      "message": "Hình tam giác"
+   },
+   "menu_item_u_turn_arrow": {
+      "message": "Mũi tên chữ U"
+   },
+   "menu_item_underline": {
+      "message": "Gạch dưới"
+   },
+   "menu_item_undo": {
+      "message": "Hoàn tác"
+   },
+   "menu_item_unhideslide": {
+      "message": "Hiện trang trình bày"
+   },
+   "menu_item_unmerge": {
+      "message": "Hủy hợp nhất"
+   },
+   "menu_item_up_arrow": {
+      "message": "Mũi tên lên"
+   },
+   "menu_item_up_arrow_callout": {
+      "message": "Hộp chú thích hình mũi tên lên"
+   },
+   "menu_item_up_down_arrow": {
+      "message": "Mũi tên lên-xuống"
+   },
+   "menu_item_version_info": {
+      "message": "Thông tin phiên bản"
+   },
+   "menu_item_word_count": {
+      "message": "Số từ"
+   },
+   "menu_item_wrap_text": {
+      "message": "Xuống dòng tự động"
+   },
+   "menu_item_zoom_in": {
+      "message": "Phóng to"
+   },
+   "menu_item_zoom_out": {
+      "message": "Thu nhỏ"
+   },
+   "merge_all_aria_spoken_word": {
+      "message": "hợp nhất tất cả"
+   },
+   "merge_aria_spoken_word": {
+      "message": "hợp nhất"
+   },
+   "merge_dropdown_aria_spoken_word": {
+      "message": "menu thả xuống dùng cho hợp nhất"
+   },
+   "merge_horizontally_aria_spoken_word": {
+      "message": "hợp nhất theo chiều ngang"
+   },
+   "merge_vertically_aria_spoken_word": {
+      "message": "hợp nhất theo chiều dọc"
+   },
+   "modify_shape_transform_error_msg": {
+      "message": "Đã xảy ra lỗi khi sửa đổi các chuyển đổi hình dạng"
+   },
+   "modify_shape_transform_error_short_msg": {
+      "message": "Đã xảy ra lỗi khi sửa đổi các chuyển đổi hình dạng."
+   },
+   "modifyshapefillcolor_aria_spoken_word": {
+      "message": "danh sách thả xuống tô màu hình vẽ"
+   },
+   "modifyshapeoutlinecolor_aria_spoken_word": {
+      "message": "danh sách thả xuống màu đường viền hình vẽ"
+   },
+   "modifyshapeoutlinestyle_aria_spoken_word": {
+      "message": "danh sách thả xuống kiểu đường viền hình vẽ"
+   },
+   "modifyshapeoutlinewidth_aria_spoken_word": {
+      "message": "danh sách thả xuống độ rộng đường viền hình vẽ"
+   },
+   "nacl_load_error_details": {
+      "message": "Hãy thử cài đặt lại tiện ích."
+   },
+   "nacl_load_error_title": {
+      "message": "Đã xảy ra sự cố khi tải ứng dụng."
+   },
+   "non_permissible_sheet_name_details": {
+      "message": "Các ký tự sau đây không được phép * ? [ ] ' ; : Độ dài của tên trang tính không đượt vượt quá 31 ký tự Tên trang tính không được để trống"
+   },
+   "non_permissible_sheet_name_title": {
+      "message": "Khi đổi tên trang tính, bạn đã nhập tên không hợp lệ"
+   },
+   "not_pressed": {
+      "message": "Chưa nhấn"
+   },
+   "notselected": {
+      "message": "Chưa chọn"
+   },
+   "number_format_label_currency_symbol": {
+      "message": "Ký hiệu tiền tệ"
+   },
+   "number_format_label_date_type": {
+      "message": "Loại"
+   },
+   "number_format_label_decimal_places": {
+      "message": "Vị trí thập phân"
+   },
+   "number_format_label_general": {
+      "message": "Chung"
+   },
+   "number_format_label_negative_numbers": {
+      "message": "Số âm"
+   },
+   "number_format_label_other": {
+      "message": "Khác"
+   },
+   "number_format_label_red": {
+      "message": "Đỏ"
+   },
+   "number_format_label_text": {
+      "message": "Văn bản"
+   },
+   "number_format_label_use_1000_separator": {
+      "message": "Sử dụng dấu phân cách hàng nghìn"
+   },
+   "number_format_tab_accounting": {
+      "message": "Tính toán"
+   },
+   "number_format_tab_currency": {
+      "message": "Tiền tệ"
+   },
+   "number_format_tab_date_time": {
+      "message": "Ngày và giờ"
+   },
+   "number_format_tab_general": {
+      "message": "Chung"
+   },
+   "number_format_tab_number": {
+      "message": "Số"
+   },
+   "number_format_tab_percentage": {
+      "message": "Phần trăm"
+   },
+   "number_format_tab_scientific": {
+      "message": "Khoa học"
+   },
+   "number_format_title": {
+      "message": "Định dạng số"
+   },
+   "ocm_promo_conversion_shortmsg": {
+      "message": "Bạn đang ở chế độ tương thích Office"
+   },
+   "office_compatibility_mode": {
+      "message": "Chế độ tương thích Office"
+   },
+   "office_first_time_confirm": {
+      "message": "Ok"
+   },
+   "office_first_time_message_p1": {
+      "message": "Giờ đây, bạn có thể chỉnh sửa các các tệp Word, Excel và Powerpoint từ ổ đĩa cứng, Google Drive, Gmail và các ứng dụng khác của bạn bằng Google Tài liệu, Trang tính và Trang trình bày."
+   },
+   "office_first_time_message_p2": {
+      "message": "Mọi chỉnh sửa của bạn sẽ được tự động lưu và bạn cũng luôn có thể lưu dưới dạng định dạng gốc."
+   },
+   "office_first_time_title": {
+      "message": "Chỉnh sửa Office cho Tài liệu, Trang tính và Trang trình bày"
+   },
+   "offline_error_msg": {
+      "message": "Có vẻ như bạn đã ngoại tuyến. Hãy kiểm tra kết nối internet của bạn và thử lại. Nếu bạn vẫn gặp lỗi này khi đang vào mạng, hãy báo cáo sự cố bên dưới."
+   },
+   "offline_error_short_msg": {
+      "message": "Rất tiếc. Chúng tôi không thể mở tệp bạn đã yêu cầu."
+   },
+   "option_key": {
+      "message": "Option"
+   },
+   "out_of_memory_error_msg": {
+      "message": "Thử đóng tab này và lại mở tệp của bạn hoặc đóng các tab khác mà bạn có thể đã mở trong trình duyệt. Nếu sự cố này vẫn tiếp diễn, hãy báo cáo sự cố ở bên dưới."
+   },
+   "out_of_memory_error_short_msg": {
+      "message": "Rất tiếc. Đã hết bộ nhớ."
+   },
+   "page_count_label": {
+      "message": "Trang"
+   },
+   "partial_cell_merge_error_msg": {
+      "message": "Không thể thay đổi một phần của ô đã hợp nhất."
+   },
+   "partial_cell_merge_error_short_msg": {
+      "message": "Lỗi"
+   },
+   "point_ocm_promo_conversion_msg": {
+      "message": "Bạn có thể chỉnh sửa và lưu các tệp Office trực tiếp trong Trang trình bày. Để mời những người khác chỉnh sửa hoặc thêm nhận xét, hãy lưu dưới dạng tệp Google Trang trình bày. Bạn có thể lưu lại về định dạng gốc bất cứ lúc nào."
+   },
+   "point_printing_warning_msg": {
+      "message": "Chúng tôi đang làm việc để khắc phục vấn đề này."
+   },
+   "point_printing_warning_short_msg": {
+      "message": "Hiện tại, bạn chỉ có thể in trình chiếu bạn đang xem."
+   },
+   "point_share_promo_conversion_msg": {
+      "message": "Bạn đang cố gắng chia sẻ bản trình bày này? Để mời người khác chỉnh sửa cùng bạn, hãy chuyển đổi bản trình bày đó sang Google Trang trình bày."
+   },
+   "pointtogglebullet_aria_spoken_word": {
+      "message": "danh sách có dấu đầu dòng"
+   },
+   "pointtogglenumber_aria_spoken_word": {
+      "message": "danh sách được đánh số"
+   },
+   "present_button": {
+      "message": "Thuyết trình"
+   },
+   "pressed": {
+      "message": "Đã nhấn"
+   },
+   "print_aria_spoken_word": {
+      "message": "in"
+   },
+   "qowt_doc_mismatch_text": {
+      "message": "Tài liệu của bạn đã gặp phải lỗi trong khi định dạng.\n\nHãy tải lại trang để khôi phục các thay đổi của bạn."
+   },
+   "qowt_doc_mismatch_title": {
+      "message": "Rất tiếc!"
+   },
+   "qowt_hyperlink_activate_short_key": {
+      "message": "Nhấn ALT + Enter để kích hoạt liên kết."
+   },
+   "qowt_hyperlink_dialog": {
+      "message": "Siêu liên kết"
+   },
+   "qowt_hyperlink_dialog_message_text": {
+      "message": "Truy cập liên kết:"
+   },
+   "qowt_modal_confirm_dialog_affirmative_button": {
+      "message": "OK"
+   },
+   "qowt_modal_confirm_dialog_negative_button": {
+      "message": "Hủy"
+   },
+   "qowt_modal_dialog_close_button": {
+      "message": "Đóng"
+   },
+   "qowt_modal_dialog_coming_soon_title": {
+      "message": "Sắp có!"
+   },
+   "qowt_modal_dialog_link_text": {
+      "message": "Tìm hiểu thêm"
+   },
+   "qowt_modal_dialog_ok_button": {
+      "message": "OK"
+   },
+   "qowt_modal_dialog_reload_button": {
+      "message": "Tải lại"
+   },
+   "qowt_modal_dialog_textbox_editing_description": {
+      "message": "Rất tiếc, chúng tôi không hỗ trợ chỉnh sửa văn bản bên trong hộp văn bản."
+   },
+   "qowt_modal_dialog_textbox_editing_link": {
+      "message": "Hãy khắc phục điều này!"
+   },
+   "qowt_modal_info_dialog_affirmative_button": {
+      "message": "OK"
+   },
+   "qowt_modal_multi_choice_remember_choice": {
+      "message": "Ghi nhớ lựa chọn của tôi"
+   },
+   "qowt_modal_query_dialog_affirmative_button": {
+      "message": "Có"
+   },
+   "qowt_modal_query_dialog_negative_button": {
+      "message": "Không"
+   },
+   "qowt_modal_query_dialog_reload_button": {
+      "message": "Tải lại"
+   },
+   "qowt_modal_single_choice_remember_choice": {
+      "message": "Đừng nhắc tôi lần nữa"
+   },
+   "read_only": {
+      "message": "Chỉ đọc"
+   },
+   "redo_aria_spoken_word": {
+      "message": "làm lại"
+   },
+   "right_pointed_submenu": {
+      "message": "Con trỏ bên phải có menu con"
+   },
+   "save_aria_spoken_word": {
+      "message": "lưu"
+   },
+   "save_now": {
+      "message": "Lưu ngay"
+   },
+   "security_error_msg": {
+      "message": "Nếu bạn tiếp tục gặp phải lỗi, vui lòng báo cáo sự cố dưới đây."
+   },
+   "security_error_short_msg": {
+      "message": "Rất tiếc. Chúng tôi không thể mở tệp bạn đã yêu cầu. Tại thời điểm này, chúng tôi không hỗ trợ mở tệp ở chế độ Ẩn danh. Vui lòng mở tệp của bạn ở chế độ không Ẩn danh."
+   },
+   "selected": {
+      "message": "Đã chọn"
+   },
+   "set_sheet_info_error_msg": {
+      "message": "Đã xảy ra lỗi khi cập nhật tên trang tính"
+   },
+   "share_button": {
+      "message": "Chia sẻ"
+   },
+   "share_promo_conversion_shortmsg": {
+      "message": "Chỉnh sửa cùng người khác"
+   },
+   "sheet_delete_column_error_msg": {
+      "message": "Rất tiếc. Đã xảy ra lỗi khi xóa cột. Hãy thử lại."
+   },
+   "sheet_delete_row_error_msg": {
+      "message": "Rất tiếc. Đã xảy ra lỗi khi xóa hàng. Hãy thử lại."
+   },
+   "sheet_format_cells_error_msg": {
+      "message": "Đã xảy ra lỗi định dạng. Vui lòng thử lại."
+   },
+   "sheet_insert_column_error_msg": {
+      "message": "Rất tiếc. Đã xảy ra lỗi khi chèn cột. Hãy thử lại."
+   },
+   "sheet_insert_column_exceed_error_msg": {
+      "message": "Rất tiếc, bạn không thể chèn thêm cột vào bảng tính này vì chúng tôi chỉ hỗ trợ 256 cột."
+   },
+   "sheet_insert_column_exceed_error_short_msg": {
+      "message": "Rất tiếc!"
+   },
+   "sheet_insert_row_error_msg": {
+      "message": "Rất tiếc. Đã xảy ra lỗi khi chèn hàng. Hãy thử lại."
+   },
+   "sheet_insert_row_exceed_error_msg": {
+      "message": "Rất tiếc, bạn không thể chèn thêm hàng vào bảng tính này vì chúng tôi chỉ hỗ trợ 65536 hàng."
+   },
+   "sheet_insert_row_exceed_error_short_msg": {
+      "message": "Rất tiếc!"
+   },
+   "sheet_ocm_promo_conversion_msg": {
+      "message": "Bạn có thể chỉnh sửa và lưu các tệp Office trực tiếp trong Trang tính. Để mời những người khác chỉnh sửa hoặc thêm nhận xét, hãy lưu dưới dạng tệp Google Trang tính. Bạn có thể lưu lại về định dạng gốc bất cứ lúc nào."
+   },
+   "sheet_set_cell_content_invalid_error_msg": {
+      "message": "Đã xảy ra lỗi trong công thức bạn nhập. Vui lòng sửa lỗi."
+   },
+   "sheet_share_promo_conversion_msg": {
+      "message": "Bạn đang cố gắng chia sẻ bảng tính này? Để mời người khác chỉnh sửa cùng bạn, hãy chuyển đổi bảng tính đó sang Google Trang tính."
+   },
+   "sheet_sort_error_title": {
+      "message": "Đã xảy ra lỗi khi sắp xếp dải ô này."
+   },
+   "sheet_sort_failure_msg": {
+      "message": "Đã xảy ra lỗi khi sắp xếp dải ô này."
+   },
+   "sheet_sort_merged_cell_error": {
+      "message": "Bạn không thể sắp xếp các ô đã được hợp nhất."
+   },
+   "sheet_sort_merged_cell_error_title": {
+      "message": "Đã xảy ra lỗi khi sắp xếp dải ô này."
+   },
+   "sheet_sort_one_cell_error": {
+      "message": "Vui lòng chọn nhiều ô để sắp xếp."
+   },
+   "sheet_sort_one_cell_error_title": {
+      "message": "Đã xảy ra lỗi khi sắp xếp dải ô này."
+   },
+   "shift_key": {
+      "message": "Shift"
+   },
+   "shortcut": {
+      "message": "Phím tắt $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sign_in": {
+      "message": "Đăng nhập"
+   },
+   "slash_key": {
+      "message": "Dấu gạch chéo"
+   },
+   "something_not_right": {
+      "message": "Đã xảy ra sự cố"
+   },
+   "storage_quota_exceed_error_msg": {
+      "message": "Đóng mọi tài liệu Office đang mở trong Chrome, sau đó thử lại. Nếu sự cố vẫn tiếp diễn, hãy báo cáo sự cố ở bên dưới."
+   },
+   "storage_quota_exceed_error_short_msg": {
+      "message": "Rất tiếc, chúng tôi không thể mở tệp."
+   },
+   "strikethrough_aria_spoken_word": {
+      "message": "gạch ngang chữ"
+   },
+   "style_aria_spoken_word": {
+      "message": "danh sách thả xuống kiểu"
+   },
+   "submenu_spoken_text": {
+      "message": "$1 $2 $3 $4",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         }
+      }
+   },
+   "temporary_unable_to_open_error_msg": {
+      "message": "Hãy thử lại sau hoặc báo cáo sự cố dưới đây nếu sự cố vẫn tiếp diễn."
+   },
+   "temporary_unable_to_open_error_short_msg": {
+      "message": "Rất tiếc, chúng tôi tạm thời không thể mở tệp."
+   },
+   "textaligncenter_aria_spoken_word": {
+      "message": "căn giữa văn bản"
+   },
+   "textalignjustify_aria_spoken_word": {
+      "message": "căn đều văn bản"
+   },
+   "textalignleft_aria_spoken_word": {
+      "message": "căn trái văn bản"
+   },
+   "textalignright_aria_spoken_word": {
+      "message": "căn phải văn bản"
+   },
+   "textcolor_aria_spoken_word": {
+      "message": "danh sách thả xuống màu văn bản"
+   },
+   "textual_edit_error_msg": {
+      "message": "Tài liệu của bạn đã gặp phải lỗi trong khi định dạng.\n\nHãy tải lại trang để khôi phục các thay đổi của bạn."
+   },
+   "textual_edit_error_short_msg": {
+      "message": "Rất tiếc!"
+   },
+   "title_error_msg_for_merge_cells": {
+      "message": "Đã xảy ra sự cố"
+   },
+   "title_msg_merging_multiple_cells_with_text": {
+      "message": "Cảnh báo!"
+   },
+   "togglebulleted_aria_spoken_word": {
+      "message": "danh sách có dấu đầu dòng"
+   },
+   "togglenumbered_aria_spoken_word": {
+      "message": "danh sách được đánh số"
+   },
+   "togglezoom_aria_spoken_word": {
+      "message": "thu phóng được bật/tắt"
+   },
+   "tooltip_background_color": {
+      "message": "Màu tô"
+   },
+   "tooltip_bold": {
+      "message": "Chữ đậm"
+   },
+   "tooltip_border": {
+      "message": "Đường viền"
+   },
+   "tooltip_border_all": {
+      "message": "Tất cả đường viền"
+   },
+   "tooltip_border_bottom": {
+      "message": "Đường viền dưới cùng"
+   },
+   "tooltip_border_horizontal": {
+      "message": "Đường viền ngang"
+   },
+   "tooltip_border_inner": {
+      "message": "Đường viền bên trong"
+   },
+   "tooltip_border_left": {
+      "message": "Đường viền bên trái"
+   },
+   "tooltip_border_none": {
+      "message": "Không có đường viền"
+   },
+   "tooltip_border_outer": {
+      "message": "Đường viền bên ngoài"
+   },
+   "tooltip_border_right": {
+      "message": "Đường viền bên phải"
+   },
+   "tooltip_border_top": {
+      "message": "Đường viền trên cùng"
+   },
+   "tooltip_border_vertical": {
+      "message": "Đường viền dọc"
+   },
+   "tooltip_cell_align": {
+      "message": "Căn chỉnh ô"
+   },
+   "tooltip_cell_h_align_center": {
+      "message": "Giữa theo chiều ngang"
+   },
+   "tooltip_cell_h_align_left": {
+      "message": "Bên trái theo chiều ngang"
+   },
+   "tooltip_cell_h_align_right": {
+      "message": "Bên phải theo chiều ngang"
+   },
+   "tooltip_cell_v_align_bottom": {
+      "message": "Dưới cùng theo chiều dọc"
+   },
+   "tooltip_cell_v_align_center": {
+      "message": "Giữa theo chiều dọc"
+   },
+   "tooltip_cell_v_align_top": {
+      "message": "Trên cùng theo chiều dọc"
+   },
+   "tooltip_download": {
+      "message": "Tải xuống"
+   },
+   "tooltip_dropdown_init_add_shape": {
+      "message": "Hình dạng"
+   },
+   "tooltip_fill_color": {
+      "message": "Màu văn bản"
+   },
+   "tooltip_font_face": {
+      "message": "Phông chữ"
+   },
+   "tooltip_font_size": {
+      "message": "Cỡ chữ"
+   },
+   "tooltip_highlight_color": {
+      "message": "Màu đánh dấu"
+   },
+   "tooltip_init_add_shape": {
+      "message": "Hộp văn bản"
+   },
+   "tooltip_italic": {
+      "message": "In nghiêng"
+   },
+   "tooltip_merge": {
+      "message": "Hợp nhất ô"
+   },
+   "tooltip_merge_dropdown": {
+      "message": "Chọn loại hợp nhất..."
+   },
+   "tooltip_modify_shape_fill_color": {
+      "message": "Màu tô"
+   },
+   "tooltip_modify_shape_outline_color": {
+      "message": "Màu đường kẻ"
+   },
+   "tooltip_modify_shape_outline_style": {
+      "message": "Đường nét đứt"
+   },
+   "tooltip_modify_shape_outline_width": {
+      "message": "Độ đậm của đường kẻ"
+   },
+   "tooltip_move_slide": {
+      "message": "Di chuyển $1 trang trình bày",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "tooltip_point": {
+      "message": "Màn hình chính Trang trình bày"
+   },
+   "tooltip_point_toggle_bullet": {
+      "message": "Danh sách có dấu đầu dòng"
+   },
+   "tooltip_point_toggle_number": {
+      "message": "Danh sách được đánh số"
+   },
+   "tooltip_presentation": {
+      "message": "Bản trình bày"
+   },
+   "tooltip_print": {
+      "message": "In"
+   },
+   "tooltip_redo": {
+      "message": "Làm lại"
+   },
+   "tooltip_share": {
+      "message": "Chia sẻ"
+   },
+   "tooltip_share_for_macroenabledfiles": {
+      "message": "Bạn chỉ có thể chia sẻ các tệp được bật macro từ Google Drive"
+   },
+   "tooltip_sheet": {
+      "message": "Màn hình chính Trang tính"
+   },
+   "tooltip_strikethrough": {
+      "message": "Gạch ngang chữ"
+   },
+   "tooltip_style": {
+      "message": "Kiểu"
+   },
+   "tooltip_text_align_center": {
+      "message": "Giữa"
+   },
+   "tooltip_text_align_justify": {
+      "message": "Căn đều"
+   },
+   "tooltip_text_align_left": {
+      "message": "Căn trái"
+   },
+   "tooltip_text_align_right": {
+      "message": "Căn phải"
+   },
+   "tooltip_text_color": {
+      "message": "Màu văn bản"
+   },
+   "tooltip_toggle_bulleted": {
+      "message": "Danh sách có dấu đầu dòng"
+   },
+   "tooltip_toggle_numbered": {
+      "message": "Danh sách được đánh số"
+   },
+   "tooltip_toggle_zoom": {
+      "message": "Bật/tắt thu phóng"
+   },
+   "tooltip_underline": {
+      "message": "Gạch dưới"
+   },
+   "tooltip_undo": {
+      "message": "Hoàn tác"
+   },
+   "tooltip_word": {
+      "message": "Màn hình chính Tài liệu"
+   },
+   "tooltip_wrap_text": {
+      "message": "Xuống dòng tự động"
+   },
+   "tooltip_zoom_in": {
+      "message": "Phóng to"
+   },
+   "tooltip_zoom_out": {
+      "message": "Thu nhỏ"
+   },
+   "try_again": {
+      "message": "Thử lại"
+   },
+   "unable_to_execute_msg": {
+      "message": "Không thể mở tài liệu này."
+   },
+   "underline_aria_spoken_word": {
+      "message": "gạch dưới"
+   },
+   "undo_aria_spoken_word": {
+      "message": "hoàn tác"
+   },
+   "unmerge_aria_spoken_word": {
+      "message": "hủy hợp nhất"
+   },
+   "unsaved_changes": {
+      "message": "Thay đổi chưa được lưu"
+   },
+   "unsaved_changes_warning": {
+      "message": "Bạn có những thay đổi chưa được lưu trong tệp này. Nếu bạn rời khỏi trang này mà không lưu thì nội dung bạn đã tạo sẽ bị mất vĩnh viễn."
+   },
+   "unsupported_file_format_error_details_p1": {
+      "message": "Rất tiếc, tệp này chứa nội dung từ Microsoft® Office \"95 hoặc phiên bản thấp hơn, chúng tôi không thể mở loại tệp này."
+   },
+   "unsupported_file_format_error_details_p2": {
+      "message": "Nếu bạn muốn chuyển đổi tệp thành tệp Google Tài liệu, hãy nhấp vào liên kết bên dưới."
+   },
+   "unsupported_file_format_error_title": {
+      "message": "Rất tiếc!"
+   },
+   "unsupported_link_message": {
+      "message": "Rất tiếc, chúng tôi hiện không hỗ trợ loại URL này."
+   },
+   "up_key": {
+      "message": "Lên"
+   },
+   "updated_shortcut_message": {
+      "message": "Chúng tôi đã cập nhật phím tắt để làm cho phím tắt thống nhất trên các sản phẩm Google Tài liệu. Hãy xem các phím tắt đã cập nhật trong phần trợ giúp."
+   },
+   "updated_shortcut_title": {
+      "message": "Phím tắt đã cập nhật"
+   },
+   "version_info_msg": {
+      "message": "Phiên bản Chế độ tương thích với Office của bạn là"
+   },
+   "word_binary_upsave_learnmore": {
+      "message": "Tìm hiểu thêm"
+   },
+   "word_binary_upsave_msg": {
+      "message": "Tệp này ở định dạng không được hỗ trợ. Để lưu tệp, chúng tôi cần có sự cho phép của bạn để chuyển đổi tệp thành định dạng tệp mới hơn và tệp gốc của bạn sẽ không bị ảnh hưởng."
+   },
+   "word_binary_upsave_shortmsg": {
+      "message": "Cập nhật tài liệu của bạn"
+   },
+   "word_count_label": {
+      "message": "Từ"
+   },
+   "word_count_title": {
+      "message": "Số từ"
+   },
+   "word_ocm_promo_conversion_msg": {
+      "message": "Bạn có thể chỉnh sửa và lưu các tệp Office trực tiếp trong Tài liệu. Để mời những người khác chỉnh sửa hoặc thêm nhận xét, hãy lưu dưới dạng tệp Google Tài liệu. Bạn có thể lưu lại về định dạng gốc bất cứ lúc nào."
+   },
+   "word_share_promo_conversion_msg": {
+      "message": "Bạn đang cố gắng chia sẻ tài liệu này? Để mời người khác chỉnh sửa cùng bạn, hãy chuyển đổi tài liệu đó sang Google Tài liệu."
+   },
+   "wraptext_aria_spoken_word": {
+      "message": "xuống dòng tự động"
+   },
+   "zoomin_aria_spoken_word": {
+      "message": "phóng to"
+   },
+   "zoomout_aria_spoken_word": {
+      "message": "thu nhỏ"
+   }
+}

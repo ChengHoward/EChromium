@@ -1,0 +1,2192 @@
+{
+   "action_create_user_feedback": {
+      "message": "Informeu d'un problema"
+   },
+   "alt_key": {
+      "message": "Alt"
+   },
+   "app_error_learn_more": {
+      "message": "Més informació"
+   },
+   "app_error_report_feedback": {
+      "message": "Envia suggeriments"
+   },
+   "app_icon_aria_spoken_word": {
+      "message": " inici"
+   },
+   "app_nacl_crash_msg": {
+      "message": "Ajudeu-nos informant del problema."
+   },
+   "app_nacl_crash_report": {
+      "message": "Informeu d'un problema..."
+   },
+   "app_nacl_crash_title": {
+      "message": "Això no estava previst. Torneu a carregar la pàgina per recuperar els canvis."
+   },
+   "app_nacl_error_load_failed": {
+      "message": "No hem pogut obrir el fitxer. Tanqueu les altres pestanyes de Chrome o reinicieu-lo i torneu-ho a provar. Si el problema continua, informeu del problema a continuació."
+   },
+   "app_nacl_error_title": {
+      "message": "No es pot obrir el fitxer."
+   },
+   "app_nacl_error_unsupported_device": {
+      "message": "Aquest dispositiu no és compatible amb l'extensió de Chrome Edició d'Office per a Documents, Fulls de càlcul i Presentacions."
+   },
+   "app_saving_failed_error_msg": {
+      "message": "S'ha produït un problema en desar el fitxer. Torneu-lo a desar. Si el problema continua, informeu-ne."
+   },
+   "app_saving_failed_error_short_msg": {
+      "message": "No es pot desar el fitxer."
+   },
+   "backgroundcolor_aria_spoken_word": {
+      "message": "llista desplegable de color de fons de les cel·les"
+   },
+   "bold_aria_spoken_word": {
+      "message": "negreta"
+   },
+   "border_all_aria_spoken_word": {
+      "message": "tota la vora"
+   },
+   "border_aria_spoken_word": {
+      "message": "llista desplegable de vores"
+   },
+   "border_bottom_aria_spoken_word": {
+      "message": "vora inferior"
+   },
+   "border_horizontal_aria_spoken_word": {
+      "message": "vora horitzontal"
+   },
+   "border_inner_aria_spoken_word": {
+      "message": "vora interior"
+   },
+   "border_left_aria_spoken_word": {
+      "message": "vora esquerra"
+   },
+   "border_none_aria_spoken_word": {
+      "message": "cap vora"
+   },
+   "border_outer_aria_spoken_word": {
+      "message": "vora exterior"
+   },
+   "border_right_aria_spoken_word": {
+      "message": "vora dreta"
+   },
+   "border_top_aria_spoken_word": {
+      "message": "vora superior"
+   },
+   "border_vertical_aria_spoken_word": {
+      "message": "vora vertical"
+   },
+   "button_ocm_convert_cancel": {
+      "message": "Cancel·la"
+   },
+   "button_ocm_promo_conversion_point": {
+      "message": "Desa com a fitxer de Presentacions de Google"
+   },
+   "button_ocm_promo_conversion_sheet": {
+      "message": "Desa com a fitxer de Fulls de càlcul de Google"
+   },
+   "button_ocm_promo_conversion_word": {
+      "message": "Desa com a fitxer de Documents de Google"
+   },
+   "button_share_convert_cancel": {
+      "message": "Cancel·la"
+   },
+   "button_share_promo_conversion_point": {
+      "message": "Desa com a fitxer de Presentacions de Google"
+   },
+   "button_share_promo_conversion_sheet": {
+      "message": "Desa com a fitxer de Fulls de càlcul de Google"
+   },
+   "button_share_promo_conversion_word": {
+      "message": "Desa com a fitxer de Documents de Google"
+   },
+   "cell_align_aria_spoken_word": {
+      "message": "Alineació de les cel·les"
+   },
+   "cellalign_aria_spoken_word": {
+      "message": "llista desplegable per a l'alineació de cel·les"
+   },
+   "cellhaligncenter_aria_spoken_word": {
+      "message": "Al centre en horitzontal"
+   },
+   "cellhalignleft_aria_spoken_word": {
+      "message": "A l'esquerra en horitzontal"
+   },
+   "cellhalignright_aria_spoken_word": {
+      "message": "A la dreta en horitzontal"
+   },
+   "cellvalignbottom_aria_spoken_word": {
+      "message": "Inferior en vertical"
+   },
+   "cellvaligncenter_aria_spoken_word": {
+      "message": "Al centre en vertical"
+   },
+   "cellvaligntop_aria_spoken_word": {
+      "message": "Superior en vertical"
+   },
+   "char_count_label": {
+      "message": "Caràcters"
+   },
+   "char_no_spaces_count_label": {
+      "message": "Caràcters sense espais"
+   },
+   "close_dialog_aria_spoken_word": {
+      "message": "Tanca el quadre de diàleg"
+   },
+   "cmd_dropdown_initaddshape_aria_spoken_word": {
+      "message": "llista desplegable de formes"
+   },
+   "collapsed": {
+      "message": "Replegada"
+   },
+   "collapsed_menu": {
+      "message": "$1 Replegat amb submenú.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "color_black": {
+      "message": "Negre"
+   },
+   "color_blaze_orange": {
+      "message": "Taronja brillant"
+   },
+   "color_blue": {
+      "message": "Blau"
+   },
+   "color_brown": {
+      "message": "Marró"
+   },
+   "color_cornflower_blue": {
+      "message": "Blau cian"
+   },
+   "color_cyan": {
+      "message": "Cian"
+   },
+   "color_dark_blue": {
+      "message": "Blau fosc"
+   },
+   "color_dark_blue_1": {
+      "message": "Blau fosc 1"
+   },
+   "color_dark_blue_2": {
+      "message": "Blau fosc 2"
+   },
+   "color_dark_blue_3": {
+      "message": "Blau fosc 3"
+   },
+   "color_dark_blue_grey": {
+      "message": "Gris blavós fosc"
+   },
+   "color_dark_cornflower_blue_1": {
+      "message": "Blau cian fosc 1"
+   },
+   "color_dark_cornflower_blue_2": {
+      "message": "Blau cian fosc 2"
+   },
+   "color_dark_cornflower_blue_3": {
+      "message": "Blau cian fosc 3"
+   },
+   "color_dark_cyan": {
+      "message": "Cian fosc"
+   },
+   "color_dark_cyan_1": {
+      "message": "Cian fosc 1"
+   },
+   "color_dark_cyan_2": {
+      "message": "Cian fosc 2"
+   },
+   "color_dark_cyan_3": {
+      "message": "Cian fosc 3"
+   },
+   "color_dark_gray": {
+      "message": "Gris fosc"
+   },
+   "color_dark_gray_1": {
+      "message": "Gris fosc 1"
+   },
+   "color_dark_gray_2": {
+      "message": "Gris fosc 2"
+   },
+   "color_dark_gray_3": {
+      "message": "Gris fosc 3"
+   },
+   "color_dark_gray_4": {
+      "message": "Gris fosc 4"
+   },
+   "color_dark_green": {
+      "message": "Verd fosc"
+   },
+   "color_dark_green_1": {
+      "message": "Verd fosc 1"
+   },
+   "color_dark_green_2": {
+      "message": "Verd fosc 2"
+   },
+   "color_dark_green_3": {
+      "message": "Verd fosc 3"
+   },
+   "color_dark_green_5": {
+      "message": "Verd fosc 5"
+   },
+   "color_dark_grey_2": {
+      "message": "Gris fosc 2"
+   },
+   "color_dark_grey_5": {
+      "message": "Gris fosc 5"
+   },
+   "color_dark_magenta_1": {
+      "message": "Magenta fosc 1"
+   },
+   "color_dark_magenta_2": {
+      "message": "Magenta fosc 2"
+   },
+   "color_dark_magenta_3": {
+      "message": "Magenta fosc 3"
+   },
+   "color_dark_olive_green": {
+      "message": "Verd oliva fosc"
+   },
+   "color_dark_orange_1": {
+      "message": "Taronja fosc 1"
+   },
+   "color_dark_orange_2": {
+      "message": "Taronja fosc 2"
+   },
+   "color_dark_orange_3": {
+      "message": "Taronja fosc 3"
+   },
+   "color_dark_purple_1": {
+      "message": "Porpra fosc 1"
+   },
+   "color_dark_purple_2": {
+      "message": "Porpra fosc 2"
+   },
+   "color_dark_purple_3": {
+      "message": "Porpra fosc 3"
+   },
+   "color_dark_red": {
+      "message": "Vermell fosc"
+   },
+   "color_dark_red_1": {
+      "message": "Vermell fosc 1"
+   },
+   "color_dark_red_2": {
+      "message": "Vermell fosc 2"
+   },
+   "color_dark_red_3": {
+      "message": "Vermell fosc 3"
+   },
+   "color_dark_red_berry_1": {
+      "message": "Fruit vermell fosc 1"
+   },
+   "color_dark_red_berry_2": {
+      "message": "Fruit vermell fosc 2"
+   },
+   "color_dark_red_berry_3": {
+      "message": "Fruit vermell fosc 3"
+   },
+   "color_dark_slate_blue": {
+      "message": "Blau pissarra fosc"
+   },
+   "color_dark_yellow_1": {
+      "message": "Groc fosc 1"
+   },
+   "color_dark_yellow_2": {
+      "message": "Groc fosc 2"
+   },
+   "color_dark_yellow_3": {
+      "message": "Groc fosc 3"
+   },
+   "color_deep_pink": {
+      "message": "Rosa intens"
+   },
+   "color_deep_sky_blue": {
+      "message": "Blau cel intens"
+   },
+   "color_eucalyptus_green": {
+      "message": "Verd eucaliptus"
+   },
+   "color_gold": {
+      "message": "Daurat"
+   },
+   "color_gray": {
+      "message": "Gris"
+   },
+   "color_green": {
+      "message": "Verd"
+   },
+   "color_light_blue": {
+      "message": "Blau clar"
+   },
+   "color_light_blue_1": {
+      "message": "Blau clar 1"
+   },
+   "color_light_blue_2": {
+      "message": "Blau clar 2"
+   },
+   "color_light_blue_3": {
+      "message": "Blau clar 3"
+   },
+   "color_light_cornflower_blue_1": {
+      "message": "Blau cian clar 1"
+   },
+   "color_light_cornflower_blue_2": {
+      "message": "Blau cian clar 2"
+   },
+   "color_light_cornflower_blue_3": {
+      "message": "Blau cian clar 3"
+   },
+   "color_light_cyan": {
+      "message": "Cian clar"
+   },
+   "color_light_cyan_1": {
+      "message": "Cian clar 1"
+   },
+   "color_light_cyan_2": {
+      "message": "Cian clar 2"
+   },
+   "color_light_cyan_3": {
+      "message": "Cian clar 3"
+   },
+   "color_light_gray": {
+      "message": "Gris clar"
+   },
+   "color_light_gray_1": {
+      "message": "Gris clar 1"
+   },
+   "color_light_gray_2": {
+      "message": "Gris clar 2"
+   },
+   "color_light_gray_3": {
+      "message": "Gris clar 3"
+   },
+   "color_light_green": {
+      "message": "Verd clar"
+   },
+   "color_light_green_1": {
+      "message": "Verd clar 1"
+   },
+   "color_light_green_2": {
+      "message": "Verd clar 2"
+   },
+   "color_light_green_3": {
+      "message": "Verd clar 3"
+   },
+   "color_light_magenta_1": {
+      "message": "Magenta clar 1"
+   },
+   "color_light_magenta_2": {
+      "message": "Magenta clar 2"
+   },
+   "color_light_magenta_3": {
+      "message": "Magenta clar 3"
+   },
+   "color_light_orange_1": {
+      "message": "Taronja clar 1"
+   },
+   "color_light_orange_2": {
+      "message": "Taronja clar 2"
+   },
+   "color_light_orange_3": {
+      "message": "Taronja clar 3"
+   },
+   "color_light_purple": {
+      "message": "Porpra clar"
+   },
+   "color_light_purple_1": {
+      "message": "Porpra clar 1"
+   },
+   "color_light_purple_2": {
+      "message": "Porpra clar 2"
+   },
+   "color_light_purple_3": {
+      "message": "Porpra clar 3"
+   },
+   "color_light_red_1": {
+      "message": "Vermell clar 1"
+   },
+   "color_light_red_2": {
+      "message": "Vermell clar 2"
+   },
+   "color_light_red_3": {
+      "message": "Vermell clar 3"
+   },
+   "color_light_red_berry_1": {
+      "message": "Fruit vermell clar 1"
+   },
+   "color_light_red_berry_2": {
+      "message": "Fruit vermell clar 2"
+   },
+   "color_light_red_berry_3": {
+      "message": "Fruit vermell clar 3"
+   },
+   "color_light_yellow": {
+      "message": "Groc clar"
+   },
+   "color_light_yellow_1": {
+      "message": "Groc clar 1"
+   },
+   "color_light_yellow_2": {
+      "message": "Groc clar 2"
+   },
+   "color_light_yellow_3": {
+      "message": "Groc clar 3"
+   },
+   "color_magenta": {
+      "message": "Magenta"
+   },
+   "color_maroon": {
+      "message": "Granat"
+   },
+   "color_midnight_blue": {
+      "message": "Blau nit"
+   },
+   "color_navy": {
+      "message": "Blau marí"
+   },
+   "color_olive": {
+      "message": "Oliva"
+   },
+   "color_orange": {
+      "message": "Taronja"
+   },
+   "color_peach": {
+      "message": "Préssec"
+   },
+   "color_pink": {
+      "message": "Rosa"
+   },
+   "color_pistachio": {
+      "message": "Verd pistatxo"
+   },
+   "color_purple": {
+      "message": "Porpra"
+   },
+   "color_red": {
+      "message": "Vermell"
+   },
+   "color_red_berry": {
+      "message": "Fruit vermell"
+   },
+   "color_royal_blue": {
+      "message": "Blau reial"
+   },
+   "color_teal": {
+      "message": "Verd blavós"
+   },
+   "color_turquiose": {
+      "message": "Turquesa"
+   },
+   "color_white": {
+      "message": "Blanc"
+   },
+   "color_yellow": {
+      "message": "Groc"
+   },
+   "command_key": {
+      "message": "Ordre"
+   },
+   "content_msg_merging_horizontally_across_vertical_section": {
+      "message": "No podeu combinar cel·les en horitzontal si es creuen amb una secció combinada en vertical."
+   },
+   "content_msg_merging_multiple_cells_with_text": {
+      "message": "Si combineu cel·les, només es conservarà el valor situat més amunt i a l'esquerra. Voleu combinar-les de totes maneres?"
+   },
+   "content_msg_merging_partially_selected_merged_cells": {
+      "message": "Cal seleccionar totes les cel·les d'un interval combinat per combinar-les o separar-les."
+   },
+   "content_msg_merging_vertically_across_horizontal_section": {
+      "message": "No podeu combinar cel·les en vertical si es creuen amb una secció combinada en horitzontal."
+   },
+   "content_render_error_msg": {
+      "message": "S'ha produït un problema amb el contingut d'aquest document."
+   },
+   "context_menu_clipboard_copy": {
+      "message": "Copia"
+   },
+   "context_menu_delete": {
+      "message": "Suprimeix"
+   },
+   "context_menu_freeze": {
+      "message": "Congela"
+   },
+   "context_menu_insert": {
+      "message": "Insereix"
+   },
+   "context_menu_sort_collation_ascending": {
+      "message": "Ordena de la A a la Z"
+   },
+   "context_menu_sort_collation_descending": {
+      "message": "Ordena de la Z a la A"
+   },
+   "context_menu_unfreeze": {
+      "message": "Mobilitza"
+   },
+   "control_key": {
+      "message": "Control"
+   },
+   "convert_attempt_when_offline": {
+      "message": "Per desar com a fitxer de Documents de Google heu de tenir connexió a Internet. Torneu-ho a provar quan la recupereu."
+   },
+   "convert_attempt_with_invalid_creds": {
+      "message": "Per convertir el fitxer heu d'iniciar la sessió al compte de Google."
+   },
+   "convert_cancel": {
+      "message": "Cancel·la"
+   },
+   "convert_to_google_docs_failed": {
+      "message": "S'ha produït un error en convertir el document en un fitxer de Documents de Google."
+   },
+   "convert_to_google_point_fail_short_msg": {
+      "message": "Vaja..."
+   },
+   "convert_to_google_point_short_msg": {
+      "message": "S'està desant com a fitxer de Presentacions de Google"
+   },
+   "convert_to_google_sheet_fail_short_msg": {
+      "message": "Vaja!"
+   },
+   "convert_to_google_sheet_short_msg": {
+      "message": "S'està desant com a fitxer de Fulls de càlcul de Google"
+   },
+   "convert_to_google_word_fail_short_msg": {
+      "message": "Vaja..."
+   },
+   "convert_to_google_word_short_msg": {
+      "message": "S'està desant com a fitxer de Documents de Google"
+   },
+   "convert_try_again": {
+      "message": "Torna-ho a provar"
+   },
+   "converting_to_google_point_fail_msg": {
+      "message": "En aquest moment no hem pogut desar el fitxer com a fitxer de Presentacions de Google."
+   },
+   "converting_to_google_point_msg": {
+      "message": "S'està desant una versió nova de la presentació com a fitxer de Presentacions de Google."
+   },
+   "converting_to_google_sheet_fail_msg": {
+      "message": "En aquest moment no hem pogut desar el fitxer com a fitxer de Fulls de càlcul de Google."
+   },
+   "converting_to_google_sheet_msg": {
+      "message": "S'està desant una versió nova del full de càlcul com a fitxer de Fulls de càlcul de Google."
+   },
+   "converting_to_google_word_fail_msg": {
+      "message": "En aquest moment no hem pogut desar el fitxer com a fitxer de Documents de Google."
+   },
+   "converting_to_google_word_msg": {
+      "message": "S'està desant una versió nova del document com a fitxer de Documents de Google."
+   },
+   "copy_attempt_when_offline": {
+      "message": "Per crear una còpia a Google Drive heu d'estar connectat a Internet. Torneu-ho a provar quan es restableixi la connexió."
+   },
+   "copy_attempt_with_invalid_creds": {
+      "message": "Per crear una còpia heu d'iniciar la sessió al compte de Google."
+   },
+   "disabled_share_button": {
+      "message": "Els fitxers amb macros habilitades només es poden compartir des de Google Drive. S'han desactivat les opcions per compartir-los."
+   },
+   "disallowed_cut_copy_paste_cmd_copy": {
+      "message": "per copiar contingut"
+   },
+   "disallowed_cut_copy_paste_cmd_cut": {
+      "message": "per retallar contingut"
+   },
+   "disallowed_cut_copy_paste_cmd_paste": {
+      "message": "per enganxar contingut"
+   },
+   "disallowed_cut_copy_paste_msg": {
+      "message": "Aquestes accions no estan disponibles a través dels menús contextuals i d'edició, però pots continuar fent servir:"
+   },
+   "disallowed_cut_copy_paste_title": {
+      "message": "Copia i enganxa contingut en mode de compatibilitat amb Office"
+   },
+   "dismiss": {
+      "message": "Omet"
+   },
+   "document_title_aria_spoken_word": {
+      "message": "Títol del document:"
+   },
+   "down_key": {
+      "message": "Avall"
+   },
+   "download_button": {
+      "message": "Baixa"
+   },
+   "download_file_timeout_error_msg": {
+      "message": "El fitxer que proveu d'obrir està tardant més a carregar-se del que s'esperava. Comproveu la connexió de xarxa i torneu-ho a provar."
+   },
+   "download_file_timeout_error_short_msg": {
+      "message": "El fitxer està tardant més del que s'esperava"
+   },
+   "drive_open_timeout_error_msg": {
+      "message": "Sembla que hi ha un problema amb la connexió a Internet. Comprova-la i prova de tornar a obrir el fitxer. Si estàs en línia però l'error es continua mostrant, informa'ns del problema a continuació."
+   },
+   "drive_open_timeout_error_short_msg": {
+      "message": "No hem pogut obrir el fitxer que heu sol·licitat"
+   },
+   "duplicate_sheet_name_message": {
+      "message": "Introduïu un nom de full que no estigui fent servir cap altre full."
+   },
+   "duplicate_sheet_name_title": {
+      "message": "Aquest nom de full ja s'està fent servir."
+   },
+   "edits_not_being_saved": {
+      "message": "Els canvis no es desaran automàticament."
+   },
+   "edits_now_being_auto_saved": {
+      "message": "S'ha desat el fitxer. Ara tots els canvis es desaran automàticament."
+   },
+   "entry_point_error_msg": {
+      "message": "Torna-ho a provar o informa d'un problema a continuació."
+   },
+   "entry_point_error_short_msg": {
+      "message": "No hem pogut determinar quin fitxer volíeu obrir."
+   },
+   "error_occurred": {
+      "message": "S'ha produït un error."
+   },
+   "error_password_required_msg": {
+      "message": "Avui no admetem fitxers protegits, però hi estem treballant."
+   },
+   "error_password_required_short_msg": {
+      "message": "Aquest fitxer està protegit per contrasenya."
+   },
+   "expanded": {
+      "message": "Desplegat"
+   },
+   "expanded_menu": {
+      "message": "$1 Desplegat amb submenú.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "extension_description": {
+      "message": "Consulteu i editeu fitxers de Microsoft Word, d'Excel i de PowerPoint amb Documents, Fulls de càlcul i Presentacions de Google."
+   },
+   "extension_name": {
+      "message": "Edició d'Office"
+   },
+   "extension_popup_message_body": {
+      "message": "Per obrir un fitxer, arrossega'l i deixa'l anar al navegador"
+   },
+   "extension_popup_new_document_header": {
+      "message": "Nou..."
+   },
+   "extension_popup_new_presentation_document": {
+      "message": "Presentació de PowerPoint"
+   },
+   "extension_popup_new_spreadsheet_document": {
+      "message": "Full de càlcul d'Excel"
+   },
+   "extension_popup_new_word_document": {
+      "message": "Document de Word"
+   },
+   "feedback_textbox_editing": {
+      "message": "Permeteu l'edició de text dins dels quadres de text."
+   },
+   "feedback_ui_template": {
+      "message": "1- Descriviu el problema que heu trobat.\n2- El problema s'ha produït quan provàveu d'obrir un fitxer o quan provàveu d'editar-lo?\n3- El problema es produeix quan proveu d'obrir o d'editar qualsevol fitxer o només determinats fitxers?\n\nSi el problema es produeix només amb un fitxer, podeu adjuntar-lo a aquest informe. Ens serà molt útil per provar de resoldre el problema amb més precisió."
+   },
+   "file_does_not_exist_error_details": {
+      "message": "Aquest fitxer no existeix. És possible que hàgiu provat d'obrir un enllaç compartit o un document inclòs a les adreces d'interès. Proveu d'obrir de nou el fitxer des de la ubicació original."
+   },
+   "file_does_not_exist_error_title": {
+      "message": "No s'ha trobat el fitxer."
+   },
+   "file_loading_spinner_label": {
+      "message": "S'està carregant"
+   },
+   "file_missing_content_msg": {
+      "message": "Hi ha hagut un problema en llegir tot el contingut del fitxer. Us recomanem que canvieu el nom del fitxer i el torneu a obrir."
+   },
+   "file_missing_content_short_msg": {
+      "message": "Falta contingut al document"
+   },
+   "file_not_found_error_msg": {
+      "message": "Consulta al propietari del fitxer si tens permís per accedir-hi. Si tens permís però l'error es continua mostrant, informa'ns del problema a continuació."
+   },
+   "file_not_found_error_short_msg": {
+      "message": "No hem pogut obrir el fitxer que heu sol·licitat"
+   },
+   "file_not_found_exception": {
+      "message": "Pot ser que el fitxer que has sol·licitat s'hagi suprimit o mogut a una altra ubicació, o bé que se li hagi canviat el nom. Fes clic a Desa ara per continuar."
+   },
+   "file_not_found_link_text": {
+      "message": "Per obtenir ajuda relacionada amb diversos comptes, consulteu aquest article."
+   },
+   "file_not_found_msg": {
+      "message": "El fitxer que heu sol·licitat s'ha mogut."
+   },
+   "file_not_found_title": {
+      "message": "No s'ha trobat el fitxer."
+   },
+   "file_open_crash_error_msg": {
+      "message": "Si l'error continua, informa del problema a continuació."
+   },
+   "file_open_crash_error_short_msg": {
+      "message": "No hem pogut obrir el fitxer que heu sol·licitat"
+   },
+   "file_open_error_msg": {
+      "message": "No es pot accedir al contingut d'aquest fitxer."
+   },
+   "file_open_error_short_msg": {
+      "message": "Aquest fitxer sembla malmès."
+   },
+   "file_open_fail_download_link_text": {
+      "message": "Baixa el fitxer"
+   },
+   "file_opened_in_incognito_mode_error_details": {
+      "message": "L'extensió d'edició amb Office no funciona en mode d'incògnit. Obre aquest fitxer en una finestra normal de Chrome. Si fas servir el mode de convidat, el fitxer no s'obrirà correctament. Comprova que el fitxer no estigui corrupte i que es tracti d'un tipus de document vàlid; a continuació, torna-ho a provar."
+   },
+   "file_opened_in_incognito_mode_error_title": {
+      "message": "Vaja! No s'admet el mode d'incògnit"
+   },
+   "file_pdf_type_rename_msg": {
+      "message": "Canvieu el nom del fitxer per $1.pdf i torneu-ho a provar.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_rtf_type_rename_msg": {
+      "message": "Canvieu el nom del fitxer per $1.rtf",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_type_unsupported_msg": {
+      "message": "Aquest tipus de fitxer no s'admet."
+   },
+   "fillcolor_aria_spoken_word": {
+      "message": "llista desplegable de color del text"
+   },
+   "fontface_aria_spoken_word": {
+      "message": "llista desplegable de tipus de lletra"
+   },
+   "fontsize_aria_spoken_word": {
+      "message": "llista desplegable de mida de lletra"
+   },
+   "forbidden_access_level_error_msg": {
+      "message": "Consulta al propietari del fitxer si tens permís per obrir-lo. Si tens permís però l'error es continua mostrant, informa'ns del problema a continuació."
+   },
+   "forbidden_access_level_error_short_msg": {
+      "message": "No hem pogut obrir el fitxer que heu sol·licitat"
+   },
+   "forbidden_app_access_error_msg": {
+      "message": "No tenim permís per obrir aquest fitxer. Prova d'obrir-lo des de Google Drive o informa'ns del problema a continuació."
+   },
+   "forbidden_app_access_error_short_msg": {
+      "message": "No hem pogut obrir el fitxer que heu sol·licitat"
+   },
+   "forbidden_app_id_error_msg": {
+      "message": "Sembla que l'extensió de Chrome no està ben configurada. No sabem què pot haver passat; tanmateix, informa'ns del problema a continuació."
+   },
+   "forbidden_app_id_error_short_msg": {
+      "message": "No hem pogut obrir el fitxer que heu sol·licitat"
+   },
+   "forbidden_blacklist_error_msg": {
+      "message": "Sembla que l'extensió de Chrome s'ha afegit a una llista negra. Informeu-nos del problema a continuació, ja que evidentment es tracta d'un error."
+   },
+   "forbidden_blacklist_error_short_msg": {
+      "message": "No hem pogut obrir el fitxer que heu sol·licitat"
+   },
+   "forbidden_domain_error_msg": {
+      "message": "Sembla que el teu domini ha prohibit l'accés al fitxer. Contacta amb l'administrador del domini o informa'ns del problema a continuació."
+   },
+   "forbidden_domain_error_short_msg": {
+      "message": "No hem pogut obrir el fitxer que heu sol·licitat"
+   },
+   "forbidden_internal_error_msg": {
+      "message": "Google Drive no funciona com s'esperava. Prova de tornar a obrir el fitxer o informa'ns del problema a continuació."
+   },
+   "forbidden_internal_error_short_msg": {
+      "message": "No hem pogut obrir el fitxer que heu sol·licitat"
+   },
+   "forbidden_not_installed_error_msg": {
+      "message": "Sembla que l'extensió de Chrome no està ben configurada. No sabem què pot haver passat; tanmateix, informa'ns del problema a continuació."
+   },
+   "forbidden_not_installed_error_short_msg": {
+      "message": "No hem pogut obrir el fitxer que heu sol·licitat"
+   },
+   "generic_error_msg": {
+      "message": "S'ha produït un problema amb el contingut d'aquest document."
+   },
+   "generic_error_short_msg": {
+      "message": "Això no estava previst. Torneu a carregar la pàgina per recuperar els canvis."
+   },
+   "get_lists_data_error_msg": {
+      "message": "És possible que el document es reprodueixi amb un format de llista incorrecte."
+   },
+   "get_lists_data_error_short_msg": {
+      "message": "No s'ha pogut recuperar el format del document."
+   },
+   "highlightcolor_aria_spoken_word": {
+      "message": "llista desplegable de color de marcatge de text"
+   },
+   "http_error_zero_msg": {
+      "message": "Si es tracta d'un problema de xarxa, comproveu la connexió o torneu-ho a provar més tard. Si el problema continua, informeu-ne a continuació."
+   },
+   "http_error_zero_short_msg": {
+      "message": "No s'ha pogut obrir el fitxer."
+   },
+   "info_file_copied": {
+      "message": "S'ha desat"
+   },
+   "info_file_save_cancelled": {
+      "message": "Heu cancel·lat l'acció per desar."
+   },
+   "info_file_save_failed": {
+      "message": "S'ha produït un error en desar."
+   },
+   "info_file_saved_at_location": {
+      "message": "Tots els canvis s'han desat a $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "info_file_saved_in_drive": {
+      "message": "Tots els canvis s'han desat a Drive."
+   },
+   "info_file_saved_locally": {
+      "message": "Tots els canvis s'han desat localment."
+   },
+   "info_file_saved_offline": {
+      "message": "Tots els canvis s'han desat sense connexió."
+   },
+   "info_file_saving": {
+      "message": "S'està desant..."
+   },
+   "initaddshape_aria_spoken_word": {
+      "message": "afegeix quadre de text"
+   },
+   "invalid_credentials_error_msg": {
+      "message": "Per accedir al fitxer, inicieu la sessió al compte de Google."
+   },
+   "invalid_credentials_error_short_msg": {
+      "message": "No hem pogut obrir el fitxer que heu sol·licitat"
+   },
+   "invalid_file_format_msg": {
+      "message": "Tot i que el fitxer sembla un document d'Office i té l'extensió d'un fitxer d'Office, realment és un altre tipus de fitxer (al qual s'ha canviat el nom o en el qual s'ha fet una altra mena de canvi) o és un tipus de fitxer que no s'admet."
+   },
+   "invalid_file_format_short_msg": {
+      "message": "Sembla que no podem obrir aquest tipus de document."
+   },
+   "italic_aria_spoken_word": {
+      "message": "cursiva"
+   },
+   "keyboard_shortcut_group_actions": {
+      "message": "Accions"
+   },
+   "keyboard_shortcut_group_other": {
+      "message": "Una altra"
+   },
+   "keyboard_shortcut_group_paragraph_formatting": {
+      "message": "Format del paràgraf"
+   },
+   "keyboard_shortcut_group_text_formatting": {
+      "message": "Format de text"
+   },
+   "keyboard_shortcut_group_top_menus": {
+      "message": "Menús"
+   },
+   "keyboard_shortcut_group_with_slides": {
+      "message": "Amb diapositives"
+   },
+   "keyboard_shortcut_title": {
+      "message": "Tecles de drecera"
+   },
+   "make_a_copy_fail_msg": {
+      "message": "En aquest moment no hem pogut crear la còpia."
+   },
+   "menu_button_data": {
+      "message": "Dades"
+   },
+   "menu_button_edit": {
+      "message": "Edició"
+   },
+   "menu_button_file": {
+      "message": "Fitxer"
+   },
+   "menu_button_format": {
+      "message": "Format"
+   },
+   "menu_button_help": {
+      "message": "Ajuda"
+   },
+   "menu_button_insert": {
+      "message": "Insereix"
+   },
+   "menu_button_slide": {
+      "message": "Diapositiva"
+   },
+   "menu_button_tools": {
+      "message": "Eines"
+   },
+   "menu_button_view": {
+      "message": "Mostra"
+   },
+   "menu_item_10_point_star": {
+      "message": "Estrella de 10 puntes"
+   },
+   "menu_item_12_point_star": {
+      "message": "Estrella de 12 puntes"
+   },
+   "menu_item_16_point_star": {
+      "message": "Estrella de 16 puntes"
+   },
+   "menu_item_24_point_star": {
+      "message": "Estrella de 24 puntes"
+   },
+   "menu_item_32_point_star": {
+      "message": "Estrella de 32 puntes"
+   },
+   "menu_item_4_point_star": {
+      "message": "Estrella de 4 puntes"
+   },
+   "menu_item_5_point_star": {
+      "message": "Estrella de 5 puntes"
+   },
+   "menu_item_6_point_star": {
+      "message": "Estrella de 6 puntes"
+   },
+   "menu_item_7_point_star": {
+      "message": "Estrella de 7 puntes"
+   },
+   "menu_item_8_point_star": {
+      "message": "Estrella de 8 puntes"
+   },
+   "menu_item_align": {
+      "message": "Alineació"
+   },
+   "menu_item_align_center": {
+      "message": "Centra"
+   },
+   "menu_item_align_justified": {
+      "message": "Justificat"
+   },
+   "menu_item_align_left": {
+      "message": "Esquerra"
+   },
+   "menu_item_align_right": {
+      "message": "Dreta"
+   },
+   "menu_item_arrows": {
+      "message": "Fletxes"
+   },
+   "menu_item_bent_arrow": {
+      "message": "Fletxa doblegada"
+   },
+   "menu_item_bent_up_arrow": {
+      "message": "Fletxa doblegada cap amunt"
+   },
+   "menu_item_bevel": {
+      "message": "Bisell"
+   },
+   "menu_item_block_arc": {
+      "message": "Arc de bloc"
+   },
+   "menu_item_bold": {
+      "message": "Negreta"
+   },
+   "menu_item_callouts": {
+      "message": "Crides"
+   },
+   "menu_item_can": {
+      "message": "Llauna"
+   },
+   "menu_item_chevron": {
+      "message": "Cometes angulars"
+   },
+   "menu_item_chord": {
+      "message": "Acord"
+   },
+   "menu_item_clear_formatting": {
+      "message": "Esborra el format"
+   },
+   "menu_item_cloud": {
+      "message": "Núvol"
+   },
+   "menu_item_cloud_callout": {
+      "message": "Crida en forma de núvol"
+   },
+   "menu_item_color_none": {
+      "message": "Cap"
+   },
+   "menu_item_color_transparent": {
+      "message": "Transparent"
+   },
+   "menu_item_convert_to_docs": {
+      "message": "Desa com a fitxer de Documents de Google"
+   },
+   "menu_item_convert_to_sheets": {
+      "message": "Desa com a fitxer de Fulls de càlcul de Google"
+   },
+   "menu_item_convert_to_slides": {
+      "message": "Desa com a fitxer de Presentacions de Google"
+   },
+   "menu_item_copy": {
+      "message": "Copia"
+   },
+   "menu_item_cross": {
+      "message": "Creu"
+   },
+   "menu_item_cube": {
+      "message": "Cub"
+   },
+   "menu_item_curved_down_arrow": {
+      "message": "Fletxa corbada cap avall"
+   },
+   "menu_item_curved_left_arrow": {
+      "message": "Fletxa corbada cap a l'esquerra"
+   },
+   "menu_item_curved_right_arrow": {
+      "message": "Fletxa corbada cap a la dreta"
+   },
+   "menu_item_curved_up_arrow": {
+      "message": "Fletxa corbada cap amunt"
+   },
+   "menu_item_cut": {
+      "message": "Retalla"
+   },
+   "menu_item_decagon": {
+      "message": "Decàgon"
+   },
+   "menu_item_delete_column": {
+      "message": "Suprimeix la columna"
+   },
+   "menu_item_delete_row": {
+      "message": "Suprimeix la fila"
+   },
+   "menu_item_delete_value": {
+      "message": "Suprimeix el valor"
+   },
+   "menu_item_deleteslide": {
+      "message": "Suprimeix la diapositiva"
+   },
+   "menu_item_diagonal_stripe": {
+      "message": "Banda diagonal"
+   },
+   "menu_item_diamond": {
+      "message": "Diamant"
+   },
+   "menu_item_divide": {
+      "message": "Divideix"
+   },
+   "menu_item_dodecagon": {
+      "message": "Dodecàgon"
+   },
+   "menu_item_donut": {
+      "message": "Dònut"
+   },
+   "menu_item_double_brace": {
+      "message": "Clau doble"
+   },
+   "menu_item_double_bracket": {
+      "message": "Claudàtor doble"
+   },
+   "menu_item_down_arrow": {
+      "message": "Fletxa avall"
+   },
+   "menu_item_down_arrow_callout": {
+      "message": "Crida de fletxa cap avall"
+   },
+   "menu_item_duplicateslide": {
+      "message": "Duplica la diapositiva"
+   },
+   "menu_item_equal": {
+      "message": "Igual"
+   },
+   "menu_item_equation": {
+      "message": "Equació"
+   },
+   "menu_item_explosion_1": {
+      "message": "Explosió 1"
+   },
+   "menu_item_explosion_2": {
+      "message": "Explosió 2"
+   },
+   "menu_item_flowchart_alternate_process": {
+      "message": "Diagrama de flux: procés alternatiu"
+   },
+   "menu_item_flowchart_card": {
+      "message": "Diagrama de flux: targeta"
+   },
+   "menu_item_flowchart_collate": {
+      "message": "Diagrama de flux: intercala"
+   },
+   "menu_item_flowchart_connector": {
+      "message": "Diagrama de flux: connector"
+   },
+   "menu_item_flowchart_data": {
+      "message": "Diagrama de flux: dades"
+   },
+   "menu_item_flowchart_decision": {
+      "message": "Diagrama de flux: decisió"
+   },
+   "menu_item_flowchart_delay": {
+      "message": "Diagrama de flux: retard"
+   },
+   "menu_item_flowchart_direct_access_storage": {
+      "message": "Diagrama de flux: emmagatzematge d'accés directe"
+   },
+   "menu_item_flowchart_display": {
+      "message": "Diagrama de flux: visualització"
+   },
+   "menu_item_flowchart_document": {
+      "message": "Diagrama de flux: document"
+   },
+   "menu_item_flowchart_extract": {
+      "message": "Diagrama de flux: extreu"
+   },
+   "menu_item_flowchart_internal_storage": {
+      "message": "Diagrama de flux: emmagatzematge intern"
+   },
+   "menu_item_flowchart_magnetic_disk": {
+      "message": "Diagrama de flux: disc magnètic"
+   },
+   "menu_item_flowchart_manual_input": {
+      "message": "Diagrama de flux: entrada manual"
+   },
+   "menu_item_flowchart_manual_operation": {
+      "message": "Diagrama de flux: operació manual"
+   },
+   "menu_item_flowchart_merge": {
+      "message": "Diagrama de flux: combina"
+   },
+   "menu_item_flowchart_multidocument": {
+      "message": "Diagrama de flux: diversos documents"
+   },
+   "menu_item_flowchart_off_page_connector": {
+      "message": "Diagrama de flux: connector fora de pàgina"
+   },
+   "menu_item_flowchart_or": {
+      "message": "Diagrama de flux: o"
+   },
+   "menu_item_flowchart_predefined_process": {
+      "message": "Diagrama de flux: procés predefinit"
+   },
+   "menu_item_flowchart_preparation": {
+      "message": "Diagrama de flux: preparació"
+   },
+   "menu_item_flowchart_process": {
+      "message": "Diagrama de flux: procés"
+   },
+   "menu_item_flowchart_punched_tape": {
+      "message": "Diagrama de flux: cinta perforada"
+   },
+   "menu_item_flowchart_sequential_access_storage": {
+      "message": "Diagrama de flux: emmagatzematge d'accés seqüencial"
+   },
+   "menu_item_flowchart_sort": {
+      "message": "Diagrama de flux: ordena"
+   },
+   "menu_item_flowchart_stored_data": {
+      "message": "Diagrama de flux: dades emmagatzemades"
+   },
+   "menu_item_flowchart_summing_junction": {
+      "message": "Diagrama de flux: i"
+   },
+   "menu_item_flowchart_terminator": {
+      "message": "Diagrama de flux: finalitzador"
+   },
+   "menu_item_folded_corner": {
+      "message": "Extrem plegat"
+   },
+   "menu_item_frame": {
+      "message": "Marc"
+   },
+   "menu_item_half_frame": {
+      "message": "Mig marc"
+   },
+   "menu_item_heart": {
+      "message": "Cor"
+   },
+   "menu_item_help_center": {
+      "message": "Centre d'ajuda"
+   },
+   "menu_item_heptagon": {
+      "message": "Heptàgon"
+   },
+   "menu_item_hexagon": {
+      "message": "Hexàgon"
+   },
+   "menu_item_hideslide": {
+      "message": "Amaga la diapositiva"
+   },
+   "menu_item_insert_column": {
+      "message": "Columna"
+   },
+   "menu_item_insert_image": {
+      "message": "Imatge"
+   },
+   "menu_item_insert_row": {
+      "message": "Fila"
+   },
+   "menu_item_insert_text_box": {
+      "message": "Quadre de text"
+   },
+   "menu_item_insertslide": {
+      "message": "Diapositiva nova"
+   },
+   "menu_item_italic": {
+      "message": "Cursiva"
+   },
+   "menu_item_keyboard_shortcuts": {
+      "message": "Tecles de drecera"
+   },
+   "menu_item_l_shape": {
+      "message": "Forma de L"
+   },
+   "menu_item_left_arrow": {
+      "message": "Fletxa a l'esquerra"
+   },
+   "menu_item_left_arrow_callout": {
+      "message": "Crida de fletxa a l'esquerra"
+   },
+   "menu_item_left_brace": {
+      "message": "Clau d'obertura"
+   },
+   "menu_item_left_bracket": {
+      "message": "Claudàtor d'obertura"
+   },
+   "menu_item_left_right_arrow": {
+      "message": "Fletxa a l'esquerra i a la dreta"
+   },
+   "menu_item_left_right_arrow_callout": {
+      "message": "Crida de fletxa a l'esquerra i a la dreta"
+   },
+   "menu_item_left_right_up_arrow": {
+      "message": "Fletxa a l'esquerra, a la dreta i cap amunt"
+   },
+   "menu_item_left_up_arrow": {
+      "message": "Fletxa a l'esquerra i cap amunt"
+   },
+   "menu_item_lightning_bolt": {
+      "message": "Llamp"
+   },
+   "menu_item_make_a_copy": {
+      "message": "Fes una còpia…"
+   },
+   "menu_item_merge_all": {
+      "message": "Combina-ho tot"
+   },
+   "menu_item_merge_cells": {
+      "message": "Combina les cel·les"
+   },
+   "menu_item_merge_horizontally": {
+      "message": "Combina en horitzontal"
+   },
+   "menu_item_merge_vertically": {
+      "message": "Combina en vertical"
+   },
+   "menu_item_minus": {
+      "message": "Menys"
+   },
+   "menu_item_moon": {
+      "message": "Lluna"
+   },
+   "menu_item_moveslidedown": {
+      "message": "Mou la diapositiva avall"
+   },
+   "menu_item_moveslidetoend": {
+      "message": "Mou la diapositiva al final"
+   },
+   "menu_item_moveslidetostart": {
+      "message": "Mou la diapositiva al començament"
+   },
+   "menu_item_moveslideup": {
+      "message": "Mou la diapositiva amunt"
+   },
+   "menu_item_multiply": {
+      "message": "Multiplica"
+   },
+   "menu_item_new": {
+      "message": "Nou"
+   },
+   "menu_item_no_symbol": {
+      "message": "Cap símbol"
+   },
+   "menu_item_not_equal": {
+      "message": "No és igual"
+   },
+   "menu_item_notched_right_arrow": {
+      "message": "Fletxa a la dreta oscada"
+   },
+   "menu_item_number_format": {
+      "message": "Format de número"
+   },
+   "menu_item_number_menu": {
+      "message": "Número"
+   },
+   "menu_item_numbering": {
+      "message": "$1 ($2 en total)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "menu_item_octagon": {
+      "message": "Octàgon"
+   },
+   "menu_item_open": {
+      "message": "Obre"
+   },
+   "menu_item_oval": {
+      "message": "Oval"
+   },
+   "menu_item_oval_callout": {
+      "message": "Crida oval"
+   },
+   "menu_item_parallelogram": {
+      "message": "Paral·lelogram"
+   },
+   "menu_item_paste": {
+      "message": "Enganxa"
+   },
+   "menu_item_pentagon": {
+      "message": "Pentàgon"
+   },
+   "menu_item_pie": {
+      "message": "Circular"
+   },
+   "menu_item_plaque": {
+      "message": "Placa"
+   },
+   "menu_item_plus": {
+      "message": "Més"
+   },
+   "menu_item_present": {
+      "message": "Present"
+   },
+   "menu_item_print": {
+      "message": "Imprimeix"
+   },
+   "menu_item_quad_arrow": {
+      "message": "Fletxa quàdruple"
+   },
+   "menu_item_quad_arrow_callout": {
+      "message": "Crida de fletxa quàdruple"
+   },
+   "menu_item_rectangle": {
+      "message": "Rectangle"
+   },
+   "menu_item_rectangular_callout": {
+      "message": "Crida rectangular"
+   },
+   "menu_item_redo": {
+      "message": "Refés"
+   },
+   "menu_item_regular_pentagon": {
+      "message": "Pentàgon regular"
+   },
+   "menu_item_report_abuse": {
+      "message": "Informa d'un ús abusiu"
+   },
+   "menu_item_report_issue": {
+      "message": "Informeu d'un problema"
+   },
+   "menu_item_right_arrow": {
+      "message": "Fletxa a la dreta"
+   },
+   "menu_item_right_arrow_callout": {
+      "message": "Crida de fletxa a la dreta"
+   },
+   "menu_item_right_brace": {
+      "message": "Clau de tancament"
+   },
+   "menu_item_right_bracket": {
+      "message": "Claudàtor de tancament"
+   },
+   "menu_item_right_triangle": {
+      "message": "Triangle rectangle"
+   },
+   "menu_item_round_diagonal_corner_rectangle": {
+      "message": "Rectangle d'extrem diagonal rodó"
+   },
+   "menu_item_round_same_side_corner_rectangle": {
+      "message": "Rectangle d'extrem lateral igual rodó"
+   },
+   "menu_item_round_single_corner_rectangle": {
+      "message": "Rectangle d'extrem únic rodó"
+   },
+   "menu_item_rounded_rectangle": {
+      "message": "Rectangle arrodonit"
+   },
+   "menu_item_rounded_rectangular_callout": {
+      "message": "Crida rectangular rodona"
+   },
+   "menu_item_save": {
+      "message": "Desa"
+   },
+   "menu_item_save_as": {
+      "message": "Anomena i desa…"
+   },
+   "menu_item_shapes": {
+      "message": "Formes"
+   },
+   "menu_item_share": {
+      "message": "Comparteix"
+   },
+   "menu_item_smiley_face": {
+      "message": "Cara somrient"
+   },
+   "menu_item_snip_and_round_single_corner_rectangle": {
+      "message": "Rectangle d'extrem únic retallat i rodó"
+   },
+   "menu_item_snip_diagonal_corner_rectangle": {
+      "message": "Rectangle d'extrem diagonal retallat"
+   },
+   "menu_item_snip_same_side_corner_rectangle": {
+      "message": "Rectangle d'extrem lateral igual retallat"
+   },
+   "menu_item_snip_single_corner_rectangle": {
+      "message": "Rectangle d'extrem únic retallat"
+   },
+   "menu_item_strikethrough": {
+      "message": "Ratllat"
+   },
+   "menu_item_striped_right_arrow": {
+      "message": "Fletxa a la dreta ratllada"
+   },
+   "menu_item_subscript": {
+      "message": "Subíndex"
+   },
+   "menu_item_sun": {
+      "message": "Sol"
+   },
+   "menu_item_superscript": {
+      "message": "Superíndex"
+   },
+   "menu_item_teardrop": {
+      "message": "Llàgrima"
+   },
+   "menu_item_trapezoid": {
+      "message": "Trapezoide"
+   },
+   "menu_item_triangle": {
+      "message": "Triangle"
+   },
+   "menu_item_u_turn_arrow": {
+      "message": "Fletxa en U"
+   },
+   "menu_item_underline": {
+      "message": "Subratlla"
+   },
+   "menu_item_undo": {
+      "message": "Desfés"
+   },
+   "menu_item_unhideslide": {
+      "message": "Deixa d'amagar la diapositiva"
+   },
+   "menu_item_unmerge": {
+      "message": "Separa"
+   },
+   "menu_item_up_arrow": {
+      "message": "Fletxa amunt"
+   },
+   "menu_item_up_arrow_callout": {
+      "message": "Crida de fletxa cap amunt"
+   },
+   "menu_item_up_down_arrow": {
+      "message": "Fletxa cap amunt i cap avall"
+   },
+   "menu_item_version_info": {
+      "message": "Informació de la versió"
+   },
+   "menu_item_word_count": {
+      "message": "Recompte de paraules"
+   },
+   "menu_item_wrap_text": {
+      "message": "Ajusta el text"
+   },
+   "menu_item_zoom_in": {
+      "message": "Amplia"
+   },
+   "menu_item_zoom_out": {
+      "message": "Redueix"
+   },
+   "merge_all_aria_spoken_word": {
+      "message": "combina-ho tot"
+   },
+   "merge_aria_spoken_word": {
+      "message": "combina"
+   },
+   "merge_dropdown_aria_spoken_word": {
+      "message": "menú desplegable de combinació"
+   },
+   "merge_horizontally_aria_spoken_word": {
+      "message": "combina en horitzontal"
+   },
+   "merge_vertically_aria_spoken_word": {
+      "message": "combina en vertical"
+   },
+   "modify_shape_transform_error_msg": {
+      "message": "S'ha produït un error en modificar les transformacions de forma."
+   },
+   "modify_shape_transform_error_short_msg": {
+      "message": "S'ha produït un error en modificar les transformacions de forma"
+   },
+   "modifyshapefillcolor_aria_spoken_word": {
+      "message": "llista desplegable de color d'emplenament de forma"
+   },
+   "modifyshapeoutlinecolor_aria_spoken_word": {
+      "message": "llista desplegable de color de contorn de forma"
+   },
+   "modifyshapeoutlinestyle_aria_spoken_word": {
+      "message": "llista desplegable d'estil de contorn de forma"
+   },
+   "modifyshapeoutlinewidth_aria_spoken_word": {
+      "message": "llista desplegable de gruix de contorn de forma"
+   },
+   "nacl_load_error_details": {
+      "message": "Proveu de tornar a instal·lar l'extensió."
+   },
+   "nacl_load_error_title": {
+      "message": "S'ha produït un problema en carregar l'aplicació."
+   },
+   "non_permissible_sheet_name_details": {
+      "message": "Els caràcters següents no estan permesos: * ? [ ] ' ; :. La longitud del nom del full no pot superar els 31 caràcters. El nom del full no es pot deixar en blanc."
+   },
+   "non_permissible_sheet_name_title": {
+      "message": "Heu introduït un nom no vàlid quan canviàveu el nom d'un full."
+   },
+   "not_pressed": {
+      "message": "No està premut"
+   },
+   "notselected": {
+      "message": "No està seleccionat"
+   },
+   "number_format_label_currency_symbol": {
+      "message": "Símbol de moneda"
+   },
+   "number_format_label_date_type": {
+      "message": "Tipus"
+   },
+   "number_format_label_decimal_places": {
+      "message": "Posicions decimals"
+   },
+   "number_format_label_general": {
+      "message": "General"
+   },
+   "number_format_label_negative_numbers": {
+      "message": "Números negatius"
+   },
+   "number_format_label_other": {
+      "message": "Altres"
+   },
+   "number_format_label_red": {
+      "message": "Vermell"
+   },
+   "number_format_label_text": {
+      "message": "Text"
+   },
+   "number_format_label_use_1000_separator": {
+      "message": "Utilitza el separador de milers"
+   },
+   "number_format_tab_accounting": {
+      "message": "Comptabilitat"
+   },
+   "number_format_tab_currency": {
+      "message": "Moneda"
+   },
+   "number_format_tab_date_time": {
+      "message": "Data i hora"
+   },
+   "number_format_tab_general": {
+      "message": "General"
+   },
+   "number_format_tab_number": {
+      "message": "Número"
+   },
+   "number_format_tab_percentage": {
+      "message": "Percentatge"
+   },
+   "number_format_tab_scientific": {
+      "message": "Científic"
+   },
+   "number_format_title": {
+      "message": "Formats de número"
+   },
+   "ocm_promo_conversion_shortmsg": {
+      "message": "Esteu en el mode de compatibilitat d'Office."
+   },
+   "office_compatibility_mode": {
+      "message": "Mode de compatibilitat amb Office"
+   },
+   "office_first_time_confirm": {
+      "message": "Entesos"
+   },
+   "office_first_time_message_p1": {
+      "message": "Ara podeu editar fitxers de Word, Excel i PowerPoint des de la vostra unitat de disc dur, Google Drive, Gmail i altres productes mitjançant Documents, Fulls de càlcul i Presentacions de Google."
+   },
+   "office_first_time_message_p2": {
+      "message": "Tots els canvis es desen automàticament i també podeu desar el document amb el format original en qualsevol moment."
+   },
+   "office_first_time_title": {
+      "message": "Edició d'Office per a Documents, Fulls de càlcul i Presentacions de Google"
+   },
+   "offline_error_msg": {
+      "message": "Sembla que estàs fora de línia. Comprova la connexió a Internet i torna-ho a provar. Si estàs en línia però l'error es continua mostrant, informa'ns del problema a continuació."
+   },
+   "offline_error_short_msg": {
+      "message": "No hem pogut obrir el fitxer que heu sol·licitat"
+   },
+   "option_key": {
+      "message": "Opció"
+   },
+   "out_of_memory_error_msg": {
+      "message": "Prova de tancar aquesta pestanya i després tornar a obrir el fitxer. O bé prova de tancar altres pestanyes que tinguis obertes al navegador. Si el problema continua, informa'n més avall."
+   },
+   "out_of_memory_error_short_msg": {
+      "message": "Ens hem quedat sense memòria."
+   },
+   "page_count_label": {
+      "message": "Pàgines"
+   },
+   "partial_cell_merge_error_msg": {
+      "message": "No es pot canviar part d'una cel·la combinada."
+   },
+   "partial_cell_merge_error_short_msg": {
+      "message": "Error"
+   },
+   "point_ocm_promo_conversion_msg": {
+      "message": "Podeu editar i desar fitxers d'Office directament a Presentacions de Google. Per convidar altres usuaris a editar els fitxers o a afegir-hi comentaris, deseu-los com a fitxers de Presentacions de Google. Podreu tornar-los a desar amb el format original en qualsevol moment."
+   },
+   "point_printing_warning_msg": {
+      "message": "Estem treballant per solucionar-ho."
+   },
+   "point_printing_warning_short_msg": {
+      "message": "Actualment només podeu imprimir la diapositiva que esteu visualitzant."
+   },
+   "point_share_promo_conversion_msg": {
+      "message": "Esteu provant de compartir la presentació? Per convidar altres usuaris a editar-la, convertiu-la en un fitxer de Presentacions de Google."
+   },
+   "pointtogglebullet_aria_spoken_word": {
+      "message": "llista de pics"
+   },
+   "pointtogglenumber_aria_spoken_word": {
+      "message": "llista numerada"
+   },
+   "present_button": {
+      "message": "Present"
+   },
+   "pressed": {
+      "message": "Premut"
+   },
+   "print_aria_spoken_word": {
+      "message": "imprimeix"
+   },
+   "qowt_doc_mismatch_text": {
+      "message": "S'ha produït un error al document durant la formatació.\n\nTorneu a carregar la pàgina per recuperar els canvis."
+   },
+   "qowt_doc_mismatch_title": {
+      "message": "Vaja!"
+   },
+   "qowt_hyperlink_activate_short_key": {
+      "message": "Premeu Alt+Retorn per activar l'enllaç."
+   },
+   "qowt_hyperlink_dialog": {
+      "message": "Enllaç"
+   },
+   "qowt_hyperlink_dialog_message_text": {
+      "message": "Ves a l'enllaç:"
+   },
+   "qowt_modal_confirm_dialog_affirmative_button": {
+      "message": "D'acord"
+   },
+   "qowt_modal_confirm_dialog_negative_button": {
+      "message": "Cancel·la"
+   },
+   "qowt_modal_dialog_close_button": {
+      "message": "Tanca"
+   },
+   "qowt_modal_dialog_coming_soon_title": {
+      "message": "Disponible aviat!"
+   },
+   "qowt_modal_dialog_link_text": {
+      "message": "Més informació"
+   },
+   "qowt_modal_dialog_ok_button": {
+      "message": "D'acord"
+   },
+   "qowt_modal_dialog_reload_button": {
+      "message": "Torna a carregar"
+   },
+   "qowt_modal_dialog_textbox_editing_description": {
+      "message": "No permetem editar el text inclòs en quadres de text."
+   },
+   "qowt_modal_dialog_textbox_editing_link": {
+      "message": "Esmeneu-ho"
+   },
+   "qowt_modal_info_dialog_affirmative_button": {
+      "message": "D'acord"
+   },
+   "qowt_modal_multi_choice_remember_choice": {
+      "message": "Recorda la meva tria"
+   },
+   "qowt_modal_query_dialog_affirmative_button": {
+      "message": "Sí"
+   },
+   "qowt_modal_query_dialog_negative_button": {
+      "message": "No"
+   },
+   "qowt_modal_query_dialog_reload_button": {
+      "message": "Torna a carregar"
+   },
+   "qowt_modal_single_choice_remember_choice": {
+      "message": "No m'ho tornis a recordar"
+   },
+   "read_only": {
+      "message": "Només de lectura"
+   },
+   "redo_aria_spoken_word": {
+      "message": "refés"
+   },
+   "right_pointed_submenu": {
+      "message": "Punter dret amb submenú"
+   },
+   "save_aria_spoken_word": {
+      "message": "desa"
+   },
+   "save_now": {
+      "message": "Desa ara"
+   },
+   "security_error_msg": {
+      "message": "Si l'error continua, informa del problema a continuació."
+   },
+   "security_error_short_msg": {
+      "message": "No hem pogut obrir el fitxer que heu sol·licitat. En aquest moment, no podem obrir fitxers en mode d'incògnit. Obriu el fitxer en un mode que no sigui d'incògnit."
+   },
+   "selected": {
+      "message": "Seleccionat"
+   },
+   "set_sheet_info_error_msg": {
+      "message": "S'ha produït un error en modificar el nom del full."
+   },
+   "share_button": {
+      "message": "Comparteix"
+   },
+   "share_promo_conversion_shortmsg": {
+      "message": "Edita amb altres usuaris"
+   },
+   "sheet_delete_column_error_msg": {
+      "message": "S'ha produït un error en suprimir la columna. Torneu-ho a provar."
+   },
+   "sheet_delete_row_error_msg": {
+      "message": "S'ha produït un error en suprimir la fila. Torneu-ho a provar."
+   },
+   "sheet_format_cells_error_msg": {
+      "message": "S'ha produït un error de format. Torneu-ho a provar més tard."
+   },
+   "sheet_insert_column_error_msg": {
+      "message": "S'ha produït un error en inserir la columna. Torneu-ho a provar."
+   },
+   "sheet_insert_column_exceed_error_msg": {
+      "message": "Malauradament, no podeu inserir més columnes en aquest full de càlcul; no n'hi pot haver més de 256."
+   },
+   "sheet_insert_column_exceed_error_short_msg": {
+      "message": "Error"
+   },
+   "sheet_insert_row_error_msg": {
+      "message": "S'ha produït un error en inserir la fila. Torneu-ho a provar."
+   },
+   "sheet_insert_row_exceed_error_msg": {
+      "message": "Malauradament, no podeu inserir més files en aquest full de càlcul; no n'hi pot haver més de 65.536."
+   },
+   "sheet_insert_row_exceed_error_short_msg": {
+      "message": "Error"
+   },
+   "sheet_ocm_promo_conversion_msg": {
+      "message": "Podeu editar i desar fitxers d'Office directament a Fulls de càlcul de Google. Per convidar altres usuaris a editar els fitxers o a afegir-hi comentaris, deseu-los com a fitxers de Fulls de càlcul de Google. Podreu tornar-los a desar amb el format original en qualsevol moment."
+   },
+   "sheet_set_cell_content_invalid_error_msg": {
+      "message": "S'ha produït un error en la fórmula que heu introduït. Corregiu l'error."
+   },
+   "sheet_share_promo_conversion_msg": {
+      "message": "Esteu provant de compartir el full de càlcul? Per convidar altres usuaris a editar-lo, convertiu-lo en un fitxer de Fulls de càlcul de Google."
+   },
+   "sheet_sort_error_title": {
+      "message": "S'ha produït un error en ordenar aquest interval de cel·les."
+   },
+   "sheet_sort_failure_msg": {
+      "message": "S'ha produït un error en ordenar aquest interval de cel·les."
+   },
+   "sheet_sort_merged_cell_error": {
+      "message": "No podeu ordenar cel·les que s'han combinat."
+   },
+   "sheet_sort_merged_cell_error_title": {
+      "message": "S'ha produït un error en ordenar aquest interval de cel·les."
+   },
+   "sheet_sort_one_cell_error": {
+      "message": "Seleccioneu més d'una cel·la per ordenar."
+   },
+   "sheet_sort_one_cell_error_title": {
+      "message": "S'ha produït un error en ordenar aquest interval de cel·les."
+   },
+   "shift_key": {
+      "message": "Maj"
+   },
+   "shortcut": {
+      "message": "Drecera $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sign_in": {
+      "message": "Inicia la sessió"
+   },
+   "slash_key": {
+      "message": "Barra inclinada"
+   },
+   "something_not_right": {
+      "message": "S'ha produït un error"
+   },
+   "storage_quota_exceed_error_msg": {
+      "message": "Tanqueu tots els documents d'Office oberts a Chrome i torneu-ho a provar. Si el problema continua, informeu-ne a continuació."
+   },
+   "storage_quota_exceed_error_short_msg": {
+      "message": "No s'ha pogut obrir el fitxer."
+   },
+   "strikethrough_aria_spoken_word": {
+      "message": "ratllat"
+   },
+   "style_aria_spoken_word": {
+      "message": "llista desplegable d'estil"
+   },
+   "submenu_spoken_text": {
+      "message": "$1 $2 $3 $4",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         }
+      }
+   },
+   "temporary_unable_to_open_error_msg": {
+      "message": "Torneu-ho a provar més tard o, si el problema continua, informeu-ne a continuació."
+   },
+   "temporary_unable_to_open_error_short_msg": {
+      "message": "En aquest moment no podem obrir el fitxer."
+   },
+   "textaligncenter_aria_spoken_word": {
+      "message": "alineació de text al centre"
+   },
+   "textalignjustify_aria_spoken_word": {
+      "message": "alineació de text justificada"
+   },
+   "textalignleft_aria_spoken_word": {
+      "message": "alineació de text a l'esquerra"
+   },
+   "textalignright_aria_spoken_word": {
+      "message": "alineació de text a la dreta"
+   },
+   "textcolor_aria_spoken_word": {
+      "message": "llista desplegable de color del text"
+   },
+   "textual_edit_error_msg": {
+      "message": "S'ha produït un error al document durant la formatació.\n\nTorneu a carregar la pàgina per recuperar els canvis."
+   },
+   "textual_edit_error_short_msg": {
+      "message": "Vaja!"
+   },
+   "title_error_msg_for_merge_cells": {
+      "message": "S'ha produït un problema"
+   },
+   "title_msg_merging_multiple_cells_with_text": {
+      "message": "Advertiment"
+   },
+   "togglebulleted_aria_spoken_word": {
+      "message": "llista de pics"
+   },
+   "togglenumbered_aria_spoken_word": {
+      "message": "llista numerada"
+   },
+   "togglezoom_aria_spoken_word": {
+      "message": "zoom activat o desactivat"
+   },
+   "tooltip_background_color": {
+      "message": "Color d'emplenament"
+   },
+   "tooltip_bold": {
+      "message": "Negreta"
+   },
+   "tooltip_border": {
+      "message": "Vores"
+   },
+   "tooltip_border_all": {
+      "message": "Totes les vores"
+   },
+   "tooltip_border_bottom": {
+      "message": "Vores inferiors"
+   },
+   "tooltip_border_horizontal": {
+      "message": "Vores horitzontals"
+   },
+   "tooltip_border_inner": {
+      "message": "Vores interiors"
+   },
+   "tooltip_border_left": {
+      "message": "Vores a l'esquerra"
+   },
+   "tooltip_border_none": {
+      "message": "Cap vora"
+   },
+   "tooltip_border_outer": {
+      "message": "Vores exteriors"
+   },
+   "tooltip_border_right": {
+      "message": "Vores a la dreta"
+   },
+   "tooltip_border_top": {
+      "message": "Vores superiors"
+   },
+   "tooltip_border_vertical": {
+      "message": "Vores verticals"
+   },
+   "tooltip_cell_align": {
+      "message": "Alineació de les cel·les"
+   },
+   "tooltip_cell_h_align_center": {
+      "message": "Al centre en horitzontal"
+   },
+   "tooltip_cell_h_align_left": {
+      "message": "A l'esquerra en horitzontal"
+   },
+   "tooltip_cell_h_align_right": {
+      "message": "A la dreta en horitzontal"
+   },
+   "tooltip_cell_v_align_bottom": {
+      "message": "Inferior en vertical"
+   },
+   "tooltip_cell_v_align_center": {
+      "message": "Al centre en vertical"
+   },
+   "tooltip_cell_v_align_top": {
+      "message": "Superior en vertical"
+   },
+   "tooltip_download": {
+      "message": "Baixa"
+   },
+   "tooltip_dropdown_init_add_shape": {
+      "message": "Forma"
+   },
+   "tooltip_fill_color": {
+      "message": "Color del text"
+   },
+   "tooltip_font_face": {
+      "message": "Tipus de lletra"
+   },
+   "tooltip_font_size": {
+      "message": "Cos de lletra"
+   },
+   "tooltip_highlight_color": {
+      "message": "Color de marcatge"
+   },
+   "tooltip_init_add_shape": {
+      "message": "Quadre de text"
+   },
+   "tooltip_italic": {
+      "message": "Cursiva"
+   },
+   "tooltip_merge": {
+      "message": "Combina les cel·les"
+   },
+   "tooltip_merge_dropdown": {
+      "message": "Selecciona el tipus de combinació…"
+   },
+   "tooltip_modify_shape_fill_color": {
+      "message": "Color d'emplenament"
+   },
+   "tooltip_modify_shape_outline_color": {
+      "message": "Color de línia"
+   },
+   "tooltip_modify_shape_outline_style": {
+      "message": "Línia discontínua"
+   },
+   "tooltip_modify_shape_outline_width": {
+      "message": "Gruix de línia"
+   },
+   "tooltip_move_slide": {
+      "message": "Diapositives que es mouran: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "tooltip_point": {
+      "message": "Inici de Presentacions"
+   },
+   "tooltip_point_toggle_bullet": {
+      "message": "Llista de pics"
+   },
+   "tooltip_point_toggle_number": {
+      "message": "Llista numerada"
+   },
+   "tooltip_presentation": {
+      "message": "Presentació"
+   },
+   "tooltip_print": {
+      "message": "Imprimeix"
+   },
+   "tooltip_redo": {
+      "message": "Refés"
+   },
+   "tooltip_share": {
+      "message": "Comparteix"
+   },
+   "tooltip_share_for_macroenabledfiles": {
+      "message": "Els fitxers amb macros habilitades només es poden compartir des de Google Drive"
+   },
+   "tooltip_sheet": {
+      "message": "Inici de Fulls de càlcul"
+   },
+   "tooltip_strikethrough": {
+      "message": "Ratllat"
+   },
+   "tooltip_style": {
+      "message": "Estils"
+   },
+   "tooltip_text_align_center": {
+      "message": "Centra"
+   },
+   "tooltip_text_align_justify": {
+      "message": "Justifica"
+   },
+   "tooltip_text_align_left": {
+      "message": "Alinea a l'esquerra"
+   },
+   "tooltip_text_align_right": {
+      "message": "Alinea a la dreta"
+   },
+   "tooltip_text_color": {
+      "message": "Color del text"
+   },
+   "tooltip_toggle_bulleted": {
+      "message": "Llista de pics"
+   },
+   "tooltip_toggle_numbered": {
+      "message": "Llista numerada"
+   },
+   "tooltip_toggle_zoom": {
+      "message": "Activa o desactiva el zoom"
+   },
+   "tooltip_underline": {
+      "message": "Subratlla"
+   },
+   "tooltip_undo": {
+      "message": "Desfés"
+   },
+   "tooltip_word": {
+      "message": "Inici de Documents"
+   },
+   "tooltip_wrap_text": {
+      "message": "Ajusta el text"
+   },
+   "tooltip_zoom_in": {
+      "message": "Apropa"
+   },
+   "tooltip_zoom_out": {
+      "message": "Allunya"
+   },
+   "try_again": {
+      "message": "Torna a provar"
+   },
+   "unable_to_execute_msg": {
+      "message": "No es pot obrir aquest document."
+   },
+   "underline_aria_spoken_word": {
+      "message": "subratlla"
+   },
+   "undo_aria_spoken_word": {
+      "message": "desfés"
+   },
+   "unmerge_aria_spoken_word": {
+      "message": "separa"
+   },
+   "unsaved_changes": {
+      "message": "Hi ha canvis no desats"
+   },
+   "unsaved_changes_warning": {
+      "message": "Teniu canvis no desats en aquest fitxer. Si sortiu d'aquesta pàgina sense desar la vostra feina, es perdrà definitivament."
+   },
+   "unsupported_file_format_error_details_p1": {
+      "message": "Aquest fitxer inclou contingut de Microsoft® Office 95 o d'una versió anterior i no podem obrir-lo."
+   },
+   "unsupported_file_format_error_details_p2": {
+      "message": "Si voleu convertir el fitxer a format de Documents de Google, feu clic a l'enllaç següent."
+   },
+   "unsupported_file_format_error_title": {
+      "message": "Vaja!"
+   },
+   "unsupported_link_message": {
+      "message": "En aquest moment no admetem els URL d'aquest tipus."
+   },
+   "up_key": {
+      "message": "Amunt"
+   },
+   "updated_shortcut_message": {
+      "message": "Hem actualitzat les tecles de drecera perquè siguin les mateixes en tots els productes de Documents de Google. Dona una ullada a l'ajuda per veure-les."
+   },
+   "updated_shortcut_title": {
+      "message": "Tecles de drecera actualitzades"
+   },
+   "version_info_msg": {
+      "message": "La vostra versió del mode de compatibilitat amb Office és"
+   },
+   "word_binary_upsave_learnmore": {
+      "message": "Més informació"
+   },
+   "word_binary_upsave_msg": {
+      "message": "El fitxer està en un format que no s'admet. Per desar-lo, cal que ens doneu permís per convertir-lo a un format més recent. Això no afectarà el fitxer original."
+   },
+   "word_binary_upsave_shortmsg": {
+      "message": "Actualitza el document"
+   },
+   "word_count_label": {
+      "message": "Paraules"
+   },
+   "word_count_title": {
+      "message": "Recompte de paraules"
+   },
+   "word_ocm_promo_conversion_msg": {
+      "message": "Podeu editar i desar fitxers d'Office directament a Documents de Google. Per convidar altres usuaris a editar els fitxers o a afegir-hi comentaris, deseu-los com a fitxers de Documents de Google. Podreu tornar-los a desar amb el format original en qualsevol moment."
+   },
+   "word_share_promo_conversion_msg": {
+      "message": "Esteu provant de compartir el document? Per convidar altres usuaris a editar-lo, convertiu-lo en un fitxer de Documents de Google."
+   },
+   "wraptext_aria_spoken_word": {
+      "message": "ajusta el text"
+   },
+   "zoomin_aria_spoken_word": {
+      "message": "amplia"
+   },
+   "zoomout_aria_spoken_word": {
+      "message": "redueix"
+   }
+}

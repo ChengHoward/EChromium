@@ -1,0 +1,85 @@
+#qowt-sheet-workbook div.qowt-sheet-selector {
+  height: 27px;
+  z-index: 100;
+}
+
+#qowt-sheet-workbook .qowt-sheet-selector {
+  position: absolute;
+  bottom: 0;
+  height: 50px;
+  background: #ebf3da;
+  width: 100%;
+}
+
+#qowt-sheet-workbook .qowt-sheet-selector .qowt-sheet-selector-wrapper {
+  overflow: auto;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+#qowt-sheet-workbook .qowt-sheet-selector.scroll-active {
+  display: -webkit-box;
+  -webkit-box-orient: horizontal;
+}
+
+#qowt-sheet-workbook .qowt-sheet-selector.scroll-active .qowt-sheet-selector-wrapper {
+  -webkit-box-flex: 1;
+}
+
+#qowt-sheet-workbook .qowt-sheet-selector div.qowt-sheet-scroll-btn-container {
+  background: transparent;
+  color: #000;
+  display: -webkit-box;
+  font-size: 1em;
+  height: 27px;
+  -webkit-box-orient: horizontal;
+}
+
+#qowt-sheet-workbook .qowt-sheet-selector .qowt-sheet-scroll-btn {
+  cursor: pointer;
+  background: -webkit-gradient(linear, 0% 100%, 0% 0%, from(#d6d6d6), to(#fefefe));
+  border: 1px solid #adadad;
+  display: -webkit-box;
+  text-align: center;
+  width: 30px;
+  -webkit-box-flex: 1;
+  -webkit-box-orient: vertical;
+  -webkit-box-pack: center;
+}
+
+#qowt-sheet-workbook .qowt-sheet-selector .qowt-sheet-scroll-btn:hover {
+  cursor: pointer;
+  background: -webkit-gradient(linear, 0% 100%, 0% 0%, from(#bababa), to(#ddd));
+}
+
+#qowt-sheet-workbook .qowt-sheet-selector .qowt-sheet-scroll-btn:active {
+  cursor: pointer;
+  background: -webkit-gradient(linear, 0% 100%, 0% 0%, from(#7e7e7e), to(#959595));
+}
+
+#qowt-sheet-workbook .qowt-sheet-selector .qowt-sheet-selector-shim {
+  cursor: -webkit-grabbing;
+  display: none;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+}
+
+/**
+* When dragging is activated
+*/
+#qowt-sheet-workbook .qowt-sheet-selector-wrapper-active .qowt-sheet-selector-shim {
+  background: rgba(10, 10, 56, 0.05);
+  display: block;
+}
+
+#qowt-sheet-workbook .qowt-sheet-selector-inactive .qowt-sheet-label,
+#qowt-sheet-workbook .qowt-sheet-selector-inactive .qowt-sheet-label:hover {
+  background: #d3edd3;
+  border-bottom: 1px solid grey;
+  color: gray;
+  text-shadow: none;
+}

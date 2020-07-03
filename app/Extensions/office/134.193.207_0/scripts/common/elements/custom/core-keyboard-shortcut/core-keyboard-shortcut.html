@@ -1,0 +1,344 @@
+<!--
+`<core-keyboard-shortcut>` allows you to declare a keyboard shortcut filter.
+The filter listens to key events and compares them against the declared
+shortcut. On a match the key event is consumed and an event is fired.
+
+You would add a `<core-keyboard-shortcut>` as a child of an element you wanted
+to activate on that shortcut. That parent element would listen on
+`keyboard-shortcut`.
+
+Example 1: A keyboard shortcut declaration. It has a readable label by default
+showing generated shortcut text.
+
+    <core-menu-button name="file-menu" label="File">
+      <core-keyboard-shortcut keycombo="ALT+F" keycombo-osx="CTRL+ALT+F">
+      </core-keyboard-label>
+    </core-menu-button>
+
+The shortcut definition is provided via `keycombo` and `keycomboXX` attributes.
+To specify the key combination provide a string consisting of one or more
+key modifiers and the relevant key itself, each separated by a `+` symbol.
+
+Supported modifiers are 'shift', 'alt', 'cmd', 'ctrl'.
+
+The key itself can be specified as the character directly, or as a #nnn number
+denoting the desired key code.
+
+Supported ways to declare a shortcut key combination:
+
+    'CMD+B'
+    'CTRL+ALT+SHIF+4'
+    'ALT+#37'
+
+Example 2: Add a shortcut element wihtout a generated text label.
+
+    <core-item name="bold-menu-item" label="Bold">
+      <core-keyboard-shortcut keycombo="CTRL+B">
+      </core-keyboard-shortcut>
+    </core-item>
+
+In this example the `showShortcut` attribute is not defined. This generates a
+text label describing the actual key sequence required to activate the linked
+action.
+
+Minimally you should define one key sequence that matches the same sequence on
+all OS platforms. Provide the `keycombo` attribute for this.
+
+    <core-keyboard-shortcut keycombo="CTRL+B">
+    </core-keyboard-shortcut>
+
+To specify a platform-specific shortcut key sequence provide the relevant
+attributes. (Note you only need to provide platform-specific shortcuts where
+they differ from the default `keycombo` sequence).
+
+    <core-keyboard-shortcut
+        keycombo="CTRL+B"
+        keycomboOsx="CMD+B"
+        keycomboWINDOWS="CTRL+B"
+        keycomboCROS="ALT+SHIFT+B"
+        keycomboLINUX="SHIFT+B"
+        keycomboUNIX="ALT+B">
+    </core-keyboard-shortcut>
+
+@group Polymer Core Elements
+@class core-keyboard-shortcut
+-->
+
+<!--
+Fired when a keypress is matched against this keyboard shortcut sequence.
+
+@event keyboard-shortcut
+-->
+
+<link rel="import" href="../../../../third_party/polymer/polymer.html"/>
+
+<link rel="import" href="../core-platform-info/core-platform-info.html">
+
+<dom-module id="core-keyboard-shortcut">
+
+  <template>
+    <template is="dom-if" if="{{showShortcut}}">
+      <span class="menuitem-accel">{{shortcutLabel}}</span>
+    </template>
+  </template>
+
+<script>
+(function() {
+  /**
+   * @private
+   * Provides platform-specific modifier key representations for the different
+   * supported modifier keys. Used in the formulation of the shortcut label.
+   */
+  var SHORTCUT_SYMBOLS = (window.__polymer_core_platform_info.isOsx) ? {
+    // Support the policy of OSX showing modfiers as glyphs rather than strings.
+    CTRL: '\u2303',
+    CMD: '\u2318',
+    ALT: 'Option',
+    SHIFT: '+Shift+',
+    '#9': '\u21E5', /* tab */
+    '#13': '\u23CE',
+    '#33': '\u21DE', /* page up */
+    '#34': '\u21DF', /* page down */
+    '#35': '\u21F2', /* end */
+    '#36': '\u21F1', /* home */
+    '#37': '\u2190',
+    '#38': '\u2191',
+    '#39': '\u2192',
+    '#40': '\u2193',
+    '#191': '\u002F'} : {
+
+    // For non OSX platforms the policy is to use string-based shortcut labels.
+    CTRL: 'Ctrl+',
+    CMD: 'Cmd+',
+    ALT: 'Alt+',
+    SHIFT: 'Shift+',
+    '#9': 'TAB',
+    '#13': 'RETURN',
+    '#33': 'PAGEUP',
+    '#34': 'PAGEDOWN',
+    '#35': 'END',
+    '#36': 'HOME',
+    '#37': '\u2190',
+    '#38': '\u2191',
+    '#39': '\u2192',
+    '#40': '\u2193',
+    '#191': '\u002F'};
+
+  /**
+   * @private
+   * The modifier keys we support for keyboard shortcuts.
+   * Note 'cmd' is the Apple Command key (metaKey). This sugar allows clients
+   * to write 'CMD+P' in preference to 'META+P'.
+   */
+  var MODIFIER_KEYS = ['shift', 'alt', 'cmd', 'ctrl'];
+
+  Polymer({
+    is: 'core-keyboard-shortcut',
+    properties: {
+      /**
+       * Generated string describing the shortcut key sequence. Shown in the UI.
+       * @type string
+       */
+      shortcutLabel:  {type: String, value: ''},
+
+      /**
+       * Conditionally creates a child span with a displayable version of the
+       * shortcut definition.  No such label will be created if not specified.
+       *
+       * @attribute showShortcut
+       * @type boolean
+       * @default false
+       * @see element's html attributes
+       */
+      showShortcut: {type: Boolean, value: false, relectToAttribute: true },
+
+      /**
+       * The default shortcut key sequence that will be used if no platform-
+       * specific sequence is declared. If you are happy to have a single
+       * sequence used on all platforms this is a more convenient way to specify
+       * your sequence.
+       *
+       * @attribute keycombo
+       * @type string
+       */
+      keycombo: {type: String, value: undefined},
+
+      /**
+       * The shortcut key sequence definition for Mac.
+       *
+       * @attribute keycomboOsx
+       * @type string
+       */
+      keycomboOsx: {type: String, value: undefined},
+
+      /**
+       * The shortcut key sequence definition for Windows.
+       *
+       * @attribute keycomboWINDOWS
+       * @type string
+       */
+      keycomboWINDOWS:  {type: String, value:undefined},
+
+      /**
+       * The shortcut key sequence definition for Linux.
+       *
+       * @attribute keycomboLINUX
+       * @type string
+       */
+      keycomboLINUX:  {type: String, value:undefined},
+
+      /**
+       * The shortcut key sequence definition for UNIX.
+       *
+       * @attribute keycomboUNIX
+       * @type string
+       */
+      keycomboUNIX: {type: String, value:undefined},
+
+      /**
+       * The shortcut key sequence definition for ChromeOS.
+       *
+       * @attribute keycomboCROS
+       * @type string
+       */
+      keycomboCROS:  {type: String, value:undefined}
+    },
+
+    /**
+     * The single best-fit shortcut for this platform from those given.
+     * @private
+     * @type string
+     */
+    platformShortcut_: '',
+
+    /**
+     * The literal character of the keycombo for 'CMD+P' type patterns,
+     * or -1 to indicate a non-printing character pattern eg "CMD#39" for
+     * 'right-arrow'
+     * @private
+     * @type string
+     */
+    keyChar_: undefined,
+
+    /**
+     * The keyCode of the keycombo for 'CMD+#39' type patterns, to support
+     * declaring keycombos for non-printing/non-ASCII values.
+     * @private
+     * @type integer
+     */
+    keyCode_: undefined,
+
+    created: function() {
+      this.keyListener = this.handleKey_.bind(this);
+    },
+
+    attached: function() {
+      this.async(function() {
+        // We want keyboard shortcuts to activate regardless of if menus are
+        // visisble and when there is no associated UI, so we listen on the
+        // document. All instances of <core-keyboard-shortcut> in the document
+        // will thus fire on all key presses.
+        document.addEventListener('keydown', this.keyListener);
+        this.updateShortcut_();
+      });
+    },
+
+    // Proprty-changed handlers support imperatively defined shortcuts in JS.
+    keycomboChanged: function() {
+      this.updateShortcut_();
+    },
+    keycomboOsxChanged: this.keycomboChanged,
+    keycomboWINDOWS: this.keycomboChanged,
+    keycomboLINUX: this.keycomboChanged,
+    keycomboUNIX: this.keycomboChanged,
+    keycomboCROS: this.keycomboChanged,
+
+    updateShortcut_ :  function() {
+      // Find the shortcut matching the underlying platform - it won't change.
+      var osCombo = 'keycombo' + window.__polymer_core_platform_info.name;
+      this.platformShortcut_ = this[osCombo] || this.keycombo || '';
+      this.platformShortcut_ =
+          this.platformShortcut_.replace(/\s+/g, '').toLowerCase();
+
+      // The last portion of the shortcut is the key, commonly a character.
+      this.keyChar_ = this.platformShortcut_.split('+').pop();
+      // but may be expressed as a keycode denoted by '#'
+      if(this.keyChar_.length > 1) {
+        if(this.keyChar_[0] === '#') {
+          // the config is a keycode eg, #39 is 'right-arrow'.
+          this.keyCode_ = parseInt(this.keyChar_.substring(1), 10);
+          this.keyChar_ = -1;
+        }
+      }
+      if (this.showShortcut) {
+        this.shortcutLabel = this.getShortcutLabel_(this.platformShortcut_);
+      }
+    },
+
+    /**
+     * @private
+     * @param {KeyboardEvent} evt
+     */
+    handleKey_: function(evt) {
+      if (this.process_(evt)) {
+        evt.preventDefault();
+        evt.stopPropagation();
+        this.fire('keyboard-shortcut', {item: this});
+      }
+    },
+
+    /**
+     * #private
+     * @param {KeyboardEvent} evt
+     * @return {Boolean} true if the key event matches this shortcut else false.
+     */
+    process_: function(evt) {
+      var matched = true;
+      for (var i = 0; i < MODIFIER_KEYS.length; i++) {
+        var modifier = MODIFIER_KEYS[i];
+        var modifierRequired = this.platformShortcut_.indexOf(modifier) !== -1;
+        var modifierKey = (modifier === 'cmd') ? 'metaKey' : modifier + 'Key';
+        var modifierPressed = evt[modifierKey];
+        if (modifierRequired !== modifierPressed) {
+          matched = false;
+          break;
+        }
+      }
+      // if we matched the modfiers check the actual key char.
+      if (matched) {
+        if (this.keyChar_ !== -1) {
+          var hotkey =
+              String.fromCharCode(evt.keyCode).toLowerCase();
+          matched = (hotkey === this.keyChar_);
+        } else {
+          matched = (evt.keyCode === this.keyCode_);
+        }
+      }
+      return matched;
+    },
+
+    /**
+     * @private
+     * @param {String} keycombon Describes a keyboard accelerator string.
+     * @return {String} Platform-dependant label for this shortcut string.
+     */
+    getShortcutLabel_: function(keycombo) {
+      var label = '';
+      if (keycombo) {
+        var keys = keycombo.toUpperCase().split('+');
+        keys.forEach(function(key) {
+          var symbol = SHORTCUT_SYMBOLS[key] || '';
+          if (symbol === '') {
+            symbol = key;
+          }
+          label += symbol;
+        }, this);
+      }
+    return label;
+    }
+  });
+})();
+</script>
+
+</dom-module>
+

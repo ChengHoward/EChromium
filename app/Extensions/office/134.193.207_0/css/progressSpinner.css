@@ -1,0 +1,49 @@
+.fader {
+  -webkit-transition: opacity 0.4s ease-in-out;
+}
+
+.viewer.progress-spinner-container {
+  position: fixed;
+  bottom: 30px;
+  left: 7px;
+  background: #1e2739;
+  width: 128px;
+  height: 56px;
+}
+.editor.progress-spinner-container {
+  position: relative;
+  margin: 0 auto;
+  height: 100%;
+  top: 0px;
+  width: 56px;
+}
+.progress-spinner-container {
+  position: fixed;
+  border-radius: 3px;
+}
+
+.viewer.progress-spinner-label {
+  display: inline-block;
+}
+.editor.progress-spinner-label {
+  display: none;
+}
+.progress-spinner-label {
+  display: inline-block;
+  color: white;
+  font-family: Arial, "Arial Unicode MS", Arimo, "Microsoft Sans serif", sans-serif;
+  font-size: 12pt;
+  font-weight: bold;
+}
+
+.editor.progress-spinner {
+  position: absolute;
+  top: 35%;
+}
+.progress-spinner {
+  display: inline-block;
+  margin: 5px;
+  width: 45px;
+  height: 45px;
+  vertical-align: -22px;
+}

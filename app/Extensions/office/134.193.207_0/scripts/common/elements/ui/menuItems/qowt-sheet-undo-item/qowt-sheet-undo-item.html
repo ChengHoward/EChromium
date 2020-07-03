@@ -1,0 +1,24 @@
+<!--
+`qowt-sheet-undo-item' represents sheet undo and redo items. These items respond
+to stack empty/nonEmpty signals depending on their type (undo empty/nonEmpty and
+redo empty/nonEmpty) to primarily set themselves enabled or disabled.
+
+This behavior is further modified by setting an `enableOn` signal for
+'qowt:selectionChanged'. All undo/redo items are disabled if the selection is a
+sheetText selection.
+
+It acheives this by having items declared with the `enableOn` attribute set to
+the `qowt:selectionChanged` signal.
+ -->
+
+<link rel="import" href="../../../custom/qowt-item/qowt-item-styles.html">
+
+<dom-module id="qowt-sheet-undo-item">
+<template>
+    <style include="qowt-item-styles">
+    </style>
+    <iron-icon id="icon" src="[[src]]" icon="[[icon]]" item-icon></iron-icon>
+  <div id="label">[[label]]</div><content></content>
+</template>
+</dom-module>
+

@@ -1,0 +1,2192 @@
+{
+   "action_create_user_feedback": {
+      "message": "సమస్యను నివేదించు"
+   },
+   "alt_key": {
+      "message": "Alt"
+   },
+   "app_error_learn_more": {
+      "message": "మరింత తెలుసుకోండి"
+   },
+   "app_error_report_feedback": {
+      "message": "అభిప్రాయాన్ని నివేదించండి"
+   },
+   "app_icon_aria_spoken_word": {
+      "message": " హోమ్"
+   },
+   "app_nacl_crash_msg": {
+      "message": "సమస్యను నివేదించడం ద్వారా మాకు సహాయపడండి."
+   },
+   "app_nacl_crash_report": {
+      "message": "సమస్యను నివేదించండి..."
+   },
+   "app_nacl_crash_title": {
+      "message": "అయ్యో. ఇలా జరిగి ఉండకూడదు - మీ మార్పులను తిరిగి పొందడానికి పేజీని మళ్లీ లోడ్ చేయండి."
+   },
+   "app_nacl_error_load_failed": {
+      "message": "క్షమించండి, మేము ఫైల్‌ను తెరవలేకపోయాము. ఇతర Chrome ట్యాబ్‌లను మూసివేసి లేదా Chromeని పునఃప్రారంభించి, ఆపై మళ్లీ ప్రయత్నించండి. సమస్య కొనసాగితే, సమస్యను దిగువన నివేదించండి."
+   },
+   "app_nacl_error_title": {
+      "message": "ఫైల్‌ను తెరవడం సాధ్యం కాదు."
+   },
+   "app_nacl_error_unsupported_device": {
+      "message": "డాక్స్, షీట్‌లు & స్లయిడ్‌ల కోసం Chrome పొడిగింపు Office సవరణకు ఈ పరికరం మద్దతు ఇవ్వదు."
+   },
+   "app_saving_failed_error_msg": {
+      "message": "క్షమించండి, ఫైల్‌ని సేవ్ చేస్తున్నప్పుడు సమస్య ఏర్పడింది. మళ్లీ సేవ్ చేయడానికి ప్రయత్నించండి. సమస్య కొనసాగితే, దయచేసి సమస్యను నివేదించండి."
+   },
+   "app_saving_failed_error_short_msg": {
+      "message": "ఫైల్‌ను సేవ్ చేయడం సాధ్యం కాదు."
+   },
+   "backgroundcolor_aria_spoken_word": {
+      "message": "గడి నేపథ్య రంగు డ్రాప్ డౌన్ జాబితా"
+   },
+   "bold_aria_spoken_word": {
+      "message": "బోల్డ్"
+   },
+   "border_all_aria_spoken_word": {
+      "message": "మొత్తం అంచు"
+   },
+   "border_aria_spoken_word": {
+      "message": "అంచు డ్రాప్ డౌన్ జాబితా"
+   },
+   "border_bottom_aria_spoken_word": {
+      "message": "దిగువ అంచు"
+   },
+   "border_horizontal_aria_spoken_word": {
+      "message": "క్షితిజ సమతల అంచు"
+   },
+   "border_inner_aria_spoken_word": {
+      "message": "లోపలి అంచు"
+   },
+   "border_left_aria_spoken_word": {
+      "message": "ఎడమ అంచు"
+   },
+   "border_none_aria_spoken_word": {
+      "message": "అంచు వద్దు"
+   },
+   "border_outer_aria_spoken_word": {
+      "message": "వెలుపలి అంచు"
+   },
+   "border_right_aria_spoken_word": {
+      "message": "కుడి అంచు"
+   },
+   "border_top_aria_spoken_word": {
+      "message": "ఎగువ అంచు"
+   },
+   "border_vertical_aria_spoken_word": {
+      "message": "క్షితిజ లంబ అంచు"
+   },
+   "button_ocm_convert_cancel": {
+      "message": "రద్దు చేయి"
+   },
+   "button_ocm_promo_conversion_point": {
+      "message": "Google స్లయిడ్‌లుగా సేవ్ చేయి"
+   },
+   "button_ocm_promo_conversion_sheet": {
+      "message": "Google షీట్‌లుగా సేవ్ చేయి"
+   },
+   "button_ocm_promo_conversion_word": {
+      "message": "Google డాక్స్‌గా సేవ్ చేయి"
+   },
+   "button_share_convert_cancel": {
+      "message": "రద్దు చేయి"
+   },
+   "button_share_promo_conversion_point": {
+      "message": "Google స్లయిడ్‌లుగా సేవ్ చేయి"
+   },
+   "button_share_promo_conversion_sheet": {
+      "message": "Google షీట్‌లుగా సేవ్ చేయి"
+   },
+   "button_share_promo_conversion_word": {
+      "message": "Google డాక్స్‌గా సేవ్ చేయి"
+   },
+   "cell_align_aria_spoken_word": {
+      "message": "గడి సమలేఖనం"
+   },
+   "cellalign_aria_spoken_word": {
+      "message": "గడి సమలేఖన డ్రాప్ డౌన్ జాబితా"
+   },
+   "cellhaligncenter_aria_spoken_word": {
+      "message": "క్షితిజ సమతలంగా మధ్యకు"
+   },
+   "cellhalignleft_aria_spoken_word": {
+      "message": "క్షితిజ సమతలంగా ఎడమకు"
+   },
+   "cellhalignright_aria_spoken_word": {
+      "message": "క్షితిజ సమతలంగా కుడికి"
+   },
+   "cellvalignbottom_aria_spoken_word": {
+      "message": "క్షితిజ లంబంగా దిగువకు"
+   },
+   "cellvaligncenter_aria_spoken_word": {
+      "message": "క్షితిజ లంబంగా మధ్యకు"
+   },
+   "cellvaligntop_aria_spoken_word": {
+      "message": "క్షితిజ లంబంగా ఎగువకు"
+   },
+   "char_count_label": {
+      "message": "అక్షరాలు"
+   },
+   "char_no_spaces_count_label": {
+      "message": "ఖాళీలు మినహాయించి అక్షరాలు"
+   },
+   "close_dialog_aria_spoken_word": {
+      "message": "డైలాగ్‌ను మూసివేయి"
+   },
+   "cmd_dropdown_initaddshape_aria_spoken_word": {
+      "message": "ఆకార డ్రాప్ డౌన్ జాబితా"
+   },
+   "collapsed": {
+      "message": "కుదించబడింది"
+   },
+   "collapsed_menu": {
+      "message": "$1 ఉపమెనుతో కుదించబడింది.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "color_black": {
+      "message": "నలుపు రంగు"
+   },
+   "color_blaze_orange": {
+      "message": "కాంతివంతమైన నారింజ రంగు"
+   },
+   "color_blue": {
+      "message": "నీలం రంగు"
+   },
+   "color_brown": {
+      "message": "గోధుమ రంగు"
+   },
+   "color_cornflower_blue": {
+      "message": "కార్న్‌ఫ్లవర్ నీలం రంగు"
+   },
+   "color_cyan": {
+      "message": "నీలి ఆకుపచ్చ రంగు"
+   },
+   "color_dark_blue": {
+      "message": "ముదురు నీలం రంగు"
+   },
+   "color_dark_blue_1": {
+      "message": "ముదురు నీలం రంగు 1"
+   },
+   "color_dark_blue_2": {
+      "message": "ముదురు నీలం రంగు 2"
+   },
+   "color_dark_blue_3": {
+      "message": "ముదురు నీలం రంగు 3"
+   },
+   "color_dark_blue_grey": {
+      "message": "ముదురు నీలి బూడిద రంగు"
+   },
+   "color_dark_cornflower_blue_1": {
+      "message": "ముదురు కార్న్‌ఫ్లవర్ నీలం రంగు 1"
+   },
+   "color_dark_cornflower_blue_2": {
+      "message": "ముదురు కార్న్‌ఫ్లవర్ నీలం రంగు 2"
+   },
+   "color_dark_cornflower_blue_3": {
+      "message": "ముదురు కార్న్‌ఫ్లవర్ నీలం రంగు 3"
+   },
+   "color_dark_cyan": {
+      "message": "ముదురు నీలి ఆకుపచ్చ రంగు"
+   },
+   "color_dark_cyan_1": {
+      "message": "ముదురు నీలి ఆకుపచ్చ రంగు 1"
+   },
+   "color_dark_cyan_2": {
+      "message": "ముదురు నీలి ఆకుపచ్చ రంగు 2"
+   },
+   "color_dark_cyan_3": {
+      "message": "ముదురు నీలి ఆకుపచ్చ రంగు 3"
+   },
+   "color_dark_gray": {
+      "message": "ముదురు బూడిద రంగు"
+   },
+   "color_dark_gray_1": {
+      "message": "ముదురు బూడిద రంగు 1"
+   },
+   "color_dark_gray_2": {
+      "message": "ముదురు బూడిద రంగు 2"
+   },
+   "color_dark_gray_3": {
+      "message": "ముదురు బూడిద రంగు 3"
+   },
+   "color_dark_gray_4": {
+      "message": "ముదురు బూడిద రంగు 4"
+   },
+   "color_dark_green": {
+      "message": "ముదురు ఆకుపచ్చ రంగు"
+   },
+   "color_dark_green_1": {
+      "message": "ముదురు ఆకుపచ్చ రంగు 1"
+   },
+   "color_dark_green_2": {
+      "message": "ముదురు ఆకుపచ్చ రంగు 2"
+   },
+   "color_dark_green_3": {
+      "message": "ముదురు ఆకుపచ్చ రంగు 3"
+   },
+   "color_dark_green_5": {
+      "message": "ముదురు ఆకుపచ్చ రంగు 5"
+   },
+   "color_dark_grey_2": {
+      "message": "ముదురు బూడిద రంగు 2"
+   },
+   "color_dark_grey_5": {
+      "message": "ముదురు బూడిద రంగు 5"
+   },
+   "color_dark_magenta_1": {
+      "message": "ముదురు మెజెంటా రంగు 1"
+   },
+   "color_dark_magenta_2": {
+      "message": "ముదురు మెజెంటా రంగు 2"
+   },
+   "color_dark_magenta_3": {
+      "message": "ముదురు మెజెంటా రంగు 3"
+   },
+   "color_dark_olive_green": {
+      "message": "ముదురు ఆలివ్ ఆకుపచ్చ రంగు"
+   },
+   "color_dark_orange_1": {
+      "message": "ముదురు నారింజ రంగు 1"
+   },
+   "color_dark_orange_2": {
+      "message": "ముదురు నారింజ రంగు 2"
+   },
+   "color_dark_orange_3": {
+      "message": "ముదురు నారింజ రంగు 3"
+   },
+   "color_dark_purple_1": {
+      "message": "ముదురు ఊదా రంగు 1"
+   },
+   "color_dark_purple_2": {
+      "message": "ముదురు ఊదా రంగు 2"
+   },
+   "color_dark_purple_3": {
+      "message": "ముదురు ఊదా రంగు 3"
+   },
+   "color_dark_red": {
+      "message": "ముదురు ఎరుపు రంగు"
+   },
+   "color_dark_red_1": {
+      "message": "ముదురు ఎరుపు రంగు 1"
+   },
+   "color_dark_red_2": {
+      "message": "ముదురు ఎరుపు రంగు 2"
+   },
+   "color_dark_red_3": {
+      "message": "ముదురు ఎరుపు రంగు 3"
+   },
+   "color_dark_red_berry_1": {
+      "message": "ముదురు ఎర్రని బెర్రీ పండు రంగు 1"
+   },
+   "color_dark_red_berry_2": {
+      "message": "ముదురు ఎర్రని బెర్రీ పండు రంగు 2"
+   },
+   "color_dark_red_berry_3": {
+      "message": "ముదురు ఎర్రని బెర్రీ పండు రంగు 3"
+   },
+   "color_dark_slate_blue": {
+      "message": "ముదురు మేఘ వర్ణపు నీలం రంగు"
+   },
+   "color_dark_yellow_1": {
+      "message": "ముదురు పసుపు రంగు 1"
+   },
+   "color_dark_yellow_2": {
+      "message": "ముదురు పసుపు రంగు 2"
+   },
+   "color_dark_yellow_3": {
+      "message": "ముదురు పసుపు రంగు 3"
+   },
+   "color_deep_pink": {
+      "message": "ముదురు గులాబీ రంగు"
+   },
+   "color_deep_sky_blue": {
+      "message": "ముదురు ఆకాశ నీలం రంగు"
+   },
+   "color_eucalyptus_green": {
+      "message": "యూకలిప్టస్ ఆకుపచ్చ రంగు"
+   },
+   "color_gold": {
+      "message": "బంగారు రంగు"
+   },
+   "color_gray": {
+      "message": "బూడిద రంగు"
+   },
+   "color_green": {
+      "message": "ఆకుపచ్చ రంగు"
+   },
+   "color_light_blue": {
+      "message": "లేత నీలం రంగు"
+   },
+   "color_light_blue_1": {
+      "message": "లేత నీలం రంగు 1"
+   },
+   "color_light_blue_2": {
+      "message": "లేత నీలం రంగు 2"
+   },
+   "color_light_blue_3": {
+      "message": "లేత నీలం రంగు 3"
+   },
+   "color_light_cornflower_blue_1": {
+      "message": "లేత కార్న్‌ఫ్లవర్ నీలం రంగు 1"
+   },
+   "color_light_cornflower_blue_2": {
+      "message": "లేత కార్న్‌ఫ్లవర్ నీలం రంగు 2"
+   },
+   "color_light_cornflower_blue_3": {
+      "message": "లేత కార్న్‌ఫ్లవర్ నీలం రంగు 3"
+   },
+   "color_light_cyan": {
+      "message": "లేత నీలి ఆకుపచ్చ రంగు"
+   },
+   "color_light_cyan_1": {
+      "message": "లేత నీలి ఆకుపచ్చ రంగు 1"
+   },
+   "color_light_cyan_2": {
+      "message": "లేత నీలి ఆకుపచ్చ రంగు 2"
+   },
+   "color_light_cyan_3": {
+      "message": "లేత నీలి ఆకుపచ్చ రంగు 3"
+   },
+   "color_light_gray": {
+      "message": "లేత బూడిద రంగు"
+   },
+   "color_light_gray_1": {
+      "message": "లేత బూడిద రంగు 1"
+   },
+   "color_light_gray_2": {
+      "message": "లేత బూడిద రంగు 2"
+   },
+   "color_light_gray_3": {
+      "message": "లేత బూడిద రంగు 3"
+   },
+   "color_light_green": {
+      "message": "లేత ఆకుపచ్చ రంగు"
+   },
+   "color_light_green_1": {
+      "message": "లేత ఆకుపచ్చ రంగు 1"
+   },
+   "color_light_green_2": {
+      "message": "లేత ఆకుపచ్చ రంగు 2"
+   },
+   "color_light_green_3": {
+      "message": "లేత ఆకుపచ్చ రంగు 3"
+   },
+   "color_light_magenta_1": {
+      "message": "లేత మెజెంటా రంగు 1"
+   },
+   "color_light_magenta_2": {
+      "message": "లేత మెజెంటా రంగు 2"
+   },
+   "color_light_magenta_3": {
+      "message": "లేత మెజెంటా రంగు 3"
+   },
+   "color_light_orange_1": {
+      "message": "లేత నారింజ రంగు 1"
+   },
+   "color_light_orange_2": {
+      "message": "లేత నారింజ రంగు 2"
+   },
+   "color_light_orange_3": {
+      "message": "లేత నారింజ రంగు 3"
+   },
+   "color_light_purple": {
+      "message": "లేత ఊదా రంగు"
+   },
+   "color_light_purple_1": {
+      "message": "లేత ఊదా రంగు 1"
+   },
+   "color_light_purple_2": {
+      "message": "లేత ఊదా రంగు 2"
+   },
+   "color_light_purple_3": {
+      "message": "లేత ఊదా రంగు 3"
+   },
+   "color_light_red_1": {
+      "message": "లేత ఎరుపు రంగు 1"
+   },
+   "color_light_red_2": {
+      "message": "లేత ఎరుపు రంగు 2"
+   },
+   "color_light_red_3": {
+      "message": "లేత ఎరుపు రంగు 3"
+   },
+   "color_light_red_berry_1": {
+      "message": "లేత ఎర్రని బెర్రీ పండు రంగు 1"
+   },
+   "color_light_red_berry_2": {
+      "message": "లేత ఎర్రని బెర్రీ పండు రంగు 2"
+   },
+   "color_light_red_berry_3": {
+      "message": "లేత ఎర్రని బెర్రీ పండు రంగు 3"
+   },
+   "color_light_yellow": {
+      "message": "లేత పసుపు రంగు"
+   },
+   "color_light_yellow_1": {
+      "message": "లేత పసుపు రంగు 1"
+   },
+   "color_light_yellow_2": {
+      "message": "లేత పసుపు రంగు 2"
+   },
+   "color_light_yellow_3": {
+      "message": "లేత పసుపు రంగు 3"
+   },
+   "color_magenta": {
+      "message": "మెజెంటా రంగు"
+   },
+   "color_maroon": {
+      "message": "ముదురు ఎరుపు రంగు"
+   },
+   "color_midnight_blue": {
+      "message": "అత్యంత ముదురు నీలం రంగు"
+   },
+   "color_navy": {
+      "message": "నేవీ నీలం రంగు"
+   },
+   "color_olive": {
+      "message": "ఆలివ్ రంగు"
+   },
+   "color_orange": {
+      "message": "నారింజ రంగు"
+   },
+   "color_peach": {
+      "message": "లేత దొండపండు రంగు"
+   },
+   "color_pink": {
+      "message": "గులాబి రంగు"
+   },
+   "color_pistachio": {
+      "message": "పిస్తా రంగు"
+   },
+   "color_purple": {
+      "message": "ఊదా రంగు"
+   },
+   "color_red": {
+      "message": "ఎరుపు రంగు"
+   },
+   "color_red_berry": {
+      "message": "ఎర్రని బెర్రీ పండు రంగు"
+   },
+   "color_royal_blue": {
+      "message": "దివ్యమైన నీలం రంగు"
+   },
+   "color_teal": {
+      "message": "నీలి పచ్చ రంగు"
+   },
+   "color_turquiose": {
+      "message": "ఆకుపచ్చ నీలం రంగు"
+   },
+   "color_white": {
+      "message": "తెలుపు రంగు"
+   },
+   "color_yellow": {
+      "message": "పసుపు రంగు"
+   },
+   "command_key": {
+      "message": "ఆదేశం"
+   },
+   "content_msg_merging_horizontally_across_vertical_section": {
+      "message": "మీరు ఇప్పటికే నిలువుగా విలీనం చేయబడిన విభాగంలో అడ్డంగా విలీనం చేయలేరు."
+   },
+   "content_msg_merging_multiple_cells_with_text": {
+      "message": "గడులను విలీనం చేయడం వలన ఎగువ ఎడమవైపు చివర ఉన్న విలువ మాత్రమే ఉంచబడుతుంది. ఏదేమైనా విలీనం చేయాలా?"
+   },
+   "content_msg_merging_partially_selected_merged_cells": {
+      "message": "మీరు విలీనం చేయడానికి లేదా విలీనాన్ని తీసివేయడానికి తప్పనిసరిగా విలీనం చేయబడిన పరిధిలోని అన్ని గడులను ఎంచుకోవాలి."
+   },
+   "content_msg_merging_vertically_across_horizontal_section": {
+      "message": "మీరు ఇప్పటికే అడ్డంగా విలీనం చేయబడిన విభాగంలో నిలువుగా విలీనం చేయలేరు."
+   },
+   "content_render_error_msg": {
+      "message": "ఈ పత్రం యొక్క కంటెంట్‌తో సమస్య ఉంది."
+   },
+   "context_menu_clipboard_copy": {
+      "message": "కాపీ చేయి"
+   },
+   "context_menu_delete": {
+      "message": "తొలగించు"
+   },
+   "context_menu_freeze": {
+      "message": "స్తంభింపజేయి"
+   },
+   "context_menu_insert": {
+      "message": "చొప్పించు"
+   },
+   "context_menu_sort_collation_ascending": {
+      "message": "a-zకు క్రమబద్ధీకరించు"
+   },
+   "context_menu_sort_collation_descending": {
+      "message": "z-aకు క్రమబద్ధీకరించు"
+   },
+   "context_menu_unfreeze": {
+      "message": "స్తంభింపజేయడాన్ని రద్దు చేయి"
+   },
+   "control_key": {
+      "message": "నియంత్రణ"
+   },
+   "convert_attempt_when_offline": {
+      "message": "మీరు Google డాక్స్‌గా సేవ్ చేయడానికి ఆన్‌లైన్‌లో ఉండాలి. మీ కనెక్షన్ పునరుద్ధరించబడిన తర్వాత మళ్లీ ప్రయత్నించండి."
+   },
+   "convert_attempt_with_invalid_creds": {
+      "message": "మీరు ఈ ఫైల్‌ని మార్చడానికి మీ Google ఖాతాకి సైన్ ఇన్ చేయాలి."
+   },
+   "convert_cancel": {
+      "message": "రద్దు చేయి"
+   },
+   "convert_to_google_docs_failed": {
+      "message": "మీ పత్రాన్ని Google డాక్స్‌కి మార్చడంలో సమస్య ఏర్పడింది."
+   },
+   "convert_to_google_point_fail_short_msg": {
+      "message": "అయ్యో"
+   },
+   "convert_to_google_point_short_msg": {
+      "message": "Google స్లయిడ్‌లుగా సేవ్ చేస్తోంది"
+   },
+   "convert_to_google_sheet_fail_short_msg": {
+      "message": "అయ్యో"
+   },
+   "convert_to_google_sheet_short_msg": {
+      "message": "Google షీట్‌లుగా సేవ్ చేస్తోంది"
+   },
+   "convert_to_google_word_fail_short_msg": {
+      "message": "అయ్యో"
+   },
+   "convert_to_google_word_short_msg": {
+      "message": "Google డాక్స్‌గా సేవ్ చేస్తోంది"
+   },
+   "convert_try_again": {
+      "message": "మళ్లీ ప్రయత్నించు"
+   },
+   "converting_to_google_point_fail_msg": {
+      "message": "మేము ఈ సమయంలో మీ ఫైల్‌ను Google స్లయిడ్‌లుగా సేవ్ చేయలేకపోయాము."
+   },
+   "converting_to_google_point_msg": {
+      "message": "మీ ప్రెజెంటేషన్ యొక్క కొత్త సంస్కరణను Google స్లయిడ్‌లుగా సేవ్ చేస్తోంది."
+   },
+   "converting_to_google_sheet_fail_msg": {
+      "message": "మేము ఈ సమయంలో మీ ఫైల్‌ను Google షీట్‌లుగా సేవ్ చేయలేకపోయాము."
+   },
+   "converting_to_google_sheet_msg": {
+      "message": "మీ స్ప్రెడ్‌షీట్ యొక్క కొత్త సంస్కరణను Google షీట్‌లుగా సేవ్ చేస్తోంది."
+   },
+   "converting_to_google_word_fail_msg": {
+      "message": "మేము ఈ సమయంలో మీ ఫైల్‌ను Google డాక్స్‌గా సేవ్ చేయలేకపోయాము."
+   },
+   "converting_to_google_word_msg": {
+      "message": "మీ పత్రం యొక్క కొత్త సంస్కరణను Google డాక్స్‌గా సేవ్ చేస్తోంది."
+   },
+   "copy_attempt_when_offline": {
+      "message": "మీరు Google డిస్క్‌లో కాపీని రూపొందించడానికి ఆన్‌లైన్‌లో ఉండాలి. మీ కనెక్షన్ పునరుద్ధరించబడిన తర్వాత మళ్లీ ప్రయత్నించండి."
+   },
+   "copy_attempt_with_invalid_creds": {
+      "message": "మీరు కాపీని రూపొందించడానికి మీ Google ఖాతాకు సైన్ ఇన్ చేయాలి."
+   },
+   "disabled_share_button": {
+      "message": "మ్యాక్రో ప్రారంభించబడిన ఫైల్‌లను Google డిస్క్ నుండి మాత్రమే భాగస్వామ్యం చేయగలరు. భాగస్వామ్యం నిలిపివేయబడింది."
+   },
+   "disallowed_cut_copy_paste_cmd_copy": {
+      "message": "కాపీ చేయడం కోసం"
+   },
+   "disallowed_cut_copy_paste_cmd_cut": {
+      "message": "కత్తిరించడం కోసం"
+   },
+   "disallowed_cut_copy_paste_cmd_paste": {
+      "message": "అతికించడం కోసం"
+   },
+   "disallowed_cut_copy_paste_msg": {
+      "message": "ఎడిట్ మరియు సందర్భోచిత మెనులను ఉపయోగించేటప్పుడు ఈ చర్యలు అందుబాటులో లేవు, కానీ మీరు ఇప్పటికీ వీటిని ఉపయోగించవచ్చు:"
+   },
+   "disallowed_cut_copy_paste_title": {
+      "message": "Office అనుకూల మోడ్‌లో కాపీ చేసి అతికించండి"
+   },
+   "dismiss": {
+      "message": "తీసివేయి"
+   },
+   "document_title_aria_spoken_word": {
+      "message": "పత్రం శీర్షిక:"
+   },
+   "down_key": {
+      "message": "కిందికి"
+   },
+   "download_button": {
+      "message": "డౌన్‌లోడ్ చేయి"
+   },
+   "download_file_timeout_error_msg": {
+      "message": "మీరు తెరుస్తున్న ఫైల్ లోడ్ కావడానికి ఊహించిన దాని కంటే ఎక్కువ సమయం పడుతోంది. మీ నెట్‌వర్క్ కనెక్షన్‌ను తనిఖీ చేసి, మళ్లీ ప్రయత్నించండి."
+   },
+   "download_file_timeout_error_short_msg": {
+      "message": "ఫైల్ ఊహించిన దాని కంటే ఎక్కువ సమయం తీసుకుంటోంది"
+   },
+   "drive_open_timeout_error_msg": {
+      "message": "మీ ఇంటర్నెట్ కనెక్షన్‌లో సమస్య ఉన్నట్లుగా కనిపిస్తోంది. దయచేసి మీ కనెక్షన్‌ని తనిఖీ చేసి, ఫైల్‍‌ని మళ్లీ తెరవడానికి ప్రయత్నించండి. మీరు ఆన్‌లైన్‌లో ఉన్నప్పటికీ ఈ లోపాన్ని ఇంకా ఎదుర్కొంటుంటే, దయచేసి సమస్యను దిగువ నివేదించండి."
+   },
+   "drive_open_timeout_error_short_msg": {
+      "message": "అయ్యో. మీరు అభ్యర్థించిన ఫైల్‌ను మేము తెరవలేకపోయాము."
+   },
+   "duplicate_sheet_name_message": {
+      "message": "షీట్ పేరుగా వేరే ఏ షీట్‌కు ఉపయోగించని పేరును నమోదు చేయండి"
+   },
+   "duplicate_sheet_name_title": {
+      "message": "ఆ షీట్ పేరు ఇప్పటికే ఉపయోగంలో ఉంది"
+   },
+   "edits_not_being_saved": {
+      "message": "సవరణలు స్వయంచాలకంగా సేవ్ చేయబడవు."
+   },
+   "edits_now_being_auto_saved": {
+      "message": "ఫైల్ సేవ్ చేయబడింది. ఇప్పుడు అన్ని సవరణలు స్వయంచాలకంగా సేవ్ చేయబడతాయి."
+   },
+   "entry_point_error_msg": {
+      "message": "దయచేసి మళ్లీ ప్రయత్నించండి లేదా దిగువన సమస్యను నివేదించండి."
+   },
+   "entry_point_error_short_msg": {
+      "message": "అయ్యో. మీరు ఏ ఫైల్‌ను తెరవాలనుకుంటున్నారో మేము గుర్తించలేకున్నాము."
+   },
+   "error_occurred": {
+      "message": "లోపం సంభవించింది."
+   },
+   "error_password_required_msg": {
+      "message": "మేము ప్రస్తుతం రక్షిత ఫైల్‌లకు మద్దతు ఇవ్వలేము, కానీ మేము దీనిపై పని చేస్తున్నాము."
+   },
+   "error_password_required_short_msg": {
+      "message": "ఈ ఫైల్ పాస్‌వర్డ్ రక్షితమైనది."
+   },
+   "expanded": {
+      "message": "విస్తరింపజేయబడింది"
+   },
+   "expanded_menu": {
+      "message": "$1 ఉపమెనుతో విస్తరింపజేయబడింది.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "extension_description": {
+      "message": "Google డాక్స్, షీట్‌లు మరియు స్లయిడ్‌లతో Microsoft Word, Excel మరియు PowerPoint ఫైల్‌లను వీక్షించండి మరియు సవరించండి"
+   },
+   "extension_name": {
+      "message": "డాక్స్, షీట్‌లు & స్లయిడ్‌ల కోసం Office సవరణ"
+   },
+   "extension_popup_message_body": {
+      "message": "To open existing files, drag and drop them into the browser"
+   },
+   "extension_popup_new_document_header": {
+      "message": "New..."
+   },
+   "extension_popup_new_presentation_document": {
+      "message": "Powerpoint presentation"
+   },
+   "extension_popup_new_spreadsheet_document": {
+      "message": "Excel spreadsheet"
+   },
+   "extension_popup_new_word_document": {
+      "message": "Word document"
+   },
+   "feedback_textbox_editing": {
+      "message": "దయచేసి వచన పెట్టెల్లో ఉండే వచనాన్ని సవరించడానికి మద్దతివ్వండి."
+   },
+   "feedback_ui_template": {
+      "message": "1- దయచేసి మీరు ఎదుర్కొన్న సమస్యను వివరించండి.\n2- సమస్య ఫైల్‌ను తెరవడానికి ప్రయత్నిస్తున్నప్పుడు సంభవిస్తోందా లేదా ఫైల్‌‌ను సవరించడానికి ప్రయత్నిస్తున్నప్పుడు సంభవిస్తోందా?\n3- ఈ సమస్య మీరు ఎప్పుడు ఏ పైల్‌లను తెరవడానికి లేదా సవరించడానికి ప్రయత్నించినా సంభవిస్తోందా లేదా నిర్దిష్ట ఫైల్‌లకు మాత్రమే సంభవిస్తోందా?\n\nఈ సమస్య నిర్దిష్ట ఫైల్‌కు సంబంధించి మాత్రమే అయితే, దయచేసి ఈ నివేదికకు ఆ ఫైల్‌ను జోడించండి, దీనివల్ల మేము సమస్యను మరింత విశదంగా పరిశీలించి పరిష్కరించడంలో ఆ ఫైల్ మాకు చాలా సహాయకరంగా ఉంటుంది."
+   },
+   "file_does_not_exist_error_details": {
+      "message": "ఈ ఫైల్ లేదు. మీరు భాగస్వామ్య లింక్‌ను లేదా బుక్‌మార్క్ చేసిన పత్రాన్ని తెరవడానికి ప్రయత్నించి ఉండవచ్చు. దయచేసి అసలు మూలం నుండి ఫైల్‌ను మళ్లీ తెరిచి ప్రయత్నించండి."
+   },
+   "file_does_not_exist_error_title": {
+      "message": "ఫైల్ కనుగొనబడలేదు."
+   },
+   "file_loading_spinner_label": {
+      "message": "లోడ్ అవుతోంది"
+   },
+   "file_missing_content_msg": {
+      "message": "ఈ ఫైల్‌లోని మొత్తం కంటెంట్‌ను చదవడంలో సమస్య ఏర్పడింది; ఫైల్ పేరు మార్చి, మళ్లీ తెరవడాన్ని ప్రయత్నించమని మేము మీకు సిఫార్సు చేస్తున్నాము"
+   },
+   "file_missing_content_short_msg": {
+      "message": "పత్రంలో కంటెంట్ లేదు."
+   },
+   "file_not_found_error_msg": {
+      "message": "దయచేసి ఫైల్‌ని ప్రాప్యత చేయడానికి మీకు అనుమతి ఉందని ఫైల్ యజమానితో నిర్ధారించుకోండి. మీకు అనుమతి ఉన్నప్పటికీ ఈ లోపాన్ని ఎదుర్కొంటుంటే, దయచేసి దిగువ సమస్యను నివేదించండి."
+   },
+   "file_not_found_error_short_msg": {
+      "message": "అయ్యో. మీరు అభ్యర్థించిన ఫైల్‌ను మేము తెరవలేకపోయాము."
+   },
+   "file_not_found_exception": {
+      "message": "The requested file might be deleted, renamed or moved to another location. Please click 'Save now' to proceed further."
+   },
+   "file_not_found_link_text": {
+      "message": "బహుళ ఖాతాలకి సంబంధించి సహాయం కోసం, దయచేసి ఈ కథనాన్ని చూడండి"
+   },
+   "file_not_found_msg": {
+      "message": "మీరు అభ్యర్థించిన ఫైల్ లేదు మరియు తరలించబడింది."
+   },
+   "file_not_found_title": {
+      "message": "ఫైల్ కనుగొనబడలేదు."
+   },
+   "file_open_crash_error_msg": {
+      "message": "మీరు లోపాన్ని ఎదుర్కోవడం కొనసాగితే, దయచేసి దిగువ సమస్యను నివేదించండి."
+   },
+   "file_open_crash_error_short_msg": {
+      "message": "అయ్యో. మీరు అభ్యర్థించిన ఫైల్‌ను మేము తెరవలేకపోయాము."
+   },
+   "file_open_error_msg": {
+      "message": "ఈ ఫైల్ యొక్క కంటెంట్‌లను ప్రాప్యత చేయలేరు."
+   },
+   "file_open_error_short_msg": {
+      "message": "ఈ ఫైల్ పాడైనట్లుగా కనిపిస్తోంది."
+   },
+   "file_open_fail_download_link_text": {
+      "message": "ఫైల్‌ను డౌన్‌లోడ్ చేయండి"
+   },
+   "file_opened_in_incognito_mode_error_details": {
+      "message": "Office ఎడిటింగ్ ఎక్స్‌టెన్షన్ అజ్ఞాతంలో పని చేయదు. దయచేసి ఈ ఫైల్‌ని Chromeకి సంబంధించిన సాధారణ విండోని ఉపయోగించి తెరవండి. మీరు అతిథి మోడ్‌ని ఉపయోగిస్తున్నట్లయితే, ఫైల్ తెరవడం విఫలం అవుతుంది. దయచేసి మీ ఫైల్ పాడు కాలేదని లేదా చెల్లుబాటు కాని డాక్యుమెంట్ రకం కాదని నిర్ధారించుకొని, మళ్లీ ప్రయత్నించండి."
+   },
+   "file_opened_in_incognito_mode_error_title": {
+      "message": "అయ్యో! అజ్ఞాత మోడ్‌కి మద్దతు లేదు"
+   },
+   "file_pdf_type_rename_msg": {
+      "message": "ఫైల్ పేరును $1.pdfగా మార్చి, ఆపై మళ్లీ ప్రయత్నించండి.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_rtf_type_rename_msg": {
+      "message": "ఫైల్ పేరును $1.rtfగా మార్చండి",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_type_unsupported_msg": {
+      "message": "ఈ ఫైల్ రకానికి మద్దతు లేదు."
+   },
+   "fillcolor_aria_spoken_word": {
+      "message": "వచన రంగు డ్రాప్ డౌన్ జాబితా"
+   },
+   "fontface_aria_spoken_word": {
+      "message": "ఫాంట్ ఫేస్ డ్రాప్ డౌన్ జాబితా"
+   },
+   "fontsize_aria_spoken_word": {
+      "message": "ఫాంట్ పరిమాణ డ్రాప్ డౌన్ జాబితా"
+   },
+   "forbidden_access_level_error_msg": {
+      "message": "దయచేసి ఈ ఫైల్‌ని తెరవడానికి మీకు అనుమతి ఉందని ఫైల్ యజమానితో నిర్ధారించుకోండి. మీకు అనుమతి ఉన్నప్పటికీ ఈ లోపాన్ని ఎదుర్కొంటుంటే, దయచేసి దిగువ సమస్యను నివేదించండి."
+   },
+   "forbidden_access_level_error_short_msg": {
+      "message": "అయ్యో. మీరు అభ్యర్థించిన ఫైల్‌ను మేము తెరవలేకపోయాము."
+   },
+   "forbidden_app_access_error_msg": {
+      "message": "ఒక కారణం వలన ఈ ఫైల్‌ను తెరవడానికి మాకు అనుమతి లేదు. దయచేసి ఫైల్‌ను Google డిస్క్ నుండి తెరవడానికి ప్రయత్నించండి లేదా దిగువ సమస్యను నివేదించండి."
+   },
+   "forbidden_app_access_error_short_msg": {
+      "message": "అయ్యో. మీరు అభ్యర్థించిన ఫైల్‌ను మేము తెరవలేకపోయాము."
+   },
+   "forbidden_app_id_error_msg": {
+      "message": "Chrome పొడిగింపును సరిగ్గా కాన్ఫిగర్ చేయనట్లుగా కనిపిస్తోంది. ఇది ఎలా సాధ్యం? మాకు కూడా ఖచ్చితంగా తెలియదు, కానీ దయచేసి దిగువ సమస్యను నివేదించండి."
+   },
+   "forbidden_app_id_error_short_msg": {
+      "message": "అయ్యో. మీరు అభ్యర్థించిన ఫైల్‌ను మేము తెరవలేకపోయాము."
+   },
+   "forbidden_blacklist_error_msg": {
+      "message": "ఈ Chrome పొడిగింపు నిరోధిత జాబితాలో ఉన్నట్లుగా కనిపిస్తోంది. ఇది కేవలం పొరపాటు మాత్రమే, దయచేసి దిగువ సమస్యను నివేదించడం ద్వారా దాని గురించి మాకు తెలియజేయండి."
+   },
+   "forbidden_blacklist_error_short_msg": {
+      "message": "అయ్యో. మీరు అభ్యర్థించిన ఫైల్‌ను మేము తెరవలేకపోయాము."
+   },
+   "forbidden_domain_error_msg": {
+      "message": "మీ డొమైన్ ఈ ఫైల్‌కు ప్రాప్యతను నిషేధించినట్లుగా కనిపిస్తోంది. దయచేసి మీ డొమైన్ నిర్వాహకుడిని సంప్రదించండి లేదా దిగువ సమస్యను నివేదించండి."
+   },
+   "forbidden_domain_error_short_msg": {
+      "message": "అయ్యో. మీరు అభ్యర్థించిన ఫైల్‌ను మేము తెరవలేకపోయాము."
+   },
+   "forbidden_internal_error_msg": {
+      "message": "దురదృష్టవశాత్తూ, Google డిస్క్ ఊహించినట్లుగా పనిచేయడం లేదు. దయచేసి మీ ఫైల్‌ను మళ్లీ తెరవడానికి ప్రయత్నించండి లేదా దిగువ సమస్యను నివేదించండి."
+   },
+   "forbidden_internal_error_short_msg": {
+      "message": "అయ్యో. మీరు అభ్యర్థించిన ఫైల్‌ను మేము తెరవలేకపోయాము."
+   },
+   "forbidden_not_installed_error_msg": {
+      "message": "Chrome పొడిగింపును సరిగ్గా ఇన్‌స్టాల్ చేయనట్లుగా కనిపిస్తోంది. ఇది ఎలా సాధ్యం? మాకు కూడా ఖచ్చితంగా తెలియదు, కానీ దయచేసి దిగువ సమస్యను నివేదించండి."
+   },
+   "forbidden_not_installed_error_short_msg": {
+      "message": "అయ్యో. మీరు అభ్యర్థించిన ఫైల్‌ను మేము తెరవలేకపోయాము."
+   },
+   "generic_error_msg": {
+      "message": "ఈ పత్రం యొక్క కంటెంట్‌తో సమస్య ఉంది."
+   },
+   "generic_error_short_msg": {
+      "message": "అయ్యో. ఇలా జరిగి ఉండకూడదు - మీ మార్పులను తిరిగి పొందడానికి పేజీని మళ్లీ లోడ్ చేయండి."
+   },
+   "get_lists_data_error_msg": {
+      "message": "పత్రం చెల్లని జాబితా ఆకృతీకరణతో అమలు కావచ్చు."
+   },
+   "get_lists_data_error_short_msg": {
+      "message": "పత్రం ఆకృతీకరణను తిరిగి పొందడం సాధ్యపడలేదు."
+   },
+   "highlightcolor_aria_spoken_word": {
+      "message": "వచన హైలైట్ రంగు డ్రాప్ డౌన్ జాబితా"
+   },
+   "http_error_zero_msg": {
+      "message": "ఇది నెట్‌వర్క్ సమస్య అయిన పక్షంలో, దయచేసి మీ కనెక్షన్‌ను తనిఖీ చేయండి లేదా తర్వాత మళ్లీ ప్రయత్నించండి. సమస్య కొనసాగితే, సమస్యను దిగువన నివేదించండి."
+   },
+   "http_error_zero_short_msg": {
+      "message": "క్షమించండి, మేము ఫైల్‌ను తెరవలేకపోయాము."
+   },
+   "info_file_copied": {
+      "message": "సేవ్ చేయబడింది"
+   },
+   "info_file_save_cancelled": {
+      "message": "సేవ్ చేయడం రద్దయింది."
+   },
+   "info_file_save_failed": {
+      "message": "సేవ్ చేయడం విఫలమైంది."
+   },
+   "info_file_saved_at_location": {
+      "message": "All changes saved at $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "info_file_saved_in_drive": {
+      "message": "అన్ని మార్పులు డిస్క్‌లో సేవ్ చేయబడ్డాయి"
+   },
+   "info_file_saved_locally": {
+      "message": "అన్ని మార్పులు స్థానికంగా సేవ్ చేయబడ్డాయి"
+   },
+   "info_file_saved_offline": {
+      "message": "అన్ని మార్పులు ఆఫ్‌లైన్‌లో సేవ్ చేయబడ్డాయి"
+   },
+   "info_file_saving": {
+      "message": "సేవ్ చేస్తోంది..."
+   },
+   "initaddshape_aria_spoken_word": {
+      "message": "వచన పెట్టెను జోడించు"
+   },
+   "invalid_credentials_error_msg": {
+      "message": "మీరు ఈ ఫైల్‌ను ప్రాప్యత చేయడానికి మీ Google ఖాతాకు సైన్ ఇన్ చేయాలి."
+   },
+   "invalid_credentials_error_short_msg": {
+      "message": "అయ్యో. మీరు అభ్యర్థించిన ఫైల్‌ను మేము తెరవలేకపోయాము."
+   },
+   "invalid_file_format_msg": {
+      "message": "ఫైల్ Office పత్రంగా కనిస్తున్నప్పటికీ మరియు Office ఫైల్ పొడిగింపును కలిగి ఉన్నప్పటికీ, ఇది వాస్తవానికి పేరు మార్చబడిన లేదా వేరే విధానంలో మార్చబడిన విభిన్న ఫైల్ రకం లేదా ఇది మేము మద్దతు ఇవ్వని ఫైల్ రకం."
+   },
+   "invalid_file_format_short_msg": {
+      "message": "అయ్యో, ఈ రకమైన పత్రాన్ని మేము తెరవలేనట్లుగా కనిపిస్తోంది."
+   },
+   "italic_aria_spoken_word": {
+      "message": "ఇటాలిక్"
+   },
+   "keyboard_shortcut_group_actions": {
+      "message": "చర్యలు"
+   },
+   "keyboard_shortcut_group_other": {
+      "message": "ఇతరం"
+   },
+   "keyboard_shortcut_group_paragraph_formatting": {
+      "message": "పేరా ఆకృతీకరణ"
+   },
+   "keyboard_shortcut_group_text_formatting": {
+      "message": "వచన ఆకృతీకరణ"
+   },
+   "keyboard_shortcut_group_top_menus": {
+      "message": "మెనులు"
+   },
+   "keyboard_shortcut_group_with_slides": {
+      "message": "స్లయిడ్‌లతో"
+   },
+   "keyboard_shortcut_title": {
+      "message": "కీబోర్డ్ సత్వరమార్గాలు"
+   },
+   "make_a_copy_fail_msg": {
+      "message": "మేము ఈ సమయంలో కాపీని రూపొందించలేకపోయాము."
+   },
+   "menu_button_data": {
+      "message": "డేటా"
+   },
+   "menu_button_edit": {
+      "message": "సవరించు"
+   },
+   "menu_button_file": {
+      "message": "ఫైల్"
+   },
+   "menu_button_format": {
+      "message": "ఆకృతి"
+   },
+   "menu_button_help": {
+      "message": "సహాయం"
+   },
+   "menu_button_insert": {
+      "message": "చొప్పించు"
+   },
+   "menu_button_slide": {
+      "message": "స్లయిడ్"
+   },
+   "menu_button_tools": {
+      "message": "సాధనాలు"
+   },
+   "menu_button_view": {
+      "message": "వీక్షించండి"
+   },
+   "menu_item_10_point_star": {
+      "message": "10-పాయింట్‌ల నక్షత్రం"
+   },
+   "menu_item_12_point_star": {
+      "message": "12-పాయింట్‌ల నక్షత్రం"
+   },
+   "menu_item_16_point_star": {
+      "message": "16-పాయింట్‌ల నక్షత్రం"
+   },
+   "menu_item_24_point_star": {
+      "message": "24-పాయింట్‌ల నక్షత్రం"
+   },
+   "menu_item_32_point_star": {
+      "message": "32-పాయింట్‌ల నక్షత్రం"
+   },
+   "menu_item_4_point_star": {
+      "message": "4-పాయింట్‌ల నక్షత్రం"
+   },
+   "menu_item_5_point_star": {
+      "message": "5-పాయింట్‌ల నక్షత్రం"
+   },
+   "menu_item_6_point_star": {
+      "message": "6-పాయింట్‌ల నక్షత్రం"
+   },
+   "menu_item_7_point_star": {
+      "message": "7-పాయింట్‌ల నక్షత్రం"
+   },
+   "menu_item_8_point_star": {
+      "message": "8-పాయింట్‌ల నక్షత్రం"
+   },
+   "menu_item_align": {
+      "message": "సమలేఖనం చేయి"
+   },
+   "menu_item_align_center": {
+      "message": "మధ్యకు"
+   },
+   "menu_item_align_justified": {
+      "message": "సర్దుబాటు చేయబడింది"
+   },
+   "menu_item_align_left": {
+      "message": "ఎడమకు"
+   },
+   "menu_item_align_right": {
+      "message": "కుడికి"
+   },
+   "menu_item_arrows": {
+      "message": "బాణాలు"
+   },
+   "menu_item_bent_arrow": {
+      "message": "వంగిన బాణం"
+   },
+   "menu_item_bent_up_arrow": {
+      "message": "ఎగువకు వంపు ఉన్న బాణం"
+   },
+   "menu_item_bevel": {
+      "message": "బెవెల్"
+   },
+   "menu_item_block_arc": {
+      "message": "బ్లాక్ వంపు"
+   },
+   "menu_item_bold": {
+      "message": "బోల్డ్"
+   },
+   "menu_item_callouts": {
+      "message": "కాల్అవుట్స్"
+   },
+   "menu_item_can": {
+      "message": "క్యాన్"
+   },
+   "menu_item_chevron": {
+      "message": "చెవ్రాన్"
+   },
+   "menu_item_chord": {
+      "message": "చార్డ్"
+   },
+   "menu_item_clear_formatting": {
+      "message": "ఆకృతీకరణను క్లియర్ చేయి"
+   },
+   "menu_item_cloud": {
+      "message": "క్లౌడ్"
+   },
+   "menu_item_cloud_callout": {
+      "message": "క్లౌడ్ కాల్అవుట్"
+   },
+   "menu_item_color_none": {
+      "message": "ఏదీ వద్దు"
+   },
+   "menu_item_color_transparent": {
+      "message": "పారదర్శకం"
+   },
+   "menu_item_convert_to_docs": {
+      "message": "Google డాక్స్‌గా సేవ్ చేయి"
+   },
+   "menu_item_convert_to_sheets": {
+      "message": "Google షీట్‌లుగా సేవ్ చేయి"
+   },
+   "menu_item_convert_to_slides": {
+      "message": "Google స్లయిడ్‌లుగా సేవ్ చేయి"
+   },
+   "menu_item_copy": {
+      "message": "కాపీ చేయి"
+   },
+   "menu_item_cross": {
+      "message": "క్రాస్"
+   },
+   "menu_item_cube": {
+      "message": "క్యూబ్"
+   },
+   "menu_item_curved_down_arrow": {
+      "message": "దిగువకు వంపు ఉన్న బాణం"
+   },
+   "menu_item_curved_left_arrow": {
+      "message": "ఎడమకు వంపు ఉన్న బాణం"
+   },
+   "menu_item_curved_right_arrow": {
+      "message": "కుడికి వంపు ఉన్న బాణం"
+   },
+   "menu_item_curved_up_arrow": {
+      "message": "ఎగువ వంపుతో బాణం"
+   },
+   "menu_item_cut": {
+      "message": "కత్తిరించు"
+   },
+   "menu_item_decagon": {
+      "message": "దశభుజి"
+   },
+   "menu_item_delete_column": {
+      "message": "నిలువు వరుసను తొలగించు"
+   },
+   "menu_item_delete_row": {
+      "message": "అడ్డు వరుసను తొలగించు"
+   },
+   "menu_item_delete_value": {
+      "message": "విలువను తొలగించు"
+   },
+   "menu_item_deleteslide": {
+      "message": "స్లయిడ్‌ను తొలగించు"
+   },
+   "menu_item_diagonal_stripe": {
+      "message": "వికర్ణ గీత"
+   },
+   "menu_item_diamond": {
+      "message": "వజ్రం"
+   },
+   "menu_item_divide": {
+      "message": "భాగహారం"
+   },
+   "menu_item_dodecagon": {
+      "message": "ద్వాదశభుజి"
+   },
+   "menu_item_donut": {
+      "message": "డోనట్"
+   },
+   "menu_item_double_brace": {
+      "message": "డబుల్ బ్రేస్"
+   },
+   "menu_item_double_bracket": {
+      "message": "డబుల్ బ్రాకెట్"
+   },
+   "menu_item_down_arrow": {
+      "message": "దిగువ బాణం"
+   },
+   "menu_item_down_arrow_callout": {
+      "message": "దిగువ బాణం కాల్అవుట్"
+   },
+   "menu_item_duplicateslide": {
+      "message": "నకిలీ స్లయిడ్"
+   },
+   "menu_item_equal": {
+      "message": "సమానం గుర్తు"
+   },
+   "menu_item_equation": {
+      "message": "సమీకరణం"
+   },
+   "menu_item_explosion_1": {
+      "message": "ఎక్స్‌ప్లోజన్ 1"
+   },
+   "menu_item_explosion_2": {
+      "message": "ఎక్స్‌ప్లోజన్ 2"
+   },
+   "menu_item_flowchart_alternate_process": {
+      "message": "ఫ్లోచార్ట్: ప్రత్యామ్నాయ ప్రక్రియ"
+   },
+   "menu_item_flowchart_card": {
+      "message": "ఫ్లోచార్ట్: కార్డ్"
+   },
+   "menu_item_flowchart_collate": {
+      "message": "ఫ్లోచార్ట్: కొలేట్"
+   },
+   "menu_item_flowchart_connector": {
+      "message": "ఫ్లోచార్ట్: కనెక్టర్"
+   },
+   "menu_item_flowchart_data": {
+      "message": "ఫ్లోచార్ట్: డేటా"
+   },
+   "menu_item_flowchart_decision": {
+      "message": "ఫ్లోచార్ట్: నిర్ణయం"
+   },
+   "menu_item_flowchart_delay": {
+      "message": "ఫ్లోచార్ట్: ఆలస్యం"
+   },
+   "menu_item_flowchart_direct_access_storage": {
+      "message": "ఫ్లోచార్ట్: డైరెక్ట్ యాక్సెస్ నిల్వ"
+   },
+   "menu_item_flowchart_display": {
+      "message": "ఫ్లోచార్ట్: ప్రదర్శన"
+   },
+   "menu_item_flowchart_document": {
+      "message": "ఫ్లోచార్ట్: పత్రం"
+   },
+   "menu_item_flowchart_extract": {
+      "message": "ఫ్లోచార్ట్: సంగ్రహణ"
+   },
+   "menu_item_flowchart_internal_storage": {
+      "message": "ఫ్లోచార్ట్: అంతర్గత నిల్వ"
+   },
+   "menu_item_flowchart_magnetic_disk": {
+      "message": "ఫ్లోచార్ట్: అయస్కాంత డిస్క్"
+   },
+   "menu_item_flowchart_manual_input": {
+      "message": "ఫ్లోచార్ట్: మాన్యువల్ ఇన్‌పుట్"
+   },
+   "menu_item_flowchart_manual_operation": {
+      "message": "ఫ్లోచార్ట్: మాన్యువల్ చర్య"
+   },
+   "menu_item_flowchart_merge": {
+      "message": "ఫ్లోచార్ట్: విలీనం"
+   },
+   "menu_item_flowchart_multidocument": {
+      "message": "ఫ్లోచార్ట్: బహుళపత్రం"
+   },
+   "menu_item_flowchart_off_page_connector": {
+      "message": "ఫ్లోచార్ట్: ఆఫ్‌-పేజీ కనెక్టర్"
+   },
+   "menu_item_flowchart_or": {
+      "message": "ఫ్లోచార్ట్: ఆర్"
+   },
+   "menu_item_flowchart_predefined_process": {
+      "message": "ఫ్లోచార్ట్: పూర్వనిర్వచిత విధానం"
+   },
+   "menu_item_flowchart_preparation": {
+      "message": "ఫ్లోచార్ట్: తయారీ"
+   },
+   "menu_item_flowchart_process": {
+      "message": "ఫ్లోచార్ట్: ప్రక్రియ"
+   },
+   "menu_item_flowchart_punched_tape": {
+      "message": "ఫ్లోచార్ట్: రంధ్రాలు ఉన్న టేప్"
+   },
+   "menu_item_flowchart_sequential_access_storage": {
+      "message": "ఫ్లోచార్ట్: పరంపరానుగత యాక్సెస్ నిల్వ"
+   },
+   "menu_item_flowchart_sort": {
+      "message": "ఫ్లోచార్ట్: క్రమీకరణ"
+   },
+   "menu_item_flowchart_stored_data": {
+      "message": "ఫ్లోచార్ట్: నిల్వ చేసిన డేటా"
+   },
+   "menu_item_flowchart_summing_junction": {
+      "message": "ఫ్లోచార్ట్: సారాంశ కూడలి"
+   },
+   "menu_item_flowchart_terminator": {
+      "message": "ఫ్లోచార్ట్: టెర్మినేటర్"
+   },
+   "menu_item_folded_corner": {
+      "message": "మడిచిన మూల"
+   },
+   "menu_item_frame": {
+      "message": "ఫ్రేమ్"
+   },
+   "menu_item_half_frame": {
+      "message": "సగం ఫ్రేమ్"
+   },
+   "menu_item_heart": {
+      "message": "హృదయ చిహ్నం"
+   },
+   "menu_item_help_center": {
+      "message": "సహాయ కేంద్రం"
+   },
+   "menu_item_heptagon": {
+      "message": "సప్తభుజి"
+   },
+   "menu_item_hexagon": {
+      "message": "షడ్భుజి"
+   },
+   "menu_item_hideslide": {
+      "message": "స్లయిడ్‌ను దాచు"
+   },
+   "menu_item_insert_column": {
+      "message": "నిలువు వరుస"
+   },
+   "menu_item_insert_image": {
+      "message": "చిత్రం"
+   },
+   "menu_item_insert_row": {
+      "message": "అడ్డు వరుస"
+   },
+   "menu_item_insert_text_box": {
+      "message": "వచన పెట్టె"
+   },
+   "menu_item_insertslide": {
+      "message": "కొత్త స్లయిడ్"
+   },
+   "menu_item_italic": {
+      "message": "ఇటాలిక్"
+   },
+   "menu_item_keyboard_shortcuts": {
+      "message": "కీబోర్డ్ సత్వరమార్గాలు"
+   },
+   "menu_item_l_shape": {
+      "message": "L-ఆకారం"
+   },
+   "menu_item_left_arrow": {
+      "message": "ఎడమ బాణం"
+   },
+   "menu_item_left_arrow_callout": {
+      "message": "ఎడమ బాణం కాల్అవుట్"
+   },
+   "menu_item_left_brace": {
+      "message": "ఎడమ బ్రేస్"
+   },
+   "menu_item_left_bracket": {
+      "message": "ఎడమ బ్రాకెట్"
+   },
+   "menu_item_left_right_arrow": {
+      "message": "ఎడమ-కుడి బాణం"
+   },
+   "menu_item_left_right_arrow_callout": {
+      "message": "ఎడమ-కుడి బాణం కాల్అవుట్"
+   },
+   "menu_item_left_right_up_arrow": {
+      "message": "ఎడమ-కుడి-పై బాణం"
+   },
+   "menu_item_left_up_arrow": {
+      "message": "ఎడమ-పై బాణం"
+   },
+   "menu_item_lightning_bolt": {
+      "message": "మెరుపు సూచక గుర్తు"
+   },
+   "menu_item_make_a_copy": {
+      "message": "కాపీని రూపొందించు…"
+   },
+   "menu_item_merge_all": {
+      "message": "అన్నీ విలీనం చేయి"
+   },
+   "menu_item_merge_cells": {
+      "message": "సెల్‌లను విలీనం చేయి"
+   },
+   "menu_item_merge_horizontally": {
+      "message": "అడ్డంగా విలీనం చేయి"
+   },
+   "menu_item_merge_vertically": {
+      "message": "నిలువుగా విలీనం చేయి"
+   },
+   "menu_item_minus": {
+      "message": "తీసివేత చిహ్నం"
+   },
+   "menu_item_moon": {
+      "message": "చంద్రుడు"
+   },
+   "menu_item_moveslidedown": {
+      "message": "స్లయిడ్‌ని కిందికి తరలించు"
+   },
+   "menu_item_moveslidetoend": {
+      "message": "స్లయిడ్‌ని చివరకు తరలించు"
+   },
+   "menu_item_moveslidetostart": {
+      "message": "స్లయిడ్‌ని ప్రారంభానికి తరలించు"
+   },
+   "menu_item_moveslideup": {
+      "message": "స్లయిడ్‌ని పైకి తరలించు"
+   },
+   "menu_item_multiply": {
+      "message": "గుణకారం"
+   },
+   "menu_item_new": {
+      "message": "కొత్తది"
+   },
+   "menu_item_no_symbol": {
+      "message": "వద్దు చిహ్నం"
+   },
+   "menu_item_not_equal": {
+      "message": "అసమానం గుర్తు"
+   },
+   "menu_item_notched_right_arrow": {
+      "message": "నొక్కిన గుర్తు ఉన్న కుడి బాణం"
+   },
+   "menu_item_number_format": {
+      "message": "సంఖ్య ఆకృతి"
+   },
+   "menu_item_number_menu": {
+      "message": "సంఖ్య"
+   },
+   "menu_item_numbering": {
+      "message": "$2లో $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "menu_item_octagon": {
+      "message": "అష్టభుజి"
+   },
+   "menu_item_open": {
+      "message": "తెరువు"
+   },
+   "menu_item_oval": {
+      "message": "గోళాకారం"
+   },
+   "menu_item_oval_callout": {
+      "message": "గోళాకార కాల్అవుట్"
+   },
+   "menu_item_parallelogram": {
+      "message": "సమాంతర చతుర్భుజం"
+   },
+   "menu_item_paste": {
+      "message": "అతికించు"
+   },
+   "menu_item_pentagon": {
+      "message": "పంచభుజి"
+   },
+   "menu_item_pie": {
+      "message": "వృత్త రూపం"
+   },
+   "menu_item_plaque": {
+      "message": "ఫలకం"
+   },
+   "menu_item_plus": {
+      "message": "కూడిక చిహ్నం"
+   },
+   "menu_item_present": {
+      "message": "ప్రస్తుతం"
+   },
+   "menu_item_print": {
+      "message": "ముద్రణ"
+   },
+   "menu_item_quad_arrow": {
+      "message": "చతుర్భుజ బాణం"
+   },
+   "menu_item_quad_arrow_callout": {
+      "message": "చతుర్భజ బాణం కాల్అవుట్"
+   },
+   "menu_item_rectangle": {
+      "message": "దీర్ఘచతురస్రం"
+   },
+   "menu_item_rectangular_callout": {
+      "message": "దీర్ఘచతురస్ర కాల్అవుట్"
+   },
+   "menu_item_redo": {
+      "message": "చర్యను పునరావృతం చేయి"
+   },
+   "menu_item_regular_pentagon": {
+      "message": "సాధారణ పంచభుజి"
+   },
+   "menu_item_report_abuse": {
+      "message": "దుర్వినియోగాన్ని నివేదించు"
+   },
+   "menu_item_report_issue": {
+      "message": "సమస్యను నివేదించు"
+   },
+   "menu_item_right_arrow": {
+      "message": "కుడి బాణం"
+   },
+   "menu_item_right_arrow_callout": {
+      "message": "కుడి బాణం కాల్అవుట్"
+   },
+   "menu_item_right_brace": {
+      "message": "కుడి బ్రేస్"
+   },
+   "menu_item_right_bracket": {
+      "message": "కుడి బ్రాకెట్"
+   },
+   "menu_item_right_triangle": {
+      "message": "లంబకోణ త్రిభుజం"
+   },
+   "menu_item_round_diagonal_corner_rectangle": {
+      "message": "వృత్తాకార వికర్ణ మూల గల దీర్ఘచతురస్రం"
+   },
+   "menu_item_round_same_side_corner_rectangle": {
+      "message": "గుండ్రని సమాన భుజ మూలాలు గల దీర్ఘచతురస్రం"
+   },
+   "menu_item_round_single_corner_rectangle": {
+      "message": "ఒక మూలన వృత్తాకారంలో ఉండే దీర్ఘచతురస్రం"
+   },
+   "menu_item_rounded_rectangle": {
+      "message": "వృత్తాకార దీర్ఘచతురస్రం"
+   },
+   "menu_item_rounded_rectangular_callout": {
+      "message": "వృత్తాకార దీర్ఘచతురస్ర కాల్అవుట్"
+   },
+   "menu_item_save": {
+      "message": "సేవ్ చేయి"
+   },
+   "menu_item_save_as": {
+      "message": "ఇలా సేవ్ చేయి..."
+   },
+   "menu_item_shapes": {
+      "message": "ఆకారాలు"
+   },
+   "menu_item_share": {
+      "message": "భాగస్వామ్యం చేయి"
+   },
+   "menu_item_smiley_face": {
+      "message": "నవ్వుతున్న ముఖం"
+   },
+   "menu_item_snip_and_round_single_corner_rectangle": {
+      "message": "కత్తిరించిన మరియు ఒక మూలన వృత్తాకారంలో ఉన్న దీర్ఘచతురస్రం"
+   },
+   "menu_item_snip_diagonal_corner_rectangle": {
+      "message": "కత్తిరించిన వికర్ణ మూల గల దీర్ఘచతురస్రం"
+   },
+   "menu_item_snip_same_side_corner_rectangle": {
+      "message": "కత్తిరించిన సమాన భుజ మూలలు గల దీర్ఘచతురస్రం"
+   },
+   "menu_item_snip_single_corner_rectangle": {
+      "message": "కత్తిరించిన ఏక మూల దీర్ఘచతురస్రం"
+   },
+   "menu_item_strikethrough": {
+      "message": "కొట్టివేత"
+   },
+   "menu_item_striped_right_arrow": {
+      "message": "గీతల కుడి బాణం"
+   },
+   "menu_item_subscript": {
+      "message": "సబ్‌స్క్రిప్ట్"
+   },
+   "menu_item_sun": {
+      "message": "సూర్యుడు"
+   },
+   "menu_item_superscript": {
+      "message": "సూపర్‌స్క్రిప్ట్"
+   },
+   "menu_item_teardrop": {
+      "message": "కన్నీటి చుక్క"
+   },
+   "menu_item_trapezoid": {
+      "message": "సమలంబ చతుర్భుజము"
+   },
+   "menu_item_triangle": {
+      "message": "త్రిభుజం"
+   },
+   "menu_item_u_turn_arrow": {
+      "message": "U-మలుపు బాణం"
+   },
+   "menu_item_underline": {
+      "message": "క్రింది గీత"
+   },
+   "menu_item_undo": {
+      "message": "చర్యరద్దు చేయి"
+   },
+   "menu_item_unhideslide": {
+      "message": "స్లయిడ్‌ను చూపు"
+   },
+   "menu_item_unmerge": {
+      "message": "విలీనాన్ని తీసివేయి"
+   },
+   "menu_item_up_arrow": {
+      "message": "ఎగువ బాణం"
+   },
+   "menu_item_up_arrow_callout": {
+      "message": "పైకి బాణం కాల్అవుట్"
+   },
+   "menu_item_up_down_arrow": {
+      "message": "పైకి-క్రిందికి బాణం"
+   },
+   "menu_item_version_info": {
+      "message": "సంస్కరణ సమాచారం"
+   },
+   "menu_item_word_count": {
+      "message": "పద గణన"
+   },
+   "menu_item_wrap_text": {
+      "message": "వచనాన్ని సర్దుబాటు చేయి"
+   },
+   "menu_item_zoom_in": {
+      "message": "దగ్గరకు జూమ్ చేయి"
+   },
+   "menu_item_zoom_out": {
+      "message": "దూరంగా జూమ్ చేయి"
+   },
+   "merge_all_aria_spoken_word": {
+      "message": "అన్నీ విలీనం చేయి"
+   },
+   "merge_aria_spoken_word": {
+      "message": "విలీనం చేయి"
+   },
+   "merge_dropdown_aria_spoken_word": {
+      "message": "విలీనం డ్రాప్ డౌన్ మెను"
+   },
+   "merge_horizontally_aria_spoken_word": {
+      "message": "అడ్డంగా విలీనం చేయి"
+   },
+   "merge_vertically_aria_spoken_word": {
+      "message": "నిలువుగా విలీనం చేయి"
+   },
+   "modify_shape_transform_error_msg": {
+      "message": "ఆకార రూపాలను సవరిస్తున్నప్పుడు లోపం సంభవించింది"
+   },
+   "modify_shape_transform_error_short_msg": {
+      "message": "ఆకార రూపాలను సవరిస్తున్నప్పుడు లోపం ఏర్పడింది."
+   },
+   "modifyshapefillcolor_aria_spoken_word": {
+      "message": "ఆకార రంగు పూరింపు డ్రాప్ డౌన్ జాబితా"
+   },
+   "modifyshapeoutlinecolor_aria_spoken_word": {
+      "message": "ఆకార చుట్టుగీత రంగు డ్రాప్ డౌన్ జాబితా"
+   },
+   "modifyshapeoutlinestyle_aria_spoken_word": {
+      "message": "ఆకార చుట్టుగీత శైలి డ్రాప్ డౌన్ జాబితా"
+   },
+   "modifyshapeoutlinewidth_aria_spoken_word": {
+      "message": "ఆకార చుట్టుగీత వెడల్పు డ్రాప్ డౌన్ జాబితా"
+   },
+   "nacl_load_error_details": {
+      "message": "పొడిగింపుని మళ్లీ ఇన్‌స్టాల్ చేసి ప్రయత్నించండి."
+   },
+   "nacl_load_error_title": {
+      "message": "అనువర్తనాన్ని లోడ్ చేయడంలో సమస్య ఏర్పడింది."
+   },
+   "non_permissible_sheet_name_details": {
+      "message": "క్రింది అక్షరాలు అనుమతించబడవు * ? [ ] ' ; : షీట్ పేరు పొడవు 31 అక్షరాల కంటే ఎక్కువ ఉండకూడదు షీట్ పేరు ఖాళీగా ఉంచకూడదు"
+   },
+   "non_permissible_sheet_name_title": {
+      "message": "షీట్ పేరును మారుస్తున్నప్పుడు మీరు చెల్లని పేరును నమోదు చేసారు"
+   },
+   "not_pressed": {
+      "message": "నొక్కబడలేదు"
+   },
+   "notselected": {
+      "message": "ఎంచుకోబడలేదు"
+   },
+   "number_format_label_currency_symbol": {
+      "message": "కరెన్సీ చిహ్నం"
+   },
+   "number_format_label_date_type": {
+      "message": "రకం"
+   },
+   "number_format_label_decimal_places": {
+      "message": "దశాంశ స్థానాలు"
+   },
+   "number_format_label_general": {
+      "message": "సాధారణం"
+   },
+   "number_format_label_negative_numbers": {
+      "message": "రుణాత్మక సంఖ్యలు"
+   },
+   "number_format_label_other": {
+      "message": "ఇతరం"
+   },
+   "number_format_label_red": {
+      "message": "ఎరుపు"
+   },
+   "number_format_label_text": {
+      "message": "వచనం"
+   },
+   "number_format_label_use_1000_separator": {
+      "message": "1000 విభాగినిని ఉపయోగించండి"
+   },
+   "number_format_tab_accounting": {
+      "message": "అకౌంటింగ్"
+   },
+   "number_format_tab_currency": {
+      "message": "కరెన్సీ"
+   },
+   "number_format_tab_date_time": {
+      "message": "తేదీ & సమయం"
+   },
+   "number_format_tab_general": {
+      "message": "సాధారణం"
+   },
+   "number_format_tab_number": {
+      "message": "సంఖ్య"
+   },
+   "number_format_tab_percentage": {
+      "message": "శాతం"
+   },
+   "number_format_tab_scientific": {
+      "message": "శాస్త్రీయ"
+   },
+   "number_format_title": {
+      "message": "సంఖ్య ఆకృతులు"
+   },
+   "ocm_promo_conversion_shortmsg": {
+      "message": "మీరు Office అనుకూలత మోడ్‌లో ఉన్నారు"
+   },
+   "office_compatibility_mode": {
+      "message": "Office అనుకూలత మోడ్"
+   },
+   "office_first_time_confirm": {
+      "message": "అర్థమైంది"
+   },
+   "office_first_time_message_p1": {
+      "message": "మీరు ఇప్పుడు డాక్స్, షీట్‌లు మరియు స్లయిడ్‌లను ఉపయోగించి మీ హార్డ్ డ్రైవ్, Google డిస్క్, Gmail మరియు మరిన్నింటిలోని Word, Excel మరియు Powerpoint ఫైల్‌లను సవరించగలరు."
+   },
+   "office_first_time_message_p2": {
+      "message": "మీరు చేసే అన్ని సవరణలు స్వయంచాలకంగా సేవ్ చేయబడతాయి మరియు మీరు ఎల్లప్పుడూ అసలు ఆకృతిగా కూడా సేవ్ చేయవచ్చు."
+   },
+   "office_first_time_title": {
+      "message": "డాక్స్, షీట్‌లు మరియు స్లయిడ్‌ల కోసం Office సవరణ"
+   },
+   "offline_error_msg": {
+      "message": "మీరు ఆఫ్‌లైన్‌లో ఉన్నట్లుగా కనిపిస్తోంది. దయచేసి మీ ఇంటర్నెట్ కనెక్షన్‌ను తనిఖీ చేసి, మళ్లీ ప్రయత్నించండి. మీరు ఆన్‌లైన్‌లో ఉన్నప్పటికీ కూడా ఈ లోపం ఎదుర్కొంటుంటే, దయచేసి దిగువ సమస్యను నివేదించండి."
+   },
+   "offline_error_short_msg": {
+      "message": "అయ్యో. మీరు అభ్యర్థించిన ఫైల్‌ను మేము తెరవలేకపోయాము."
+   },
+   "option_key": {
+      "message": "ఎంపిక"
+   },
+   "out_of_memory_error_msg": {
+      "message": "ఈ ట్యాబ్‌ను మూసివేసి, మీ ఫైల్‌ను మళ్లీ తెరిచి ప్రయత్నించండి లేదా మీ బ్రౌజర్‌లో తెరిచి ఉన్న ఇతర ట్యాబ్‌లను మూసివేసి ప్రయత్నించండి. ఈ సమస్య కొనసాగితే, దయచేసి దిగువన సమస్యను నివేదించండి."
+   },
+   "out_of_memory_error_short_msg": {
+      "message": "అయ్యో. మెమరీ నిండింది."
+   },
+   "page_count_label": {
+      "message": "పేజీలు"
+   },
+   "partial_cell_merge_error_msg": {
+      "message": "విలీనం చేయబడిన గడి భాగాన్ని మార్చలేరు."
+   },
+   "partial_cell_merge_error_short_msg": {
+      "message": "లోపం"
+   },
+   "point_ocm_promo_conversion_msg": {
+      "message": "మీరు Office ఫైల్‌లను నేరుగా స్లయిడ్‌ల్లో సవరించవచ్చు మరియు సేవ్ చేయవచ్చు. సవరించడం కోసం లేదా వ్యాఖ్యలను జోడించడం కోసం ఇతరులను ఆహ్వానించడానికి, Google స్లయిడ్‌లుగా సేవ్ చేయండి. మీరు ఎప్పుడైనా అసలు ఆకృతికి తిరిగి సేవ్ చేయవచ్చు."
+   },
+   "point_printing_warning_msg": {
+      "message": "మేము దీన్ని పరిష్కరించడానికి పని చేస్తున్నాము."
+   },
+   "point_printing_warning_short_msg": {
+      "message": "ప్రస్తుతానికి, మీరు వీక్షిస్తున్న స్లయిడ్‌ను మాత్రమే ముద్రించగలరు."
+   },
+   "point_share_promo_conversion_msg": {
+      "message": "ఈ ప్రెజెంటేషన్‌ని భాగస్వామ్యం చేయడానికి ప్రయత్నిస్తున్నారా? దీన్ని మీతో కలిసి సవరించేందుకు ఇతరులను ఆహ్వానించడానికి, దీన్ని Google స్లయిడ్‌లకి మార్చండి."
+   },
+   "pointtogglebullet_aria_spoken_word": {
+      "message": "బుల్లెట్‌లతో సూచించే జాబితా"
+   },
+   "pointtogglenumber_aria_spoken_word": {
+      "message": "సంఖ్యలతో సూచించే జాబితా"
+   },
+   "present_button": {
+      "message": "ప్రదర్శించు"
+   },
+   "pressed": {
+      "message": "నొక్కబడింది"
+   },
+   "print_aria_spoken_word": {
+      "message": "ముద్రించు"
+   },
+   "qowt_doc_mismatch_text": {
+      "message": "మీ పత్రం ఆకృతీకరణ సమయంలో లోపాన్ని ఎదుర్కొంది.\n\nమీ మార్పులను తిరిగి పొందడానికి పేజీని మళ్లీ లోడ్ చేయండి."
+   },
+   "qowt_doc_mismatch_title": {
+      "message": "అయ్యో!"
+   },
+   "qowt_hyperlink_activate_short_key": {
+      "message": "లింక్‌ను సక్రియం చేయడానికి ALT + Enter నొక్కండి."
+   },
+   "qowt_hyperlink_dialog": {
+      "message": "హైపర్‌లింక్"
+   },
+   "qowt_hyperlink_dialog_message_text": {
+      "message": "ఈ లింక్‌కు వెళ్లండి:"
+   },
+   "qowt_modal_confirm_dialog_affirmative_button": {
+      "message": "సరే"
+   },
+   "qowt_modal_confirm_dialog_negative_button": {
+      "message": "రద్దు చేయి"
+   },
+   "qowt_modal_dialog_close_button": {
+      "message": "మూసివేయి"
+   },
+   "qowt_modal_dialog_coming_soon_title": {
+      "message": "త్వరలో అందించబడుతుంది!"
+   },
+   "qowt_modal_dialog_link_text": {
+      "message": "మరింత తెలుసుకోండి"
+   },
+   "qowt_modal_dialog_ok_button": {
+      "message": "సరే"
+   },
+   "qowt_modal_dialog_reload_button": {
+      "message": "మళ్లీ లోడ్ చేయి"
+   },
+   "qowt_modal_dialog_textbox_editing_description": {
+      "message": "క్షమించండి, వచన పెట్టెల్లో ఉండే వచనాన్ని సవరించడానికి మేము మద్దతు ఇవ్వము."
+   },
+   "qowt_modal_dialog_textbox_editing_link": {
+      "message": "దయచేసి దీన్ని పరిష్కరించండి!"
+   },
+   "qowt_modal_info_dialog_affirmative_button": {
+      "message": "సరే"
+   },
+   "qowt_modal_multi_choice_remember_choice": {
+      "message": "నా ఎంపికను గుర్తుంచుకో"
+   },
+   "qowt_modal_query_dialog_affirmative_button": {
+      "message": "అవును"
+   },
+   "qowt_modal_query_dialog_negative_button": {
+      "message": "కాదు"
+   },
+   "qowt_modal_query_dialog_reload_button": {
+      "message": "మళ్లీ లోడ్ చేయి"
+   },
+   "qowt_modal_single_choice_remember_choice": {
+      "message": "నాకు మళ్లీ గుర్తు చేయవద్దు"
+   },
+   "read_only": {
+      "message": "చదవడానికి మాత్రమే"
+   },
+   "redo_aria_spoken_word": {
+      "message": "చర్యను పునరావృతం చేయి"
+   },
+   "right_pointed_submenu": {
+      "message": "ఉపమెనుతో కుడి పాయింటర్"
+   },
+   "save_aria_spoken_word": {
+      "message": "సేవ్ చేయి"
+   },
+   "save_now": {
+      "message": "ఇప్పుడే సేవ్ చేయండి"
+   },
+   "security_error_msg": {
+      "message": "మీరు లోపాన్ని ఎదుర్కోవడం కొనసాగితే, దయచేసి దిగువ సమస్యను నివేదించండి."
+   },
+   "security_error_short_msg": {
+      "message": "అయ్యో. మీరు అభ్యర్థించిన ఫైల్‌ను మేము తెరవలేకపోయాము. ఈ సమయంలో, మేము అజ్ఞాత మోడ్‌లో ఫైల్‌లను తెరవడానికి మద్దతివ్వము. దయచేసి మీ ఫైల్‌ను అజ్ఞాతం కాని మోడ్‌లో తెరవండి."
+   },
+   "selected": {
+      "message": "ఎంచుకోబడింది"
+   },
+   "set_sheet_info_error_msg": {
+      "message": "షీట్ పేరును నవీకరిస్తున్నప్పుడు లోపం సంభవించింది"
+   },
+   "share_button": {
+      "message": "భాగస్వామ్యం చేయి"
+   },
+   "share_promo_conversion_shortmsg": {
+      "message": "ఇతరులతో కలిసి సవరించండి"
+   },
+   "sheet_delete_column_error_msg": {
+      "message": "అయ్యో. నిలువు వరుసను తొలగిస్తున్నప్పుడు లోపం ఏర్పడింది. దయచేసి మళ్లీ ప్రయత్నించండి."
+   },
+   "sheet_delete_row_error_msg": {
+      "message": "అయ్యో. అడ్డు వరుసను తొలగిస్తున్నప్పుడు లోపం ఏర్పడింది. దయచేసి మళ్లీ ప్రయత్నించండి."
+   },
+   "sheet_format_cells_error_msg": {
+      "message": "ఆకృతీకరణ లోపం ఉంది. దయచేసి మళ్లీ ప్రయత్నించండి."
+   },
+   "sheet_insert_column_error_msg": {
+      "message": "అయ్యో. నిలువు వరుసను చొప్పిస్తున్నప్పుడు లోపం ఏర్పడింది. దయచేసి మళ్లీ ప్రయత్నించండి."
+   },
+   "sheet_insert_column_exceed_error_msg": {
+      "message": "దురదృష్టవశాత్తూ, మీరు ఈ స్ప్రెడ్‌షీట్‌లో మరిన్ని నిలువు వరుసలను చొప్పించలేరు ఎందుకంటే మేము 256 నిలువు వరుసలకు మాత్రమే మద్దతిస్తాము."
+   },
+   "sheet_insert_column_exceed_error_short_msg": {
+      "message": "క్షమించండి!"
+   },
+   "sheet_insert_row_error_msg": {
+      "message": "అయ్యో. అడ్డు వరుసను చొప్పిస్తున్నప్పుడు లోపం ఏర్పడింది. దయచేసి మళ్లీ ప్రయత్నించండి."
+   },
+   "sheet_insert_row_exceed_error_msg": {
+      "message": "దురదృష్టవశాత్తూ, మీరు ఈ స్ప్రెడ్‌షీట్‌లో మరిన్ని అడ్డు వరుసలను చొప్పించలేరు ఎందుకంటే మేము 65536 అడ్డు వరుసలకు మాత్రమే మద్దతిస్తాము."
+   },
+   "sheet_insert_row_exceed_error_short_msg": {
+      "message": "క్షమించండి!"
+   },
+   "sheet_ocm_promo_conversion_msg": {
+      "message": "మీరు Office ఫైల్‌లను నేరుగా షీట్‌ల్లో సవరించవచ్చు మరియు సేవ్ చేయవచ్చు. సవరించడం కోసం మరియు వ్యాఖ్యలను జోడించడం కోసం ఇతరులను ఆహ్వానించడానికి, Google షీట్‌లుగా సేవ్ చేయండి. మీరు ఎప్పుడైనా అసలు ఆకృతికి తిరిగి సేవ్ చేయవచ్చు."
+   },
+   "sheet_set_cell_content_invalid_error_msg": {
+      "message": "మీరు నమోదు చేసిన సూత్రంలో లోపం ఉంది. దయచేసి లోపాన్ని సరి చేయండి."
+   },
+   "sheet_share_promo_conversion_msg": {
+      "message": "ఈ స్ప్రెడ్‌షీట్‌ని భాగస్వామ్యం చేయడానికి ప్రయత్నిస్తున్నారా? దీన్ని మీతో కలిసి సవరించేందుకు ఇతరులను ఆహ్వానించడానికి, దీన్ని Google షీట్‌లకి మార్చండి."
+   },
+   "sheet_sort_error_title": {
+      "message": "ఈ గడి పరిధిని క్రమబద్ధీకరించడంలో లోపం ఏర్పడింది."
+   },
+   "sheet_sort_failure_msg": {
+      "message": "ఈ గడి పరిధిని క్రమబద్ధీకరించడంలో లోపం ఏర్పడింది."
+   },
+   "sheet_sort_merged_cell_error": {
+      "message": "మీరు విలీనం చేయబడిన గడులను క్రమబద్ధీకరించలేరు."
+   },
+   "sheet_sort_merged_cell_error_title": {
+      "message": "ఈ గడి పరిధిని క్రమబద్ధీకరించడంలో లోపం ఏర్పడింది."
+   },
+   "sheet_sort_one_cell_error": {
+      "message": "దయచేసి క్రమబద్ధీకరించడానికి ఒకటి కంటే ఎక్కువ గడులను ఎంచుకోండి."
+   },
+   "sheet_sort_one_cell_error_title": {
+      "message": "ఈ గడి పరిధిని క్రమబద్ధీకరించడంలో లోపం ఏర్పడింది."
+   },
+   "shift_key": {
+      "message": "షిఫ్ట్"
+   },
+   "shortcut": {
+      "message": "సత్వరమార్గం $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sign_in": {
+      "message": "సైన్ ఇన్ చేయి"
+   },
+   "slash_key": {
+      "message": "స్లాష్"
+   },
+   "something_not_right": {
+      "message": "ఏదో తప్పు జరిగింది"
+   },
+   "storage_quota_exceed_error_msg": {
+      "message": "Chromeలో ఏవైనా Office పత్రాలను తెరిచి ఉంటే వాటిని మూసివేసి, ఆపై మళ్లీ ప్రయత్నించండి. సమస్య కొనసాగితే, సమస్యను దిగువన నివేదించండి."
+   },
+   "storage_quota_exceed_error_short_msg": {
+      "message": "క్షమించండి, మేము ఫైల్‌ను తెరవలేకపోయాము."
+   },
+   "strikethrough_aria_spoken_word": {
+      "message": "కొట్టివేత"
+   },
+   "style_aria_spoken_word": {
+      "message": "శైలి డ్రాప్ డౌన్ జాబితా"
+   },
+   "submenu_spoken_text": {
+      "message": "$1 $2 $3 $4",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         }
+      }
+   },
+   "temporary_unable_to_open_error_msg": {
+      "message": "తర్వాత మళ్లీ ప్రయత్నించండి లేదా సమస్య కొనసాగితే, సమస్యను దిగువన నివేదించండి."
+   },
+   "temporary_unable_to_open_error_short_msg": {
+      "message": "క్షమించండి, మేము తాత్కాలికంగా ఫైల్‌ను తెరవలేకపోయాము."
+   },
+   "textaligncenter_aria_spoken_word": {
+      "message": "వచనాన్ని మధ్యకు సమలేఖనం చేయి"
+   },
+   "textalignjustify_aria_spoken_word": {
+      "message": "వచన సమలేఖనాన్ని సర్దుబాటు చేయి"
+   },
+   "textalignleft_aria_spoken_word": {
+      "message": "వచనాన్ని ఎడమవైపుకు సమలేఖనం చేయి"
+   },
+   "textalignright_aria_spoken_word": {
+      "message": "వచనాన్ని కుడివైపుకు సమలేఖనం చేయి"
+   },
+   "textcolor_aria_spoken_word": {
+      "message": "వచన రంగు డ్రాప్ డౌన్ జాబితా"
+   },
+   "textual_edit_error_msg": {
+      "message": "మీ పత్రం ఆకృతీకరణ సమయంలో లోపాన్ని ఎదుర్కొంది.\n\nమీ మార్పులను పునరుద్ధరించడానికి పేజీని మళ్లీ లోడ్ చేయండి."
+   },
+   "textual_edit_error_short_msg": {
+      "message": "అయ్యో!"
+   },
+   "title_error_msg_for_merge_cells": {
+      "message": "సమస్య ఏర్పడింది"
+   },
+   "title_msg_merging_multiple_cells_with_text": {
+      "message": "హెచ్చరిక!"
+   },
+   "togglebulleted_aria_spoken_word": {
+      "message": "బుల్లెట్‌లతో సూచించే జాబితా"
+   },
+   "togglenumbered_aria_spoken_word": {
+      "message": "సంఖ్యలతో సూచించే జాబితా"
+   },
+   "togglezoom_aria_spoken_word": {
+      "message": "టోగుల్ చేయబడిన జూమ్"
+   },
+   "tooltip_background_color": {
+      "message": "రంగు పూరింపు"
+   },
+   "tooltip_bold": {
+      "message": "బోల్డ్"
+   },
+   "tooltip_border": {
+      "message": "అంచులు"
+   },
+   "tooltip_border_all": {
+      "message": "అన్ని అంచులు"
+   },
+   "tooltip_border_bottom": {
+      "message": "దిగువ అంచులు"
+   },
+   "tooltip_border_horizontal": {
+      "message": "సమతల అంచులు"
+   },
+   "tooltip_border_inner": {
+      "message": "లోపలి అంచులు"
+   },
+   "tooltip_border_left": {
+      "message": "ఎడమవైపు అంచులు"
+   },
+   "tooltip_border_none": {
+      "message": "అంచులు వద్దు"
+   },
+   "tooltip_border_outer": {
+      "message": "వెలుపలి అంచులు"
+   },
+   "tooltip_border_right": {
+      "message": "కుడివైపు అంచులు"
+   },
+   "tooltip_border_top": {
+      "message": "ఎగువ అంచులు"
+   },
+   "tooltip_border_vertical": {
+      "message": "నిలువు అంచులు"
+   },
+   "tooltip_cell_align": {
+      "message": "గడి సమలేఖనం"
+   },
+   "tooltip_cell_h_align_center": {
+      "message": "అడ్డంగా మధ్యకు"
+   },
+   "tooltip_cell_h_align_left": {
+      "message": "అడ్డంగా ఎడమకు"
+   },
+   "tooltip_cell_h_align_right": {
+      "message": "అడ్డంగా కుడికి"
+   },
+   "tooltip_cell_v_align_bottom": {
+      "message": "నిలువుగా దిగువకు"
+   },
+   "tooltip_cell_v_align_center": {
+      "message": "నిలువుగా మధ్యకు"
+   },
+   "tooltip_cell_v_align_top": {
+      "message": "నిలువుగా ఎగువకు"
+   },
+   "tooltip_download": {
+      "message": "డౌన్‌లోడ్ చేయి"
+   },
+   "tooltip_dropdown_init_add_shape": {
+      "message": "ఆకారం"
+   },
+   "tooltip_fill_color": {
+      "message": "వచన రంగు"
+   },
+   "tooltip_font_face": {
+      "message": "ఫాంట్"
+   },
+   "tooltip_font_size": {
+      "message": "ఫాంట్ పరిమాణం"
+   },
+   "tooltip_highlight_color": {
+      "message": "ప్రముఖంగా చూపే రంగు"
+   },
+   "tooltip_init_add_shape": {
+      "message": "వచన పెట్టె"
+   },
+   "tooltip_italic": {
+      "message": "ఇటాలిక్"
+   },
+   "tooltip_merge": {
+      "message": "గడులను విలీనం చేయి"
+   },
+   "tooltip_merge_dropdown": {
+      "message": "విలీనం రకాన్ని ఎంచుకోండి..."
+   },
+   "tooltip_modify_shape_fill_color": {
+      "message": "రంగు పూరింపు"
+   },
+   "tooltip_modify_shape_outline_color": {
+      "message": "పంక్తి రంగు"
+   },
+   "tooltip_modify_shape_outline_style": {
+      "message": "లైన్ డాష్"
+   },
+   "tooltip_modify_shape_outline_width": {
+      "message": "పంక్తి మందం"
+   },
+   "tooltip_move_slide": {
+      "message": "$1 స్లయిడ్‌(ల)ను తరలించండి",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "tooltip_point": {
+      "message": "స్లయిడ్‌ల హోమ్"
+   },
+   "tooltip_point_toggle_bullet": {
+      "message": "బుల్లెట్‌లతో సూచించే జాబితా"
+   },
+   "tooltip_point_toggle_number": {
+      "message": "సంఖ్యలతో సూచించే జాబితా"
+   },
+   "tooltip_presentation": {
+      "message": "ప్రెజెంటేషన్"
+   },
+   "tooltip_print": {
+      "message": "ముద్రించు"
+   },
+   "tooltip_redo": {
+      "message": "చర్యను పునరావృతం చేయి"
+   },
+   "tooltip_share": {
+      "message": "భాగస్వామ్యం చేయి"
+   },
+   "tooltip_share_for_macroenabledfiles": {
+      "message": "మ్యాక్రో ప్రారంభించబడిన ఫైల్‌లను Google డిస్క్ నుండి మాత్రమే భాగస్వామ్యం చేయగలరు"
+   },
+   "tooltip_sheet": {
+      "message": "షీట్‌ల హోమ్"
+   },
+   "tooltip_strikethrough": {
+      "message": "కొట్టివేత"
+   },
+   "tooltip_style": {
+      "message": "శైలులు"
+   },
+   "tooltip_text_align_center": {
+      "message": "మధ్యకు"
+   },
+   "tooltip_text_align_justify": {
+      "message": "సర్దుబాటు చేయి"
+   },
+   "tooltip_text_align_left": {
+      "message": "ఎడమవైపుకు సమలేఖనం చేయి"
+   },
+   "tooltip_text_align_right": {
+      "message": "కుడివైపుకు సమలేఖనం చేయి"
+   },
+   "tooltip_text_color": {
+      "message": "వచన రంగు"
+   },
+   "tooltip_toggle_bulleted": {
+      "message": "బుల్లెట్‌లతో సూచించే జాబితా"
+   },
+   "tooltip_toggle_numbered": {
+      "message": "సంఖ్యలతో సూచించే జాబితా"
+   },
+   "tooltip_toggle_zoom": {
+      "message": "జూమ్‌ను టోగుల్ చేయి"
+   },
+   "tooltip_underline": {
+      "message": "క్రింది గీత"
+   },
+   "tooltip_undo": {
+      "message": "చర్యరద్దు చేయి"
+   },
+   "tooltip_word": {
+      "message": "డాక్స్ హోమ్"
+   },
+   "tooltip_wrap_text": {
+      "message": "వచనాన్ని సర్దుబాటు చేయి"
+   },
+   "tooltip_zoom_in": {
+      "message": "దగ్గరకు జూమ్ చేయి"
+   },
+   "tooltip_zoom_out": {
+      "message": "దూరంగా జూమ్ చేయి"
+   },
+   "try_again": {
+      "message": "మళ్లీ ప్రయత్నించండి"
+   },
+   "unable_to_execute_msg": {
+      "message": "ఈ పత్రాన్ని తెరవడం సాధ్యపడలేదు."
+   },
+   "underline_aria_spoken_word": {
+      "message": "క్రింది గీత"
+   },
+   "undo_aria_spoken_word": {
+      "message": "చర్యరద్దు చేయి"
+   },
+   "unmerge_aria_spoken_word": {
+      "message": "విలీనాన్ని తీసివేయి"
+   },
+   "unsaved_changes": {
+      "message": "మార్పులు సేవ్ చేయబడలేదు"
+   },
+   "unsaved_changes_warning": {
+      "message": "మీరు ఈ ఫైల్‌లో సేవ్ చేయని మార్పులను కలిగి ఉన్నారు. మీరు ఈ పేజీని సేవ్ చేయకుండా నిష్క్రమిస్తే, మీ పనిని పూర్తిగా కోల్పోతారు."
+   },
+   "unsupported_file_format_error_details_p1": {
+      "message": "దురదృష్టవశాత్తూ, ఈ ఫైల్ Microsoft® Office \"95 లేదా మునుపటి సంస్కరణలోని కంటెంట్‌ను కలిగి ఉంది, దీన్ని మేము తెరవలేము."
+   },
+   "unsupported_file_format_error_details_p2": {
+      "message": "మీరు ఫైల్‌ను Google డాక్స్‌కి మార్చాలనుకుంటే, దిగువ లింక్‌ను క్లిక్ చేయండి."
+   },
+   "unsupported_file_format_error_title": {
+      "message": "అయ్యో!"
+   },
+   "unsupported_link_message": {
+      "message": "క్షమించండి, మేము ప్రస్తుతం ఈ రకం URLలకు మద్దతివ్వము."
+   },
+   "up_key": {
+      "message": "పైకి"
+   },
+   "updated_shortcut_message": {
+      "message": "Google డాక్స్ ఉత్పత్తుల అంతటా ఒకే విధంగా ఉండేలా మా కీబోర్డ్ సత్వరమార్గాలను మేము అప్‌డేట్ చేసాము. సహాయంలో అప్‌డేట్ చేసిన సత్వరమార్గాలను చూడండి."
+   },
+   "updated_shortcut_title": {
+      "message": "అప్‌డేట్ చేసిన కీబోర్డ్ సత్వరమార్గాలు"
+   },
+   "version_info_msg": {
+      "message": "మీ Office అనుకూలత మోడ్ సంస్కరణ"
+   },
+   "word_binary_upsave_learnmore": {
+      "message": "మరింత తెలుసుకోండి"
+   },
+   "word_binary_upsave_msg": {
+      "message": "ఈ ఫైల్ మద్దతు లేని ఆకృతిలో ఉంది. దీన్ని సేవ్ చేసేందుకు, మరింత ఇటీవలి ఫైల్ ఆకృతికి దీన్ని మార్చడానికి మాకు మీ అనుమతి అవసరం మరియు మీ అసలు ఫైల్ ప్రభావితం చేయబడదు."
+   },
+   "word_binary_upsave_shortmsg": {
+      "message": "మీ పత్రాన్ని నవీకరించండి"
+   },
+   "word_count_label": {
+      "message": "పదాలు"
+   },
+   "word_count_title": {
+      "message": "పద గణన"
+   },
+   "word_ocm_promo_conversion_msg": {
+      "message": "మీరు Office ఫైల్‌లను నేరుగా డాక్స్‌లో సవరించవచ్చు మరియు సేవ్ చేయవచ్చు. సవరించడం కోసం లేదా వ్యాఖ్యలను జోడించడం కోసం ఇతరులను ఆహ్వానించడానికి, Google డాక్స్‌గా సేవ్ చేయండి. మీరు ఎప్పుడైనా అసలు ఆకృతికి తిరిగి సేవ్ చేయవచ్చు."
+   },
+   "word_share_promo_conversion_msg": {
+      "message": "ఈ పత్రాన్ని భాగస్వామ్యం చేయడానికి ప్రయత్నిస్తున్నారా? దీన్ని మీతో కలిసి సవరించేందుకు ఇతరులను ఆహ్వానించడానికి, దీన్ని Google డాక్స్‌కి మార్చండి."
+   },
+   "wraptext_aria_spoken_word": {
+      "message": "వచనాన్ని సర్దుబాటు చేయి"
+   },
+   "zoomin_aria_spoken_word": {
+      "message": "దగ్గరకు జూమ్ చేయి"
+   },
+   "zoomout_aria_spoken_word": {
+      "message": "దూరంగా జూమ్ చేయి"
+   }
+}

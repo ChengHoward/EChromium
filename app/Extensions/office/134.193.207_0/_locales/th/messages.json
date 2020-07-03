@@ -1,0 +1,2192 @@
+{
+   "action_create_user_feedback": {
+      "message": "รายงานปัญหา"
+   },
+   "alt_key": {
+      "message": "Alt"
+   },
+   "app_error_learn_more": {
+      "message": "ดูข้อมูลเพิ่มเติม"
+   },
+   "app_error_report_feedback": {
+      "message": "รายงานความคิดเห็น"
+   },
+   "app_icon_aria_spoken_word": {
+      "message": " หน้าแรก"
+   },
+   "app_nacl_crash_msg": {
+      "message": "ช่วยเราด้วยการรายงานปัญหาที่เกิดขึ้น"
+   },
+   "app_nacl_crash_report": {
+      "message": "รายงานปัญหา..."
+   },
+   "app_nacl_crash_title": {
+      "message": "อ๊ะ ไม่น่าจะเกิดเรื่องแบบนี้ได้ โหลดหน้าอีกครั้งเพื่อกู้คืนการเปลี่ยนแปลงที่คุณทำไว้"
+   },
+   "app_nacl_error_load_failed": {
+      "message": "ขออภัย เราไม่สามารถเปิดไฟล์ได้ ปิดแท็บอื่นๆ ของ Chrome หรือรีสตาร์ท Chrome แล้วลองอีกครั้ง หากปัญหายังคงอยู่ ให้รายงานปัญหาด้านล่าง"
+   },
+   "app_nacl_error_title": {
+      "message": "ไม่สามารถเปิดไฟล์ได้"
+   },
+   "app_nacl_error_unsupported_device": {
+      "message": "อุปกรณ์นี้ไม่สนับสนุนส่วนขยายการแก้ไข Office สำหรับเอกสาร แผ่นงาน และสไลด์ของ Chrome"
+   },
+   "app_saving_failed_error_msg": {
+      "message": "ขออภัย เกิดปัญหาขณะบันทึกไฟล์ ให้ลองบันทึกอีกครั้ง หากปัญหายังคงอยู่ โปรดรายงานปัญหาดังกล่าว"
+   },
+   "app_saving_failed_error_short_msg": {
+      "message": "ไม่สามารถบันทึกไฟล์ได้"
+   },
+   "backgroundcolor_aria_spoken_word": {
+      "message": "รายการสีพื้นหลังของเซลล์แบบเลื่อนลง"
+   },
+   "bold_aria_spoken_word": {
+      "message": "ตัวหนา"
+   },
+   "border_all_aria_spoken_word": {
+      "message": "เส้นขอบทั้งหมด"
+   },
+   "border_aria_spoken_word": {
+      "message": "รายการเส้นขอบแบบเลื่อนลง"
+   },
+   "border_bottom_aria_spoken_word": {
+      "message": "เส้นขอบด้านล่าง"
+   },
+   "border_horizontal_aria_spoken_word": {
+      "message": "เส้นขอบแนวนอน"
+   },
+   "border_inner_aria_spoken_word": {
+      "message": "เส้นขอบด้านใน"
+   },
+   "border_left_aria_spoken_word": {
+      "message": "เส้นขอบด้านซ้าย"
+   },
+   "border_none_aria_spoken_word": {
+      "message": "ไม่ใส่เส้นขอบ"
+   },
+   "border_outer_aria_spoken_word": {
+      "message": "เส้นขอบด้านนอก"
+   },
+   "border_right_aria_spoken_word": {
+      "message": "เส้นขอบด้านขวา"
+   },
+   "border_top_aria_spoken_word": {
+      "message": "เส้นขอบด้านบน"
+   },
+   "border_vertical_aria_spoken_word": {
+      "message": "เส้นขอบแนวตั้ง"
+   },
+   "button_ocm_convert_cancel": {
+      "message": "ยกเลิก"
+   },
+   "button_ocm_promo_conversion_point": {
+      "message": "บันทึกเป็น Google สไลด์"
+   },
+   "button_ocm_promo_conversion_sheet": {
+      "message": "บันทึกเป็น Google ชีต"
+   },
+   "button_ocm_promo_conversion_word": {
+      "message": "บันทึกเป็น Google เอกสาร"
+   },
+   "button_share_convert_cancel": {
+      "message": "ยกเลิก"
+   },
+   "button_share_promo_conversion_point": {
+      "message": "บันทึกเป็น Google สไลด์"
+   },
+   "button_share_promo_conversion_sheet": {
+      "message": "บันทึกเป็น Google ชีต"
+   },
+   "button_share_promo_conversion_word": {
+      "message": "บันทึกเป็น Google เอกสาร"
+   },
+   "cell_align_aria_spoken_word": {
+      "message": "ปรับแนวเซลล์"
+   },
+   "cellalign_aria_spoken_word": {
+      "message": "รายการปรับแนวเซลล์แบบเลื่อนลง"
+   },
+   "cellhaligncenter_aria_spoken_word": {
+      "message": "กึ่งกลางแนวนอน"
+   },
+   "cellhalignleft_aria_spoken_word": {
+      "message": "ด้านซ้ายแนวนอน"
+   },
+   "cellhalignright_aria_spoken_word": {
+      "message": "ด้านขวาแนวนอน"
+   },
+   "cellvalignbottom_aria_spoken_word": {
+      "message": "ด้านล่างแนวตั้ง"
+   },
+   "cellvaligncenter_aria_spoken_word": {
+      "message": "กึ่งกลางแนวตั้ง"
+   },
+   "cellvaligntop_aria_spoken_word": {
+      "message": "ด้านบนแนวตั้ง"
+   },
+   "char_count_label": {
+      "message": "อักขระ"
+   },
+   "char_no_spaces_count_label": {
+      "message": "อักขระไม่รวมช่องว่าง"
+   },
+   "close_dialog_aria_spoken_word": {
+      "message": "ปิดหน้าต่างโต้ตอบ"
+   },
+   "cmd_dropdown_initaddshape_aria_spoken_word": {
+      "message": "รายการรูปร่างแบบเลื่อนลง"
+   },
+   "collapsed": {
+      "message": "ยุบแล้ว"
+   },
+   "collapsed_menu": {
+      "message": "$1 ยุบลงพร้อมกับเมนูย่อย",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "color_black": {
+      "message": "สีดำ"
+   },
+   "color_blaze_orange": {
+      "message": "สีส้มสด"
+   },
+   "color_blue": {
+      "message": "สีน้ำเงิน"
+   },
+   "color_brown": {
+      "message": "น้ำตาล"
+   },
+   "color_cornflower_blue": {
+      "message": "สีน้ำเงินอมม่วง"
+   },
+   "color_cyan": {
+      "message": "สีฟ้า"
+   },
+   "color_dark_blue": {
+      "message": "สีน้ำเงินเข้ม"
+   },
+   "color_dark_blue_1": {
+      "message": "สีน้ำเงินเข้ม 1"
+   },
+   "color_dark_blue_2": {
+      "message": "สีน้ำเงินเข้ม 2"
+   },
+   "color_dark_blue_3": {
+      "message": "สีน้ำเงินเข้ม 3"
+   },
+   "color_dark_blue_grey": {
+      "message": "สีเทาอมน้ำเงินเข้ม"
+   },
+   "color_dark_cornflower_blue_1": {
+      "message": "สีน้ำเงินอมม่วงเข้ม 1"
+   },
+   "color_dark_cornflower_blue_2": {
+      "message": "สีน้ำเงินอมม่วงเข้ม 2"
+   },
+   "color_dark_cornflower_blue_3": {
+      "message": "สีน้ำเงินอมม่วงเข้ม 3"
+   },
+   "color_dark_cyan": {
+      "message": "สีฟ้าเข้ม"
+   },
+   "color_dark_cyan_1": {
+      "message": "สีฟ้าเข้ม 1"
+   },
+   "color_dark_cyan_2": {
+      "message": "สีฟ้าเข้ม 2"
+   },
+   "color_dark_cyan_3": {
+      "message": "สีฟ้าเข้ม 3"
+   },
+   "color_dark_gray": {
+      "message": "สีเทาเข้ม"
+   },
+   "color_dark_gray_1": {
+      "message": "สีเทาเข้ม 1"
+   },
+   "color_dark_gray_2": {
+      "message": "สีเทาเข้ม 2"
+   },
+   "color_dark_gray_3": {
+      "message": "สีเทาเข้ม 3"
+   },
+   "color_dark_gray_4": {
+      "message": "สีเทาเข้ม 4"
+   },
+   "color_dark_green": {
+      "message": "สีเขียวเข้ม"
+   },
+   "color_dark_green_1": {
+      "message": "สีเขียวเข้ม 1"
+   },
+   "color_dark_green_2": {
+      "message": "สีเขียวเข้ม 2"
+   },
+   "color_dark_green_3": {
+      "message": "สีเขียวเข้ม 3"
+   },
+   "color_dark_green_5": {
+      "message": "สีเขียวเข้ม 5"
+   },
+   "color_dark_grey_2": {
+      "message": "สีเทาเข้ม 2"
+   },
+   "color_dark_grey_5": {
+      "message": "สีเทาเข้ม 5"
+   },
+   "color_dark_magenta_1": {
+      "message": "สีม่วงแดงเข้ม 1"
+   },
+   "color_dark_magenta_2": {
+      "message": "สีม่วงแดงเข้ม 2"
+   },
+   "color_dark_magenta_3": {
+      "message": "สีม่วงแดงเข้ม 3"
+   },
+   "color_dark_olive_green": {
+      "message": "สีเขียวมะกอกเข้ม"
+   },
+   "color_dark_orange_1": {
+      "message": "สีส้มเข้ม 1"
+   },
+   "color_dark_orange_2": {
+      "message": "สีส้มเข้ม 2"
+   },
+   "color_dark_orange_3": {
+      "message": "สีส้มเข้ม 3"
+   },
+   "color_dark_purple_1": {
+      "message": "สีม่วงเข้ม 1"
+   },
+   "color_dark_purple_2": {
+      "message": "สีม่วงเข้ม 2"
+   },
+   "color_dark_purple_3": {
+      "message": "สีม่วงเข้ม 3"
+   },
+   "color_dark_red": {
+      "message": "สีแดงเข้ม"
+   },
+   "color_dark_red_1": {
+      "message": "สีแดงเข้ม 1"
+   },
+   "color_dark_red_2": {
+      "message": "สีแดงเข้ม 2"
+   },
+   "color_dark_red_3": {
+      "message": "สีแดงเข้ม 3"
+   },
+   "color_dark_red_berry_1": {
+      "message": "สีแดงเบอร์รี่เข้ม 1"
+   },
+   "color_dark_red_berry_2": {
+      "message": "สีแดงเบอร์รี่เข้ม 2"
+   },
+   "color_dark_red_berry_3": {
+      "message": "สีแดงเบอร์รี่เข้ม 3"
+   },
+   "color_dark_slate_blue": {
+      "message": "สีน้ำเงินอมเทาเข้ม"
+   },
+   "color_dark_yellow_1": {
+      "message": "สีเหลืองเข้ม 1"
+   },
+   "color_dark_yellow_2": {
+      "message": "สีเหลืองเข้ม 2"
+   },
+   "color_dark_yellow_3": {
+      "message": "สีเหลืองเข้ม 3"
+   },
+   "color_deep_pink": {
+      "message": "สีชมพูบานเย็น"
+   },
+   "color_deep_sky_blue": {
+      "message": "สีน้ำเงินท้องฟ้าเข้ม"
+   },
+   "color_eucalyptus_green": {
+      "message": "สีเขียวยูคาลิปตัส"
+   },
+   "color_gold": {
+      "message": "สีทอง"
+   },
+   "color_gray": {
+      "message": "สีเทา"
+   },
+   "color_green": {
+      "message": "สีเขียว"
+   },
+   "color_light_blue": {
+      "message": "สีน้ำเงินอ่อน"
+   },
+   "color_light_blue_1": {
+      "message": "สีน้ำเงินอ่อน 1"
+   },
+   "color_light_blue_2": {
+      "message": "สีน้ำเงินอ่อน 2"
+   },
+   "color_light_blue_3": {
+      "message": "สีน้ำเงินอ่อน 3"
+   },
+   "color_light_cornflower_blue_1": {
+      "message": "สีน้ำเงินอมม่วงอ่อน 1"
+   },
+   "color_light_cornflower_blue_2": {
+      "message": "สีน้ำเงินอมม่วงอ่อน 2"
+   },
+   "color_light_cornflower_blue_3": {
+      "message": "สีน้ำเงินอมม่วงอ่อน 3"
+   },
+   "color_light_cyan": {
+      "message": "สีฟ้าอ่อน"
+   },
+   "color_light_cyan_1": {
+      "message": "สีฟ้าอ่อน 1"
+   },
+   "color_light_cyan_2": {
+      "message": "สีฟ้าอ่อน 2"
+   },
+   "color_light_cyan_3": {
+      "message": "สีฟ้าอ่อน 3"
+   },
+   "color_light_gray": {
+      "message": "สีเทาอ่อน"
+   },
+   "color_light_gray_1": {
+      "message": "สีเทาอ่อน 1"
+   },
+   "color_light_gray_2": {
+      "message": "สีเทาอ่อน 2"
+   },
+   "color_light_gray_3": {
+      "message": "สีเทาอ่อน 3"
+   },
+   "color_light_green": {
+      "message": "สีเขียวอ่อน"
+   },
+   "color_light_green_1": {
+      "message": "สีเขียวอ่อน 1"
+   },
+   "color_light_green_2": {
+      "message": "สีเขียวอ่อน 3"
+   },
+   "color_light_green_3": {
+      "message": "สีเขียวอ่อน 3"
+   },
+   "color_light_magenta_1": {
+      "message": "สีม่วงแดงอ่อน 1"
+   },
+   "color_light_magenta_2": {
+      "message": "สีม่วงแดงอ่อน 2"
+   },
+   "color_light_magenta_3": {
+      "message": "สีม่วงแดงอ่อน 3"
+   },
+   "color_light_orange_1": {
+      "message": "สีส้มอ่อน 1"
+   },
+   "color_light_orange_2": {
+      "message": "สีส้มอ่อน 2"
+   },
+   "color_light_orange_3": {
+      "message": "สีส้มอ่อน 3"
+   },
+   "color_light_purple": {
+      "message": "สีม่วงอ่อน"
+   },
+   "color_light_purple_1": {
+      "message": "สีม่วงอ่อน 1"
+   },
+   "color_light_purple_2": {
+      "message": "สีม่วงอ่อน 2"
+   },
+   "color_light_purple_3": {
+      "message": "สีม่วงอ่อน 3"
+   },
+   "color_light_red_1": {
+      "message": "สีแดงอ่อน 1"
+   },
+   "color_light_red_2": {
+      "message": "สีแดงอ่อน 2"
+   },
+   "color_light_red_3": {
+      "message": "สีแดงอ่อน 3"
+   },
+   "color_light_red_berry_1": {
+      "message": "สีแดงเบอร์รี่อ่อน 1"
+   },
+   "color_light_red_berry_2": {
+      "message": "สีแดงเบอร์รี่ 2"
+   },
+   "color_light_red_berry_3": {
+      "message": "สีแดงเบอร์รี่อ่อน 3"
+   },
+   "color_light_yellow": {
+      "message": "สีเหลืองอ่อน"
+   },
+   "color_light_yellow_1": {
+      "message": "สีเหลืองอ่อน 1"
+   },
+   "color_light_yellow_2": {
+      "message": "สีเหลืองอ่อน 2"
+   },
+   "color_light_yellow_3": {
+      "message": "สีเหลืองอ่อน 3"
+   },
+   "color_magenta": {
+      "message": "สีม่วงแดง"
+   },
+   "color_maroon": {
+      "message": "สีน้ำตาลแดง"
+   },
+   "color_midnight_blue": {
+      "message": "สีน้ำเงินแก่"
+   },
+   "color_navy": {
+      "message": "สีกรมท่า"
+   },
+   "color_olive": {
+      "message": "สีเขียวมะกอก"
+   },
+   "color_orange": {
+      "message": "สีส้ม"
+   },
+   "color_peach": {
+      "message": "สีพีช"
+   },
+   "color_pink": {
+      "message": "สีชมพู"
+   },
+   "color_pistachio": {
+      "message": "สีเขียวอมเหลือง"
+   },
+   "color_purple": {
+      "message": "สีม่วง"
+   },
+   "color_red": {
+      "message": "สีแดง"
+   },
+   "color_red_berry": {
+      "message": "สีแดงเบอร์รี่"
+   },
+   "color_royal_blue": {
+      "message": "สีรอยัลบลู"
+   },
+   "color_teal": {
+      "message": "สีน้ำเงินอมเขียว"
+   },
+   "color_turquiose": {
+      "message": "สีเทอร์ควอยส์"
+   },
+   "color_white": {
+      "message": "สีขาว"
+   },
+   "color_yellow": {
+      "message": "สีเหลือง"
+   },
+   "command_key": {
+      "message": "คำสั่ง"
+   },
+   "content_msg_merging_horizontally_across_vertical_section": {
+      "message": "คุณไม่สามารถผสานในแนวนอนกับส่วนที่ผสานแล้วในแนวตั้งที่มีอยู่ได้"
+   },
+   "content_msg_merging_multiple_cells_with_text": {
+      "message": "การผสานเซลล์จะเก็บไว้เฉพาะค่าด้านบนซ้ายสุดเท่านั้น คุณต้องการผสานไหม"
+   },
+   "content_msg_merging_partially_selected_merged_cells": {
+      "message": "คุณต้องเลือกทุกเซลล์ในช่วงที่ผสานแล้วเพื่อผสานหรือยกเลิกการผสาน"
+   },
+   "content_msg_merging_vertically_across_horizontal_section": {
+      "message": "คุณไม่สามารถผสานในแนวตั้งกับส่วนที่ผสานแล้วในแนวนอนที่มีอยู่ได้"
+   },
+   "content_render_error_msg": {
+      "message": "เกิดปัญหาเกี่ยวกับเนื้อหาของเอกสารฉบับนี้"
+   },
+   "context_menu_clipboard_copy": {
+      "message": "คัดลอก"
+   },
+   "context_menu_delete": {
+      "message": "ลบ"
+   },
+   "context_menu_freeze": {
+      "message": "ตรึง"
+   },
+   "context_menu_insert": {
+      "message": "แทรก"
+   },
+   "context_menu_sort_collation_ascending": {
+      "message": "จัดเรียง a-z"
+   },
+   "context_menu_sort_collation_descending": {
+      "message": "จัดเรียง z-a"
+   },
+   "context_menu_unfreeze": {
+      "message": "เลิกตรึง"
+   },
+   "control_key": {
+      "message": "Control"
+   },
+   "convert_attempt_when_offline": {
+      "message": "คุณต้องออนไลน์เพื่อบันทึกเป็น Google เอกสาร ลองอีกครั้งเมื่อคุณกลับมาเชื่อมต่ออีกครั้ง"
+   },
+   "convert_attempt_with_invalid_creds": {
+      "message": "คุณต้องลงชื่อเข้าใช้บัญชี Google เพื่อแปลงไฟล์นี้"
+   },
+   "convert_cancel": {
+      "message": "ยกเลิก"
+   },
+   "convert_to_google_docs_failed": {
+      "message": "มีปัญหาในการแปลงเอกสารของคุณไปเป็น Google เอกสาร"
+   },
+   "convert_to_google_point_fail_short_msg": {
+      "message": "อ๊ะ"
+   },
+   "convert_to_google_point_short_msg": {
+      "message": "กำลังบันทึกเป็น Google สไลด์"
+   },
+   "convert_to_google_sheet_fail_short_msg": {
+      "message": "อ๊ะ"
+   },
+   "convert_to_google_sheet_short_msg": {
+      "message": "กำลังบันทึกเป็น Google ชีต"
+   },
+   "convert_to_google_word_fail_short_msg": {
+      "message": "อ๊ะ"
+   },
+   "convert_to_google_word_short_msg": {
+      "message": "กำลังบันทึกเป็น Google เอกสาร"
+   },
+   "convert_try_again": {
+      "message": "ลองอีกครั้ง"
+   },
+   "converting_to_google_point_fail_msg": {
+      "message": "เราไม่สามารถบันทึกไฟล์เป็น Google สไลด์ได้ในขณะนี้"
+   },
+   "converting_to_google_point_msg": {
+      "message": "กำลังบันทึกงานนำเสนอเวอร์ชันใหม่เป็น Google สไลด์"
+   },
+   "converting_to_google_sheet_fail_msg": {
+      "message": "เราไม่สามารถบันทึกไฟล์เป็น Google ชีตได้ในขณะนี้"
+   },
+   "converting_to_google_sheet_msg": {
+      "message": "กำลังบันทึกสเปรดชีตเวอร์ชันใหม่เป็น Google ชีต"
+   },
+   "converting_to_google_word_fail_msg": {
+      "message": "เราไม่สามารถบันทึกไฟล์เป็น Google เอกสารได้ในขณะนี้"
+   },
+   "converting_to_google_word_msg": {
+      "message": "กำลังบันทึกเอกสารเวอร์ชันใหม่เป็น Google เอกสาร"
+   },
+   "copy_attempt_when_offline": {
+      "message": "คุณจะต้องออนไลน์ก่อนที่จะทำสำเนาบน Google ไดรฟ์ โปรดลองอีกครั้งเมื่อการเชื่อมต่อของคุณกลับคืนมา"
+   },
+   "copy_attempt_with_invalid_creds": {
+      "message": "คุณจะต้องลงชื่อเข้าใช้บัญชี Google ก่อนที่จะทำสำเนา"
+   },
+   "disabled_share_button": {
+      "message": "ไฟล์ที่เปิดใช้มาโครจะแชร์ได้เฉพาะจาก Google ไดรฟ์เท่านั้น ปิดใช้การแชร์แล้ว"
+   },
+   "disallowed_cut_copy_paste_cmd_copy": {
+      "message": "สำหรับคัดลอก"
+   },
+   "disallowed_cut_copy_paste_cmd_cut": {
+      "message": "สำหรับตัด"
+   },
+   "disallowed_cut_copy_paste_cmd_paste": {
+      "message": "สำหรับวาง"
+   },
+   "disallowed_cut_copy_paste_msg": {
+      "message": "การดำเนินการเหล่านี้จะใช้เมนู \"แก้ไข\" และเมนูตามบริบทไม่ได้ แต่คุณจะยังคงใช้รายการต่อไปนี้ได้"
+   },
+   "disallowed_cut_copy_paste_title": {
+      "message": "คัดลอกและวางในโหมดใช้งานร่วมกับ Office Compatibility"
+   },
+   "dismiss": {
+      "message": "ปิด"
+   },
+   "document_title_aria_spoken_word": {
+      "message": "ชื่อเอกสาร:"
+   },
+   "down_key": {
+      "message": "ลง"
+   },
+   "download_button": {
+      "message": "ดาวน์โหลด"
+   },
+   "download_file_timeout_error_msg": {
+      "message": "ไฟล์ที่คุณกำลังเปิดใช้เวลาโหลดนานกว่าที่คาดไว้ โปรดตรวจสอบการเชื่อมต่อและลองอีกครั้ง"
+   },
+   "download_file_timeout_error_short_msg": {
+      "message": "ไฟล์ใช้เวลาโหลดนานกว่าที่คาดไว้"
+   },
+   "drive_open_timeout_error_msg": {
+      "message": "ดูเหมือนว่าอาจมีปัญหาเกี่ยวกับการเชื่อมต่ออินเทอร์เน็ต โปรดตรวจสอบการเชื่อมต่อและลองเปิดไฟล์อีกครั้ง หากคุณยังคงพบข้อผิดพลาดนี้และกำลังออนไลน์อยู่ โปรดรายงานปัญหาด้านล่าง"
+   },
+   "drive_open_timeout_error_short_msg": {
+      "message": "ขออภัย เราไม่สามารถเปิดไฟล์ที่คุณต้องการได้"
+   },
+   "duplicate_sheet_name_message": {
+      "message": "ป้อนชื่อชีตที่ไม่ซ้ำกับชีตอื่น"
+   },
+   "duplicate_sheet_name_title": {
+      "message": "มีการใช้ชื่อชีตนี้แล้ว"
+   },
+   "edits_not_being_saved": {
+      "message": "การแก้ไขจะไม่ได้รับการบันทึกโดยอัตโนมัติ"
+   },
+   "edits_now_being_auto_saved": {
+      "message": "บันทึกไฟล์แล้ว ขณะนี้การแก้ไขทั้งหมดจะได้รับการบันทึกโดยอัตโนมัติ"
+   },
+   "entry_point_error_msg": {
+      "message": "โปรดลองอีกครั้งหรือรายงานปัญหาด้านล่าง"
+   },
+   "entry_point_error_short_msg": {
+      "message": "อ๊ะ เราไม่ทราบว่าคุณต้องการเปิดไฟล์ไหน"
+   },
+   "error_occurred": {
+      "message": "มีข้อผิดพลาดเกิดขึ้น"
+   },
+   "error_password_required_msg": {
+      "message": "เรายังไม่สนับสนุนการป้องกันไฟล์ในขณะนี้ แต่เรากำลังดำเนินการ"
+   },
+   "error_password_required_short_msg": {
+      "message": "ไฟล์นี้มีรหัสผ่านป้องกัน"
+   },
+   "expanded": {
+      "message": "ขยาย"
+   },
+   "expanded_menu": {
+      "message": "$1 ขยายพร้อมกับเมนูย่อย",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "extension_description": {
+      "message": "ดูและแก้ไขไฟล์ Microsoft Word, Excel และ PowerPoint ด้วย Google เอกสาร ชีต และสไลด์"
+   },
+   "extension_name": {
+      "message": "การแก้ไข Office สำหรับเอกสาร ชีต และสไลด์"
+   },
+   "extension_popup_message_body": {
+      "message": "หากต้องการเปิดไฟล์ที่มีอยู่ ให้ลากและวางลงในเบราว์เซอร์"
+   },
+   "extension_popup_new_document_header": {
+      "message": "ใหม่"
+   },
+   "extension_popup_new_presentation_document": {
+      "message": "งานนำเสนอ PowerPoint"
+   },
+   "extension_popup_new_spreadsheet_document": {
+      "message": "สเปรดชีต Excel"
+   },
+   "extension_popup_new_word_document": {
+      "message": "เอกสาร Word"
+   },
+   "feedback_textbox_editing": {
+      "message": "โปรดสนับสนุนการแก้ไขข้อความภายในช่องข้อความ"
+   },
+   "feedback_ui_template": {
+      "message": "1- โปรดอธิบายปัญหาที่พบ\n2- ปัญหาเกิดขึ้นเมื่อพยายามเปิดไฟล์ หรือเมื่อพยายามแก้ไขไฟล์\n3- ปัญหานี้เกิดขึ้นทุกครั้งที่คุณพยายามเปิดหรือแก้ไขไฟล์ทุกไฟล์ หรือเฉพาะบางไฟล์\n\nหากเป็นเฉพาะบางไฟล์ โปรดแนบไฟล์ดังกล่าวมากับรายงานนี้ เพราะจะทำให้เราสามารถแก้ปัญหาได้ละเอียดยิ่งขึ้น"
+   },
+   "file_does_not_exist_error_details": {
+      "message": "ไม่มีไฟล์นี้ คุณอาจพยายามเปิดลิงก์ที่แชร์ไว้หรือเอกสารที่บุ๊กมาร์กไว้ โปรดลองเปิดไฟล์อีกครั้งจากแหล่งที่มาเดิม"
+   },
+   "file_does_not_exist_error_title": {
+      "message": "ไม่พบไฟล์"
+   },
+   "file_loading_spinner_label": {
+      "message": "กำลังโหลด"
+   },
+   "file_missing_content_msg": {
+      "message": "มีปัญหาในการอ่านเนื้อหาทั้งหมดของไฟล์นี้ เราขอแนะนำให้คุณลองเปลี่ยนชื่อและเปิดไฟล์ใหม่"
+   },
+   "file_missing_content_short_msg": {
+      "message": "เอกสารนี้มีเนื้อหาขาดหายไป"
+   },
+   "file_not_found_error_msg": {
+      "message": "โปรดตรวจสอบกับเจ้าของไฟล์เพื่อให้มั่นใจว่าคุณมีสิทธิ์เข้าถึงไฟล์ หากคุณยังคงพบข้อผิดพลาดนี้ทั้งๆ ที่มีสิทธิ์ โปรดรายงานปัญหาด้านล่าง"
+   },
+   "file_not_found_error_short_msg": {
+      "message": "ขออภัย เราไม่สามารถเปิดไฟล์ที่คุณต้องการได้"
+   },
+   "file_not_found_exception": {
+      "message": "ไฟล์ที่ต้องการอาจถูกลบ เปลี่ยนชื่อ หรือย้ายไปยังตำแหน่งอื่นแล้ว โปรดคลิก 'บันทึกเลย' เพื่อดำเนินการต่อไป"
+   },
+   "file_not_found_link_text": {
+      "message": "สำหรับความช่วยเหลือเกี่ยวกับหลายบัญชี โปรดดูบทความนี้"
+   },
+   "file_not_found_msg": {
+      "message": "ไฟล์ที่คุณขอได้ถูกอัปโหลดและย้ายไปแล้ว"
+   },
+   "file_not_found_title": {
+      "message": "ไม่พบไฟล์"
+   },
+   "file_open_crash_error_msg": {
+      "message": "หากคุณยังคงพบข้อผิดพลาด โปรดแจ้งปัญหาที่ด้านล่างนี้"
+   },
+   "file_open_crash_error_short_msg": {
+      "message": "ขออภัย เราไม่สามารถเปิดไฟล์ที่คุณต้องการได้"
+   },
+   "file_open_error_msg": {
+      "message": "เนื้อหาของไฟล์นี้ไม่สามารถเข้าถึงได้"
+   },
+   "file_open_error_short_msg": {
+      "message": "ดูเหมือนว่าไฟล์นี้จะเสียหาย"
+   },
+   "file_open_fail_download_link_text": {
+      "message": "ดาวน์โหลดไฟล์"
+   },
+   "file_opened_in_incognito_mode_error_details": {
+      "message": "ส่วนขยายของการแก้ไขไฟล์ Office จะไม่ทำงานในโหมดไม่ระบุตัวตน โปรดเปิดไฟล์นี้ด้วยหน้าต่างปกติของ Chrome หากใช้โหมดผู้มาเยือนจะเปิดไฟล์ไม่ได้ อย่าลืมตรวจดูไฟล์ว่าไม่มีความเสียหายหรือเป็นประเภทเอกสารที่ถูกต้องแล้ว จากนั้นลองอีกครั้ง"
+   },
+   "file_opened_in_incognito_mode_error_title": {
+      "message": "อ๊ะ! ไม่รองรับโหมดไม่ระบุตัวตน"
+   },
+   "file_pdf_type_rename_msg": {
+      "message": "เปลี่ยนชื่อไฟล์เป็น $1.pdf และลองอีกครั้ง",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_rtf_type_rename_msg": {
+      "message": "เปลี่ยนชื่อไฟล์เป็น $1.rtf",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_type_unsupported_msg": {
+      "message": "ไม่สนับสนุนไฟล์ประเภทนี้"
+   },
+   "fillcolor_aria_spoken_word": {
+      "message": "รายการสีข้อความแบบเลื่อนลง"
+   },
+   "fontface_aria_spoken_word": {
+      "message": "รายการกำหนดแบบอักษรแบบเลื่อนลง"
+   },
+   "fontsize_aria_spoken_word": {
+      "message": "รายการกำหนดขนาดแบบอักษรแบบเลื่อนลง"
+   },
+   "forbidden_access_level_error_msg": {
+      "message": "โปรดตรวจสอบกับเจ้าของไฟล์เพื่อให้มั่นใจว่าคุณมีสิทธิ์เปิดไฟล์นี้ หากคุณยังคงพบข้อผิดพลาดนี้ทั้งๆ ที่มีสิทธิ์ โปรดรายงานปัญหาด้านล่าง"
+   },
+   "forbidden_access_level_error_short_msg": {
+      "message": "ขออภัย เราไม่สามารถเปิดไฟล์ที่คุณต้องการได้"
+   },
+   "forbidden_app_access_error_msg": {
+      "message": "เราไม่มีสิทธิ์เปิดไฟล์นี้ด้วยเหตุผลบางประการ โปรดลองเปิดไฟล์จาก Google ไดรฟ์หรือรายงานปัญหาด้านล่าง"
+   },
+   "forbidden_app_access_error_short_msg": {
+      "message": "ขออภัย เราไม่สามารถเปิดไฟล์ที่คุณต้องการได้"
+   },
+   "forbidden_app_id_error_msg": {
+      "message": "ดูเหมือนว่าส่วนขยาย Chrome ไม่ได้กำหนดค่าอย่างเหมาะสม เรายังไม่แน่ใจนักเกี่ยวกับสาเหตุของปัญหานี้ อย่างไรก็ตาม โปรดรายงานปัญหาด้านล่าง"
+   },
+   "forbidden_app_id_error_short_msg": {
+      "message": "ขออภัย เราไม่สามารถเปิดไฟล์ที่คุณต้องการได้"
+   },
+   "forbidden_blacklist_error_msg": {
+      "message": "ดูเหมือนว่าส่วนขยาย Chrome นี้ถูกขึ้นบัญชีดำ ซึ่งเห็นได้ชัดว่าเป็นความผิดพลาด โปรดแจ้งเราโดยการรายงานปัญหาด้านล่าง"
+   },
+   "forbidden_blacklist_error_short_msg": {
+      "message": "ขออภัย เราไม่สามารถเปิดไฟล์ที่คุณต้องการได้"
+   },
+   "forbidden_domain_error_msg": {
+      "message": "ดูเหมือนว่าโดเมนของคุณไม่อนุญาตให้เข้าถึงไฟล์นี้ โปรดติดต่อผู้ดูแลระบบโดเมนหรือรายงานปัญหาด้านล่าง"
+   },
+   "forbidden_domain_error_short_msg": {
+      "message": "ขออภัย เราไม่สามารถเปิดไฟล์ที่คุณต้องการได้"
+   },
+   "forbidden_internal_error_msg": {
+      "message": "ขออภัย Google ไดรฟ์ไม่ทำงานตามที่คาดไว้ โปรดลองเปิดไฟล์อีกครั้ง หรือรายงานปัญหาด้านล่าง"
+   },
+   "forbidden_internal_error_short_msg": {
+      "message": "ขออภัย เราไม่สามารถเปิดไฟล์ที่คุณต้องการได้"
+   },
+   "forbidden_not_installed_error_msg": {
+      "message": "ดูเหมือนว่าส่วนขยาย Chrome ไม่ได้ติดตั้งอย่างเหมาะสม เรายังไม่แน่ใจนักเกี่ยวกับสาเหตุของปัญหานี้ อย่างไรก็ตาม โปรดรายงานปัญหาด้านล่าง"
+   },
+   "forbidden_not_installed_error_short_msg": {
+      "message": "ขออภัย เราไม่สามารถเปิดไฟล์ที่คุณต้องการได้"
+   },
+   "generic_error_msg": {
+      "message": "เกิดปัญหาเกี่ยวกับเนื้อหาของเอกสารฉบับนี้"
+   },
+   "generic_error_short_msg": {
+      "message": "อ๊ะ ไม่น่าจะเกิดเรื่องแบบนี้ได้ โหลดหน้าอีกครั้งเพื่อกู้คืนการเปลี่ยนแปลงที่คุณทำไว้"
+   },
+   "get_lists_data_error_msg": {
+      "message": "เอกสารนี้อาจแสดงผลในรูปแบบรายการที่ไม่ถูกต้อง"
+   },
+   "get_lists_data_error_short_msg": {
+      "message": "ไม่สามารถเรียกข้อมูลรูปแบบเอกสาร"
+   },
+   "highlightcolor_aria_spoken_word": {
+      "message": "รายการสีไฮไลต์ข้อความแบบเลื่อนลง"
+   },
+   "http_error_zero_msg": {
+      "message": "หากเกิดจากปัญหาเครือข่าย โปรดตรวจสอบการเชื่อมต่อของคุณหรือลองอีกครั้งในภายหลัง หากปัญหายังคงอยู่ ให้รายงานปัญหาด้านล่าง"
+   },
+   "http_error_zero_short_msg": {
+      "message": "ขออภัย เราไม่สามารถเปิดไฟล์ได้"
+   },
+   "info_file_copied": {
+      "message": "บันทึกแล้ว"
+   },
+   "info_file_save_cancelled": {
+      "message": "ยกเลิกการบันทึกแล้ว"
+   },
+   "info_file_save_failed": {
+      "message": "การบันทึกล้มเหลว"
+   },
+   "info_file_saved_at_location": {
+      "message": "บันทึกการเปลี่ยนแปลงทั้งหมดไว้ที่ $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "info_file_saved_in_drive": {
+      "message": "บันทึกการเปลี่ยนแปลงทั้งหมดแล้วในไดรฟ์"
+   },
+   "info_file_saved_locally": {
+      "message": "บันทึกการเปลี่ยนแปลงทั้งหมดแล้วภายในเครื่อง"
+   },
+   "info_file_saved_offline": {
+      "message": "บันทึกการเปลี่ยนแปลงทั้งหมดแล้วในแบบออฟไลน์"
+   },
+   "info_file_saving": {
+      "message": "กำลังบันทึก…"
+   },
+   "initaddshape_aria_spoken_word": {
+      "message": "เพิ่มช่องข้อความ"
+   },
+   "invalid_credentials_error_msg": {
+      "message": "คุณต้องลงชื่อเข้าใช้บัญชี Google เพื่อเข้าถึงไฟล์นี้"
+   },
+   "invalid_credentials_error_short_msg": {
+      "message": "ขออภัย เราไม่สามารถเปิดไฟล์ที่คุณต้องการได้"
+   },
+   "invalid_file_format_msg": {
+      "message": "แม้ว่าไฟล์จะดูเหมือนเป็นเอกสาร Office และมีนามสกุลเป็นไฟล์ Office แต่แท้จริงแล้วคือประเภทไฟล์อื่นที่มีการเปลี่ยนชื่อหรือเปลี่ยนแปลงในทางใดทางหนึ่ง หรือเป็นประเภทไฟล์ที่เราไม่สนับสนุน"
+   },
+   "invalid_file_format_short_msg": {
+      "message": "อ๊ะ ดูเหมือนว่าเราไม่สามารถเปิดเอกสารประเภทนี้ได้"
+   },
+   "italic_aria_spoken_word": {
+      "message": "ตัวเอียง"
+   },
+   "keyboard_shortcut_group_actions": {
+      "message": "การทำงาน"
+   },
+   "keyboard_shortcut_group_other": {
+      "message": "อื่นๆ"
+   },
+   "keyboard_shortcut_group_paragraph_formatting": {
+      "message": "การจัดรูปแบบย่อหน้า"
+   },
+   "keyboard_shortcut_group_text_formatting": {
+      "message": "การจัดรูปแบบข้อความ"
+   },
+   "keyboard_shortcut_group_top_menus": {
+      "message": "เมนู"
+   },
+   "keyboard_shortcut_group_with_slides": {
+      "message": "ใช้กับสไลด์"
+   },
+   "keyboard_shortcut_title": {
+      "message": "แป้นพิมพ์ลัด"
+   },
+   "make_a_copy_fail_msg": {
+      "message": "เราไม่สามารถทำสำเนาได้ในขณะนี้"
+   },
+   "menu_button_data": {
+      "message": "ข้อมูล"
+   },
+   "menu_button_edit": {
+      "message": "แก้ไข"
+   },
+   "menu_button_file": {
+      "message": "ไฟล์"
+   },
+   "menu_button_format": {
+      "message": "รูปแบบ"
+   },
+   "menu_button_help": {
+      "message": "ความช่วยเหลือ"
+   },
+   "menu_button_insert": {
+      "message": "แทรก"
+   },
+   "menu_button_slide": {
+      "message": "สไลด์"
+   },
+   "menu_button_tools": {
+      "message": "เครื่องมือ"
+   },
+   "menu_button_view": {
+      "message": "ดู"
+   },
+   "menu_item_10_point_star": {
+      "message": "ดาว 10 แฉก"
+   },
+   "menu_item_12_point_star": {
+      "message": "ดาว 12 แฉก"
+   },
+   "menu_item_16_point_star": {
+      "message": "ดาว 16 แฉก"
+   },
+   "menu_item_24_point_star": {
+      "message": "ดาว 24 แฉก"
+   },
+   "menu_item_32_point_star": {
+      "message": "ดาว 32 แฉก"
+   },
+   "menu_item_4_point_star": {
+      "message": "ดาว 4 แฉก"
+   },
+   "menu_item_5_point_star": {
+      "message": "ดาว 5 แฉก"
+   },
+   "menu_item_6_point_star": {
+      "message": "ดาว 6 แฉก"
+   },
+   "menu_item_7_point_star": {
+      "message": "ดาว 7 แฉก"
+   },
+   "menu_item_8_point_star": {
+      "message": "ดาว 8 แฉก"
+   },
+   "menu_item_align": {
+      "message": "ปรับแนว"
+   },
+   "menu_item_align_center": {
+      "message": "กึ่งกลาง"
+   },
+   "menu_item_align_justified": {
+      "message": "ชิดขอบ"
+   },
+   "menu_item_align_left": {
+      "message": "ซ้าย"
+   },
+   "menu_item_align_right": {
+      "message": "ขวา"
+   },
+   "menu_item_arrows": {
+      "message": "ลูกศร"
+   },
+   "menu_item_bent_arrow": {
+      "message": "ลูกศรงอ"
+   },
+   "menu_item_bent_up_arrow": {
+      "message": "ลูกศรงอขึ้น"
+   },
+   "menu_item_bevel": {
+      "message": "ขอบนูน"
+   },
+   "menu_item_block_arc": {
+      "message": "เส้นโค้งบล็อค"
+   },
+   "menu_item_bold": {
+      "message": "ตัวหนา"
+   },
+   "menu_item_callouts": {
+      "message": "ข้อความเสริม"
+   },
+   "menu_item_can": {
+      "message": "กระป๋อง"
+   },
+   "menu_item_chevron": {
+      "message": "เครื่องหมายบั้ง"
+   },
+   "menu_item_chord": {
+      "message": "คอร์ด"
+   },
+   "menu_item_clear_formatting": {
+      "message": "เคลียร์รูปแบบ"
+   },
+   "menu_item_cloud": {
+      "message": "เมฆ"
+   },
+   "menu_item_cloud_callout": {
+      "message": "ป้ายรูปก้อนเมฆ"
+   },
+   "menu_item_color_none": {
+      "message": "ไม่มี"
+   },
+   "menu_item_color_transparent": {
+      "message": "โปร่งใส"
+   },
+   "menu_item_convert_to_docs": {
+      "message": "บันทึกเป็น Google เอกสาร"
+   },
+   "menu_item_convert_to_sheets": {
+      "message": "บันทึกเป็น Google ชีต"
+   },
+   "menu_item_convert_to_slides": {
+      "message": "บันทึกเป็น Google สไลด์"
+   },
+   "menu_item_copy": {
+      "message": "คัดลอก"
+   },
+   "menu_item_cross": {
+      "message": "กากบาท"
+   },
+   "menu_item_cube": {
+      "message": "ลูกบาศก์"
+   },
+   "menu_item_curved_down_arrow": {
+      "message": "ลูกศรโค้งลง"
+   },
+   "menu_item_curved_left_arrow": {
+      "message": "ลูกศรโค้งทางซ้าย"
+   },
+   "menu_item_curved_right_arrow": {
+      "message": "ลูกศรโค้งทางขวา"
+   },
+   "menu_item_curved_up_arrow": {
+      "message": "ลูกศรโค้งขึ้น"
+   },
+   "menu_item_cut": {
+      "message": "ตัด"
+   },
+   "menu_item_decagon": {
+      "message": "รูปสิบเหลี่ยม"
+   },
+   "menu_item_delete_column": {
+      "message": "ลบคอลัมน์"
+   },
+   "menu_item_delete_row": {
+      "message": "ลบแถว"
+   },
+   "menu_item_delete_value": {
+      "message": "ลบค่า"
+   },
+   "menu_item_deleteslide": {
+      "message": "ลบสไลด์"
+   },
+   "menu_item_diagonal_stripe": {
+      "message": "เส้นทแยงมุม"
+   },
+   "menu_item_diamond": {
+      "message": "เพชร"
+   },
+   "menu_item_divide": {
+      "message": "เครื่องหมายหาร"
+   },
+   "menu_item_dodecagon": {
+      "message": "รูปสิบสองเหลี่ยม"
+   },
+   "menu_item_donut": {
+      "message": "โดนัท"
+   },
+   "menu_item_double_brace": {
+      "message": "ปีกกาคู่"
+   },
+   "menu_item_double_bracket": {
+      "message": "วงเล็บคู่"
+   },
+   "menu_item_down_arrow": {
+      "message": "ลูกศรลง"
+   },
+   "menu_item_down_arrow_callout": {
+      "message": "ป้ายลูกศรลง"
+   },
+   "menu_item_duplicateslide": {
+      "message": "สไลด์ซ้ำ"
+   },
+   "menu_item_equal": {
+      "message": "เท่ากับ"
+   },
+   "menu_item_equation": {
+      "message": "สมการ"
+   },
+   "menu_item_explosion_1": {
+      "message": "ระเบิด 1"
+   },
+   "menu_item_explosion_2": {
+      "message": "ระเบิด 2"
+   },
+   "menu_item_flowchart_alternate_process": {
+      "message": "โฟลว์ชาร์ต: กระบวนการสำรอง"
+   },
+   "menu_item_flowchart_card": {
+      "message": "โฟลว์ชาร์ต: บัตร"
+   },
+   "menu_item_flowchart_collate": {
+      "message": "โฟลว์ชาร์ต: เรียงซ้อน"
+   },
+   "menu_item_flowchart_connector": {
+      "message": "โฟลว์ชาร์ต: ตัวเชื่อม"
+   },
+   "menu_item_flowchart_data": {
+      "message": "โฟลว์ชาร์ต: ข้อมูล"
+   },
+   "menu_item_flowchart_decision": {
+      "message": "โฟลว์ชาร์ต: ตัดสิน"
+   },
+   "menu_item_flowchart_delay": {
+      "message": "โฟลว์ชาร์ต: ความล่าช้า"
+   },
+   "menu_item_flowchart_direct_access_storage": {
+      "message": "โฟลว์ชาร์ต: การจัดเก็บแบบเข้าถึงโดยตรง"
+   },
+   "menu_item_flowchart_display": {
+      "message": "โฟลว์ชาร์ต: แสดง"
+   },
+   "menu_item_flowchart_document": {
+      "message": "โฟลว์ชาร์ต: เอกสาร"
+   },
+   "menu_item_flowchart_extract": {
+      "message": "โฟลว์ชาร์ต: การดึงข้อมูล"
+   },
+   "menu_item_flowchart_internal_storage": {
+      "message": "โฟลว์ชาร์ต: พื้นที่เก็บข้อมูลภายใน"
+   },
+   "menu_item_flowchart_magnetic_disk": {
+      "message": "โฟลว์ชาร์ต: ดิสก์แม่เหล็ก"
+   },
+   "menu_item_flowchart_manual_input": {
+      "message": "โฟลว์ชาร์ต: ป้อนด้วยตนเอง"
+   },
+   "menu_item_flowchart_manual_operation": {
+      "message": "โฟลว์ชาร์ต: การทำงานด้วยตนเอง"
+   },
+   "menu_item_flowchart_merge": {
+      "message": "โฟลว์ชาร์ต: รวม"
+   },
+   "menu_item_flowchart_multidocument": {
+      "message": "โฟลว์ชาร์ต: หลายเอกสาร"
+   },
+   "menu_item_flowchart_off_page_connector": {
+      "message": "โฟลว์ชาร์ต: ตัวเชื่อมนอกหน้ากระดาษ"
+   },
+   "menu_item_flowchart_or": {
+      "message": "โฟลว์ชาร์ต: หรือ"
+   },
+   "menu_item_flowchart_predefined_process": {
+      "message": "โฟลว์ชาร์ต: กระบวนการที่กำหนดไว้ล่วงหน้า"
+   },
+   "menu_item_flowchart_preparation": {
+      "message": "โฟลว์ชาร์ต: การจัดเตรียม"
+   },
+   "menu_item_flowchart_process": {
+      "message": "โฟลว์ชาร์ต: กระบวนการ"
+   },
+   "menu_item_flowchart_punched_tape": {
+      "message": "โฟลว์ชาร์ต: แถบข้อมูลแบบเจาะ"
+   },
+   "menu_item_flowchart_sequential_access_storage": {
+      "message": "โฟลว์ชาร์ต: การจัดเก็บแบบเข้าถึงตามลำดับ"
+   },
+   "menu_item_flowchart_sort": {
+      "message": "โฟลว์ชาร์ต: จัดเรียง"
+   },
+   "menu_item_flowchart_stored_data": {
+      "message": "โฟลว์ชาร์ต: ข้อมูลที่จัดเก็บ"
+   },
+   "menu_item_flowchart_summing_junction": {
+      "message": "โฟลว์ชาร์ต: จุดรวมสรุป"
+   },
+   "menu_item_flowchart_terminator": {
+      "message": "โฟลว์ชาร์ต: จุดสิ้นสุด"
+   },
+   "menu_item_folded_corner": {
+      "message": "พับมุม"
+   },
+   "menu_item_frame": {
+      "message": "กรอบ"
+   },
+   "menu_item_half_frame": {
+      "message": "ครึ่งกรอบ"
+   },
+   "menu_item_heart": {
+      "message": "หัวใจ"
+   },
+   "menu_item_help_center": {
+      "message": "ศูนย์ช่วยเหลือ"
+   },
+   "menu_item_heptagon": {
+      "message": "รูปเจ็ดเหลี่ยม"
+   },
+   "menu_item_hexagon": {
+      "message": "รูปหกเหลี่ยม"
+   },
+   "menu_item_hideslide": {
+      "message": "ซ่อนสไลด์"
+   },
+   "menu_item_insert_column": {
+      "message": "คอลัมน์"
+   },
+   "menu_item_insert_image": {
+      "message": "รูปภาพ"
+   },
+   "menu_item_insert_row": {
+      "message": "แถว"
+   },
+   "menu_item_insert_text_box": {
+      "message": "ช่องข้อความ"
+   },
+   "menu_item_insertslide": {
+      "message": "สไลด์ใหม่"
+   },
+   "menu_item_italic": {
+      "message": "ตัวเอียง"
+   },
+   "menu_item_keyboard_shortcuts": {
+      "message": "แป้นพิมพ์ลัด"
+   },
+   "menu_item_l_shape": {
+      "message": "รูปตัว L"
+   },
+   "menu_item_left_arrow": {
+      "message": "ลูกศรซ้าย"
+   },
+   "menu_item_left_arrow_callout": {
+      "message": "ป้ายลูกศรซ้าย"
+   },
+   "menu_item_left_brace": {
+      "message": "ปีกกาเปิด"
+   },
+   "menu_item_left_bracket": {
+      "message": "วงเล็บเปิด"
+   },
+   "menu_item_left_right_arrow": {
+      "message": "ลูกศรซ้าย-ขวา"
+   },
+   "menu_item_left_right_arrow_callout": {
+      "message": "ป้ายลูกศรซ้าย-ขวา"
+   },
+   "menu_item_left_right_up_arrow": {
+      "message": "ลูกศรซ้าย-ขวา-ขึ้น"
+   },
+   "menu_item_left_up_arrow": {
+      "message": "ลูกศรซ้าย-ขึ้น"
+   },
+   "menu_item_lightning_bolt": {
+      "message": "สายฟ้า"
+   },
+   "menu_item_make_a_copy": {
+      "message": "ทำสำเนา…"
+   },
+   "menu_item_merge_all": {
+      "message": "ผสานทั้งหมด"
+   },
+   "menu_item_merge_cells": {
+      "message": "ผสานเซลล์"
+   },
+   "menu_item_merge_horizontally": {
+      "message": "ผสานแนวนอน"
+   },
+   "menu_item_merge_vertically": {
+      "message": "ผสานแนวตั้ง"
+   },
+   "menu_item_minus": {
+      "message": "เครื่องหมายลบ"
+   },
+   "menu_item_moon": {
+      "message": "ดวงจันทร์"
+   },
+   "menu_item_moveslidedown": {
+      "message": "เลื่อนสไลด์ลง"
+   },
+   "menu_item_moveslidetoend": {
+      "message": "เลื่อนสไลด์ไปที่จุดสิ้นสุด"
+   },
+   "menu_item_moveslidetostart": {
+      "message": "เลื่อนสไลด์ไปที่จุดเริ่มต้น"
+   },
+   "menu_item_moveslideup": {
+      "message": "เลื่อนสไลด์ขึ้น"
+   },
+   "menu_item_multiply": {
+      "message": "คูณ"
+   },
+   "menu_item_new": {
+      "message": "ใหม่"
+   },
+   "menu_item_no_symbol": {
+      "message": "สัญลักษณ์ \"ไม่\""
+   },
+   "menu_item_not_equal": {
+      "message": "ไม่เท่ากับ"
+   },
+   "menu_item_notched_right_arrow": {
+      "message": "ลูกศรขวาชนิดมีหัว"
+   },
+   "menu_item_number_format": {
+      "message": "รูปแบบตัวเลข"
+   },
+   "menu_item_number_menu": {
+      "message": "ตัวเลข"
+   },
+   "menu_item_numbering": {
+      "message": "$1 ของ $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "menu_item_octagon": {
+      "message": "รูปแปดเหลี่ยม"
+   },
+   "menu_item_open": {
+      "message": "เปิด"
+   },
+   "menu_item_oval": {
+      "message": "วงรี"
+   },
+   "menu_item_oval_callout": {
+      "message": "ป้ายวงรี"
+   },
+   "menu_item_parallelogram": {
+      "message": "รูปสี่เหลี่ยมด้านขนาน"
+   },
+   "menu_item_paste": {
+      "message": "วาง"
+   },
+   "menu_item_pentagon": {
+      "message": "รูปห้าเหลี่ยม"
+   },
+   "menu_item_pie": {
+      "message": "วงกลม"
+   },
+   "menu_item_plaque": {
+      "message": "โล่"
+   },
+   "menu_item_plus": {
+      "message": "เครื่องหมายบวก"
+   },
+   "menu_item_present": {
+      "message": "ปัจจุบัน"
+   },
+   "menu_item_print": {
+      "message": "พิมพ์"
+   },
+   "menu_item_quad_arrow": {
+      "message": "ลูกศรสี่หัว"
+   },
+   "menu_item_quad_arrow_callout": {
+      "message": "ป้ายลูกศรสี่หัว"
+   },
+   "menu_item_rectangle": {
+      "message": "สี่เหลี่ยมผืนผ้า"
+   },
+   "menu_item_rectangular_callout": {
+      "message": "ป้ายสี่เหลี่ยมผืนผ้า"
+   },
+   "menu_item_redo": {
+      "message": "ทำซ้ำ"
+   },
+   "menu_item_regular_pentagon": {
+      "message": "รูปห้าเหลี่ยมด้านเท่า"
+   },
+   "menu_item_report_abuse": {
+      "message": "รายงานการละเมิด"
+   },
+   "menu_item_report_issue": {
+      "message": "รายงานปัญหา"
+   },
+   "menu_item_right_arrow": {
+      "message": "ลูกศรขวา"
+   },
+   "menu_item_right_arrow_callout": {
+      "message": "ป้ายลูกศรขวา"
+   },
+   "menu_item_right_brace": {
+      "message": "วงเล็บปิด"
+   },
+   "menu_item_right_bracket": {
+      "message": "วงเล็บปิด"
+   },
+   "menu_item_right_triangle": {
+      "message": "สามเหลี่ยมมุมฉาก"
+   },
+   "menu_item_round_diagonal_corner_rectangle": {
+      "message": "รูปสี่เหลี่ยมผืนผ้ามุมมนทแยง"
+   },
+   "menu_item_round_same_side_corner_rectangle": {
+      "message": "รูปสี่เหลี่ยมผืนผ้ามุมมนด้านเดียวกัน"
+   },
+   "menu_item_round_single_corner_rectangle": {
+      "message": "รูปสี่เหลี่ยมผืนผ้ามุมมนเดียว"
+   },
+   "menu_item_rounded_rectangle": {
+      "message": "รูปสี่เหลี่ยมผืนผ้ามุมมน"
+   },
+   "menu_item_rounded_rectangular_callout": {
+      "message": "ป้ายสี่เหลี่ยมผืนผ้ามุมมน"
+   },
+   "menu_item_save": {
+      "message": "บันทึก"
+   },
+   "menu_item_save_as": {
+      "message": "บันทึกเป็น…"
+   },
+   "menu_item_shapes": {
+      "message": "รูปทรง"
+   },
+   "menu_item_share": {
+      "message": "แชร์"
+   },
+   "menu_item_smiley_face": {
+      "message": "ใบหน้ายิ้ม"
+   },
+   "menu_item_snip_and_round_single_corner_rectangle": {
+      "message": "รูปสี่เหลี่ยมผืนผ้ามุมมนและตัดมุมเดียว"
+   },
+   "menu_item_snip_diagonal_corner_rectangle": {
+      "message": "รูปสี่เหลี่ยมผืนผ้าตัดมุมทแยง"
+   },
+   "menu_item_snip_same_side_corner_rectangle": {
+      "message": "รูปสี่เหลี่ยมผืนผ้าตัดมุมด้านเดียวกัน"
+   },
+   "menu_item_snip_single_corner_rectangle": {
+      "message": "รูปสี่เหลี่ยมผืนผ้าตัดมุมเดียว"
+   },
+   "menu_item_strikethrough": {
+      "message": "ขีดทับ"
+   },
+   "menu_item_striped_right_arrow": {
+      "message": "ลูกศรขวาชนิดมีลายเส้น"
+   },
+   "menu_item_subscript": {
+      "message": "ตัวห้อย"
+   },
+   "menu_item_sun": {
+      "message": "ดวงอาทิตย์"
+   },
+   "menu_item_superscript": {
+      "message": "ตัวยก"
+   },
+   "menu_item_teardrop": {
+      "message": "หยดน้ำตา"
+   },
+   "menu_item_trapezoid": {
+      "message": "สี่เหลี่ยมคางหมู"
+   },
+   "menu_item_triangle": {
+      "message": "รูปสามเหลี่ยม"
+   },
+   "menu_item_u_turn_arrow": {
+      "message": "ลูกศรรูปยูเทิร์น"
+   },
+   "menu_item_underline": {
+      "message": "ขีดเส้นใต้"
+   },
+   "menu_item_undo": {
+      "message": "เลิกทำ"
+   },
+   "menu_item_unhideslide": {
+      "message": "เลิกซ่อนสไลด์"
+   },
+   "menu_item_unmerge": {
+      "message": "ยกเลิกการผสาน"
+   },
+   "menu_item_up_arrow": {
+      "message": "ลูกศรขึ้น"
+   },
+   "menu_item_up_arrow_callout": {
+      "message": "ป้ายลูกศรขึ้น"
+   },
+   "menu_item_up_down_arrow": {
+      "message": "ลูกศรขึ้น-ลง"
+   },
+   "menu_item_version_info": {
+      "message": "ข้อมูลเวอร์ชัน"
+   },
+   "menu_item_word_count": {
+      "message": "จำนวนคำ"
+   },
+   "menu_item_wrap_text": {
+      "message": "ตัดข้อความ"
+   },
+   "menu_item_zoom_in": {
+      "message": "ซูมเข้า"
+   },
+   "menu_item_zoom_out": {
+      "message": "ซูมออก"
+   },
+   "merge_all_aria_spoken_word": {
+      "message": "ผสานทั้งหมด"
+   },
+   "merge_aria_spoken_word": {
+      "message": "ผสาน"
+   },
+   "merge_dropdown_aria_spoken_word": {
+      "message": "เมนูการผสานแบบเลื่อนลง"
+   },
+   "merge_horizontally_aria_spoken_word": {
+      "message": "ผสานแนวนอน"
+   },
+   "merge_vertically_aria_spoken_word": {
+      "message": "ผสานแนวตั้ง"
+   },
+   "modify_shape_transform_error_msg": {
+      "message": "เกิดข้อผิดพลาดระหว่างการปรับเปลี่ยนการเปลี่ยนรูปร่าง"
+   },
+   "modify_shape_transform_error_short_msg": {
+      "message": "เกิดข้อผิดพลาดในการปรับเปลี่ยนการเปลี่ยนรูปร่าง"
+   },
+   "modifyshapefillcolor_aria_spoken_word": {
+      "message": "รายการสีเติมรูปร่างแบบเลื่อนลง"
+   },
+   "modifyshapeoutlinecolor_aria_spoken_word": {
+      "message": "รายการสีเส้นโครงของรูปร่างแบบเลื่อนลง"
+   },
+   "modifyshapeoutlinestyle_aria_spoken_word": {
+      "message": "รายการรูปแบบเส้นโครงของรูปร่างแบบเลื่อนลง"
+   },
+   "modifyshapeoutlinewidth_aria_spoken_word": {
+      "message": "รายการความกว้างเส้นโครงของรูปร่างแบบเลื่อนลง"
+   },
+   "nacl_load_error_details": {
+      "message": "ลองติดตั้งส่วนขยายอีกครั้ง"
+   },
+   "nacl_load_error_title": {
+      "message": "มีปัญหาในการโหลดแอปพลิเคชัน"
+   },
+   "non_permissible_sheet_name_details": {
+      "message": "ห้ามใช้อักขระต่อไปนี้ * ? [ ] ' ; : ชื่อชีตต้องมีอักขระไม่เกิน 31 ตัวและต้องไม่เว้นว่างไว้"
+   },
+   "non_permissible_sheet_name_title": {
+      "message": "คุณป้อนชื่อไม่ถูกต้องขณะเปลี่ยนชื่อชีต"
+   },
+   "not_pressed": {
+      "message": "ไม่ได้กด"
+   },
+   "notselected": {
+      "message": "ไม่ได้เลือก"
+   },
+   "number_format_label_currency_symbol": {
+      "message": "สัญลักษณ์สกุลเงิน"
+   },
+   "number_format_label_date_type": {
+      "message": "พิมพ์"
+   },
+   "number_format_label_decimal_places": {
+      "message": "ตำแหน่งทศนิยม"
+   },
+   "number_format_label_general": {
+      "message": "ทั่วไป"
+   },
+   "number_format_label_negative_numbers": {
+      "message": "ตัวเลขติดลบ"
+   },
+   "number_format_label_other": {
+      "message": "อื่นๆ"
+   },
+   "number_format_label_red": {
+      "message": "สีแดง"
+   },
+   "number_format_label_text": {
+      "message": "ข้อความ"
+   },
+   "number_format_label_use_1000_separator": {
+      "message": "ใช้เครื่องหมายคั่นหลักพัน"
+   },
+   "number_format_tab_accounting": {
+      "message": "การบัญชี"
+   },
+   "number_format_tab_currency": {
+      "message": "สกุลเงิน"
+   },
+   "number_format_tab_date_time": {
+      "message": "วันที่และเวลา"
+   },
+   "number_format_tab_general": {
+      "message": "ทั่วไป"
+   },
+   "number_format_tab_number": {
+      "message": "ตัวเลข"
+   },
+   "number_format_tab_percentage": {
+      "message": "เปอร์เซ็นต์"
+   },
+   "number_format_tab_scientific": {
+      "message": "วิทยาศาสตร์"
+   },
+   "number_format_title": {
+      "message": "รูปแบบตัวเลข"
+   },
+   "ocm_promo_conversion_shortmsg": {
+      "message": "คุณอยู่ในโหมดความเข้ากันได้กับ Office"
+   },
+   "office_compatibility_mode": {
+      "message": "โหมดใช้งานร่วมกับ Office"
+   },
+   "office_first_time_confirm": {
+      "message": "รับทราบ"
+   },
+   "office_first_time_message_p1": {
+      "message": "ขณะนี้คุณสามารถแก้ไขไฟล์ Word, Excel และ Powerpoint จากฮาร์ดไดรฟ์, Google ไดรฟ์, Gmail และอื่นๆ ได้แล้วโดยใช้เอกสาร ชีต และสไลด์"
+   },
+   "office_first_time_message_p2": {
+      "message": "ระบบจะบันทึกการแก้ไขทั้งหมดโดยอัตโนมัติและคุณสามารถบันทึกเป็นรูปแบบเดิมได้เสมอด้วย"
+   },
+   "office_first_time_title": {
+      "message": "การแก้ไขไฟล์ Office สำหรับเอกสาร ชีต และสไลด์"
+   },
+   "offline_error_msg": {
+      "message": "ดูเหมือนว่าคุณกำลังออฟไลน์ โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ตและลองอีกครั้ง หากคุณยังคงพบข้อผิดพลาดนี้ขณะออนไลน์ โปรดรายงานปัญหาด้านล่าง"
+   },
+   "offline_error_short_msg": {
+      "message": "ขออภัย เราไม่สามารถเปิดไฟล์ที่คุณต้องการได้"
+   },
+   "option_key": {
+      "message": "ตัวเลือก"
+   },
+   "out_of_memory_error_msg": {
+      "message": "ลองปิดแท็บนี้แล้วเปิดไฟล์อีกครั้ง หรือปิดแท็บอื่นๆ ที่คุณอาจเปิดไว้ในเบราว์เซอร์ หากยังคงประสบปัญหานี้ โปรดรายงานปัญหาด้านล่าง"
+   },
+   "out_of_memory_error_short_msg": {
+      "message": "แย่แล้ว หน่วยความจำเต็ม"
+   },
+   "page_count_label": {
+      "message": "หน้า"
+   },
+   "partial_cell_merge_error_msg": {
+      "message": "ไม่สามารถเปลี่ยนแปลงส่วนของเซลล์ผสาน"
+   },
+   "partial_cell_merge_error_short_msg": {
+      "message": "ข้อผิดพลาด"
+   },
+   "point_ocm_promo_conversion_msg": {
+      "message": "คุณสามารถแก้ไขและบันทึกไฟล์ Office ได้โดยตรงในสไลด์ หากต้องการเชิญผู้อื่นมาแก้ไขหรือเพิ่มความคิดเห็น ให้บันทึกเป็น Google สไลด์ คุณสามารถบันทึกกลับเป็นรูปแบบเดิมได้ตลอดเวลา"
+   },
+   "point_printing_warning_msg": {
+      "message": "เรากำลังแก้ไขปัญหานี้อยู่"
+   },
+   "point_printing_warning_short_msg": {
+      "message": "ขณะนี้คุณสามารถพิมพ์ภาพนิ่งที่คุณกำลังดูอยู่ได้เท่านั้น"
+   },
+   "point_share_promo_conversion_msg": {
+      "message": "กำลังพยายามแชร์งานนำเสนอนี้อยู่ใช่ไหม ในการเชิญคนอื่นๆ ให้แก้ไขไฟล์ร่วมกับคุณ ให้แปลงไฟล์เป็น Google สไลด์"
+   },
+   "pointtogglebullet_aria_spoken_word": {
+      "message": "รายการย่อย"
+   },
+   "pointtogglenumber_aria_spoken_word": {
+      "message": "รายการที่เรียงลำดับเลข"
+   },
+   "present_button": {
+      "message": "นำเสนอ"
+   },
+   "pressed": {
+      "message": "กดแล้ว"
+   },
+   "print_aria_spoken_word": {
+      "message": "พิมพ์"
+   },
+   "qowt_doc_mismatch_text": {
+      "message": "เอกสารของคุณเกิดข้อผิดพลาดในระหว่างจัดรูปแบบ\n\nโหลดหน้าซ้ำเพื่อกู้คืนการเปลี่ยนแปลงที่คุณทำไว้"
+   },
+   "qowt_doc_mismatch_title": {
+      "message": "อึ๋ย!"
+   },
+   "qowt_hyperlink_activate_short_key": {
+      "message": "กด ALT + Enter เพื่อเปิดใช้งานลิงก์"
+   },
+   "qowt_hyperlink_dialog": {
+      "message": "ไฮเปอร์ลิงก์"
+   },
+   "qowt_hyperlink_dialog_message_text": {
+      "message": "ไปที่ลิงก์:"
+   },
+   "qowt_modal_confirm_dialog_affirmative_button": {
+      "message": "ตกลง"
+   },
+   "qowt_modal_confirm_dialog_negative_button": {
+      "message": "ยกเลิก"
+   },
+   "qowt_modal_dialog_close_button": {
+      "message": "ปิด"
+   },
+   "qowt_modal_dialog_coming_soon_title": {
+      "message": "พบกันเร็วๆ นี้!"
+   },
+   "qowt_modal_dialog_link_text": {
+      "message": "ดูข้อมูลเพิ่มเติม"
+   },
+   "qowt_modal_dialog_ok_button": {
+      "message": "ตกลง"
+   },
+   "qowt_modal_dialog_reload_button": {
+      "message": "โหลดซ้ำ"
+   },
+   "qowt_modal_dialog_textbox_editing_description": {
+      "message": "ขออภัย เราไม่สนับสนุนการแก้ไขข้อความภายในช่องข้อความ"
+   },
+   "qowt_modal_dialog_textbox_editing_link": {
+      "message": "โปรดแก้ปัญหานี้"
+   },
+   "qowt_modal_info_dialog_affirmative_button": {
+      "message": "ตกลง"
+   },
+   "qowt_modal_multi_choice_remember_choice": {
+      "message": "จดจำตัวเลือกของฉัน"
+   },
+   "qowt_modal_query_dialog_affirmative_button": {
+      "message": "ใช่"
+   },
+   "qowt_modal_query_dialog_negative_button": {
+      "message": "ไม่ใช่"
+   },
+   "qowt_modal_query_dialog_reload_button": {
+      "message": "โหลดซ้ำ"
+   },
+   "qowt_modal_single_choice_remember_choice": {
+      "message": "ไม่ต้องเตือนฉันอีก"
+   },
+   "read_only": {
+      "message": "อ่านอย่างเดียว"
+   },
+   "redo_aria_spoken_word": {
+      "message": "ทำซ้ำ"
+   },
+   "right_pointed_submenu": {
+      "message": "ตัวชี้ด้านขวาที่มีเมนูย่อย"
+   },
+   "save_aria_spoken_word": {
+      "message": "บันทึก"
+   },
+   "save_now": {
+      "message": "บันทึกเลย"
+   },
+   "security_error_msg": {
+      "message": "หากคุณยังคงพบข้อผิดพลาด โปรดแจ้งปัญหาที่ด้านล่างนี้"
+   },
+   "security_error_short_msg": {
+      "message": "ขออภัย เราไม่สามารถเปิดไฟล์ที่คุณต้องการได้ ขณะนี้เราไม่สนับสนุนการเปิดไฟล์ในโหมดไม่ระบุตัวตน โปรดเปิดไฟล์ในโหมดอื่น"
+   },
+   "selected": {
+      "message": "เลือกแล้ว"
+   },
+   "set_sheet_info_error_msg": {
+      "message": "เกิดข้อผิดพลาดระหว่างการอัปเดตชื่อชีต"
+   },
+   "share_button": {
+      "message": "แชร์"
+   },
+   "share_promo_conversion_shortmsg": {
+      "message": "แก้ไขร่วมกับคนอื่น"
+   },
+   "sheet_delete_column_error_msg": {
+      "message": "อ๊ะ เกิดข้อผิดพลาดในการนำออกคอลัมน์ โปรดลองอีกครั้ง"
+   },
+   "sheet_delete_row_error_msg": {
+      "message": "อ๊ะ เกิดข้อผิดพลาดในการนำออกแถว โปรดลองอีกครั้ง"
+   },
+   "sheet_format_cells_error_msg": {
+      "message": "มีข้อผิดพลาดในการจัดรูปแบบ โปรดลองอีกครั้ง"
+   },
+   "sheet_insert_column_error_msg": {
+      "message": "อ๊ะ เกิดข้อผิดพลาดในการแทรกคอลัมน์ โปรดลองอีกครั้ง"
+   },
+   "sheet_insert_column_exceed_error_msg": {
+      "message": "ขออภัย คุณไม่สามารถแทรกคอลัมน์ในสเปรดชีตนี้ได้อีกเนื่องจากเรารองรับเพียง 256 คอลัมน์เท่านั้น"
+   },
+   "sheet_insert_column_exceed_error_short_msg": {
+      "message": "ขออภัย!"
+   },
+   "sheet_insert_row_error_msg": {
+      "message": "อ๊ะ เกิดข้อผิดพลาดในการแทรกแถว โปรดลองอีกครั้ง"
+   },
+   "sheet_insert_row_exceed_error_msg": {
+      "message": "ขออภัย คุณไม่สามารถแทรกแถวในสเปรดชีตนี้ได้อีกเนื่องจากเรารองรับเพียง 65,536 แถวเท่านั้น"
+   },
+   "sheet_insert_row_exceed_error_short_msg": {
+      "message": "ขออภัย!"
+   },
+   "sheet_ocm_promo_conversion_msg": {
+      "message": "คุณสามารถแก้ไขและบันทึกไฟล์ Office ได้โดยตรงในชีต หากต้องการเชิญผู้อื่นมาแก้ไขหรือเพิ่มความคิดเห็น ให้บันทึกเป็น Google ชีต คุณสามารถบันทึกกลับเป็นรูปแบบเดิมได้ตลอดเวลา"
+   },
+   "sheet_set_cell_content_invalid_error_msg": {
+      "message": "สูตรที่คุณป้อนมีข้อผิดพลาด โปรดทำการแก้ไข"
+   },
+   "sheet_share_promo_conversion_msg": {
+      "message": "กำลังพยายามแชร์งานสเปรดชีตนี้อยู่ใช่ไหม ในการเชิญคนอื่นๆ ให้แก้ไขไฟล์ร่วมกับคุณ ให้แปลงไฟล์เป็น Google ชีต"
+   },
+   "sheet_sort_error_title": {
+      "message": "เกิดข้อผิดพลาดในการจัดเรียงช่วงของเซลล์นี้"
+   },
+   "sheet_sort_failure_msg": {
+      "message": "เกิดข้อผิดพลาดในการจัดเรียงช่วงของเซลล์นี้"
+   },
+   "sheet_sort_merged_cell_error": {
+      "message": "คุณไม่สามารถจัดเรียงเซลล์ที่ผสานแล้วได้"
+   },
+   "sheet_sort_merged_cell_error_title": {
+      "message": "เกิดข้อผิดพลาดในการจัดเรียงช่วงของเซลล์นี้"
+   },
+   "sheet_sort_one_cell_error": {
+      "message": "โปรดเลือกเซลล์มากกว่า 1 เซลล์เพื่อจัดเรียง"
+   },
+   "sheet_sort_one_cell_error_title": {
+      "message": "เกิดข้อผิดพลาดในการจัดเรียงช่วงของเซลล์นี้"
+   },
+   "shift_key": {
+      "message": "Shift"
+   },
+   "shortcut": {
+      "message": "ทางลัด $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sign_in": {
+      "message": "ลงชื่อเข้าใช้"
+   },
+   "slash_key": {
+      "message": "เครื่องหมายทับ"
+   },
+   "something_not_right": {
+      "message": "มีบางอย่างไม่ถูกต้อง"
+   },
+   "storage_quota_exceed_error_msg": {
+      "message": "ปิดเอกสาร Office ที่เปิดใน Chrome แล้วลองอีกครั้ง หากปัญหายังคงอยู่ ให้รายงานปัญหาด้านล่าง"
+   },
+   "storage_quota_exceed_error_short_msg": {
+      "message": "ขออภัย เราไม่สามารถเปิดไฟล์ได้"
+   },
+   "strikethrough_aria_spoken_word": {
+      "message": "ขีดทับ"
+   },
+   "style_aria_spoken_word": {
+      "message": "รายการจัดรูปแบบแบบเลื่อนลง"
+   },
+   "submenu_spoken_text": {
+      "message": "$1 $2 $3 $4",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         }
+      }
+   },
+   "temporary_unable_to_open_error_msg": {
+      "message": "ลองอีกครั้งในภายหลัง หรือรายงานปัญหาด้านล่างหากปัญหายังคงอยู่"
+   },
+   "temporary_unable_to_open_error_short_msg": {
+      "message": "ขออภัย เราไม่สามารถเปิดไฟล์ได้ชั่วคราว"
+   },
+   "textaligncenter_aria_spoken_word": {
+      "message": "จัดข้อความตรงกลาง"
+   },
+   "textalignjustify_aria_spoken_word": {
+      "message": "จัดข้อความชิดขอบ"
+   },
+   "textalignleft_aria_spoken_word": {
+      "message": "จัดข้อความชิดซ้าย"
+   },
+   "textalignright_aria_spoken_word": {
+      "message": "จัดข้อความชิดขวา"
+   },
+   "textcolor_aria_spoken_word": {
+      "message": "รายการสีข้อความแบบเลื่อนลง"
+   },
+   "textual_edit_error_msg": {
+      "message": "เอกสารของคุณเกิดข้อผิดพลาดในระหว่างจัดรูปแบบ\n\nโหลดหน้าซ้ำเพื่อกู้คืนการเปลี่ยนแปลงที่คุณทำไว้"
+   },
+   "textual_edit_error_short_msg": {
+      "message": "อึ๋ย!"
+   },
+   "title_error_msg_for_merge_cells": {
+      "message": "มีปัญหาเกิดขึ้น"
+   },
+   "title_msg_merging_multiple_cells_with_text": {
+      "message": "โปรดระวัง"
+   },
+   "togglebulleted_aria_spoken_word": {
+      "message": "รายการย่อย"
+   },
+   "togglenumbered_aria_spoken_word": {
+      "message": "รายการที่เรียงลำดับเลข"
+   },
+   "togglezoom_aria_spoken_word": {
+      "message": "ซูมสลับ"
+   },
+   "tooltip_background_color": {
+      "message": "สีเติม"
+   },
+   "tooltip_bold": {
+      "message": "ตัวหนา"
+   },
+   "tooltip_border": {
+      "message": "เส้นขอบ"
+   },
+   "tooltip_border_all": {
+      "message": "เส้นขอบทั้งหมด"
+   },
+   "tooltip_border_bottom": {
+      "message": "เส้นขอบด้านล่าง"
+   },
+   "tooltip_border_horizontal": {
+      "message": "เส้นขอบแนวนอน"
+   },
+   "tooltip_border_inner": {
+      "message": "เส้นขอบด้านใน"
+   },
+   "tooltip_border_left": {
+      "message": "เส้นขอบด้านซ้าย"
+   },
+   "tooltip_border_none": {
+      "message": "ไม่ใส่เส้นขอบ"
+   },
+   "tooltip_border_outer": {
+      "message": "เส้นขอบด้านนอก"
+   },
+   "tooltip_border_right": {
+      "message": "เส้นขอบด้านขวา"
+   },
+   "tooltip_border_top": {
+      "message": "เส้นขอบด้านบน"
+   },
+   "tooltip_border_vertical": {
+      "message": "เส้นขอบแนวตั้ง"
+   },
+   "tooltip_cell_align": {
+      "message": "ปรับแนวเซลล์"
+   },
+   "tooltip_cell_h_align_center": {
+      "message": "กึ่งกลางแนวนอน"
+   },
+   "tooltip_cell_h_align_left": {
+      "message": "ด้านซ้ายแนวนอน"
+   },
+   "tooltip_cell_h_align_right": {
+      "message": "ด้านขวาแนวนอน"
+   },
+   "tooltip_cell_v_align_bottom": {
+      "message": "ด้านล่างแนวตั้ง"
+   },
+   "tooltip_cell_v_align_center": {
+      "message": "กึ่งกลางแนวตั้ง"
+   },
+   "tooltip_cell_v_align_top": {
+      "message": "ด้านบนแนวตั้ง"
+   },
+   "tooltip_download": {
+      "message": "ดาวน์โหลด"
+   },
+   "tooltip_dropdown_init_add_shape": {
+      "message": "รูปร่าง"
+   },
+   "tooltip_fill_color": {
+      "message": "สีข้อความ"
+   },
+   "tooltip_font_face": {
+      "message": "แบบอักษร"
+   },
+   "tooltip_font_size": {
+      "message": "ขนาดตัวอักษร"
+   },
+   "tooltip_highlight_color": {
+      "message": "สีไฮไลต์"
+   },
+   "tooltip_init_add_shape": {
+      "message": "ช่องข้อความ"
+   },
+   "tooltip_italic": {
+      "message": "ตัวเอียง"
+   },
+   "tooltip_merge": {
+      "message": "ผสานเซลล์"
+   },
+   "tooltip_merge_dropdown": {
+      "message": "เลือกประเภทการผสาน..."
+   },
+   "tooltip_modify_shape_fill_color": {
+      "message": "สีเติม"
+   },
+   "tooltip_modify_shape_outline_color": {
+      "message": "สีเส้น"
+   },
+   "tooltip_modify_shape_outline_style": {
+      "message": "เส้นประ"
+   },
+   "tooltip_modify_shape_outline_width": {
+      "message": "น้ำหนักเส้น"
+   },
+   "tooltip_move_slide": {
+      "message": "ย้าย $1 สไลด์",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "tooltip_point": {
+      "message": "หน้าแรกของสไลด์"
+   },
+   "tooltip_point_toggle_bullet": {
+      "message": "รายการย่อย"
+   },
+   "tooltip_point_toggle_number": {
+      "message": "รายการที่เรียงลำดับเลข"
+   },
+   "tooltip_presentation": {
+      "message": "งานนำเสนอ"
+   },
+   "tooltip_print": {
+      "message": "พิมพ์"
+   },
+   "tooltip_redo": {
+      "message": "ทำซ้ำ"
+   },
+   "tooltip_share": {
+      "message": "แชร์"
+   },
+   "tooltip_share_for_macroenabledfiles": {
+      "message": "ไฟล์ที่เปิดใช้มาโครจะแชร์ได้เฉพาะจาก Google ไดรฟ์เท่านั้น"
+   },
+   "tooltip_sheet": {
+      "message": "หน้าแรกของชีต"
+   },
+   "tooltip_strikethrough": {
+      "message": "ขีดทับ"
+   },
+   "tooltip_style": {
+      "message": "รูปแบบ"
+   },
+   "tooltip_text_align_center": {
+      "message": "กึ่งกลาง"
+   },
+   "tooltip_text_align_justify": {
+      "message": "ชิดขอบ"
+   },
+   "tooltip_text_align_left": {
+      "message": "จัดข้อความชิดซ้าย"
+   },
+   "tooltip_text_align_right": {
+      "message": "จัดข้อความชิดขวา"
+   },
+   "tooltip_text_color": {
+      "message": "สีข้อความ"
+   },
+   "tooltip_toggle_bulleted": {
+      "message": "รายการย่อย"
+   },
+   "tooltip_toggle_numbered": {
+      "message": "รายการที่เรียงลำดับเลข"
+   },
+   "tooltip_toggle_zoom": {
+      "message": "สลับการซูม"
+   },
+   "tooltip_underline": {
+      "message": "ขีดเส้นใต้"
+   },
+   "tooltip_undo": {
+      "message": "เลิกทำ"
+   },
+   "tooltip_word": {
+      "message": "หน้าแรกของเอกสาร"
+   },
+   "tooltip_wrap_text": {
+      "message": "ตัดข้อความ"
+   },
+   "tooltip_zoom_in": {
+      "message": "ซูมเข้า"
+   },
+   "tooltip_zoom_out": {
+      "message": "ซูมออก"
+   },
+   "try_again": {
+      "message": "ลองใหม่"
+   },
+   "unable_to_execute_msg": {
+      "message": "ไม่สามารถเปิดเอกสารนี้"
+   },
+   "underline_aria_spoken_word": {
+      "message": "ขีดเส้นใต้"
+   },
+   "undo_aria_spoken_word": {
+      "message": "เลิกทำ"
+   },
+   "unmerge_aria_spoken_word": {
+      "message": "ยกเลิกการผสาน"
+   },
+   "unsaved_changes": {
+      "message": "การเปลี่ยนแปลงที่ไม่ได้รับการบันทึก"
+   },
+   "unsaved_changes_warning": {
+      "message": "คุณมีการเปลี่ยนแปลงที่ยังไม่ได้รับการบันทึกในไฟล์นี้ หากคุณออกจากหน้านี้โดยไม่ได้บันทึก งานของคุณจะสูญหายไปอย่างถาวร"
+   },
+   "unsupported_file_format_error_details_p1": {
+      "message": "ขออภัย ไฟล์นี้มีเนื้อหาจาก Microsoft® Office 95 หรือเก่ากว่า ซึ่งเราไม่สามารถเปิดได้"
+   },
+   "unsupported_file_format_error_details_p2": {
+      "message": "หากคุณต้องการแปลงไฟล์เป็น Google เอกสาร โปรดคลิกลิงก์ด้านล่าง"
+   },
+   "unsupported_file_format_error_title": {
+      "message": "อ๊ะ!"
+   },
+   "unsupported_link_message": {
+      "message": "ขออภัย เราไม่สนับสนุน URL ประเภทนี้ในขณะนี้"
+   },
+   "up_key": {
+      "message": "ขึ้น"
+   },
+   "updated_shortcut_message": {
+      "message": "เราอัปเดตแป้นพิมพ์ลัดในผลิตภัณฑ์ Google เอกสารให้สอดคล้องกันทั้งหมดแล้ว ลองดูแป้นพิมพ์ลัดที่อัปเดตใน \"ความช่วยเหลือ\""
+   },
+   "updated_shortcut_title": {
+      "message": "อัปเดตแป้นพิมพ์ลัดแล้ว"
+   },
+   "version_info_msg": {
+      "message": "เวอร์ชันโหมดใช้งานร่วมกับ Office ของคุณคือ"
+   },
+   "word_binary_upsave_learnmore": {
+      "message": "ดูข้อมูลเพิ่มเติม"
+   },
+   "word_binary_upsave_msg": {
+      "message": "ไฟล์นี้อยู่ในรูปแบบที่ระบบไม่สนับสนุน หากต้องการบันทึกไฟล์ เราต้องขออนุญาตจากคุณในการแปลงไฟล์ให้เป็นรูปแบบไฟล์ล่าสุด และไฟล์ต้นฉบับจะไม่ได้รับผลกระทบ"
+   },
+   "word_binary_upsave_shortmsg": {
+      "message": "อัปเดตเอกสารของคุณ"
+   },
+   "word_count_label": {
+      "message": "คำ"
+   },
+   "word_count_title": {
+      "message": "จำนวนคำ"
+   },
+   "word_ocm_promo_conversion_msg": {
+      "message": "คุณสามารถแก้ไขและบันทึกไฟล์ Office ได้โดยตรงในเอกสาร หากต้องการเชิญผู้อื่นมาแก้ไขหรือเพิ่มความคิดเห็น ให้บันทึกเป็น Google เอกสาร คุณสามารถบันทึกกลับเป็นรูปแบบเดิมได้ตลอดเวลา"
+   },
+   "word_share_promo_conversion_msg": {
+      "message": "กำลังพยายามแชร์เอกสารนี้อยู่ใช่ไหม ในการเชิญคนอื่นๆ ให้แก้ไขไฟล์ร่วมกับคุณ ให้แปลงไฟล์เป็น Google เอกสาร"
+   },
+   "wraptext_aria_spoken_word": {
+      "message": "ตัดข้อความ"
+   },
+   "zoomin_aria_spoken_word": {
+      "message": "ซูมเข้า"
+   },
+   "zoomout_aria_spoken_word": {
+      "message": "ซูมออก"
+   }
+}

@@ -1,0 +1,34 @@
+<!--
+`<qowt-item>` supports enabling and disabling this element in response to
+specific PubSub signals. Either or both of `enableOn` and `disableOn` can be
+given. The value of each is interpreted as a PubSub signal on which to trigger
+the disabled state.
+
+Example: Specifying different PubSub signals for enabling and disabling.
+
+    <qowt-item enableOn="qowt:undoNonEmpty" disableOn="qowt:undoEmpty>
+    </qowt-item>
+
+-->
+<!--
+Fired when a keyboard shortcut is matched to this item. The event detail object
+contains a `source` property to indicate the activation was via a shortcut key.
+
+@event core-activate
+-->
+
+<link rel="import" href="../../ui/polymerCoreDepsVulcanized.html">
+<link rel="import" href="qowt-item-styles.html">
+
+<!-- TODO(dskelton) on-keyboard-shortcut should be part of core-item and then
+ we can remove the duplicated key handler code from qowt-toggle-item -->
+<dom-module id="qowt-item">
+
+<template>
+  <style include="qowt-item-styles">
+  </style>
+  <iron-icon id="icon" src="[[src]]" icon="[[icon]]" item-icon></iron-icon>
+  <div id="label">[[label]]</div><content></content>
+</template>
+</dom-module>
+

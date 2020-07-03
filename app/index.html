@@ -1,0 +1,258 @@
+﻿<!DOCTYPE html>
+<html style="margin:0; padding:0;height:100%;">
+
+<head>
+    <meta charset="UTF-8">
+    <title>HowardBrowser</title>
+    <meta name="keywords" content="tabs, inspiration, web design, css, modern, effects, svg" />
+    <link rel="stylesheet" href="fontawesome-pro-5.12.0/css/all.css">
+    <link rel="stylesheet" href="theme/def.css" id="theme-css" theme="">
+    <style>
+        html,
+        body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            font-family: proxima-nova, "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif;
+            background: transparent;
+        }
+        
+        * {
+            font-family: proxima-nova, "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        }
+        
+        body {
+            perspective: 800px;
+            -webkit-user-select: none;
+            /* border: 1px #525252 solid; */
+        }
+        
+        input[type="submit"],
+        input[type="reset"],
+        input[type="button"],
+        input[type="text"],
+        button,
+        textarea {
+            -webkit-app-region: no-drag;
+        }
+        
+        .shadow {
+            box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            border-radius: 4px;
+        }
+        
+        #login-back {
+            position: relative;
+            border-radius: 3px 3px 0 0;
+            left: 0;
+            right: 0;
+            height: 180px;
+        }
+        
+        #card {
+            left: 0;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #ebf2f92d;
+            position: absolute;
+            -webkit-transition: -webkit-transform .6s ease-in-out;
+            transition: transform .6s ease-in-out;
+            -webkit-transform-style: preserve-3d;
+            transform-style: preserve-3d;
+            border-radius: 4px;
+            -webkit-app-region: drag;
+            background: transparent;
+        }
+        
+        .rainbow-button-wrapper {
+            --rainbow-button-width: 170px;
+            --rainbow-button-height: 50px;
+            --rainbow-button-width-inner: 164px;
+            --rainbow-button-height-inner: 44px;
+            --rainbow-color-1: hsl(116, 30%, 36%);
+            --rainbow-color-2: hsl(194, 60%, 36%);
+            --rainbow-color-3: hsl(222, 53%, 50%);
+            --rainbow-color-4: hsl(285, 47%, 46%);
+            --rainbow-color-5: hsl(330, 65%, 48%);
+            --rainbow-color-6: hsl(32, 79%, 49%);
+            --rainbow-color-7: hsl(53, 84%, 50%);
+            display: inline-block;
+            width: var(--rainbow-button-width);
+            height: var(--rainbow-button-height);
+            position: relative;
+            overflow: hidden;
+            border-radius: 5px;
+            position: absolute;
+            transform: translate(-50%);
+            left: 50%;
+            width: 230px;
+            height: 38px;
+            border: none;
+            color: #FFF;
+            background: #03A9F4;
+            border-radius: 6px;
+            top: 145px;
+            font-size: 16px;
+            transition: .2s;
+        }
+        
+        .rainbow-button-wrapper:before {
+            display: block;
+            position: absolute;
+            z-index: 2;
+            top: 0;
+            left: 0;
+            width: 600px;
+            height: var(--rainbow-button-height);
+            background: #CCC;
+            background: linear-gradient(to right, var(--rainbow-color-1) 0%, var(--rainbow-color-2) 14%, var(--rainbow-color-3) 28%, var(--rainbow-color-4) 42%, var(--rainbow-color-5) 56%, var(--rainbow-color-6) 70%, var(--rainbow-color-7) 84%, var(--rainbow-color-1) 100%);
+            background-position: -200px 0;
+            transition: all 0.5s;
+            content: "";
+        }
+        
+        .rainbow-button-wrapper button {
+            display: block;
+            width: var(--rainbow-button-width-inner);
+            height: var(--rainbow-button-height-inner);
+            position: absolute;
+            z-index: 3;
+            top: 3px;
+            left: 3px;
+            border: none;
+            background: white;
+            color: black;
+            font-size: 1.3rem;
+        }
+        
+        .rainbow-button-wrapper:hover:before {
+            background-position: 200px 0;
+        }
+        
+        .animRotate {
+            -webkit-transition-property: -webkit-transform;
+            -webkit-transition-duration: 1s;
+            -moz-transition-property: -moz-transform;
+            -moz-transition-duration: 1s;
+            -webkit-animation: rotate 3s linear infinite;
+            -moz-animation: rotate 3s linear infinite;
+            -o-animation: rotate 3s linear infinite;
+            animation: rotate 3s linear infinite;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="close-more"></div>
+    <div class="more-container" id="more-container">
+        <div style="width: 100%;font-size: 12px;text-align: center;">
+            软件版本：V0.20.0403
+        </div>
+    </div>
+
+
+    <div class="page-msg-container" id="page-msg-container" style="display: none;">
+    </div>
+
+    <div id="info-msg">
+        <i class="info-msg-icon"></i>
+        <div class="info-msg-title"></div>
+        <div class="info-msg-content"></div>
+    </div>
+
+
+
+    <div id="card">
+        <!-- <div id="back">
+            <svg id="ckLine" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%"></svg>
+        </div> -->
+        <div class="window-title">
+            <div class="web-label-container">
+                <ul id="web-label-bar" class="web-label-bar">
+                </ul>
+                <div class="new-tab-btn" id="new-tab-btn"><i class="icon fad fa-plus"></i></div>
+                <div class="preview-container" id="preview">
+                    <div class="tab-title"></div>
+                    <div class="tab-url"></div>
+                    <img id="preview_show_img" class="preview_show_img">
+                    <ul class="tab-fns">
+                        <li class="tab-fn" id="tab-close-left">
+                            <div class="tab-fn-content" title="关闭左侧所有标签"><i class="fad fa-arrow-to-left"></i></div>
+                        </li>
+                        <li class="tab-fn" id="tab-close-cur">
+                            <div class="tab-fn-content" title="关闭当前标签"><i class="fad fa-times"></i></div>
+                        </li>
+                        <li class="tab-fn" id="tab-close-other">
+                            <div class="tab-fn-content" title="关闭其它标签"><i class="fad fa-times-octagon"></i></div>
+                        </li>
+                        <li class="tab-fn" id="tab-close-right">
+                            <div class="tab-fn-content" title="关闭右侧所有标签"><i class="fad fa-arrow-to-right"></i></div>
+                        </li>
+                    </ul>
+                    <ul class="tab-fns">
+                        <li class="tab-fn" id="tab-close-volume">
+                            <div class="tab-fn-content" title="将网页静音"><i class="fad fa-volume"></i></div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="sys-control-box">
+                <button class="sys-btn sys-btn-close" title="关闭"><i class="fal fa-times"></i></button>
+                <button class="sys-btn sys-btn-max" title="最大化"><i class="far fa-window-maximize"></i></button>
+                <button class="sys-btn sys-btn-mini" title="最小化"><i class="fas fa-minus"></i></button>
+                <button class="sys-btn sys-btn-more" title="设置及其它"><i class="fal fa-ellipsis-h-alt"></i></button>
+            </div>
+        </div>
+
+
+        <div class="browser-container" id="browser-container">
+
+        </div>
+    </div>
+    </div>
+    <!-- <img style="width:300px;height:auto;position: fixed;bottom: 20px;right: 20px;z-index:200;" id="show_img"> -->
+    <script>
+        window.nodeRequire = require('electron');
+        const {
+            ipcRenderer,
+            remote,
+            clipbrd
+        } = require('electron');
+        // const globalShortcut = require('electron').globalShortcut;
+        // const Mousetrap = require('mousetrap');
+        const Menu = remote.Menu;
+        const MenuItem = remote.MenuItem;
+        const urlRequire = require('url');
+        const fs = require('fs');
+        delete window.require;
+        delete window.exports;
+        delete window.module;
+    </script>
+
+    <script src="scripts//jquery.min.js"></script>
+    <script src="scripts//onsize.js"></script>
+    <script src="scripts//jquery.ckLine.js"></script>
+    <script src="scripts//jquery.gradientify.min.js"></script>
+
+    <!-- 工具 -->
+    <script type="text/html" id="search_page_template">
+        <div class="search_container">
+            <input type="text" class="search_text" />
+            <span class="search_num"></span>
+            <div class="search_btn">
+                <button class="search_up_btn"><i class="fad fa-chevron-up"></i></button>
+                <button class="search_down_btn"><i class="fad fa-chevron-down"></i></button>
+                <button class="search_close_btn"><i class="fad fa-times"></i></button>
+            </div>
+        </div>
+    </script>
+    <script src="index.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,2192 @@
+{
+   "action_create_user_feedback": {
+      "message": "Signaler un problème"
+   },
+   "alt_key": {
+      "message": "Alt"
+   },
+   "app_error_learn_more": {
+      "message": "En savoir plus"
+   },
+   "app_error_report_feedback": {
+      "message": "Envoyer des commentaires"
+   },
+   "app_icon_aria_spoken_word": {
+      "message": " accueil"
+   },
+   "app_nacl_crash_msg": {
+      "message": "Aidez-nous en signalant ce problème."
+   },
+   "app_nacl_crash_report": {
+      "message": "Signaler un problème…"
+   },
+   "app_nacl_crash_title": {
+      "message": "Petit problème… Cela n'aurait pas dû se produire. Actualisez la page pour récupérer vos modifications."
+   },
+   "app_nacl_error_load_failed": {
+      "message": "Désolé, impossible d'ouvrir le fichier. Fermez les autres onglets Chrome ou redémarrez le navigateur, puis réessayez. Si le problème persiste, signalez-le ci-dessous."
+   },
+   "app_nacl_error_title": {
+      "message": "Impossible d'ouvrir le fichier"
+   },
+   "app_nacl_error_unsupported_device": {
+      "message": "Cet appareil n'est pas compatible avec l'extension Chrome Éditeur Office pour Docs, Sheets et Slides."
+   },
+   "app_saving_failed_error_msg": {
+      "message": "Désolé, un problème est survenu lors de l'enregistrement du fichier. Réessayez. Si le problème persiste, signalez-le ci-dessous."
+   },
+   "app_saving_failed_error_short_msg": {
+      "message": "Impossible d'enregistrer le fichier"
+   },
+   "backgroundcolor_aria_spoken_word": {
+      "message": "liste déroulante de la couleur de l'arrière-plan de cellule"
+   },
+   "bold_aria_spoken_word": {
+      "message": "gras"
+   },
+   "border_all_aria_spoken_word": {
+      "message": "toutes les bordures"
+   },
+   "border_aria_spoken_word": {
+      "message": "liste déroulante des bordures"
+   },
+   "border_bottom_aria_spoken_word": {
+      "message": "bordure inférieure"
+   },
+   "border_horizontal_aria_spoken_word": {
+      "message": "bordure horizontale"
+   },
+   "border_inner_aria_spoken_word": {
+      "message": "bordure intérieure"
+   },
+   "border_left_aria_spoken_word": {
+      "message": "bordure gauche"
+   },
+   "border_none_aria_spoken_word": {
+      "message": "aucune bordure"
+   },
+   "border_outer_aria_spoken_word": {
+      "message": "bordure extérieure"
+   },
+   "border_right_aria_spoken_word": {
+      "message": "bordure droite"
+   },
+   "border_top_aria_spoken_word": {
+      "message": "bordure supérieure"
+   },
+   "border_vertical_aria_spoken_word": {
+      "message": "bordure verticale"
+   },
+   "button_ocm_convert_cancel": {
+      "message": "Annuler"
+   },
+   "button_ocm_promo_conversion_point": {
+      "message": "Enregistrer au format Google Slides"
+   },
+   "button_ocm_promo_conversion_sheet": {
+      "message": "Enregistrer au format Google Sheets"
+   },
+   "button_ocm_promo_conversion_word": {
+      "message": "Enregistrer au format Google Docs"
+   },
+   "button_share_convert_cancel": {
+      "message": "Annuler"
+   },
+   "button_share_promo_conversion_point": {
+      "message": "Enregistrer au format Google Slides"
+   },
+   "button_share_promo_conversion_sheet": {
+      "message": "Enregistrer au format Google Sheets"
+   },
+   "button_share_promo_conversion_word": {
+      "message": "Enregistrer au format Google Docs"
+   },
+   "cell_align_aria_spoken_word": {
+      "message": "Alignement des cellules"
+   },
+   "cellalign_aria_spoken_word": {
+      "message": "liste déroulante d'alignement de la cellule"
+   },
+   "cellhaligncenter_aria_spoken_word": {
+      "message": "Horizontal au centre"
+   },
+   "cellhalignleft_aria_spoken_word": {
+      "message": "Horizontal à gauche"
+   },
+   "cellhalignright_aria_spoken_word": {
+      "message": "Horizontal à droite"
+   },
+   "cellvalignbottom_aria_spoken_word": {
+      "message": "Vertical en bas"
+   },
+   "cellvaligncenter_aria_spoken_word": {
+      "message": "Vertical au centre"
+   },
+   "cellvaligntop_aria_spoken_word": {
+      "message": "Vertical en haut"
+   },
+   "char_count_label": {
+      "message": "Caractères"
+   },
+   "char_no_spaces_count_label": {
+      "message": "Caractères (sans les espaces)"
+   },
+   "close_dialog_aria_spoken_word": {
+      "message": "Fermer la boîte de dialogue"
+   },
+   "cmd_dropdown_initaddshape_aria_spoken_word": {
+      "message": "liste déroulante d'ajout de forme"
+   },
+   "collapsed": {
+      "message": "Réduite"
+   },
+   "collapsed_menu": {
+      "message": "$1 Réduit avec sous-menu.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "color_black": {
+      "message": "Noir"
+   },
+   "color_blaze_orange": {
+      "message": "Orange vif"
+   },
+   "color_blue": {
+      "message": "Bleu"
+   },
+   "color_brown": {
+      "message": "Marron"
+   },
+   "color_cornflower_blue": {
+      "message": "Bleuet"
+   },
+   "color_cyan": {
+      "message": "Cyan"
+   },
+   "color_dark_blue": {
+      "message": "Bleu foncé"
+   },
+   "color_dark_blue_1": {
+      "message": "Bleu foncé 1"
+   },
+   "color_dark_blue_2": {
+      "message": "Bleu foncé 2"
+   },
+   "color_dark_blue_3": {
+      "message": "Bleu foncé 3"
+   },
+   "color_dark_blue_grey": {
+      "message": "Gris-bleu foncé"
+   },
+   "color_dark_cornflower_blue_1": {
+      "message": "Bleuet foncé 1"
+   },
+   "color_dark_cornflower_blue_2": {
+      "message": "Bleuet foncé 2"
+   },
+   "color_dark_cornflower_blue_3": {
+      "message": "Bleuet foncé 3"
+   },
+   "color_dark_cyan": {
+      "message": "Cyan foncé"
+   },
+   "color_dark_cyan_1": {
+      "message": "Cyan foncé 1"
+   },
+   "color_dark_cyan_2": {
+      "message": "Cyan foncé 2"
+   },
+   "color_dark_cyan_3": {
+      "message": "Cyan foncé 3"
+   },
+   "color_dark_gray": {
+      "message": "Gris foncé"
+   },
+   "color_dark_gray_1": {
+      "message": "Gris foncé 1"
+   },
+   "color_dark_gray_2": {
+      "message": "Gris foncé 2"
+   },
+   "color_dark_gray_3": {
+      "message": "Gris foncé 3"
+   },
+   "color_dark_gray_4": {
+      "message": "Gris foncé 4"
+   },
+   "color_dark_green": {
+      "message": "Vert foncé"
+   },
+   "color_dark_green_1": {
+      "message": "Vert foncé 1"
+   },
+   "color_dark_green_2": {
+      "message": "Vert foncé 2"
+   },
+   "color_dark_green_3": {
+      "message": "Vert foncé 3"
+   },
+   "color_dark_green_5": {
+      "message": "Vert foncé 5"
+   },
+   "color_dark_grey_2": {
+      "message": "Gris foncé 2"
+   },
+   "color_dark_grey_5": {
+      "message": "Gris foncé 5"
+   },
+   "color_dark_magenta_1": {
+      "message": "Magenta foncé 1"
+   },
+   "color_dark_magenta_2": {
+      "message": "Magenta foncé 2"
+   },
+   "color_dark_magenta_3": {
+      "message": "Magenta foncé 3"
+   },
+   "color_dark_olive_green": {
+      "message": "Vert olive foncé"
+   },
+   "color_dark_orange_1": {
+      "message": "Orange foncé 1"
+   },
+   "color_dark_orange_2": {
+      "message": "Orange foncé 2"
+   },
+   "color_dark_orange_3": {
+      "message": "Orange foncé 3"
+   },
+   "color_dark_purple_1": {
+      "message": "Violet foncé 1"
+   },
+   "color_dark_purple_2": {
+      "message": "Violet foncé 2"
+   },
+   "color_dark_purple_3": {
+      "message": "Violet foncé 3"
+   },
+   "color_dark_red": {
+      "message": "Rouge foncé"
+   },
+   "color_dark_red_1": {
+      "message": "Rouge foncé 1"
+   },
+   "color_dark_red_2": {
+      "message": "Rouge foncé 2"
+   },
+   "color_dark_red_3": {
+      "message": "Rouge foncé 3"
+   },
+   "color_dark_red_berry_1": {
+      "message": "Fruits rouges foncé 1"
+   },
+   "color_dark_red_berry_2": {
+      "message": "Fruits rouges foncé 2"
+   },
+   "color_dark_red_berry_3": {
+      "message": "Fruits rouges foncé 3"
+   },
+   "color_dark_slate_blue": {
+      "message": "Bleu ardoise foncé"
+   },
+   "color_dark_yellow_1": {
+      "message": "Jaune foncé 1"
+   },
+   "color_dark_yellow_2": {
+      "message": "Jaune foncé 2"
+   },
+   "color_dark_yellow_3": {
+      "message": "Jaune foncé 3"
+   },
+   "color_deep_pink": {
+      "message": "Rose profond"
+   },
+   "color_deep_sky_blue": {
+      "message": "Bleu ciel profond"
+   },
+   "color_eucalyptus_green": {
+      "message": "Vert eucalyptus"
+   },
+   "color_gold": {
+      "message": "Or"
+   },
+   "color_gray": {
+      "message": "Gris"
+   },
+   "color_green": {
+      "message": "Vert"
+   },
+   "color_light_blue": {
+      "message": "Bleu clair"
+   },
+   "color_light_blue_1": {
+      "message": "Bleu clair 1"
+   },
+   "color_light_blue_2": {
+      "message": "Bleu clair 2"
+   },
+   "color_light_blue_3": {
+      "message": "Bleu clair 3"
+   },
+   "color_light_cornflower_blue_1": {
+      "message": "Bleuet clair 1"
+   },
+   "color_light_cornflower_blue_2": {
+      "message": "Bleuet clair 2"
+   },
+   "color_light_cornflower_blue_3": {
+      "message": "Bleuet clair 3"
+   },
+   "color_light_cyan": {
+      "message": "Cyan clair"
+   },
+   "color_light_cyan_1": {
+      "message": "Cyan clair 1"
+   },
+   "color_light_cyan_2": {
+      "message": "Cyan clair 2"
+   },
+   "color_light_cyan_3": {
+      "message": "Cyan clair 3"
+   },
+   "color_light_gray": {
+      "message": "Gris clair"
+   },
+   "color_light_gray_1": {
+      "message": "Gris clair 1"
+   },
+   "color_light_gray_2": {
+      "message": "Gris clair 2"
+   },
+   "color_light_gray_3": {
+      "message": "Gris clair 3"
+   },
+   "color_light_green": {
+      "message": "Vert clair"
+   },
+   "color_light_green_1": {
+      "message": "Vert clair 1"
+   },
+   "color_light_green_2": {
+      "message": "Vert clair 2"
+   },
+   "color_light_green_3": {
+      "message": "Vert clair 3"
+   },
+   "color_light_magenta_1": {
+      "message": "Magenta clair 1"
+   },
+   "color_light_magenta_2": {
+      "message": "Magenta clair 2"
+   },
+   "color_light_magenta_3": {
+      "message": "Magenta clair 3"
+   },
+   "color_light_orange_1": {
+      "message": "Orange clair 1"
+   },
+   "color_light_orange_2": {
+      "message": "Orange clair 2"
+   },
+   "color_light_orange_3": {
+      "message": "Orange clair 3"
+   },
+   "color_light_purple": {
+      "message": "Violet clair"
+   },
+   "color_light_purple_1": {
+      "message": "Violet clair 1"
+   },
+   "color_light_purple_2": {
+      "message": "Violet clair 2"
+   },
+   "color_light_purple_3": {
+      "message": "Violet clair 3"
+   },
+   "color_light_red_1": {
+      "message": "Rouge clair 1"
+   },
+   "color_light_red_2": {
+      "message": "Rouge clair 2"
+   },
+   "color_light_red_3": {
+      "message": "Rouge clair 3"
+   },
+   "color_light_red_berry_1": {
+      "message": "Fruits rouges clair 1"
+   },
+   "color_light_red_berry_2": {
+      "message": "Fruits rouges clair 2"
+   },
+   "color_light_red_berry_3": {
+      "message": "Fruits rouges clair 3"
+   },
+   "color_light_yellow": {
+      "message": "Jaune clair"
+   },
+   "color_light_yellow_1": {
+      "message": "Jaune clair 1"
+   },
+   "color_light_yellow_2": {
+      "message": "Jaune clair 2"
+   },
+   "color_light_yellow_3": {
+      "message": "Jaune clair 3"
+   },
+   "color_magenta": {
+      "message": "Magenta"
+   },
+   "color_maroon": {
+      "message": "Bordeaux"
+   },
+   "color_midnight_blue": {
+      "message": "Bleu nuit"
+   },
+   "color_navy": {
+      "message": "Bleu marine"
+   },
+   "color_olive": {
+      "message": "Olive"
+   },
+   "color_orange": {
+      "message": "Orange"
+   },
+   "color_peach": {
+      "message": "Pêche"
+   },
+   "color_pink": {
+      "message": "Rose"
+   },
+   "color_pistachio": {
+      "message": "Pistache"
+   },
+   "color_purple": {
+      "message": "Violet"
+   },
+   "color_red": {
+      "message": "Rouge"
+   },
+   "color_red_berry": {
+      "message": "Fruits rouges"
+   },
+   "color_royal_blue": {
+      "message": "Bleu royal"
+   },
+   "color_teal": {
+      "message": "Gris-bleu"
+   },
+   "color_turquiose": {
+      "message": "Turquoise"
+   },
+   "color_white": {
+      "message": "Blanc"
+   },
+   "color_yellow": {
+      "message": "Jaune"
+   },
+   "command_key": {
+      "message": "Commande"
+   },
+   "content_msg_merging_horizontally_across_vertical_section": {
+      "message": "Impossible de fusionner des cellules horizontalement sur une section déjà fusionnée verticalement."
+   },
+   "content_msg_merging_multiple_cells_with_text": {
+      "message": "La fusion des cellules ne conserve que la valeur de la cellule supérieure gauche. Fusionner quand même ?"
+   },
+   "content_msg_merging_partially_selected_merged_cells": {
+      "message": "Vous devez sélectionner toutes les cellules d'une plage fusionnée pour les fusionner ou annuler la fusion."
+   },
+   "content_msg_merging_vertically_across_horizontal_section": {
+      "message": "Impossible de fusionner des cellules verticalement sur une section déjà fusionnée horizontalement."
+   },
+   "content_render_error_msg": {
+      "message": "Un problème est survenu avec le contenu de ce document."
+   },
+   "context_menu_clipboard_copy": {
+      "message": "Copier"
+   },
+   "context_menu_delete": {
+      "message": "Supprimer"
+   },
+   "context_menu_freeze": {
+      "message": "Figer"
+   },
+   "context_menu_insert": {
+      "message": "Insérer"
+   },
+   "context_menu_sort_collation_ascending": {
+      "message": "Trier de A à Z"
+   },
+   "context_menu_sort_collation_descending": {
+      "message": "Trier de Z à A"
+   },
+   "context_menu_unfreeze": {
+      "message": "Libérer"
+   },
+   "control_key": {
+      "message": "Contrôle"
+   },
+   "convert_attempt_when_offline": {
+      "message": "Vous devez être en ligne pour enregistrer votre fichier au format Google Docs. Veuillez réessayer une fois la connexion rétablie."
+   },
+   "convert_attempt_with_invalid_creds": {
+      "message": "Vous devez vous connecter à votre compte Google pour convertir ce fichier."
+   },
+   "convert_cancel": {
+      "message": "Annuler"
+   },
+   "convert_to_google_docs_failed": {
+      "message": "Un problème est survenu lors de la conversion de votre document au format Google Docs."
+   },
+   "convert_to_google_point_fail_short_msg": {
+      "message": "Petit problème"
+   },
+   "convert_to_google_point_short_msg": {
+      "message": "Enregistrement au format Google Slides en cours"
+   },
+   "convert_to_google_sheet_fail_short_msg": {
+      "message": "Petit problème"
+   },
+   "convert_to_google_sheet_short_msg": {
+      "message": "Enregistrement au format Google Sheets en cours"
+   },
+   "convert_to_google_word_fail_short_msg": {
+      "message": "Petit problème"
+   },
+   "convert_to_google_word_short_msg": {
+      "message": "Enregistrement au format Google Docs en cours"
+   },
+   "convert_try_again": {
+      "message": "Réessayer"
+   },
+   "converting_to_google_point_fail_msg": {
+      "message": "Impossible d'enregistrer ce fichier au format Google Slides pour le moment."
+   },
+   "converting_to_google_point_msg": {
+      "message": "L'enregistrement d'une nouvelle version de cette présentation au format Google Slides est en cours."
+   },
+   "converting_to_google_sheet_fail_msg": {
+      "message": "Impossible d'enregistrer ce fichier au format Google Sheets pour le moment."
+   },
+   "converting_to_google_sheet_msg": {
+      "message": "L'enregistrement d'une nouvelle version de cette feuille de calcul au format Google Sheets est en cours."
+   },
+   "converting_to_google_word_fail_msg": {
+      "message": "Impossible d'enregistrer ce fichier au format Google Docs pour le moment."
+   },
+   "converting_to_google_word_msg": {
+      "message": "L'enregistrement d'une nouvelle version de ce document au format Google Docs est en cours."
+   },
+   "copy_attempt_when_offline": {
+      "message": "Vous devez être connecté à Internet pour effectuer une copie sur Google Drive. Veuillez réessayer lorsque la connexion sera rétablie."
+   },
+   "copy_attempt_with_invalid_creds": {
+      "message": "Vous devez vous connecter à votre compte Google pour effectuer une copie."
+   },
+   "disabled_share_button": {
+      "message": "Les fichiers dans lesquels les macros sont activées peuvent uniquement être partagés depuis Google Drive. Le partage est désactivé."
+   },
+   "disallowed_cut_copy_paste_cmd_copy": {
+      "message": "Copier"
+   },
+   "disallowed_cut_copy_paste_cmd_cut": {
+      "message": "Couper"
+   },
+   "disallowed_cut_copy_paste_cmd_paste": {
+      "message": "Coller"
+   },
+   "disallowed_cut_copy_paste_msg": {
+      "message": "Ces actions ne sont pas disponibles depuis le menu Édition et les menus contextuels, mais vous pouvez utiliser les raccourcis clavier suivants :"
+   },
+   "disallowed_cut_copy_paste_title": {
+      "message": "Copier et coller en mode de compatibilité Office"
+   },
+   "dismiss": {
+      "message": "Ignorer"
+   },
+   "document_title_aria_spoken_word": {
+      "message": "Titre du document :"
+   },
+   "down_key": {
+      "message": "Bas"
+   },
+   "download_button": {
+      "message": "Télécharger"
+   },
+   "download_file_timeout_error_msg": {
+      "message": "Le téléchargement du fichier à ouvrir est plus long que prévu. Veuillez vérifier votre connexion réseau, puis réessayez."
+   },
+   "download_file_timeout_error_short_msg": {
+      "message": "Téléchargement du fichier plus long que prévu"
+   },
+   "drive_open_timeout_error_msg": {
+      "message": "Il semblerait que vous ayez un problème de connexion Internet. Veuillez vérifier votre connexion, puis réessayez d'ouvrir le fichier. Si ce message d'erreur s'affiche encore lorsque vous êtes en ligne, signalez le problème ci-dessous."
+   },
+   "drive_open_timeout_error_short_msg": {
+      "message": "Impossible d'ouvrir le fichier demandé"
+   },
+   "duplicate_sheet_name_message": {
+      "message": "Saisissez un nom de feuille qui n'est pas déjà utilisé."
+   },
+   "duplicate_sheet_name_title": {
+      "message": "Ce nom de feuille est déjà utilisé."
+   },
+   "edits_not_being_saved": {
+      "message": "Les modifications ne seront pas enregistrées automatiquement."
+   },
+   "edits_now_being_auto_saved": {
+      "message": "Le fichier a bien été enregistré. Toutes les modifications seront désormais enregistrées automatiquement."
+   },
+   "entry_point_error_msg": {
+      "message": "Veuillez réessayer ou signaler le problème ci-dessous."
+   },
+   "entry_point_error_short_msg": {
+      "message": "Petit problème… Impossible de déterminer le fichier que vous souhaitez ouvrir."
+   },
+   "error_occurred": {
+      "message": "Une erreur s'est produite."
+   },
+   "error_password_required_msg": {
+      "message": "Les fichiers protégés ne sont pas compatibles pour le moment, mais nous y travaillons."
+   },
+   "error_password_required_short_msg": {
+      "message": "Ce fichier est protégé par un mot de passe."
+   },
+   "expanded": {
+      "message": "Développée"
+   },
+   "expanded_menu": {
+      "message": "$1 Développé avec sous-menu.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "extension_description": {
+      "message": "Consultez et modifiez vos fichiers Microsoft Word, Excel et PowerPoint à l'aide de Google Docs, Sheets et Slides."
+   },
+   "extension_name": {
+      "message": "Éditeur Office pour Docs, Sheets et Slides"
+   },
+   "extension_popup_message_body": {
+      "message": "Pour ouvrir des fichiers existants, effectuez un glisser-déposer dans le navigateur."
+   },
+   "extension_popup_new_document_header": {
+      "message": "Nouveau..."
+   },
+   "extension_popup_new_presentation_document": {
+      "message": "Présentation PowerPoint"
+   },
+   "extension_popup_new_spreadsheet_document": {
+      "message": "Feuille de calcul Excel"
+   },
+   "extension_popup_new_word_document": {
+      "message": "Document Word"
+   },
+   "feedback_textbox_editing": {
+      "message": "Veuillez proposer la modification de texte dans les zones de texte."
+   },
+   "feedback_ui_template": {
+      "message": "1- Veuillez décrire le problème rencontré.\n2- Le problème s'est-il produit en essayant d'ouvrir ou de modifier un fichier ?\n3- Le problème se produit-il chaque fois que vous essayez d'ouvrir ou de modifier un fichier, ou simplement avec des fichiers spécifiques ?\n\nSi ce problème est spécifique à un fichier, veuillez joindre le fichier en question afin que nous puissions étudier le problème plus en détail."
+   },
+   "file_does_not_exist_error_details": {
+      "message": "Ce fichier n'existe pas. Vous avez essayé d'ouvrir un lien partagé ou un document ajouté aux favoris. Veuillez essayer de rouvrir le dossier depuis son emplacement d'origine."
+   },
+   "file_does_not_exist_error_title": {
+      "message": "Fichier introuvable."
+   },
+   "file_loading_spinner_label": {
+      "message": "Chargement en cours…"
+   },
+   "file_missing_content_msg": {
+      "message": "Un problème est survenu lors de la lecture de l'intégralité du contenu de ce fichier. Veuillez essayer de le renommer, puis de le rouvrir."
+   },
+   "file_missing_content_short_msg": {
+      "message": "Le contenu de ce document n'a pas été récupéré intégralement."
+   },
+   "file_not_found_error_msg": {
+      "message": "Veuillez vérifier avec le propriétaire du fichier si vous disposez de l'autorisation requise pour accéder au fichier. Si ce message d'erreur s'affiche encore malgré l'autorisation, veuillez signaler le problème ci-dessous."
+   },
+   "file_not_found_error_short_msg": {
+      "message": "Petit problème… Impossible d'ouvrir le fichier demandé."
+   },
+   "file_not_found_exception": {
+      "message": "Le fichier demandé a peut-être été supprimé, renommé ou déplacé vers un autre emplacement. Cliquez sur \"Enregistrer\" pour continuer."
+   },
+   "file_not_found_link_text": {
+      "message": "En savoir plus sur l'utilisation de plusieurs comptes"
+   },
+   "file_not_found_msg": {
+      "message": "Le fichier demandé a été déplacé."
+   },
+   "file_not_found_title": {
+      "message": "Fichier introuvable."
+   },
+   "file_open_crash_error_msg": {
+      "message": "Si le problème persiste, veuillez le signaler ci-dessous."
+   },
+   "file_open_crash_error_short_msg": {
+      "message": "Petit problème… Impossible d'ouvrir le fichier demandé."
+   },
+   "file_open_error_msg": {
+      "message": "Le contenu de ce fichier n'est pas accessible."
+   },
+   "file_open_error_short_msg": {
+      "message": "Ce fichier semble être corrompu."
+   },
+   "file_open_fail_download_link_text": {
+      "message": "Télécharger le fichier"
+   },
+   "file_opened_in_incognito_mode_error_details": {
+      "message": "L'extension Éditeur Office ne fonctionne pas en mode navigation privée. Ouvrez ce fichier dans une fenêtre Chrome normale. Si vous utilisez le mode Invité, il sera impossible d'ouvrir le fichier. Assurez-vous que le fichier n'est pas endommagé ou qu'il ne s'agit pas d'un type de document non valide, puis réessayez."
+   },
+   "file_opened_in_incognito_mode_error_title": {
+      "message": "Petit problème… Mode navigation privée non compatible"
+   },
+   "file_pdf_type_rename_msg": {
+      "message": "Renommez le fichier \"$1.pdf\", puis réessayez.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_rtf_type_rename_msg": {
+      "message": "Renommez le fichier \"$1.rtf\".",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_type_unsupported_msg": {
+      "message": "Ce type de fichier n'est pas accepté."
+   },
+   "fillcolor_aria_spoken_word": {
+      "message": "liste déroulante de la couleur du texte"
+   },
+   "fontface_aria_spoken_word": {
+      "message": "liste déroulante de la famille de police"
+   },
+   "fontsize_aria_spoken_word": {
+      "message": "liste déroulante de la taille de police"
+   },
+   "forbidden_access_level_error_msg": {
+      "message": "Veuillez vérifier avec le propriétaire du fichier si vous disposez de l'autorisation requise pour ouvrir ce fichier. Si ce message d'erreur s'affiche encore malgré l'autorisation, veuillez signaler le problème ci-dessous."
+   },
+   "forbidden_access_level_error_short_msg": {
+      "message": "Impossible d'ouvrir le fichier demandé"
+   },
+   "forbidden_app_access_error_msg": {
+      "message": "Pour une raison quelconque, nous ne disposons pas de l'autorisation requise pour ouvrir ce fichier. Veuillez l'ouvrir à partir de Google Drive ou signaler le problème ci-dessous."
+   },
+   "forbidden_app_access_error_short_msg": {
+      "message": "Impossible d'ouvrir le fichier demandé"
+   },
+   "forbidden_app_id_error_msg": {
+      "message": "Il semblerait que l'extension Chrome ne soit pas configurée correctement. Comment est-ce possible ? Afin d'en savoir plus, veuillez signaler le problème ci-dessous."
+   },
+   "forbidden_app_id_error_short_msg": {
+      "message": "Impossible d'ouvrir le fichier demandé"
+   },
+   "forbidden_blacklist_error_msg": {
+      "message": "Il semblerait que cette extension Chrome ait été mise sur liste noire. Ceci est clairement une erreur. Veuillez signaler le problème ci-dessous en expliquant la situation."
+   },
+   "forbidden_blacklist_error_short_msg": {
+      "message": "Impossible d'ouvrir le fichier demandé"
+   },
+   "forbidden_domain_error_msg": {
+      "message": "Il semblerait que votre domaine ait interdit l'accès à ce fichier. Veuillez contacter votre administrateur de domaine ou signaler le problème ci-dessous."
+   },
+   "forbidden_domain_error_short_msg": {
+      "message": "Impossible d'ouvrir le fichier demandé"
+   },
+   "forbidden_internal_error_msg": {
+      "message": "Malheureusement, Google Drive ne fonctionne pas comme prévu. Veuillez ouvrir le fichier ou signaler le problème ci-dessous."
+   },
+   "forbidden_internal_error_short_msg": {
+      "message": "Impossible d'ouvrir le fichier demandé"
+   },
+   "forbidden_not_installed_error_msg": {
+      "message": "Il semblerait que l'extension Chrome ne soit pas installée correctement. Comment est-ce possible ? Afin d'en savoir plus, veuillez signaler le problème ci-dessous."
+   },
+   "forbidden_not_installed_error_short_msg": {
+      "message": "Impossible d'ouvrir le fichier demandé"
+   },
+   "generic_error_msg": {
+      "message": "Un problème est survenu avec le contenu de ce document."
+   },
+   "generic_error_short_msg": {
+      "message": "Petit problème… Cela n'aurait pas dû se produire. Actualisez la page pour récupérer vos modifications."
+   },
+   "get_lists_data_error_msg": {
+      "message": "Il est possible que le document s'affiche selon une mise en forme de liste incorrecte."
+   },
+   "get_lists_data_error_short_msg": {
+      "message": "Impossible de récupérer la mise en forme du document."
+   },
+   "highlightcolor_aria_spoken_word": {
+      "message": "liste déroulante de la couleur de surbrillance du texte"
+   },
+   "http_error_zero_msg": {
+      "message": "Veuillez vérifier votre connexion au cas où il s'agirait d'un problème lié au réseau, ou réessayez plus tard. Si le problème persiste, signalez-le ci-dessous."
+   },
+   "http_error_zero_short_msg": {
+      "message": "Désolé, impossible d'ouvrir le fichier."
+   },
+   "info_file_copied": {
+      "message": "Enregistré."
+   },
+   "info_file_save_cancelled": {
+      "message": "Enregistrement annulé."
+   },
+   "info_file_save_failed": {
+      "message": "Échec de l'enregistrement."
+   },
+   "info_file_saved_at_location": {
+      "message": "Toutes les modifications ont été enregistrées sous $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "info_file_saved_in_drive": {
+      "message": "Toutes les modifications ont bien été enregistrées dans Drive."
+   },
+   "info_file_saved_locally": {
+      "message": "Toutes les modifications ont bien été enregistrées en local."
+   },
+   "info_file_saved_offline": {
+      "message": "Toutes les modifications ont bien été enregistrées hors connexion."
+   },
+   "info_file_saving": {
+      "message": "Enregistrement en cours…"
+   },
+   "initaddshape_aria_spoken_word": {
+      "message": "zone de texte d'ajout"
+   },
+   "invalid_credentials_error_msg": {
+      "message": "Vous devez vous connecter à votre compte Google pour accéder à ce fichier."
+   },
+   "invalid_credentials_error_short_msg": {
+      "message": "Impossible d'ouvrir le fichier demandé"
+   },
+   "invalid_file_format_msg": {
+      "message": "Même si le fichier ressemble à un document Office et comporte une extension Office, il s'agit en réalité d'un type de fichier différent qui a été renommé ou modifié, ou qui n'est pas compatible."
+   },
+   "invalid_file_format_short_msg": {
+      "message": "Petit problème… Il semble qu'il soit impossible d'ouvrir ce type de document"
+   },
+   "italic_aria_spoken_word": {
+      "message": "italique"
+   },
+   "keyboard_shortcut_group_actions": {
+      "message": "Actions"
+   },
+   "keyboard_shortcut_group_other": {
+      "message": "Autre"
+   },
+   "keyboard_shortcut_group_paragraph_formatting": {
+      "message": "Mise en forme du paragraphe"
+   },
+   "keyboard_shortcut_group_text_formatting": {
+      "message": "Formatage du texte"
+   },
+   "keyboard_shortcut_group_top_menus": {
+      "message": "Menus"
+   },
+   "keyboard_shortcut_group_with_slides": {
+      "message": "Avec Slides"
+   },
+   "keyboard_shortcut_title": {
+      "message": "Raccourcis clavier"
+   },
+   "make_a_copy_fail_msg": {
+      "message": "Impossible d'effectuer une copie pour le moment."
+   },
+   "menu_button_data": {
+      "message": "Données"
+   },
+   "menu_button_edit": {
+      "message": "Modifier"
+   },
+   "menu_button_file": {
+      "message": "Fichier"
+   },
+   "menu_button_format": {
+      "message": "Format"
+   },
+   "menu_button_help": {
+      "message": "Aide"
+   },
+   "menu_button_insert": {
+      "message": "Insérer"
+   },
+   "menu_button_slide": {
+      "message": "Diapositive"
+   },
+   "menu_button_tools": {
+      "message": "Outils"
+   },
+   "menu_button_view": {
+      "message": "Afficher"
+   },
+   "menu_item_10_point_star": {
+      "message": "Étoile à 10 branches"
+   },
+   "menu_item_12_point_star": {
+      "message": "Étoile à 12 branches"
+   },
+   "menu_item_16_point_star": {
+      "message": "Étoile à 16 branches"
+   },
+   "menu_item_24_point_star": {
+      "message": "Étoile à 24 branches"
+   },
+   "menu_item_32_point_star": {
+      "message": "Étoile à 32 branches"
+   },
+   "menu_item_4_point_star": {
+      "message": "Étoile à 4 branches"
+   },
+   "menu_item_5_point_star": {
+      "message": "Étoile à 5 branches"
+   },
+   "menu_item_6_point_star": {
+      "message": "Étoile à 6 branches"
+   },
+   "menu_item_7_point_star": {
+      "message": "Étoile à 7 branches"
+   },
+   "menu_item_8_point_star": {
+      "message": "Étoile à 8 branches"
+   },
+   "menu_item_align": {
+      "message": "Aligner"
+   },
+   "menu_item_align_center": {
+      "message": "Centrer"
+   },
+   "menu_item_align_justified": {
+      "message": "Justifié"
+   },
+   "menu_item_align_left": {
+      "message": "Gauche"
+   },
+   "menu_item_align_right": {
+      "message": "Droite"
+   },
+   "menu_item_arrows": {
+      "message": "Flèches"
+   },
+   "menu_item_bent_arrow": {
+      "message": "Flèche courbe"
+   },
+   "menu_item_bent_up_arrow": {
+      "message": "Flèche à angle droit vers le haut"
+   },
+   "menu_item_bevel": {
+      "message": "Carré à bords biseautés"
+   },
+   "menu_item_block_arc": {
+      "message": "Arc plein"
+   },
+   "menu_item_bold": {
+      "message": "Gras"
+   },
+   "menu_item_callouts": {
+      "message": "Légendes"
+   },
+   "menu_item_can": {
+      "message": "Cylindre"
+   },
+   "menu_item_chevron": {
+      "message": "Chevron"
+   },
+   "menu_item_chord": {
+      "message": "Corde"
+   },
+   "menu_item_clear_formatting": {
+      "message": "Effacer la mise en forme"
+   },
+   "menu_item_cloud": {
+      "message": "Nuage"
+   },
+   "menu_item_cloud_callout": {
+      "message": "Bulle en forme de nuage"
+   },
+   "menu_item_color_none": {
+      "message": "Aucune"
+   },
+   "menu_item_color_transparent": {
+      "message": "Transparent"
+   },
+   "menu_item_convert_to_docs": {
+      "message": "Enregistrer au format Google Docs"
+   },
+   "menu_item_convert_to_sheets": {
+      "message": "Enregistrer au format Google Sheets"
+   },
+   "menu_item_convert_to_slides": {
+      "message": "Enregistrer au format Google Slides"
+   },
+   "menu_item_copy": {
+      "message": "Copier"
+   },
+   "menu_item_cross": {
+      "message": "Croisé"
+   },
+   "menu_item_cube": {
+      "message": "Cube"
+   },
+   "menu_item_curved_down_arrow": {
+      "message": "Flèche courbée vers le bas"
+   },
+   "menu_item_curved_left_arrow": {
+      "message": "Flèche courbée vers la gauche"
+   },
+   "menu_item_curved_right_arrow": {
+      "message": "Flèche courbée vers la droite"
+   },
+   "menu_item_curved_up_arrow": {
+      "message": "Flèche courbée vers le haut"
+   },
+   "menu_item_cut": {
+      "message": "Couper"
+   },
+   "menu_item_decagon": {
+      "message": "Décagone"
+   },
+   "menu_item_delete_column": {
+      "message": "Supprimer la colonne"
+   },
+   "menu_item_delete_row": {
+      "message": "Supprimer la ligne"
+   },
+   "menu_item_delete_value": {
+      "message": "Supprimer la valeur"
+   },
+   "menu_item_deleteslide": {
+      "message": "Supprimer la diapositive"
+   },
+   "menu_item_diagonal_stripe": {
+      "message": "Bande diagonale"
+   },
+   "menu_item_diamond": {
+      "message": "Diamant"
+   },
+   "menu_item_divide": {
+      "message": "Divisé"
+   },
+   "menu_item_dodecagon": {
+      "message": "Dodécagone"
+   },
+   "menu_item_donut": {
+      "message": "Bouée"
+   },
+   "menu_item_double_brace": {
+      "message": "Double accolade"
+   },
+   "menu_item_double_bracket": {
+      "message": "Double parenthèse"
+   },
+   "menu_item_down_arrow": {
+      "message": "Flèche vers le bas"
+   },
+   "menu_item_down_arrow_callout": {
+      "message": "Rectangle avec flèche vers le bas"
+   },
+   "menu_item_duplicateslide": {
+      "message": "Dupliquer la diapositive"
+   },
+   "menu_item_equal": {
+      "message": "Égal"
+   },
+   "menu_item_equation": {
+      "message": "Équation"
+   },
+   "menu_item_explosion_1": {
+      "message": "Explosion 1"
+   },
+   "menu_item_explosion_2": {
+      "message": "Explosion 2"
+   },
+   "menu_item_flowchart_alternate_process": {
+      "message": "Organigramme : processus de substitution"
+   },
+   "menu_item_flowchart_card": {
+      "message": "Organigramme : carte"
+   },
+   "menu_item_flowchart_collate": {
+      "message": "Organigramme : agencement"
+   },
+   "menu_item_flowchart_connector": {
+      "message": "Organigramme : connecteur"
+   },
+   "menu_item_flowchart_data": {
+      "message": "Organigramme : données"
+   },
+   "menu_item_flowchart_decision": {
+      "message": "Organigramme : décision"
+   },
+   "menu_item_flowchart_delay": {
+      "message": "Organigramme : attente"
+   },
+   "menu_item_flowchart_direct_access_storage": {
+      "message": "Organigramme : mémoire à accès direct"
+   },
+   "menu_item_flowchart_display": {
+      "message": "Organigramme : affichage"
+   },
+   "menu_item_flowchart_document": {
+      "message": "Organigramme : document"
+   },
+   "menu_item_flowchart_extract": {
+      "message": "Organigramme : extrait"
+   },
+   "menu_item_flowchart_internal_storage": {
+      "message": "Organigramme : stockage interne"
+   },
+   "menu_item_flowchart_magnetic_disk": {
+      "message": "Organigramme : disque magnétique"
+   },
+   "menu_item_flowchart_manual_input": {
+      "message": "Organigramme : saisie manuelle"
+   },
+   "menu_item_flowchart_manual_operation": {
+      "message": "Organigramme : opération manuelle"
+   },
+   "menu_item_flowchart_merge": {
+      "message": "Organigramme : regroupement"
+   },
+   "menu_item_flowchart_multidocument": {
+      "message": "Organigramme : documents multiples"
+   },
+   "menu_item_flowchart_off_page_connector": {
+      "message": "Organigramme : page suivante"
+   },
+   "menu_item_flowchart_or": {
+      "message": "Organigramme : ou"
+   },
+   "menu_item_flowchart_predefined_process": {
+      "message": "Organigramme : processus prédéfini"
+   },
+   "menu_item_flowchart_preparation": {
+      "message": "Organigramme : préparation"
+   },
+   "menu_item_flowchart_process": {
+      "message": "Organigramme : traitement"
+   },
+   "menu_item_flowchart_punched_tape": {
+      "message": "Organigramme : bande perforée"
+   },
+   "menu_item_flowchart_sequential_access_storage": {
+      "message": "Organigramme : mémoire à accès séquentiel"
+   },
+   "menu_item_flowchart_sort": {
+      "message": "Organigramme : tri"
+   },
+   "menu_item_flowchart_stored_data": {
+      "message": "Organigramme : données stockées"
+   },
+   "menu_item_flowchart_summing_junction": {
+      "message": "Organigramme : point de convergence"
+   },
+   "menu_item_flowchart_terminator": {
+      "message": "Organigramme : terminaison"
+   },
+   "menu_item_folded_corner": {
+      "message": "Coin corné"
+   },
+   "menu_item_frame": {
+      "message": "Cadre"
+   },
+   "menu_item_half_frame": {
+      "message": "Demi-cadre"
+   },
+   "menu_item_heart": {
+      "message": "Cœur"
+   },
+   "menu_item_help_center": {
+      "message": "Centre d'aide"
+   },
+   "menu_item_heptagon": {
+      "message": "Heptagone"
+   },
+   "menu_item_hexagon": {
+      "message": "Hexagone"
+   },
+   "menu_item_hideslide": {
+      "message": "Masquer la diapositive"
+   },
+   "menu_item_insert_column": {
+      "message": "Colonne"
+   },
+   "menu_item_insert_image": {
+      "message": "Image"
+   },
+   "menu_item_insert_row": {
+      "message": "Ligne"
+   },
+   "menu_item_insert_text_box": {
+      "message": "Zone de texte"
+   },
+   "menu_item_insertslide": {
+      "message": "Nouvelle diapositive"
+   },
+   "menu_item_italic": {
+      "message": "Italique"
+   },
+   "menu_item_keyboard_shortcuts": {
+      "message": "Raccourcis clavier"
+   },
+   "menu_item_l_shape": {
+      "message": "Forme en L"
+   },
+   "menu_item_left_arrow": {
+      "message": "Flèche vers la gauche"
+   },
+   "menu_item_left_arrow_callout": {
+      "message": "Rectangle avec flèche vers la gauche"
+   },
+   "menu_item_left_brace": {
+      "message": "Accolade ouvrante"
+   },
+   "menu_item_left_bracket": {
+      "message": "Parenthèse ouvrante"
+   },
+   "menu_item_left_right_arrow": {
+      "message": "Double flèche horizontale"
+   },
+   "menu_item_left_right_arrow_callout": {
+      "message": "Rectangle à deux flèches horizontales"
+   },
+   "menu_item_left_right_up_arrow": {
+      "message": "Flèche à trois pointes"
+   },
+   "menu_item_left_up_arrow": {
+      "message": "Flèche vers le haut et vers la gauche"
+   },
+   "menu_item_lightning_bolt": {
+      "message": "Éclair"
+   },
+   "menu_item_make_a_copy": {
+      "message": "Créer une copie…"
+   },
+   "menu_item_merge_all": {
+      "message": "Tout fusionner"
+   },
+   "menu_item_merge_cells": {
+      "message": "Fusionner les cellules"
+   },
+   "menu_item_merge_horizontally": {
+      "message": "Fusionner horizontalement"
+   },
+   "menu_item_merge_vertically": {
+      "message": "Fusionner verticalement"
+   },
+   "menu_item_minus": {
+      "message": "Moins"
+   },
+   "menu_item_moon": {
+      "message": "Lune"
+   },
+   "menu_item_moveslidedown": {
+      "message": "Déplacer la diapositive vers le bas"
+   },
+   "menu_item_moveslidetoend": {
+      "message": "Déplacer la diapositive à la fin"
+   },
+   "menu_item_moveslidetostart": {
+      "message": "Déplacer la diapositive au début"
+   },
+   "menu_item_moveslideup": {
+      "message": "Déplacer la diapositive vers le haut"
+   },
+   "menu_item_multiply": {
+      "message": "Multiplier"
+   },
+   "menu_item_new": {
+      "message": "Nouveau"
+   },
+   "menu_item_no_symbol": {
+      "message": "Symbole \"Non\""
+   },
+   "menu_item_not_equal": {
+      "message": "Différent"
+   },
+   "menu_item_notched_right_arrow": {
+      "message": "Flèche droite à entaille"
+   },
+   "menu_item_number_format": {
+      "message": "Format numérique"
+   },
+   "menu_item_number_menu": {
+      "message": "Nombre"
+   },
+   "menu_item_numbering": {
+      "message": "$1 sur $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "menu_item_octagon": {
+      "message": "Octogone"
+   },
+   "menu_item_open": {
+      "message": "Ouvrir"
+   },
+   "menu_item_oval": {
+      "message": "Ovale"
+   },
+   "menu_item_oval_callout": {
+      "message": "Bulle ovale"
+   },
+   "menu_item_parallelogram": {
+      "message": "Parallélogramme"
+   },
+   "menu_item_paste": {
+      "message": "Coller"
+   },
+   "menu_item_pentagon": {
+      "message": "Pentagone"
+   },
+   "menu_item_pie": {
+      "message": "Secteurs"
+   },
+   "menu_item_plaque": {
+      "message": "Plaque"
+   },
+   "menu_item_plus": {
+      "message": "Plus"
+   },
+   "menu_item_present": {
+      "message": "Présenter"
+   },
+   "menu_item_print": {
+      "message": "Imprimer"
+   },
+   "menu_item_quad_arrow": {
+      "message": "Flèche à quatre pointes"
+   },
+   "menu_item_quad_arrow_callout": {
+      "message": "Rectangle à quatre flèches"
+   },
+   "menu_item_rectangle": {
+      "message": "Rectangle"
+   },
+   "menu_item_rectangular_callout": {
+      "message": "Bulle rectangulaire"
+   },
+   "menu_item_redo": {
+      "message": "Rétablir"
+   },
+   "menu_item_regular_pentagon": {
+      "message": "Pentagone régulier"
+   },
+   "menu_item_report_abuse": {
+      "message": "Signaler un abus"
+   },
+   "menu_item_report_issue": {
+      "message": "Signaler un problème"
+   },
+   "menu_item_right_arrow": {
+      "message": "Flèche vers la droite"
+   },
+   "menu_item_right_arrow_callout": {
+      "message": "Rectangle avec flèche vers la droite"
+   },
+   "menu_item_right_brace": {
+      "message": "Accolade fermante"
+   },
+   "menu_item_right_bracket": {
+      "message": "Parenthèse fermante"
+   },
+   "menu_item_right_triangle": {
+      "message": "Triangle rectangle"
+   },
+   "menu_item_round_diagonal_corner_rectangle": {
+      "message": "Rectangle à deux coins arrondis en diagonale"
+   },
+   "menu_item_round_same_side_corner_rectangle": {
+      "message": "Rectangle à deux coins arrondis même côté"
+   },
+   "menu_item_round_single_corner_rectangle": {
+      "message": "Rectangle à coin arrondi"
+   },
+   "menu_item_rounded_rectangle": {
+      "message": "Rectangle à coins arrondis"
+   },
+   "menu_item_rounded_rectangular_callout": {
+      "message": "Rectangle à coins arrondis"
+   },
+   "menu_item_save": {
+      "message": "Enregistrer"
+   },
+   "menu_item_save_as": {
+      "message": "Enregistrer sous…"
+   },
+   "menu_item_shapes": {
+      "message": "Formes"
+   },
+   "menu_item_share": {
+      "message": "Partager"
+   },
+   "menu_item_smiley_face": {
+      "message": "Smiley"
+   },
+   "menu_item_snip_and_round_single_corner_rectangle": {
+      "message": "Rectangle à coin coupé et arrondi"
+   },
+   "menu_item_snip_diagonal_corner_rectangle": {
+      "message": "Rectangle à deux coins coupés en diagonale"
+   },
+   "menu_item_snip_same_side_corner_rectangle": {
+      "message": "Rectangle à deux coins coupés même côté"
+   },
+   "menu_item_snip_single_corner_rectangle": {
+      "message": "Rectangle à coin coupé"
+   },
+   "menu_item_strikethrough": {
+      "message": "Barré"
+   },
+   "menu_item_striped_right_arrow": {
+      "message": "Flèche droite rayée"
+   },
+   "menu_item_subscript": {
+      "message": "Indice"
+   },
+   "menu_item_sun": {
+      "message": "Soleil"
+   },
+   "menu_item_superscript": {
+      "message": "Exposant"
+   },
+   "menu_item_teardrop": {
+      "message": "Goutte"
+   },
+   "menu_item_trapezoid": {
+      "message": "Trapèze"
+   },
+   "menu_item_triangle": {
+      "message": "Triangle"
+   },
+   "menu_item_u_turn_arrow": {
+      "message": "Flèche faisant un demi-tour"
+   },
+   "menu_item_underline": {
+      "message": "Souligné"
+   },
+   "menu_item_undo": {
+      "message": "Annuler"
+   },
+   "menu_item_unhideslide": {
+      "message": "Afficher la diapositive"
+   },
+   "menu_item_unmerge": {
+      "message": "Annuler la fusion"
+   },
+   "menu_item_up_arrow": {
+      "message": "Flèche vers le haut"
+   },
+   "menu_item_up_arrow_callout": {
+      "message": "Rectangle avec flèche vers le haut"
+   },
+   "menu_item_up_down_arrow": {
+      "message": "Double flèche verticale"
+   },
+   "menu_item_version_info": {
+      "message": "Informations sur la version"
+   },
+   "menu_item_word_count": {
+      "message": "Nombre de mots"
+   },
+   "menu_item_wrap_text": {
+      "message": "Renvoyer à la ligne automatiquement"
+   },
+   "menu_item_zoom_in": {
+      "message": "Zoom avant"
+   },
+   "menu_item_zoom_out": {
+      "message": "Zoom arrière"
+   },
+   "merge_all_aria_spoken_word": {
+      "message": "tout fusionner"
+   },
+   "merge_aria_spoken_word": {
+      "message": "fusionner"
+   },
+   "merge_dropdown_aria_spoken_word": {
+      "message": "menu déroulant de la fusion"
+   },
+   "merge_horizontally_aria_spoken_word": {
+      "message": "fusionner horizontalement"
+   },
+   "merge_vertically_aria_spoken_word": {
+      "message": "fusionner verticalement"
+   },
+   "modify_shape_transform_error_msg": {
+      "message": "Une erreur s'est produite lors de la modification des transformations de forme."
+   },
+   "modify_shape_transform_error_short_msg": {
+      "message": "Erreur lors de la modification des transformations de forme"
+   },
+   "modifyshapefillcolor_aria_spoken_word": {
+      "message": "liste déroulante de la couleur de remplissage de la forme"
+   },
+   "modifyshapeoutlinecolor_aria_spoken_word": {
+      "message": "liste déroulante de la couleur de contour de la forme"
+   },
+   "modifyshapeoutlinestyle_aria_spoken_word": {
+      "message": "liste déroulante du style de contour de la forme"
+   },
+   "modifyshapeoutlinewidth_aria_spoken_word": {
+      "message": "liste déroulante de la largeur de contour de la forme"
+   },
+   "nacl_load_error_details": {
+      "message": "Essayez de réinstaller l'extension."
+   },
+   "nacl_load_error_title": {
+      "message": "Un problème est survenu lors du chargement de l'application"
+   },
+   "non_permissible_sheet_name_details": {
+      "message": "Les caractères suivants ne sont pas autorisés : * ? [ ] ' ; : Le nom de la feuille ne doit pas dépasser 31 caractères et doit obligatoirement être renseigné."
+   },
+   "non_permissible_sheet_name_title": {
+      "message": "Vous avez saisi un nom de feuille non valide en renommant une feuille."
+   },
+   "not_pressed": {
+      "message": "Non appuyé"
+   },
+   "notselected": {
+      "message": "Non sélectionné"
+   },
+   "number_format_label_currency_symbol": {
+      "message": "Symbole de devise"
+   },
+   "number_format_label_date_type": {
+      "message": "Saisir"
+   },
+   "number_format_label_decimal_places": {
+      "message": "Chiffres après la virgule"
+   },
+   "number_format_label_general": {
+      "message": "Général"
+   },
+   "number_format_label_negative_numbers": {
+      "message": "Nombres négatifs"
+   },
+   "number_format_label_other": {
+      "message": "Autre"
+   },
+   "number_format_label_red": {
+      "message": "Rouge"
+   },
+   "number_format_label_text": {
+      "message": "Texte"
+   },
+   "number_format_label_use_1000_separator": {
+      "message": "Utiliser le séparateur des milliers"
+   },
+   "number_format_tab_accounting": {
+      "message": "Comptabilité"
+   },
+   "number_format_tab_currency": {
+      "message": "Devise"
+   },
+   "number_format_tab_date_time": {
+      "message": "Date et heure"
+   },
+   "number_format_tab_general": {
+      "message": "Général"
+   },
+   "number_format_tab_number": {
+      "message": "Nombre"
+   },
+   "number_format_tab_percentage": {
+      "message": "Pourcentage"
+   },
+   "number_format_tab_scientific": {
+      "message": "Scientifique"
+   },
+   "number_format_title": {
+      "message": "Formats numériques"
+   },
+   "ocm_promo_conversion_shortmsg": {
+      "message": "Vous êtes en mode de compatibilité Office"
+   },
+   "office_compatibility_mode": {
+      "message": "Mode de compatibilité Office"
+   },
+   "office_first_time_confirm": {
+      "message": "OK"
+   },
+   "office_first_time_message_p1": {
+      "message": "Avec Google Docs, Google Sheets et Google Slides, vous pouvez désormais modifier les fichiers Word, Excel et PowerPoint à partir de votre disque dur, de Google Drive, de Gmail ou d'autres applications."
+   },
+   "office_first_time_message_p2": {
+      "message": "Toutes vos modifications sont enregistrées, et vous avez également la possibilité d'enregistrer le fichier dans son format d'origine."
+   },
+   "office_first_time_title": {
+      "message": "Office Editing for Docs, Sheets and Slides"
+   },
+   "offline_error_msg": {
+      "message": "Il semblerait que vous soyez hors connexion. Veuillez vérifier votre connexion Internet, puis réessayez. Si ce message d'erreur s'affiche encore lorsque vous êtes en ligne, veuillez signaler le problème ci-dessous."
+   },
+   "offline_error_short_msg": {
+      "message": "Impossible d'ouvrir le fichier demandé"
+   },
+   "option_key": {
+      "message": "Option"
+   },
+   "out_of_memory_error_msg": {
+      "message": "Essayez de fermer cet onglet et de rouvrir votre fichier, ou de fermer les autres onglets ouverts dans le navigateur. Si ce problème persiste, veuillez le signaler ci-dessous."
+   },
+   "out_of_memory_error_short_msg": {
+      "message": "Petit problème… Mémoire insuffisante."
+   },
+   "page_count_label": {
+      "message": "Pages"
+   },
+   "partial_cell_merge_error_msg": {
+      "message": "Impossible de modifier une partie d'une cellule fusionnée."
+   },
+   "partial_cell_merge_error_short_msg": {
+      "message": "Erreur"
+   },
+   "point_ocm_promo_conversion_msg": {
+      "message": "Vous pouvez modifier et enregistrer directement les présentations Office dans Google Slides. Pour inviter des tiers à y ajouter des modifications ou des commentaires, enregistrez les fichiers au format Google Slides. Sachez que vous avez la possibilité de les réenregistrer dans leur format d'origine à tout moment."
+   },
+   "point_printing_warning_msg": {
+      "message": "Nous nous efforçons de résoudre ce problème."
+   },
+   "point_printing_warning_short_msg": {
+      "message": "Actuellement, vous ne pouvez imprimer que la diapositive affichée."
+   },
+   "point_share_promo_conversion_msg": {
+      "message": "Vous essayez de partager cette présentation ? Pour inviter d'autres personnes à la modifier, convertissez-la au format Google Slides."
+   },
+   "pointtogglebullet_aria_spoken_word": {
+      "message": "liste à puces"
+   },
+   "pointtogglenumber_aria_spoken_word": {
+      "message": "liste numérotée"
+   },
+   "present_button": {
+      "message": "Présenter"
+   },
+   "pressed": {
+      "message": "Appuyé"
+   },
+   "print_aria_spoken_word": {
+      "message": "imprimer"
+   },
+   "qowt_doc_mismatch_text": {
+      "message": "Une erreur s'est produite lors de la mise en forme du document.\n\nActualisez la page pour récupérer vos modifications."
+   },
+   "qowt_doc_mismatch_title": {
+      "message": "Aïe !"
+   },
+   "qowt_hyperlink_activate_short_key": {
+      "message": "Appuyez sur ALT+Entrée pour activer le lien."
+   },
+   "qowt_hyperlink_dialog": {
+      "message": "Lien hypertexte"
+   },
+   "qowt_hyperlink_dialog_message_text": {
+      "message": "Accéder au lien :"
+   },
+   "qowt_modal_confirm_dialog_affirmative_button": {
+      "message": "OK"
+   },
+   "qowt_modal_confirm_dialog_negative_button": {
+      "message": "Annuler"
+   },
+   "qowt_modal_dialog_close_button": {
+      "message": "Fermer"
+   },
+   "qowt_modal_dialog_coming_soon_title": {
+      "message": "Bientôt disponible !"
+   },
+   "qowt_modal_dialog_link_text": {
+      "message": "En savoir plus"
+   },
+   "qowt_modal_dialog_ok_button": {
+      "message": "OK"
+   },
+   "qowt_modal_dialog_reload_button": {
+      "message": "Actualiser"
+   },
+   "qowt_modal_dialog_textbox_editing_description": {
+      "message": "Désolé, nous ne proposons pas la modification de texte dans les zones de texte."
+   },
+   "qowt_modal_dialog_textbox_editing_link": {
+      "message": "Pourriez-vous arranger cela ?"
+   },
+   "qowt_modal_info_dialog_affirmative_button": {
+      "message": "OK"
+   },
+   "qowt_modal_multi_choice_remember_choice": {
+      "message": "Mémoriser mon choix"
+   },
+   "qowt_modal_query_dialog_affirmative_button": {
+      "message": "Oui"
+   },
+   "qowt_modal_query_dialog_negative_button": {
+      "message": "Non"
+   },
+   "qowt_modal_query_dialog_reload_button": {
+      "message": "Actualiser"
+   },
+   "qowt_modal_single_choice_remember_choice": {
+      "message": "Ne plus afficher ce message de rappel"
+   },
+   "read_only": {
+      "message": "Lecture seule"
+   },
+   "redo_aria_spoken_word": {
+      "message": "rétablir"
+   },
+   "right_pointed_submenu": {
+      "message": "Curseur droit avec sous-menu"
+   },
+   "save_aria_spoken_word": {
+      "message": "enregistrer"
+   },
+   "save_now": {
+      "message": "Enregistrer"
+   },
+   "security_error_msg": {
+      "message": "Si le problème persiste, veuillez le signaler ci-dessous."
+   },
+   "security_error_short_msg": {
+      "message": "Petit problème… Impossible d'ouvrir le fichier demandé. L'ouverture des fichiers en mode navigation privée n'est pas encore possible. Veuillez donc ouvrir ce fichier en mode classique."
+   },
+   "selected": {
+      "message": "Sélectionné"
+   },
+   "set_sheet_info_error_msg": {
+      "message": "Une erreur s'est produite lors de la mise à jour du nom de la feuille."
+   },
+   "share_button": {
+      "message": "Partager"
+   },
+   "share_promo_conversion_shortmsg": {
+      "message": "Inviter d'autres personnes à modifier le fichier"
+   },
+   "sheet_delete_column_error_msg": {
+      "message": "Une erreur s'est produite lors de la suppression de la colonne. Veuillez réessayer."
+   },
+   "sheet_delete_row_error_msg": {
+      "message": "Une erreur s'est produite lors de la suppression de la ligne. Veuillez réessayer."
+   },
+   "sheet_format_cells_error_msg": {
+      "message": "Une erreur s'est produite lors de la mise en forme. Veuillez réessayer."
+   },
+   "sheet_insert_column_error_msg": {
+      "message": "Une erreur s'est produite lors de l'insertion de la colonne. Veuillez réessayer."
+   },
+   "sheet_insert_column_exceed_error_msg": {
+      "message": "Limite de 256 colonnes atteinte dans cette feuille de calcul. Impossible d'en insérer d'autres."
+   },
+   "sheet_insert_column_exceed_error_short_msg": {
+      "message": "Désolé"
+   },
+   "sheet_insert_row_error_msg": {
+      "message": "Une erreur s'est produite lors de l'insertion de la ligne. Veuillez réessayer."
+   },
+   "sheet_insert_row_exceed_error_msg": {
+      "message": "Limite de 65 536 lignes atteinte dans cette feuille de calcul. Impossible d'en insérer d'autres."
+   },
+   "sheet_insert_row_exceed_error_short_msg": {
+      "message": "Désolé"
+   },
+   "sheet_ocm_promo_conversion_msg": {
+      "message": "Vous pouvez modifier et enregistrer directement les feuilles de calcul Office dans Google Sheets. Pour inviter des tiers à y ajouter des modifications ou des commentaires, enregistrez les fichiers au format Google Sheets. Sachez que vous avez la possibilité de les réenregistrer dans leur format d'origine à tout moment."
+   },
+   "sheet_set_cell_content_invalid_error_msg": {
+      "message": "La formule que vous avez saisie contient une erreur. Veuillez la corriger."
+   },
+   "sheet_share_promo_conversion_msg": {
+      "message": "Vous essayez de partager cette feuille de calcul ? Pour inviter d'autres personnes à la modifier, convertissez-la au format Google Sheets."
+   },
+   "sheet_sort_error_title": {
+      "message": "Une erreur s'est produite lors du tri de cette plage de cellules"
+   },
+   "sheet_sort_failure_msg": {
+      "message": "Une erreur s'est produite lors du tri de cette plage de cellules."
+   },
+   "sheet_sort_merged_cell_error": {
+      "message": "Impossible de trier les cellules fusionnées."
+   },
+   "sheet_sort_merged_cell_error_title": {
+      "message": "Une erreur s'est produite lors du tri de cette plage de cellules"
+   },
+   "sheet_sort_one_cell_error": {
+      "message": "Veuillez sélectionner plusieurs cellules à trier."
+   },
+   "sheet_sort_one_cell_error_title": {
+      "message": "Une erreur s'est produite lors du tri de cette plage de cellules"
+   },
+   "shift_key": {
+      "message": "Maj"
+   },
+   "shortcut": {
+      "message": "Raccourci $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sign_in": {
+      "message": "Se connecter"
+   },
+   "slash_key": {
+      "message": "Barre oblique"
+   },
+   "something_not_right": {
+      "message": "Une erreur s'est produite"
+   },
+   "storage_quota_exceed_error_msg": {
+      "message": "Fermez les documents Office ouverts dans Chrome, puis réessayez. Si le problème persiste, signalez-le ci-dessous."
+   },
+   "storage_quota_exceed_error_short_msg": {
+      "message": "Désolé, nous n'avons pas pu ouvrir le fichier."
+   },
+   "strikethrough_aria_spoken_word": {
+      "message": "barré"
+   },
+   "style_aria_spoken_word": {
+      "message": "liste déroulante du style"
+   },
+   "submenu_spoken_text": {
+      "message": "$1 $2 $3 $4",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         }
+      }
+   },
+   "temporary_unable_to_open_error_msg": {
+      "message": "Réessayez plus tard, ou signalez le problème ci-dessous s'il persiste."
+   },
+   "temporary_unable_to_open_error_short_msg": {
+      "message": "Désolé, impossible d'ouvrir le fichier pour le moment."
+   },
+   "textaligncenter_aria_spoken_word": {
+      "message": "centrer le texte"
+   },
+   "textalignjustify_aria_spoken_word": {
+      "message": "justifier le texte"
+   },
+   "textalignleft_aria_spoken_word": {
+      "message": "aligner le texte à droite"
+   },
+   "textalignright_aria_spoken_word": {
+      "message": "aligner le texte à gauche"
+   },
+   "textcolor_aria_spoken_word": {
+      "message": "liste déroulante de la couleur du texte"
+   },
+   "textual_edit_error_msg": {
+      "message": "Une erreur s'est produite lors de la mise en forme du document.\n\nActualisez la page pour récupérer vos modifications."
+   },
+   "textual_edit_error_short_msg": {
+      "message": "Aïe !"
+   },
+   "title_error_msg_for_merge_cells": {
+      "message": "Un problème est survenu"
+   },
+   "title_msg_merging_multiple_cells_with_text": {
+      "message": "Attention"
+   },
+   "togglebulleted_aria_spoken_word": {
+      "message": "liste à puces"
+   },
+   "togglenumbered_aria_spoken_word": {
+      "message": "liste numérotée"
+   },
+   "togglezoom_aria_spoken_word": {
+      "message": "zoom activé"
+   },
+   "tooltip_background_color": {
+      "message": "Couleur de remplissage"
+   },
+   "tooltip_bold": {
+      "message": "Gras"
+   },
+   "tooltip_border": {
+      "message": "Bordures"
+   },
+   "tooltip_border_all": {
+      "message": "Toutes les bordures"
+   },
+   "tooltip_border_bottom": {
+      "message": "Bordures inférieures"
+   },
+   "tooltip_border_horizontal": {
+      "message": "Bordures horizontales"
+   },
+   "tooltip_border_inner": {
+      "message": "Bordures intérieures"
+   },
+   "tooltip_border_left": {
+      "message": "Bordures gauches"
+   },
+   "tooltip_border_none": {
+      "message": "Aucune bordure"
+   },
+   "tooltip_border_outer": {
+      "message": "Bordures extérieures"
+   },
+   "tooltip_border_right": {
+      "message": "Bordures droites"
+   },
+   "tooltip_border_top": {
+      "message": "Bordures supérieures"
+   },
+   "tooltip_border_vertical": {
+      "message": "Bordures verticales"
+   },
+   "tooltip_cell_align": {
+      "message": "Alignement des cellules"
+   },
+   "tooltip_cell_h_align_center": {
+      "message": "Horizontal au centre"
+   },
+   "tooltip_cell_h_align_left": {
+      "message": "Horizontal à gauche"
+   },
+   "tooltip_cell_h_align_right": {
+      "message": "Horizontal à droite"
+   },
+   "tooltip_cell_v_align_bottom": {
+      "message": "Vertical en bas"
+   },
+   "tooltip_cell_v_align_center": {
+      "message": "Vertical au centre"
+   },
+   "tooltip_cell_v_align_top": {
+      "message": "Vertical en haut"
+   },
+   "tooltip_download": {
+      "message": "Télécharger"
+   },
+   "tooltip_dropdown_init_add_shape": {
+      "message": "Forme"
+   },
+   "tooltip_fill_color": {
+      "message": "Couleur du texte"
+   },
+   "tooltip_font_face": {
+      "message": "Police"
+   },
+   "tooltip_font_size": {
+      "message": "Taille de police"
+   },
+   "tooltip_highlight_color": {
+      "message": "Couleur de surbrillance"
+   },
+   "tooltip_init_add_shape": {
+      "message": "Zone de texte"
+   },
+   "tooltip_italic": {
+      "message": "Italique"
+   },
+   "tooltip_merge": {
+      "message": "Fusionner les cellules"
+   },
+   "tooltip_merge_dropdown": {
+      "message": "Sélectionnez le type de fusion…"
+   },
+   "tooltip_modify_shape_fill_color": {
+      "message": "Couleur de remplissage"
+   },
+   "tooltip_modify_shape_outline_color": {
+      "message": "Couleur de la ligne"
+   },
+   "tooltip_modify_shape_outline_style": {
+      "message": "Pointillés"
+   },
+   "tooltip_modify_shape_outline_width": {
+      "message": "Épaisseur du trait"
+   },
+   "tooltip_move_slide": {
+      "message": "Déplacer $1 diapositive(s)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "tooltip_point": {
+      "message": "Accueil Slides"
+   },
+   "tooltip_point_toggle_bullet": {
+      "message": "Liste à puces"
+   },
+   "tooltip_point_toggle_number": {
+      "message": "Liste numérotée"
+   },
+   "tooltip_presentation": {
+      "message": "Présentation"
+   },
+   "tooltip_print": {
+      "message": "Imprimer"
+   },
+   "tooltip_redo": {
+      "message": "Rétablir"
+   },
+   "tooltip_share": {
+      "message": "Partager"
+   },
+   "tooltip_share_for_macroenabledfiles": {
+      "message": "Les fichiers dans lesquels les macros sont activées peuvent uniquement être partagés depuis Google Drive."
+   },
+   "tooltip_sheet": {
+      "message": "Accueil Sheets"
+   },
+   "tooltip_strikethrough": {
+      "message": "Barré"
+   },
+   "tooltip_style": {
+      "message": "Styles"
+   },
+   "tooltip_text_align_center": {
+      "message": "Centrer"
+   },
+   "tooltip_text_align_justify": {
+      "message": "Justifier"
+   },
+   "tooltip_text_align_left": {
+      "message": "Aligné à gauche"
+   },
+   "tooltip_text_align_right": {
+      "message": "Aligné à droite"
+   },
+   "tooltip_text_color": {
+      "message": "Couleur du texte"
+   },
+   "tooltip_toggle_bulleted": {
+      "message": "Liste à puces"
+   },
+   "tooltip_toggle_numbered": {
+      "message": "Liste numérotée"
+   },
+   "tooltip_toggle_zoom": {
+      "message": "Activer le zoom"
+   },
+   "tooltip_underline": {
+      "message": "Souligné"
+   },
+   "tooltip_undo": {
+      "message": "Annuler"
+   },
+   "tooltip_word": {
+      "message": "Accueil Docs"
+   },
+   "tooltip_wrap_text": {
+      "message": "Renvoyer à la ligne automatiquement"
+   },
+   "tooltip_zoom_in": {
+      "message": "Zoom avant"
+   },
+   "tooltip_zoom_out": {
+      "message": "Zoom arrière"
+   },
+   "try_again": {
+      "message": "Réessayer"
+   },
+   "unable_to_execute_msg": {
+      "message": "Impossible d'ouvrir ce document."
+   },
+   "underline_aria_spoken_word": {
+      "message": "souligné"
+   },
+   "undo_aria_spoken_word": {
+      "message": "annuler"
+   },
+   "unmerge_aria_spoken_word": {
+      "message": "annuler la fusion"
+   },
+   "unsaved_changes": {
+      "message": "Modifications non enregistrées."
+   },
+   "unsaved_changes_warning": {
+      "message": "Ce fichier contient des modifications qui n'ont pas encore été enregistrées. Si vous quittez cette page sans enregistrer, vous perdrez votre travail et ne pourrez pas le récupérer."
+   },
+   "unsupported_file_format_error_details_p1": {
+      "message": "Malheureusement, ce fichier comporte du contenu Microsoft® Office 95 ou version antérieure qu'il nous est impossible d'ouvrir."
+   },
+   "unsupported_file_format_error_details_p2": {
+      "message": "Si vous souhaitez convertir le fichier dans Google Docs, cliquez sur le lien ci-dessous."
+   },
+   "unsupported_file_format_error_title": {
+      "message": "Petit problème"
+   },
+   "unsupported_link_message": {
+      "message": "Désolé, nous n'acceptons pas ce type d'URL actuellement."
+   },
+   "up_key": {
+      "message": "Haut"
+   },
+   "updated_shortcut_message": {
+      "message": "Nous avons mis à jour nos raccourcis clavier afin de les harmoniser pour tous les produits Google Docs. Jetez un œil aux raccourcis mis à jour dans l'aide."
+   },
+   "updated_shortcut_title": {
+      "message": "Raccourcis clavier mis à jour"
+   },
+   "version_info_msg": {
+      "message": "Votre version du mode de compatibilité Office"
+   },
+   "word_binary_upsave_learnmore": {
+      "message": "En savoir plus"
+   },
+   "word_binary_upsave_msg": {
+      "message": "Le format du fichier n'est pas compatible. Pour l'enregistrer, vous devez nous donner l'autorisation de le convertir dans un format de fichier plus récent. Votre fichier original ne sera pas modifié."
+   },
+   "word_binary_upsave_shortmsg": {
+      "message": "Mettre à jour le document"
+   },
+   "word_count_label": {
+      "message": "Mots"
+   },
+   "word_count_title": {
+      "message": "Nombre de mots"
+   },
+   "word_ocm_promo_conversion_msg": {
+      "message": "Vous pouvez modifier et enregistrer directement les documents Office dans Google Docs. Pour inviter des tiers à y ajouter des modifications ou des commentaires, enregistrez les fichiers au format Google Docs. Sachez que vous avez la possibilité de les réenregistrer dans leur format d'origine à tout moment."
+   },
+   "word_share_promo_conversion_msg": {
+      "message": "Vous essayez de partager ce document ? Pour inviter d'autres personnes à le modifier, convertissez-le au format Google Docs."
+   },
+   "wraptext_aria_spoken_word": {
+      "message": "renvoyer à la ligne automatiquement"
+   },
+   "zoomin_aria_spoken_word": {
+      "message": "faire un zoom avant"
+   },
+   "zoomout_aria_spoken_word": {
+      "message": "faire un zoom arrière"
+   }
+}

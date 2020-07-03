@@ -1,0 +1,82 @@
+<link rel="import" href="../../../../third_party/polymer/polymer.html"/>
+
+<dom-module
+    id="qowt-submenu"
+    class="qowt-menu-item">
+<template>
+  <style type="text/css" media="screen">
+    :host {
+      display: inline-block;
+      position: relative;
+      min-width: 18em;
+    }
+
+    :host(.focused) {
+      background: #eee;
+    }
+
+    :host #trigger {
+      display: inline-block;
+      @apply(--qowt-item);
+      @apply(--qowt-submenu-trigger);
+    }
+
+    :host([active]) #trigger {
+      @apply(--qowt-submenu-trigger-selected);
+    }
+
+    :host([active]) #trigger::after {
+      @apply(--qowt-submenu-trigger-selected-after);
+    }
+
+    .selectable-content {
+      display: flex;
+    }
+
+    #collapse {
+      background: white;
+      position: absolute;
+      list-style-type: none;
+      margin: 0;
+      padding: 6px 0;
+      border: 1px solid rgba(0, 0, 0, .2);
+      -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, .2);
+      color: black;
+      font-size: 13px;
+      outline: none;
+      margin-left: 0px;
+      -webkit-user-select: none;
+      overflow: visible !important;
+
+      @apply(--qowt-submenu-content);
+    }
+
+    #arrow {
+      cursor: pointer;
+      -webkit-user-select: none;
+      text-align: right;
+      position: absolute;
+      top: 0px;
+      right: 10px;
+      color: #777;
+      height: 100%;
+    }
+
+    .content-icon {
+      display: inline-block;
+      width: var(--paper-item-icon-width, 56px);
+    }
+  </style>
+    <div class="selectable-content">
+      <div id="contentIcon" class="content-icon"></div>
+      <div id="trigger">[[label]]</div>
+      <template is="dom-if" if="{{showArrow}}">
+        <div id="arrow">▸</div>
+      </template>
+    </div>
+    <div id="collapse">
+      <content></content>
+    </div>
+</template>
+</dom-module>
+

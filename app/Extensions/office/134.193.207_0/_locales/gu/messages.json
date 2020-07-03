@@ -1,0 +1,2192 @@
+{
+   "action_create_user_feedback": {
+      "message": "સમસ્યાની જાણ કરો"
+   },
+   "alt_key": {
+      "message": "Alt"
+   },
+   "app_error_learn_more": {
+      "message": "વધુ જાણો"
+   },
+   "app_error_report_feedback": {
+      "message": "પ્રતિસાદની જાણ કરો"
+   },
+   "app_icon_aria_spoken_word": {
+      "message": " હોમ"
+   },
+   "app_nacl_crash_msg": {
+      "message": "સમસ્યાની જાણ કરીને અમને સહાય કરો."
+   },
+   "app_nacl_crash_report": {
+      "message": "સમસ્યાની જાણ કરો..."
+   },
+   "app_nacl_crash_title": {
+      "message": "ઊફ્ફ. તે થવાની સંભાવના ન હતી - તમારા ફેરફારોને પુનઃપ્રાપ્ત કરવા માટે પૃષ્ઠને ફરીથી લોડ કરો."
+   },
+   "app_nacl_error_load_failed": {
+      "message": "માફ કરશો, અમે ફાઇલ ખોલી શક્યાં નથી. અન્ય Chrome ટૅબ્સ બંધ કરો અથવા Chrome ને પુનઃપ્રારંભ કરો, પછી ફરી પ્રયાસ કરો. જો સમસ્યા ચાલુ રહે છે, તો કૃપા કરીને સમસ્યાની જાણ કરો."
+   },
+   "app_nacl_error_title": {
+      "message": "ફાઇલ ખોલી શકાતી નથી."
+   },
+   "app_nacl_error_unsupported_device": {
+      "message": "આ ઉપકરણ, દસ્તાવેજ, શીટ્સ અને સ્લાઇડ્સ માટે Chrome એક્સ્ટેન્શન Office સંપાદનનું સમર્થન કરતું નથી."
+   },
+   "app_saving_failed_error_msg": {
+      "message": "માફ કરશો, ફાઇલ સાચવતી વખતે સમસ્યા આવી હતી. ફાઇલને ફરી સાચવવાનો પ્રયાસ કરો. જો સમસ્યા ચાલુ રહે છે, તો કૃપા કરીને સમસ્યાની જાણ કરો."
+   },
+   "app_saving_failed_error_short_msg": {
+      "message": "ફાઇલ સાચવી શકાતી નથી."
+   },
+   "backgroundcolor_aria_spoken_word": {
+      "message": "કોષ પૃષ્ઠભૂમિ રંગ ડ્રોપ ડાઉન સૂચિ"
+   },
+   "bold_aria_spoken_word": {
+      "message": "ઘાટું"
+   },
+   "border_all_aria_spoken_word": {
+      "message": "બધી કિનારી"
+   },
+   "border_aria_spoken_word": {
+      "message": "કિનારી ડ્રોપ ડાઉન સૂચિ"
+   },
+   "border_bottom_aria_spoken_word": {
+      "message": "નીચેની કિનારી"
+   },
+   "border_horizontal_aria_spoken_word": {
+      "message": "આડી કિનારી"
+   },
+   "border_inner_aria_spoken_word": {
+      "message": "અંદરની કિનારી"
+   },
+   "border_left_aria_spoken_word": {
+      "message": "ડાબી સીમા"
+   },
+   "border_none_aria_spoken_word": {
+      "message": "કોઈ કિનારી નહીં"
+   },
+   "border_outer_aria_spoken_word": {
+      "message": "બહારની કિનારી"
+   },
+   "border_right_aria_spoken_word": {
+      "message": "જમણી કિનારી"
+   },
+   "border_top_aria_spoken_word": {
+      "message": "ઉપરની કિનારી"
+   },
+   "border_vertical_aria_spoken_word": {
+      "message": "ઊભી કિનારી"
+   },
+   "button_ocm_convert_cancel": {
+      "message": "રદ કરો"
+   },
+   "button_ocm_promo_conversion_point": {
+      "message": "Google સ્લાઇડ્સ તરીકે સાચવો"
+   },
+   "button_ocm_promo_conversion_sheet": {
+      "message": "Google શીટ્સ તરીકે સાચવો"
+   },
+   "button_ocm_promo_conversion_word": {
+      "message": "Google દસ્તાવેજ તરીકે સાચવો"
+   },
+   "button_share_convert_cancel": {
+      "message": "રદ કરો"
+   },
+   "button_share_promo_conversion_point": {
+      "message": "Google સ્લાઇડ્સ તરીકે સાચવો"
+   },
+   "button_share_promo_conversion_sheet": {
+      "message": "Google શીટ્સ તરીકે સાચવો"
+   },
+   "button_share_promo_conversion_word": {
+      "message": "Google દસ્તાવેજો તરીકે સાચવો"
+   },
+   "cell_align_aria_spoken_word": {
+      "message": "કોષ સંરેખણ"
+   },
+   "cellalign_aria_spoken_word": {
+      "message": "કોષ સંરેખણ ડ્રોપ ડાઉન સૂચિ"
+   },
+   "cellhaligncenter_aria_spoken_word": {
+      "message": "કેન્દ્રમાં આડું"
+   },
+   "cellhalignleft_aria_spoken_word": {
+      "message": "ડાબે આડું"
+   },
+   "cellhalignright_aria_spoken_word": {
+      "message": "જમણે આડું"
+   },
+   "cellvalignbottom_aria_spoken_word": {
+      "message": "તળિયે ઊભું"
+   },
+   "cellvaligncenter_aria_spoken_word": {
+      "message": "કેન્દ્રમાં ઊભું"
+   },
+   "cellvaligntop_aria_spoken_word": {
+      "message": "ટોચ પર ઊભું"
+   },
+   "char_count_label": {
+      "message": "અક્ષરો"
+   },
+   "char_no_spaces_count_label": {
+      "message": "સ્પેસ સિવાયના અક્ષરો"
+   },
+   "close_dialog_aria_spoken_word": {
+      "message": "સંવાદ બંધ કરો"
+   },
+   "cmd_dropdown_initaddshape_aria_spoken_word": {
+      "message": "આકાર ડ્રોપ ડાઉન સૂચિ"
+   },
+   "collapsed": {
+      "message": "સંકુચિત કરેલ"
+   },
+   "collapsed_menu": {
+      "message": "સબમેનૂ સાથે $1 સંકુચિત કરેલ.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "color_black": {
+      "message": "કાળો"
+   },
+   "color_blaze_orange": {
+      "message": "ચકચકિત નારંગી"
+   },
+   "color_blue": {
+      "message": "વાદળી"
+   },
+   "color_brown": {
+      "message": "કથ્થઈ"
+   },
+   "color_cornflower_blue": {
+      "message": "કોર્નફ્લાવર વાદળી"
+   },
+   "color_cyan": {
+      "message": "સ્યાન"
+   },
+   "color_dark_blue": {
+      "message": "ઘાટો વાદળી"
+   },
+   "color_dark_blue_1": {
+      "message": "ઘાટો વાદળી 1"
+   },
+   "color_dark_blue_2": {
+      "message": "ઘાટો વાદળી 2"
+   },
+   "color_dark_blue_3": {
+      "message": "ઘાટો વાદળી 3"
+   },
+   "color_dark_blue_grey": {
+      "message": "ઘાટો વાદળી ગ્રે"
+   },
+   "color_dark_cornflower_blue_1": {
+      "message": "ઘાટો કોર્નફ્લાવર વાદળી 1"
+   },
+   "color_dark_cornflower_blue_2": {
+      "message": "ઘાટો કોર્નફ્લાવર વાદળી 2"
+   },
+   "color_dark_cornflower_blue_3": {
+      "message": "ઘાટો કોર્નફ્લાવર વાદળી 3"
+   },
+   "color_dark_cyan": {
+      "message": "ઘાટો સ્યાન"
+   },
+   "color_dark_cyan_1": {
+      "message": "ઘાટો સ્યાન 1"
+   },
+   "color_dark_cyan_2": {
+      "message": "ઘાટો સ્યાન 2"
+   },
+   "color_dark_cyan_3": {
+      "message": "ઘાટો સ્યાન 3"
+   },
+   "color_dark_gray": {
+      "message": "ઘાટો ગ્રે"
+   },
+   "color_dark_gray_1": {
+      "message": "ઘાટો ગ્રે 1"
+   },
+   "color_dark_gray_2": {
+      "message": "ઘાટો ગ્રે 2"
+   },
+   "color_dark_gray_3": {
+      "message": "ઘાટો ગ્રે 3"
+   },
+   "color_dark_gray_4": {
+      "message": "ઘાટો ગ્રે 4"
+   },
+   "color_dark_green": {
+      "message": "ઘાટો લીલો"
+   },
+   "color_dark_green_1": {
+      "message": "ઘાટો લીલો 1"
+   },
+   "color_dark_green_2": {
+      "message": "ઘાટો લીલો 2"
+   },
+   "color_dark_green_3": {
+      "message": "ઘાટો લીલો 3"
+   },
+   "color_dark_green_5": {
+      "message": "ઘાટો લીલો 5"
+   },
+   "color_dark_grey_2": {
+      "message": "ઘાટો ગ્રે 2"
+   },
+   "color_dark_grey_5": {
+      "message": "ઘાટો ગ્રે 5"
+   },
+   "color_dark_magenta_1": {
+      "message": "ઘાટો કિરમજી 1"
+   },
+   "color_dark_magenta_2": {
+      "message": "ઘાટો કિરમજી 2"
+   },
+   "color_dark_magenta_3": {
+      "message": "ઘાટો કિરમજી 3"
+   },
+   "color_dark_olive_green": {
+      "message": "ઓલિવ જેવો ઘાટો લીલો"
+   },
+   "color_dark_orange_1": {
+      "message": "ઘાટો નારંગી 1"
+   },
+   "color_dark_orange_2": {
+      "message": "ઘાટો નારંગી 2"
+   },
+   "color_dark_orange_3": {
+      "message": "ઘાટો નારંગી 3"
+   },
+   "color_dark_purple_1": {
+      "message": "ઘાટો જાંબલી 1"
+   },
+   "color_dark_purple_2": {
+      "message": "ઘાટો જાંબલી 2"
+   },
+   "color_dark_purple_3": {
+      "message": "ઘાટો જાંબલી 3"
+   },
+   "color_dark_red": {
+      "message": "ઘાટો લાલ"
+   },
+   "color_dark_red_1": {
+      "message": "ઘાટો લાલ 1"
+   },
+   "color_dark_red_2": {
+      "message": "ઘાટો લાલ 2"
+   },
+   "color_dark_red_3": {
+      "message": "ઘાટો લાલ 3"
+   },
+   "color_dark_red_berry_1": {
+      "message": "ઘાટો લાલ બેરી 1"
+   },
+   "color_dark_red_berry_2": {
+      "message": "ઘાટો લાલ બેરી 2"
+   },
+   "color_dark_red_berry_3": {
+      "message": "ઘાટો લાલ બેરી 3"
+   },
+   "color_dark_slate_blue": {
+      "message": "ઘાટો સ્લેટ વાદળી"
+   },
+   "color_dark_yellow_1": {
+      "message": "ઘાટો પીળો 1"
+   },
+   "color_dark_yellow_2": {
+      "message": "ઘાટો પીળો 2"
+   },
+   "color_dark_yellow_3": {
+      "message": "ઘાટો પીળો 3"
+   },
+   "color_deep_pink": {
+      "message": "ઘેરો ગુલાબી"
+   },
+   "color_deep_sky_blue": {
+      "message": "ઘેરો આસમાની"
+   },
+   "color_eucalyptus_green": {
+      "message": "નીલગિરી જેવો લીલો"
+   },
+   "color_gold": {
+      "message": "સોનેરી"
+   },
+   "color_gray": {
+      "message": "ગ્રે"
+   },
+   "color_green": {
+      "message": "લીલો"
+   },
+   "color_light_blue": {
+      "message": "આછો વાદળી"
+   },
+   "color_light_blue_1": {
+      "message": "આછો વાદળી 1"
+   },
+   "color_light_blue_2": {
+      "message": "આછો વાદળી 2"
+   },
+   "color_light_blue_3": {
+      "message": "આછો વાદળી 3"
+   },
+   "color_light_cornflower_blue_1": {
+      "message": "આછો કોર્નફ્લાવર વાદળી 1"
+   },
+   "color_light_cornflower_blue_2": {
+      "message": "આછો કોર્નફ્લાવર વાદળી 2"
+   },
+   "color_light_cornflower_blue_3": {
+      "message": "આછો કોર્નફ્લાવર વાદળી 3"
+   },
+   "color_light_cyan": {
+      "message": "આછો સ્યાન"
+   },
+   "color_light_cyan_1": {
+      "message": "આછો સ્યાન 1"
+   },
+   "color_light_cyan_2": {
+      "message": "આછો સ્યાન 2"
+   },
+   "color_light_cyan_3": {
+      "message": "આછો સ્યાન 3"
+   },
+   "color_light_gray": {
+      "message": "આછો ગ્રે"
+   },
+   "color_light_gray_1": {
+      "message": "આછો ગ્રે 1"
+   },
+   "color_light_gray_2": {
+      "message": "આછો ગ્રે 2"
+   },
+   "color_light_gray_3": {
+      "message": "આછો ગ્રે 3"
+   },
+   "color_light_green": {
+      "message": "આછો લીલો"
+   },
+   "color_light_green_1": {
+      "message": "આછો લીલો 1"
+   },
+   "color_light_green_2": {
+      "message": "આછો લીલો 2"
+   },
+   "color_light_green_3": {
+      "message": "આછો લીલો 3"
+   },
+   "color_light_magenta_1": {
+      "message": "આછો કિરમજી 1"
+   },
+   "color_light_magenta_2": {
+      "message": "આછો કિરમજી 2"
+   },
+   "color_light_magenta_3": {
+      "message": "આછો કિરમજી 3"
+   },
+   "color_light_orange_1": {
+      "message": "આછો નારંગી 1"
+   },
+   "color_light_orange_2": {
+      "message": "આછો નારંગી 2"
+   },
+   "color_light_orange_3": {
+      "message": "આછો નારંગી 3"
+   },
+   "color_light_purple": {
+      "message": "આછો જાંબલી"
+   },
+   "color_light_purple_1": {
+      "message": "આછો જાંબલી 1"
+   },
+   "color_light_purple_2": {
+      "message": "આછો જાંબલી 2"
+   },
+   "color_light_purple_3": {
+      "message": "આછો જાંબલી 3"
+   },
+   "color_light_red_1": {
+      "message": "આછો લાલ 1"
+   },
+   "color_light_red_2": {
+      "message": "આછો લાલ 2"
+   },
+   "color_light_red_3": {
+      "message": "આછો લાલ 3"
+   },
+   "color_light_red_berry_1": {
+      "message": "આછો લાલ બેરી 1"
+   },
+   "color_light_red_berry_2": {
+      "message": "આછો લાલ બેરી 2"
+   },
+   "color_light_red_berry_3": {
+      "message": "આછો લાલ બેરી 3"
+   },
+   "color_light_yellow": {
+      "message": "આછો પીળો"
+   },
+   "color_light_yellow_1": {
+      "message": "આછો પીળો 1"
+   },
+   "color_light_yellow_2": {
+      "message": "આછો પીળો 2"
+   },
+   "color_light_yellow_3": {
+      "message": "આછો પીળો 3"
+   },
+   "color_magenta": {
+      "message": "કિરમજી"
+   },
+   "color_maroon": {
+      "message": "ભૂખરો લાલ"
+   },
+   "color_midnight_blue": {
+      "message": "ગાઢ વાદળી"
+   },
+   "color_navy": {
+      "message": "ઘેરો વાદળી"
+   },
+   "color_olive": {
+      "message": "ઓલિવ"
+   },
+   "color_orange": {
+      "message": "નારંગી"
+   },
+   "color_peach": {
+      "message": "પીચ"
+   },
+   "color_pink": {
+      "message": "ગુલાબી"
+   },
+   "color_pistachio": {
+      "message": "પિસ્તા"
+   },
+   "color_purple": {
+      "message": "જાંબલી"
+   },
+   "color_red": {
+      "message": "લાલ"
+   },
+   "color_red_berry": {
+      "message": "લાલ બેરી"
+   },
+   "color_royal_blue": {
+      "message": "રોયલ બ્લૂ"
+   },
+   "color_teal": {
+      "message": "ટીલ"
+   },
+   "color_turquiose": {
+      "message": "ટર્કવાઇઝ"
+   },
+   "color_white": {
+      "message": "શ્વેત"
+   },
+   "color_yellow": {
+      "message": "પીળો"
+   },
+   "command_key": {
+      "message": "આદેશ"
+   },
+   "content_msg_merging_horizontally_across_vertical_section": {
+      "message": "તમે અસ્તિત્વમાંના ઊભી રીતે મર્જ કરેલ વિભાગ પર આડી રીતે મર્જ કરી શકતાં નથી."
+   },
+   "content_msg_merging_multiple_cells_with_text": {
+      "message": "કોષોને મર્જ કરવાથી માત્ર ટોચનું-સૌથી ડાબી બાજુનું મૂલ્ય જાળવવામાં આવશે. તોપણ મર્જ કરીએ?"
+   },
+   "content_msg_merging_partially_selected_merged_cells": {
+      "message": "તમારે મર્જ કરેલ શ્રેણીમાંના તમામ કોષોને મર્જ કરવા અથવા મર્જમાંથી દૂર કરવા માટે તેમને પસંદ કરવા આવશ્યક છે."
+   },
+   "content_msg_merging_vertically_across_horizontal_section": {
+      "message": "તમે અસ્તિત્વમાંના આડી રીતે મર્જ કરેલ વિભાગ પર ઊભી રીતે મર્જ કરી શકતાં નથી."
+   },
+   "content_render_error_msg": {
+      "message": "આ દસ્તાવેજની સામગ્રી સાથે સમસ્યા હતી."
+   },
+   "context_menu_clipboard_copy": {
+      "message": "કૉપિ કરો"
+   },
+   "context_menu_delete": {
+      "message": "કાઢી નાખો"
+   },
+   "context_menu_freeze": {
+      "message": "પંક્તિઓ સ્થિર કરો"
+   },
+   "context_menu_insert": {
+      "message": "શામેલ કરો"
+   },
+   "context_menu_sort_collation_ascending": {
+      "message": "a-z સૉર્ટ કરો"
+   },
+   "context_menu_sort_collation_descending": {
+      "message": "z-a સૉર્ટ કરો"
+   },
+   "context_menu_unfreeze": {
+      "message": "પંક્તિઓ સ્થિર ન કરો"
+   },
+   "control_key": {
+      "message": "Control"
+   },
+   "convert_attempt_when_offline": {
+      "message": "Google દસ્તાવેજ તરીકે સાચવવા માટે તમારે ઓનલાઇન થવાની જરૂર છે. જ્યારે તમારું કનેક્શન પુનર્સ્થાપિત થાય ત્યારે ફરી પ્રયાસ કરો."
+   },
+   "convert_attempt_with_invalid_creds": {
+      "message": "આ ફાઇલ રૂપાંતરિત કરવા માટે તમારે તમારા Google એકાઉન્ટમાં પર સાઇન ઇન કરવાની જરૂર છે."
+   },
+   "convert_cancel": {
+      "message": "રદ કરો"
+   },
+   "convert_to_google_docs_failed": {
+      "message": "Google દસ્તાવેજો પર તમારા દસ્તાવેજને રૂપાંતરિત કરવામાં સમસ્યા હતી."
+   },
+   "convert_to_google_point_fail_short_msg": {
+      "message": "અરેરે"
+   },
+   "convert_to_google_point_short_msg": {
+      "message": "Google સ્લાઇડ્સ તરીકે સાચવી રહ્યું છે"
+   },
+   "convert_to_google_sheet_fail_short_msg": {
+      "message": "અરેરે"
+   },
+   "convert_to_google_sheet_short_msg": {
+      "message": "Google શીટ્સ તરીકે સાચવી રહ્યું છે"
+   },
+   "convert_to_google_word_fail_short_msg": {
+      "message": "અરેરે"
+   },
+   "convert_to_google_word_short_msg": {
+      "message": "Google દસ્તાવેજો તરીકે સાચવી રહ્યું છે"
+   },
+   "convert_try_again": {
+      "message": "ફરી પ્રયાસ કરો"
+   },
+   "converting_to_google_point_fail_msg": {
+      "message": "અમે આ સમયે તમારી ફાઇલને Google સ્લાઇડ્સ તરીકે સાચવી શક્યા નથી."
+   },
+   "converting_to_google_point_msg": {
+      "message": "તમારી પ્રસ્તુતિના નવા સંસ્કરણને Google સ્લાઇડ્સ તરીકે સાચવી રહ્યાં છે."
+   },
+   "converting_to_google_sheet_fail_msg": {
+      "message": "અમે આ સમયે તમારી ફાઇલને Google શીટ્સ તરીકે સાચવી શક્યા નથી."
+   },
+   "converting_to_google_sheet_msg": {
+      "message": "તમારી સ્પ્રેડશીટના નવા સંસ્કરણને Google શીટ્સ તરીકે સાચવી રહ્યાં છે."
+   },
+   "converting_to_google_word_fail_msg": {
+      "message": "અમે આ સમયે તમારી ફાઇલને Google દસ્તાવેજ તરીકે સાચવી શક્યા નથી."
+   },
+   "converting_to_google_word_msg": {
+      "message": "તમારા દસ્તાવેજના નવા સંસ્કરણને Google દસ્તાવેજ તરીકે સાચવી રહ્યાં છે."
+   },
+   "copy_attempt_when_offline": {
+      "message": "Google ડ્રાઇવ પર એક કૉપિ બનાવવા માટે તમારે ઓનલાઇન થવાની જરૂર છે. જ્યારે તમારું કનેક્શન પુનઃસ્થાપિત થાય ત્યારે ફરીથી પ્રયાસ કરો."
+   },
+   "copy_attempt_with_invalid_creds": {
+      "message": "એક કૉપિ બનાવવા માટે તમારે તમારા Google એકાઉન્ટમાં સાઇન ઇન કરવાની જરૂર છે."
+   },
+   "disabled_share_button": {
+      "message": "મૅક્રો-સક્ષમ ફાઇલો ફક્ત Google ડ્રાઇવથી જ શેર કરવામાં આવી શકે છે. શેરિંગ અક્ષમ કર્યું."
+   },
+   "disallowed_cut_copy_paste_cmd_copy": {
+      "message": "કૉપિ કરવા માટે"
+   },
+   "disallowed_cut_copy_paste_cmd_cut": {
+      "message": "કટ કરવા માટે"
+   },
+   "disallowed_cut_copy_paste_cmd_paste": {
+      "message": "પેસ્ટ કરવા માટે"
+   },
+   "disallowed_cut_copy_paste_msg": {
+      "message": "ફેરફાર કરો અને સંદર્ભ મેનૂનો ઉપયોગ કરીને આ ક્રિયાઓ અનુપલબ્ધ છે, પણ તમે હજી પણ આનો ઉપયોગ કરી શકો છો:"
+   },
+   "disallowed_cut_copy_paste_title": {
+      "message": "Office અનુરૂપતા મોડમાં કૉપિ અને પેસ્ટ"
+   },
+   "dismiss": {
+      "message": "છોડી દો"
+   },
+   "document_title_aria_spoken_word": {
+      "message": "દસ્તાવેજનું શીર્ષક:"
+   },
+   "down_key": {
+      "message": "Down"
+   },
+   "download_button": {
+      "message": "ડાઉનલોડ કરો"
+   },
+   "download_file_timeout_error_msg": {
+      "message": "તમે ખોલવાનો પ્રયાસ કરી રહ્યાં છો તે ફાઇલ લોડ થવામાં અપેક્ષા કરતાં વધુ સમય લઈ રહી છે. તમારું નેટવર્ક કનેક્શન તપાસો અને ફરી પ્રયાસ કરો."
+   },
+   "download_file_timeout_error_short_msg": {
+      "message": "ફાઇલ અપેક્ષા કરતાં વધુ સમય લઈ રહી છે"
+   },
+   "drive_open_timeout_error_msg": {
+      "message": "એવું લાગે છે કે કદાચ તમારા ઇન્ટરનેટ કનેક્શનમાં કોઈ સમસ્યા હશે. કૃપા કરીને તમારું કનેક્શન તપાસો અને ફાઇલને ખોલવાનો ફરીથી પ્રયાસ કરો. જો તમને આ ભૂલ પ્રાપ્ત થવાનું ચાલુ રહે છે અને તમે ઓનલાઇન છો, તો કૃપા કરીને નીચે સમસ્યાની જાણ કરો."
+   },
+   "drive_open_timeout_error_short_msg": {
+      "message": "અરેરે. તમે વિનંતી કરેલ ફાઇલ ખોલવામાં અમે અસમર્થ હતા."
+   },
+   "duplicate_sheet_name_message": {
+      "message": "બીજી શીટ દ્વારા ઉપયોગમાં ન હોય તે શીટ નામ દાખલ કરો"
+   },
+   "duplicate_sheet_name_title": {
+      "message": "તે શીટ નામ પહેલાંથી ઉપયોગમાં છે"
+   },
+   "edits_not_being_saved": {
+      "message": "સંપાદનો આપમેળે સાચવવામાં આવશે નહી."
+   },
+   "edits_now_being_auto_saved": {
+      "message": "ફાઇલ સાચવી. બધા સંપાદનો હવે આપમેળે સાચવવામાં આવશે."
+   },
+   "entry_point_error_msg": {
+      "message": "કૃપા કરીને ફરી પ્રયાસ કરો અથવા નીચે સમસ્યાની જાણ કરો."
+   },
+   "entry_point_error_short_msg": {
+      "message": "ઊફ્ફ. તમે કઈ ફાઇલ ખોલવા માગતા હતાં તે નિર્ધારિત કરવામાં અમે અસમર્થ હતાં."
+   },
+   "error_occurred": {
+      "message": "કોઈ ભૂલ આવી છે."
+   },
+   "error_password_required_msg": {
+      "message": "અમે આજે સંરક્ષિત ફાઇલોનું સમર્થન કરતા નથી, પરંતુ અમે તેના પર કાર્ય કરી રહ્યાં છીએ."
+   },
+   "error_password_required_short_msg": {
+      "message": "આ ફાઇલ પાસવર્ડ સંરક્ષિત છે."
+   },
+   "expanded": {
+      "message": "વિસ્તૃત કરેલ"
+   },
+   "expanded_menu": {
+      "message": "સબમેનૂ સાથે $1 વિસ્તૃત કરેલ.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "extension_description": {
+      "message": "Google દસ્તાવેજો, શીટ્સ અને સ્લાઇડ્સ સાથે Microsoft Word, Excel અને PowerPoint ફાઇલોને જુઓ અને સંપાદિત કરો"
+   },
+   "extension_name": {
+      "message": "Office સંપાદન"
+   },
+   "extension_popup_message_body": {
+      "message": "અસ્તિત્વમાંની ફાઇલોને ખોલવા માટે, તેમને બ્રાઉઝરમાં ખેંચો અને છોડો"
+   },
+   "extension_popup_new_document_header": {
+      "message": "નવું..."
+   },
+   "extension_popup_new_presentation_document": {
+      "message": "PowerPoint પ્રસ્તુતિ"
+   },
+   "extension_popup_new_spreadsheet_document": {
+      "message": "Excel સ્પ્રેડશીટ"
+   },
+   "extension_popup_new_word_document": {
+      "message": "Word દસ્તાવેજ"
+   },
+   "feedback_textbox_editing": {
+      "message": "કૃપા કરીને ટેક્સ્ટ બોક્સની અંદરની ટેક્સ્ટના સંપાદનનું સમર્થન કરો."
+   },
+   "feedback_ui_template": {
+      "message": "1- કૃપા કરીને તમને આવેલી સમસ્યાનું વર્ણન કરો.\n2- શું ફાઇલ ખોલવાનો પ્રયાસ કરતી વખતે અથવા ફાઇલ સંપાદિત કરવાનો પ્રયાસ કરતી વખતે સમસ્યા આવી હતી?\n3- શું આ સમસ્યા તમે કોઈપણ ફાઇલો ખોલવાનો કે સંપાદિત કરવાનો પ્રયાસ કરેલો તે દર વખતે આવી હતી કે કોઈ ચોક્કસ ફાઇલોમાં જ?\n\nજો આ સમસ્યા કોઈ ચોક્કસ ફાઇલ પૂરતી જ છે, તો કૃપા કરીને તે ફાઇલને આ રિપોર્ટમાં નિઃસંકોચપણે જોડો, કેમકે તે સંપૂર્ણ રીતે સમસ્યાનું નિવારણ કરવા અમને મંજૂરી આપવામાં ખૂબ સહાયરૂપ થશે."
+   },
+   "file_does_not_exist_error_details": {
+      "message": "આ ફાઇલ અસ્તિત્વમાં નથી. તમે શેર કરેલ લિંક અથવા બુકમાર્ક કરેલ દસ્તાવેજને ખોલવાનો પ્રયાસ કર્યો હોઈ શકે છે. કૃપા કરીને ફાઇલને તેના મૂળ સ્રોતથી ફરી ખોલવાનો પ્રયાસ કરો."
+   },
+   "file_does_not_exist_error_title": {
+      "message": "ફાઇલ મળી નથી."
+   },
+   "file_loading_spinner_label": {
+      "message": "લોડ કરી રહ્યું છે"
+   },
+   "file_missing_content_msg": {
+      "message": "આ ફાઇલની સમગ્ર સામગ્રી વાંચવામાં એક સમસ્યા હતી; અમે તમને આ ફાઇલનું નામ બદલીને ફરીથી ખોલવાનો પ્રયાસ કરવાની ભલામણ કરીએ છીએ"
+   },
+   "file_missing_content_short_msg": {
+      "message": "દસ્તાવેજમાં સામગ્રી ખૂટે છે."
+   },
+   "file_not_found_error_msg": {
+      "message": "કૃપા કરીને ફાઇલના માલિકથી એ ખાતરી કરવા માટે તપાસ કરો કે તમને તેને ઍક્સેસ કરવાની પરવાનગી છે. જો તમને આ ભૂલ પ્રાપ્ત થવાનું ચાલુ રહે છે અને તમારી પાસે પરવાનગી છે, તો કૃપા કરીને નીચે સમસ્યાની જાણ કરો."
+   },
+   "file_not_found_error_short_msg": {
+      "message": "અરેરે. તમે વિનંતી કરેલ ફાઇલ ખોલવામાં અમે અસમર્થ હતા."
+   },
+   "file_not_found_exception": {
+      "message": "વિનંતી કરેલી ફાઇલ ડિલીટ કરવામાં, તેનું નામ બદલવામાં અથવા તો કોઈ બીજા સ્થાન પર ખસેડવામાં આવી હોઈ શકે છે. આગળ વધવા માટે કૃપા કરીને 'હમણાં સાચવો' પર ક્લિક કરો."
+   },
+   "file_not_found_link_text": {
+      "message": "બહુવિધ એકાઉન્ટ્સ સાથે સહાય માટે, કૃપા કરીને આ લેખ જુઓ"
+   },
+   "file_not_found_msg": {
+      "message": "તમે વિનંતી કરેલી ફાઇલ આવી ગઈ છે અને ખસેડવામાં આવી છે."
+   },
+   "file_not_found_title": {
+      "message": "ફાઇલ મળી નથી."
+   },
+   "file_open_crash_error_msg": {
+      "message": "જો તમને ભૂલ આવવાનું ચાલુ રહે, તો કૃપા કરીને નીચે સમસ્યાની જાણ કરો."
+   },
+   "file_open_crash_error_short_msg": {
+      "message": "અરેરે. તમે વિનંતી કરેલ ફાઇલ ખોલવામાં અમે અસમર્થ હતા."
+   },
+   "file_open_error_msg": {
+      "message": "આ ફાઇલની સામગ્રીઓ ઍક્સેસિબલ નથી."
+   },
+   "file_open_error_short_msg": {
+      "message": "આ ફાઇલ દૂષિત હોય તેવું લાગે છે."
+   },
+   "file_open_fail_download_link_text": {
+      "message": "ફાઇલ ડાઉનલોડ કરો"
+   },
+   "file_opened_in_incognito_mode_error_details": {
+      "message": "Officeની ફાઇલોમાં ફેરફાર માટેનું એક્સ્ટેંશન છૂપા મોડમાં કામ કરતું નથી. કૃપા કરીને સામાન્ય Chrome વિંડોનો ઉપયોગ કરીને આ ફાઇલ ખોલો. જો તમે અતિથિ મોડનો ઉપયોગ કરી રહ્યાં છો, તો ફાઇલ ખુલવામાં નિષ્ફળ થાય છે. કૃપા કરીને તમારી ફાઇલ દૂષિત અથવા અમાન્ય દસ્તાવેજનો પ્રકાર ન હોય તેની ખાતરી કરો અને ફરી પ્રયાસ કરો."
+   },
+   "file_opened_in_incognito_mode_error_title": {
+      "message": "ઓહ! છૂપા મોડમાંં ફાઇલ નહીં ખુલે"
+   },
+   "file_pdf_type_rename_msg": {
+      "message": "ફાઇલનું નામ બદલીને $1.pdf કરો અને ફરી પ્રયાસ કરો.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_rtf_type_rename_msg": {
+      "message": "ફાઇલનું નામ બદલીને $1.rtf કરો",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_type_unsupported_msg": {
+      "message": "આ ફાઇલ પ્રકાર સમર્થિત નથી."
+   },
+   "fillcolor_aria_spoken_word": {
+      "message": "ટેક્સ્ટ રંગ ડ્રોપ ડાઉન સૂચિ"
+   },
+   "fontface_aria_spoken_word": {
+      "message": "ફોન્ટ ફેસ ડ્રોપ ડાઉન સૂચિ"
+   },
+   "fontsize_aria_spoken_word": {
+      "message": "ફોન્ટ કદ ડ્રોપ ડાઉન સૂચિ"
+   },
+   "forbidden_access_level_error_msg": {
+      "message": "કૃપા કરીને ફાઇલના માલિકથી એ ખાતરી કરવા માટે તપાસ કરો કે તમને આ ફાઇલને ખોલવાની પરવાનગી છે. જો તમને આ ભૂલ પ્રાપ્ત થવાનું ચાલુ રહે છે અને તમારી પાસે પરવાનગી છે, તો કૃપા કરીને નીચે સમસ્યાની જાણ કરો."
+   },
+   "forbidden_access_level_error_short_msg": {
+      "message": "અરેરે. તમે વિનંતી કરેલ ફાઇલ ખોલવામાં અમે અસમર્થ હતા."
+   },
+   "forbidden_app_access_error_msg": {
+      "message": "કેટલાક કારણોસર અમને આ ફાઇલ ખોલવાની પરવાનગી નથી. કૃપા કરીને Google ડ્રાઇવમાંથી ફાઇલ ખોલવાનો પ્રયાસ કરો અથવા નીચે સમસ્યાની જાણ કરો."
+   },
+   "forbidden_app_access_error_short_msg": {
+      "message": "અરેરે. તમે વિનંતી કરેલ ફાઇલ ખોલવામાં અમે અસમર્થ હતા."
+   },
+   "forbidden_app_id_error_msg": {
+      "message": "એવું લાગે છે કે Chrome એક્સ્ટેન્શન યોગ્ય રીતે ગોઠવેલું નથી. આ કેવી રીતે શક્ય છે? અમે સંપૂર્ણપણે સુનિશ્ચિત નથી, પરંતુ કૃપા કરીને નીચે સમસ્યાની જાણ કરો."
+   },
+   "forbidden_app_id_error_short_msg": {
+      "message": "અરેરે. તમે વિનંતી કરેલ ફાઇલ ખોલવામાં અમે અસમર્થ હતા."
+   },
+   "forbidden_blacklist_error_msg": {
+      "message": "આ Chrome એક્સ્ટેન્શન બ્લેકલિસ્ટ કરવામાં આવ્યું હોય એવું લાગે છે. આ સ્પષ્ટપણે એક ભૂલ છે, તેથી કૃપા કરીને નીચે સમસ્યાની જાણ કરીને તે વિશે અમને જણાવો."
+   },
+   "forbidden_blacklist_error_short_msg": {
+      "message": "અરેરે. તમે વિનંતી કરેલ ફાઇલ ખોલવામાં અમે અસમર્થ હતા."
+   },
+   "forbidden_domain_error_msg": {
+      "message": "તમારા ડોમેને આ ફાઇલની ઍક્સેસ નિષિદ્ધ કરી હોય એવું લાગે છે. કૃપા કરીને તમારા ડોમેન વ્યવસ્થાપકનો સંપર્ક કરો અથવા નીચે સમસ્યાની જાણ કરો."
+   },
+   "forbidden_domain_error_short_msg": {
+      "message": "અરેરે. તમે વિનંતી કરેલ ફાઇલ ખોલવામાં અમે અસમર્થ હતા."
+   },
+   "forbidden_internal_error_msg": {
+      "message": "કમનસીબે, Google ડ્રાઇવ અપેક્ષા મુજબ કામ કરી રહ્યું નથી. કૃપા કરીને તમારી ફાઇલ ફરી ખોલવાનો પ્રયાસ કરો અથવા નીચે સમસ્યાની જાણ કરો."
+   },
+   "forbidden_internal_error_short_msg": {
+      "message": "અરેરે. તમે વિનંતી કરેલ ફાઇલ ખોલવામાં અમે અસમર્થ હતા."
+   },
+   "forbidden_not_installed_error_msg": {
+      "message": "એવું લાગે છે કે Chrome એક્સ્ટેન્શન યોગ્ય રીતે ઇન્સ્ટોલ કરેલું નથી. તે કેવી રીતે શક્ય છે? અમે સંપૂર્ણપણે સુનિશ્ચિત નથી, પરંતુ કૃપા કરીને નીચે સમસ્યાની જાણ કરો."
+   },
+   "forbidden_not_installed_error_short_msg": {
+      "message": "અરેરે. તમે વિનંતી કરેલ ફાઇલ ખોલવામાં અમે અસમર્થ હતા."
+   },
+   "generic_error_msg": {
+      "message": "આ દસ્તાવેજની સામગ્રી સાથે સમસ્યા હતી."
+   },
+   "generic_error_short_msg": {
+      "message": "ઊફ્ફ. તે થવાની સંભાવના ન હતી - તમારા ફેરફારોને પુનઃપ્રાપ્ત કરવા માટે પૃષ્ઠને ફરીથી લોડ કરો."
+   },
+   "get_lists_data_error_msg": {
+      "message": "આ દસ્તાવેજ ખોટી સૂચિ ફોર્મેટિંગ સાથે રેન્ડર થઈ શકે છે."
+   },
+   "get_lists_data_error_short_msg": {
+      "message": "દસ્તાવેજ ફોર્મેટિંગ પુનઃપ્રાપ્ત કરી શક્યાં નથી."
+   },
+   "highlightcolor_aria_spoken_word": {
+      "message": "ટેક્સ્ટ હાઇલાઇટ રંગ ડ્રોપ ડાઉન સૂચિ"
+   },
+   "http_error_zero_msg": {
+      "message": "તે નેટવર્ક સમસ્યા હોવાની સ્થિતિમાં, કૃપા કરીને તમારા કનેક્શનને તપાસો અથવા પછીથી ફરી પ્રયાસ કરો. જો સમસ્યા ચાલુ રહે છે, તો કૃપા કરીને સમસ્યાની જાણ કરો."
+   },
+   "http_error_zero_short_msg": {
+      "message": "માફ કરશો, અમે ફાઇલ ખોલી શક્યાં નથી."
+   },
+   "info_file_copied": {
+      "message": "સાચવેલા"
+   },
+   "info_file_save_cancelled": {
+      "message": "સાચવવું રદ કર્યું."
+   },
+   "info_file_save_failed": {
+      "message": "સાચવવું નિષ્ફળ થયું."
+   },
+   "info_file_saved_at_location": {
+      "message": "$1 પર બધા ફેરફાર સાચવ્યા",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "info_file_saved_in_drive": {
+      "message": "બધા ફેરફારો ડ્રાઇવમાં સાચવ્યાં"
+   },
+   "info_file_saved_locally": {
+      "message": "બધા ફેરફારો સ્થાનિક રીતે સાચવ્યાં"
+   },
+   "info_file_saved_offline": {
+      "message": "બધા ફેરફારો ઑફલાઇન સાચવ્યાં"
+   },
+   "info_file_saving": {
+      "message": "સાચવી રહ્યું છે..."
+   },
+   "initaddshape_aria_spoken_word": {
+      "message": "ટેક્સ્ટ બોક્સ ઉમેરો"
+   },
+   "invalid_credentials_error_msg": {
+      "message": "આ ફાઇલ ઍક્સેસ કરવા માટે તમારે તમારા Google એકાઉન્ટમાં સાઇન ઇન કરવું પડશે."
+   },
+   "invalid_credentials_error_short_msg": {
+      "message": "અરેરે. તમે વિનંતી કરેલ ફાઇલ ખોલવામાં અમે અસમર્થ હતા."
+   },
+   "invalid_file_format_msg": {
+      "message": "ફાઇલ Office દસ્તાવેજ જેવી દેખાતી અને Office ફાઇલ એક્સટેન્શન ધરાવતી હોવા છતાં, તે વાસ્તવિક રૂપે ભિન્ન ફાઇલ પ્રકાર છે કે જેનું નામ બદલ્યું  હતું અથવા તેમાં કેટલીક રીતે ફેરફાર કર્યો હતો અથવા તે કોઈ એવો ફાઇલ પ્રકાર છે કે જેનું અમે સમર્થન કરતાં નથી."
+   },
+   "invalid_file_format_short_msg": {
+      "message": "ઊફ્ફ, એવું લાગે છે કે અમે આ પ્રકારના દસ્તાવેજને ખોલી શકતા નથી."
+   },
+   "italic_aria_spoken_word": {
+      "message": "ઇટાલિક"
+   },
+   "keyboard_shortcut_group_actions": {
+      "message": "ક્રિયાઓ"
+   },
+   "keyboard_shortcut_group_other": {
+      "message": "અન્ય"
+   },
+   "keyboard_shortcut_group_paragraph_formatting": {
+      "message": "ફકરાનું ફોર્મેટિંગ"
+   },
+   "keyboard_shortcut_group_text_formatting": {
+      "message": "ટેક્સ્ટ ફોર્મેટિંગ"
+   },
+   "keyboard_shortcut_group_top_menus": {
+      "message": "મેનૂઝ"
+   },
+   "keyboard_shortcut_group_with_slides": {
+      "message": "સ્લાઇડ્સ સાથે"
+   },
+   "keyboard_shortcut_title": {
+      "message": "કીબોર્ડ શૉર્ટકટ્સ"
+   },
+   "make_a_copy_fail_msg": {
+      "message": "અમે આ સમયે એક કૉપિ બનાવી શક્યા નથી."
+   },
+   "menu_button_data": {
+      "message": "ડેટા"
+   },
+   "menu_button_edit": {
+      "message": "સંપાદિત કરો"
+   },
+   "menu_button_file": {
+      "message": "ફાઇલ"
+   },
+   "menu_button_format": {
+      "message": "ફોર્મેટ"
+   },
+   "menu_button_help": {
+      "message": "સહાય"
+   },
+   "menu_button_insert": {
+      "message": "શામેલ કરો"
+   },
+   "menu_button_slide": {
+      "message": "સ્લાઇડ"
+   },
+   "menu_button_tools": {
+      "message": "સાધનો"
+   },
+   "menu_button_view": {
+      "message": "જુઓ"
+   },
+   "menu_item_10_point_star": {
+      "message": "10-પૉઇન્ટ સ્ટાર"
+   },
+   "menu_item_12_point_star": {
+      "message": "12-પૉઇન્ટ સ્ટાર"
+   },
+   "menu_item_16_point_star": {
+      "message": "16-પૉઇન્ટ સ્ટાર"
+   },
+   "menu_item_24_point_star": {
+      "message": "24-પૉઇન્ટ સ્ટાર"
+   },
+   "menu_item_32_point_star": {
+      "message": "32-પૉઇન્ટ સ્ટાર"
+   },
+   "menu_item_4_point_star": {
+      "message": "4-પૉઇન્ટ સ્ટાર"
+   },
+   "menu_item_5_point_star": {
+      "message": "5-પૉઇન્ટ સ્ટાર"
+   },
+   "menu_item_6_point_star": {
+      "message": "6-પૉઇન્ટ સ્ટાર"
+   },
+   "menu_item_7_point_star": {
+      "message": "7-પૉઇન્ટ સ્ટાર"
+   },
+   "menu_item_8_point_star": {
+      "message": "8-પૉઇન્ટ સ્ટાર"
+   },
+   "menu_item_align": {
+      "message": "સંરેખિત કરો"
+   },
+   "menu_item_align_center": {
+      "message": "કેન્દ્રમાં"
+   },
+   "menu_item_align_justified": {
+      "message": "બંધબેસતું"
+   },
+   "menu_item_align_left": {
+      "message": "ડાબે"
+   },
+   "menu_item_align_right": {
+      "message": "જમણે"
+   },
+   "menu_item_arrows": {
+      "message": "તીર"
+   },
+   "menu_item_bent_arrow": {
+      "message": "વળેલું તીર"
+   },
+   "menu_item_bent_up_arrow": {
+      "message": "ઉપર વળેલું તીર"
+   },
+   "menu_item_bevel": {
+      "message": "બેવલ"
+   },
+   "menu_item_block_arc": {
+      "message": "બ્લૉક ચાપ"
+   },
+   "menu_item_bold": {
+      "message": "બોલ્ડ"
+   },
+   "menu_item_callouts": {
+      "message": "કૉલઆઉટ"
+   },
+   "menu_item_can": {
+      "message": "કૅન"
+   },
+   "menu_item_chevron": {
+      "message": "શેવરોન"
+   },
+   "menu_item_chord": {
+      "message": "ચાપકર્ણ"
+   },
+   "menu_item_clear_formatting": {
+      "message": "ફોર્મેટિંગ સાફ કરો"
+   },
+   "menu_item_cloud": {
+      "message": "વાદળ"
+   },
+   "menu_item_cloud_callout": {
+      "message": "વાદળ કૉલઆઉટ"
+   },
+   "menu_item_color_none": {
+      "message": "કોઈ નહીં"
+   },
+   "menu_item_color_transparent": {
+      "message": "પારદર્શક"
+   },
+   "menu_item_convert_to_docs": {
+      "message": "Google દસ્તાવેજો તરીકે સાચવો"
+   },
+   "menu_item_convert_to_sheets": {
+      "message": "Google શીટ્સ તરીકે સાચવો"
+   },
+   "menu_item_convert_to_slides": {
+      "message": "Google સ્લાઇડ્સ તરીકે સાચવો"
+   },
+   "menu_item_copy": {
+      "message": "કૉપિ કરો"
+   },
+   "menu_item_cross": {
+      "message": "ક્રોસ"
+   },
+   "menu_item_cube": {
+      "message": "ઘનાકાર"
+   },
+   "menu_item_curved_down_arrow": {
+      "message": "નીચે વળેલું તીર"
+   },
+   "menu_item_curved_left_arrow": {
+      "message": "વળેલું ડાબું તીર"
+   },
+   "menu_item_curved_right_arrow": {
+      "message": "વળેલું જમણું તીર"
+   },
+   "menu_item_curved_up_arrow": {
+      "message": "ઉપર વળેલું તીર"
+   },
+   "menu_item_cut": {
+      "message": "કાપો"
+   },
+   "menu_item_decagon": {
+      "message": "દશકોણ"
+   },
+   "menu_item_delete_column": {
+      "message": "કૉલમ કાઢી નાખો"
+   },
+   "menu_item_delete_row": {
+      "message": "પંક્તિ કાઢી નાખો"
+   },
+   "menu_item_delete_value": {
+      "message": "મૂલ્ય કાઢી નાખો"
+   },
+   "menu_item_deleteslide": {
+      "message": "સ્લાઇડ કાઢી નાખો"
+   },
+   "menu_item_diagonal_stripe": {
+      "message": "વિકર્ણ પટ્ટી"
+   },
+   "menu_item_diamond": {
+      "message": "ડાયમંડ"
+   },
+   "menu_item_divide": {
+      "message": "ભાગાકાર"
+   },
+   "menu_item_dodecagon": {
+      "message": "દ્વાદશભુજ"
+   },
+   "menu_item_donut": {
+      "message": "ડોનટ"
+   },
+   "menu_item_double_brace": {
+      "message": "ડબલ નાનો કૌંસ"
+   },
+   "menu_item_double_bracket": {
+      "message": "ડબલ કૌંસ"
+   },
+   "menu_item_down_arrow": {
+      "message": "તીર નીચે"
+   },
+   "menu_item_down_arrow_callout": {
+      "message": "તીર નીચેવાળું કૉલઆઉટ"
+   },
+   "menu_item_duplicateslide": {
+      "message": "ડુપ્લિકેટ સ્લાઇડ"
+   },
+   "menu_item_equal": {
+      "message": "બરાબર"
+   },
+   "menu_item_equation": {
+      "message": "સમીકરણ"
+   },
+   "menu_item_explosion_1": {
+      "message": "વિસ્ફોટ 1"
+   },
+   "menu_item_explosion_2": {
+      "message": "વિસ્ફોટ 2"
+   },
+   "menu_item_flowchart_alternate_process": {
+      "message": "ફ્લોચાર્ટ: વૈકલ્પિક પ્રક્રિયા"
+   },
+   "menu_item_flowchart_card": {
+      "message": "ફ્લોચાર્ટ: કાર્ડ"
+   },
+   "menu_item_flowchart_collate": {
+      "message": "ફ્લોચાર્ટ: કોલેટ"
+   },
+   "menu_item_flowchart_connector": {
+      "message": "ફ્લોચાર્ટ: કનેક્ટર"
+   },
+   "menu_item_flowchart_data": {
+      "message": "ફ્લોચાર્ટ: ડેટા"
+   },
+   "menu_item_flowchart_decision": {
+      "message": "ફ્લોચાર્ટ: નિર્ણય"
+   },
+   "menu_item_flowchart_delay": {
+      "message": "ફ્લોચાર્ટ: વિલંબ"
+   },
+   "menu_item_flowchart_direct_access_storage": {
+      "message": "ફ્લોચાર્ટ: પ્રત્યક્ષ ઍક્સેસ સ્ટોરેજ"
+   },
+   "menu_item_flowchart_display": {
+      "message": "ફ્લોચાર્ટ: પ્રદર્શન"
+   },
+   "menu_item_flowchart_document": {
+      "message": "ફ્લોચાર્ટ: દસ્તાવેજ"
+   },
+   "menu_item_flowchart_extract": {
+      "message": "ફ્લોચાર્ટ: બહાર કાઢો"
+   },
+   "menu_item_flowchart_internal_storage": {
+      "message": "ફ્લોચાર્ટ: આંતરિક સ્ટોરેજ"
+   },
+   "menu_item_flowchart_magnetic_disk": {
+      "message": "ફ્લોચાર્ટ: મેગ્નેટિક ડિસ્ક"
+   },
+   "menu_item_flowchart_manual_input": {
+      "message": "ફ્લોચાર્ટ: મૅન્યુઅલ ઇનપુટ"
+   },
+   "menu_item_flowchart_manual_operation": {
+      "message": "ફ્લોચાર્ટ: મૅન્યુઅલ કામગીરી"
+   },
+   "menu_item_flowchart_merge": {
+      "message": "ફ્લોચાર્ટ: મર્જ કરો"
+   },
+   "menu_item_flowchart_multidocument": {
+      "message": "ફ્લોચાર્ટ: બહુદસ્તાવેજ"
+   },
+   "menu_item_flowchart_off_page_connector": {
+      "message": "ફ્લોચાર્ટ: ઑફ-પેજ કનેક્ટર"
+   },
+   "menu_item_flowchart_or": {
+      "message": "ફ્લોચાર્ટ: અથવા"
+   },
+   "menu_item_flowchart_predefined_process": {
+      "message": "ફ્લોચાર્ટ: પૂર્વનિર્ધારિત પ્રક્રિયા"
+   },
+   "menu_item_flowchart_preparation": {
+      "message": "ફ્લોચાર્ટ: તૈયારી"
+   },
+   "menu_item_flowchart_process": {
+      "message": "ફ્લોચાર્ટ: પ્રક્રિયા"
+   },
+   "menu_item_flowchart_punched_tape": {
+      "message": "ફ્લોચાર્ટ: પંચ કરેલ ટેપ"
+   },
+   "menu_item_flowchart_sequential_access_storage": {
+      "message": "ફ્લોચાર્ટ: ક્રમિક ઍક્સેસ સ્ટોરેજ"
+   },
+   "menu_item_flowchart_sort": {
+      "message": "ફ્લોચાર્ટ: સૉર્ટ કરો"
+   },
+   "menu_item_flowchart_stored_data": {
+      "message": "ફ્લોચાર્ટ: સંગ્રહિત ડેટા"
+   },
+   "menu_item_flowchart_summing_junction": {
+      "message": "ફ્લોચાર્ટ: સરવાળાનું જંક્શન"
+   },
+   "menu_item_flowchart_terminator": {
+      "message": "ફ્લોચાર્ટ: ટર્મિનેટર"
+   },
+   "menu_item_folded_corner": {
+      "message": "વાળેલો ખૂણો"
+   },
+   "menu_item_frame": {
+      "message": "ફ્રેમ"
+   },
+   "menu_item_half_frame": {
+      "message": "અડધી ફ્રેમ"
+   },
+   "menu_item_heart": {
+      "message": "હૃદય"
+   },
+   "menu_item_help_center": {
+      "message": "સહાય કેન્દ્ર"
+   },
+   "menu_item_heptagon": {
+      "message": "સપ્તકોણ"
+   },
+   "menu_item_hexagon": {
+      "message": "ષટ્કોણ"
+   },
+   "menu_item_hideslide": {
+      "message": "સ્લાઇડ છુપાવો"
+   },
+   "menu_item_insert_column": {
+      "message": "કૉલમ"
+   },
+   "menu_item_insert_image": {
+      "message": "છબી"
+   },
+   "menu_item_insert_row": {
+      "message": "પંક્તિ"
+   },
+   "menu_item_insert_text_box": {
+      "message": "ટેક્સ્ટ બૉક્સ"
+   },
+   "menu_item_insertslide": {
+      "message": "નવી સ્લાઇડ"
+   },
+   "menu_item_italic": {
+      "message": "ઇટાલિક"
+   },
+   "menu_item_keyboard_shortcuts": {
+      "message": "કીબોર્ડ શોર્ટકટ્સ"
+   },
+   "menu_item_l_shape": {
+      "message": "L-આકાર"
+   },
+   "menu_item_left_arrow": {
+      "message": "ડાબું તીર"
+   },
+   "menu_item_left_arrow_callout": {
+      "message": "ડાબું તીર કૉલઆઉટ"
+   },
+   "menu_item_left_brace": {
+      "message": "ડાબો નાનો કૌંસ"
+   },
+   "menu_item_left_bracket": {
+      "message": "ડાબો કૌંસ"
+   },
+   "menu_item_left_right_arrow": {
+      "message": "ડાબું-જમણું તીર"
+   },
+   "menu_item_left_right_arrow_callout": {
+      "message": "ડાબું-જમણું તીર કૉલઆઉટ"
+   },
+   "menu_item_left_right_up_arrow": {
+      "message": "ડાબું-જમણું-ઉપર તીર"
+   },
+   "menu_item_left_up_arrow": {
+      "message": "ડાબું-ઉપર તીર"
+   },
+   "menu_item_lightning_bolt": {
+      "message": "લાઇટ્નિંગ બોલ્ટ"
+   },
+   "menu_item_make_a_copy": {
+      "message": "કૉપિ કરો…"
+   },
+   "menu_item_merge_all": {
+      "message": "તમામને મર્જ કરો"
+   },
+   "menu_item_merge_cells": {
+      "message": "કોષોને મર્જ કરો"
+   },
+   "menu_item_merge_horizontally": {
+      "message": "આડી રીતે મર્જ કરો"
+   },
+   "menu_item_merge_vertically": {
+      "message": "ઊભી રીતે મર્જ કરો"
+   },
+   "menu_item_minus": {
+      "message": "બાદબાકી"
+   },
+   "menu_item_moon": {
+      "message": "ચંદ્ર"
+   },
+   "menu_item_moveslidedown": {
+      "message": "સ્લાઇડને નીચે ખસેડો"
+   },
+   "menu_item_moveslidetoend": {
+      "message": "સ્લાઇડને અંતમાં ખસેડો"
+   },
+   "menu_item_moveslidetostart": {
+      "message": "સ્લાઇડને શરૂઆતમાં ખસેડો"
+   },
+   "menu_item_moveslideup": {
+      "message": "સ્લાઇડને ઉપર ખસેડો"
+   },
+   "menu_item_multiply": {
+      "message": "ગુણાકાર"
+   },
+   "menu_item_new": {
+      "message": "નવું"
+   },
+   "menu_item_no_symbol": {
+      "message": "કોઈ ચિહ્ન નહીં"
+   },
+   "menu_item_not_equal": {
+      "message": "સમાન નથી"
+   },
+   "menu_item_notched_right_arrow": {
+      "message": "ખાંચાવાળું જમણું તીર"
+   },
+   "menu_item_number_format": {
+      "message": "નંબર ફોર્મેટ"
+   },
+   "menu_item_number_menu": {
+      "message": "નંબર"
+   },
+   "menu_item_numbering": {
+      "message": "$2 માંથી $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "menu_item_octagon": {
+      "message": "અષ્ટકોણ"
+   },
+   "menu_item_open": {
+      "message": "ખોલો"
+   },
+   "menu_item_oval": {
+      "message": "લંબગોળ"
+   },
+   "menu_item_oval_callout": {
+      "message": "લંબગોળ કૉલઆઉટ"
+   },
+   "menu_item_parallelogram": {
+      "message": "સમાંતરભુજ ચતુષ્કોણ"
+   },
+   "menu_item_paste": {
+      "message": "પેસ્ટ કરો"
+   },
+   "menu_item_pentagon": {
+      "message": "પંચકોણ"
+   },
+   "menu_item_pie": {
+      "message": "પાઇ"
+   },
+   "menu_item_plaque": {
+      "message": "પ્લાક"
+   },
+   "menu_item_plus": {
+      "message": "સરવાળો"
+   },
+   "menu_item_present": {
+      "message": "પ્રસ્તુતિ"
+   },
+   "menu_item_print": {
+      "message": "છાપો"
+   },
+   "menu_item_quad_arrow": {
+      "message": "ચતુર્ભુજ તીર"
+   },
+   "menu_item_quad_arrow_callout": {
+      "message": "ચતુર્ભુજ તીર કૉલઆઉટ"
+   },
+   "menu_item_rectangle": {
+      "message": "લંબચોરસ"
+   },
+   "menu_item_rectangular_callout": {
+      "message": "લંબચોરસ કૉલઆઉટ"
+   },
+   "menu_item_redo": {
+      "message": "ફરી કરો"
+   },
+   "menu_item_regular_pentagon": {
+      "message": "સામાન્ય પંચકોણ"
+   },
+   "menu_item_report_abuse": {
+      "message": "દુરુપયોગની જાણ કરો"
+   },
+   "menu_item_report_issue": {
+      "message": "સમસ્યાની જાણ કરો"
+   },
+   "menu_item_right_arrow": {
+      "message": "જમણું તીર"
+   },
+   "menu_item_right_arrow_callout": {
+      "message": "જમણું તીર કૉલઆઉટ"
+   },
+   "menu_item_right_brace": {
+      "message": "જમણો નાનો કૌંસ"
+   },
+   "menu_item_right_bracket": {
+      "message": "જમણો કૌંસ"
+   },
+   "menu_item_right_triangle": {
+      "message": "જમણો ત્રિકોણ"
+   },
+   "menu_item_round_diagonal_corner_rectangle": {
+      "message": "ગોળાકાર વિકર્ણ ખૂણાવાળો લંબચોરસ"
+   },
+   "menu_item_round_same_side_corner_rectangle": {
+      "message": "ગોળાકાર સમાન બાજુ ખૂણાવાળો લંબચોરસ"
+   },
+   "menu_item_round_single_corner_rectangle": {
+      "message": "ગોળાકાર એકલ ખૂણાવાળો લંબચોરસ"
+   },
+   "menu_item_rounded_rectangle": {
+      "message": "ગોળાકાર લંબચોરસ"
+   },
+   "menu_item_rounded_rectangular_callout": {
+      "message": "ગોળાકાર લંબચોરસ કૉલઆઉટ"
+   },
+   "menu_item_save": {
+      "message": "સાચવો"
+   },
+   "menu_item_save_as": {
+      "message": "આ રૂપમાં સાચવો..."
+   },
+   "menu_item_shapes": {
+      "message": "આકારો"
+   },
+   "menu_item_share": {
+      "message": "શેર કરો"
+   },
+   "menu_item_smiley_face": {
+      "message": "હસતો ચહેરો"
+   },
+   "menu_item_snip_and_round_single_corner_rectangle": {
+      "message": "કાપેલો અને ગોળાકાર એક ખૂણાવાળો લંબચોરસ"
+   },
+   "menu_item_snip_diagonal_corner_rectangle": {
+      "message": "કાપેલા વિકર્ણ ખૂણાવાળો લંબચોરસ"
+   },
+   "menu_item_snip_same_side_corner_rectangle": {
+      "message": "સમાન બાજુના કાપેલા ખૂણાવાળો લંબચોરસ"
+   },
+   "menu_item_snip_single_corner_rectangle": {
+      "message": "કાપેલા એક ખૂણાવાળો લંબચોરસ"
+   },
+   "menu_item_strikethrough": {
+      "message": "સ્ટ્રાઇકથ્રુ"
+   },
+   "menu_item_striped_right_arrow": {
+      "message": "પટ્ટીવાળું જમણું તીર"
+   },
+   "menu_item_subscript": {
+      "message": "સબસ્ક્રિપ્ટ"
+   },
+   "menu_item_sun": {
+      "message": "સૂર્ય"
+   },
+   "menu_item_superscript": {
+      "message": "સુપરસ્ક્રિપ્ટ"
+   },
+   "menu_item_teardrop": {
+      "message": "આંસુ"
+   },
+   "menu_item_trapezoid": {
+      "message": "અસમલંબક"
+   },
+   "menu_item_triangle": {
+      "message": "ત્રિકોણ"
+   },
+   "menu_item_u_turn_arrow": {
+      "message": "U-ટર્નવાળું તીર"
+   },
+   "menu_item_underline": {
+      "message": "નીચે લીટી દોરો"
+   },
+   "menu_item_undo": {
+      "message": "પૂર્વવત્ કરો"
+   },
+   "menu_item_unhideslide": {
+      "message": "સ્લાઇડને છુપાવવાનું રદ કરો"
+   },
+   "menu_item_unmerge": {
+      "message": "મર્જ રદ કરો"
+   },
+   "menu_item_up_arrow": {
+      "message": "તીર ઉપર"
+   },
+   "menu_item_up_arrow_callout": {
+      "message": "તીર ઉપર કૉલઆઉટ"
+   },
+   "menu_item_up_down_arrow": {
+      "message": "ઉપર-નીચે તીર"
+   },
+   "menu_item_version_info": {
+      "message": "સંસ્કરણ માહિતી"
+   },
+   "menu_item_word_count": {
+      "message": "શબ્દની સંખ્યા"
+   },
+   "menu_item_wrap_text": {
+      "message": "ટેક્સ્ટ વીંટો"
+   },
+   "menu_item_zoom_in": {
+      "message": "ઝૂમ વધારો"
+   },
+   "menu_item_zoom_out": {
+      "message": "ઝૂમ ઘટાડો"
+   },
+   "merge_all_aria_spoken_word": {
+      "message": "તમામને મર્જ કરો"
+   },
+   "merge_aria_spoken_word": {
+      "message": "મર્જ કરો"
+   },
+   "merge_dropdown_aria_spoken_word": {
+      "message": "ડ્રૉપ-ડાઉન મેનૂ મર્જ કરો"
+   },
+   "merge_horizontally_aria_spoken_word": {
+      "message": "આડી રીતે મર્જ કરો"
+   },
+   "merge_vertically_aria_spoken_word": {
+      "message": "ઊભી રીતે મર્જ કરો"
+   },
+   "modify_shape_transform_error_msg": {
+      "message": "આકાર રૂપાંતરણને સંશોધિત કરતી વખતે ભૂલ આવી"
+   },
+   "modify_shape_transform_error_short_msg": {
+      "message": "આકાર રૂપાંતરણને સંશોધિત કરતી વખતે ભૂલ આવી હતી."
+   },
+   "modifyshapefillcolor_aria_spoken_word": {
+      "message": "આકાર રંગ ભરણ ડ્રોપ ડાઉન સૂચિ"
+   },
+   "modifyshapeoutlinecolor_aria_spoken_word": {
+      "message": "આકાર બાહ્યરેખા રંગ ડ્રોપ ડાઉન સૂચિ"
+   },
+   "modifyshapeoutlinestyle_aria_spoken_word": {
+      "message": "આકાર બાહ્યરેખા શૈલી ડ્રોપ ડાઉન સૂચિ"
+   },
+   "modifyshapeoutlinewidth_aria_spoken_word": {
+      "message": "આકાર બાહ્યરેખા પહોળાઈ ડ્રોપ ડાઉન સૂચિ"
+   },
+   "nacl_load_error_details": {
+      "message": "એક્સ્ટેન્શનને ફરીથી ઇન્સ્ટૉલ કરવાનો પ્રયાસ કરો."
+   },
+   "nacl_load_error_title": {
+      "message": "ઍપ્લિકેશન લોડ કરવામાં સમસ્યા હતી."
+   },
+   "non_permissible_sheet_name_details": {
+      "message": "નીચેના અક્ષરોને મંજૂરી નથી * ? [ ] ' ; : શીટ નામની લંબાઈએ 31 અક્ષરોને ઓળંગવા જોઈએ નહીં શીટ નામ ખાલી રાખવું જોઈએ નહીં"
+   },
+   "non_permissible_sheet_name_title": {
+      "message": "શીટનું નામ બદલતી વખતે તમે એક અમાન્ય નામ દાખલ કર્યું"
+   },
+   "not_pressed": {
+      "message": "દબાયેલું નહીં"
+   },
+   "notselected": {
+      "message": "પસંદ કરેલું નથી"
+   },
+   "number_format_label_currency_symbol": {
+      "message": "ચલણનું ચિહ્ન"
+   },
+   "number_format_label_date_type": {
+      "message": "પ્રકાર"
+   },
+   "number_format_label_decimal_places": {
+      "message": "દશાંશ સ્થાનો"
+   },
+   "number_format_label_general": {
+      "message": "સામાન્ય"
+   },
+   "number_format_label_negative_numbers": {
+      "message": "ઋણાત્મક સંખ્યા"
+   },
+   "number_format_label_other": {
+      "message": "અન્ય"
+   },
+   "number_format_label_red": {
+      "message": "લાલ"
+   },
+   "number_format_label_text": {
+      "message": "ટેક્સ્ટ"
+   },
+   "number_format_label_use_1000_separator": {
+      "message": "1000 વિભાજકનો ઉપયોગ કરો"
+   },
+   "number_format_tab_accounting": {
+      "message": "એકાઉન્ટિંગ"
+   },
+   "number_format_tab_currency": {
+      "message": "ચલણ"
+   },
+   "number_format_tab_date_time": {
+      "message": "તારીખ અને સમય"
+   },
+   "number_format_tab_general": {
+      "message": "સામાન્ય"
+   },
+   "number_format_tab_number": {
+      "message": "નંબર"
+   },
+   "number_format_tab_percentage": {
+      "message": "ટકાવારી"
+   },
+   "number_format_tab_scientific": {
+      "message": "વિજ્ઞાનની દ્રષ્ટિએ"
+   },
+   "number_format_title": {
+      "message": "નંબર ફોર્મેટ્સ"
+   },
+   "ocm_promo_conversion_shortmsg": {
+      "message": "તમે Office સંગતતા મોડમાં છો"
+   },
+   "office_compatibility_mode": {
+      "message": "Office અનુરૂપતા મોડ"
+   },
+   "office_first_time_confirm": {
+      "message": "સમજાઇ ગયું"
+   },
+   "office_first_time_message_p1": {
+      "message": "હવે તમે દસ્તાવેજ, શીટ્સ અને સ્લાઇડ્સનો ઉપયોગ કરીને, તમારી હાર્ડ ડ્રાઇવ, Google ડ્રાઇવ, Gmail અને વધુથી તમારી Word, Excel, અને Powerpoint ફાઇલોને સંપાદિત કરી શકો છો."
+   },
+   "office_first_time_message_p2": {
+      "message": "તમારા તમામ સંપાદનો આપમેળે સચવાય છે અને તમે હંમેશા મૂળ ફોર્મેટ તરીકે પણ સાચવી શકો છો."
+   },
+   "office_first_time_title": {
+      "message": "દસ્તાવેજો, શીટ્સ અને સ્લાઇડ્સ માટે Office સંપાદન"
+   },
+   "offline_error_msg": {
+      "message": "એવું લાગે છે કે તમે ઑફલાઇન છો. કૃપા કરીને તમારું ઇન્ટરનેટ કનેક્શન તપાસો અને ફરી પ્રયાસ કરો. જો ઓનલાઇન હોવા પર તમને આ ભૂલ પ્રાપ્ત થવાનું ચાલુ રહે છે, તો કૃપા કરીને નીચે સમસ્યાની જાણ કરો."
+   },
+   "offline_error_short_msg": {
+      "message": "અરેરે. તમે વિનંતી કરેલ ફાઇલ ખોલવામાં અમે અસમર્થ હતા."
+   },
+   "option_key": {
+      "message": "વિકલ્પ"
+   },
+   "out_of_memory_error_msg": {
+      "message": "આ ટેબને બંધ કરી અને તમારી ફાઇલને ફરીથી ખોલવાનો અથવા તમે બ્રાઉઝરમાં ખોલ્યાં હોઈ શકે છે તે અન્ય ટેબ્સને બંધ કરવાનો પ્રયાસ કરો. જો આ સમસ્યા યથાવત્ રહે છે, તો કૃપા કરીને નીચે સમસ્યાની જાણ કરો."
+   },
+   "out_of_memory_error_short_msg": {
+      "message": "ઉફ્ફ. મેમરી સમાપ્ત થઈ."
+   },
+   "page_count_label": {
+      "message": "પૃષ્ઠો"
+   },
+   "partial_cell_merge_error_msg": {
+      "message": "મર્જ કરેલ કોષનો ભાગ બદલી શકાતો નથી."
+   },
+   "partial_cell_merge_error_short_msg": {
+      "message": "ભૂલ"
+   },
+   "point_ocm_promo_conversion_msg": {
+      "message": "તમે સ્લાઇડ્સમાં સીધા જ Office ફાઇલોને સંપાદિત કરી શકો છો અને સાચવી શકો છો. સંપાદિત કરવા અથવા ટિપ્પણીઓ ઉમેરવા માટે અન્ય લોકોને આમંત્રિત કરવા માટે, Google સ્લાઇડ્સ તરીકે સાચવો. તમે કોઈપણ સમયે પાછા મૂળ ફોર્મેટમાં સાચવી શકો છો."
+   },
+   "point_printing_warning_msg": {
+      "message": "અમે આ સુધારવા માટે કાર્ય કરી રહ્યાં છીએ."
+   },
+   "point_printing_warning_short_msg": {
+      "message": "હાલમાં, તમે ફક્ત જોઈ રહ્યાં છો તે સ્લાઇડને જ તમે પ્રિંટ કરી શકો છો."
+   },
+   "point_share_promo_conversion_msg": {
+      "message": "આ પ્રસ્તુતિને શેર કરવાનો પ્રયાસ કરી રહ્યાં છો? તમારી સાથે તેને સંપાદિત કરવા માટે અન્ય લોકોને આમંત્રિત કરવા, તેને Google સ્લાઇડ્સ પર રૂપાંતરિત કરો."
+   },
+   "pointtogglebullet_aria_spoken_word": {
+      "message": "બુલેટવાળી સૂચિ"
+   },
+   "pointtogglenumber_aria_spoken_word": {
+      "message": "ક્રમાંકિત સૂચિ"
+   },
+   "present_button": {
+      "message": "પ્રસ્તુતિ"
+   },
+   "pressed": {
+      "message": "દબાયેલું"
+   },
+   "print_aria_spoken_word": {
+      "message": "છાપો"
+   },
+   "qowt_doc_mismatch_text": {
+      "message": "ફોર્મેટિંગ દરમિયાન તમારા દસ્તાવેજમાં એક ભૂલ આવી.\n\nતમારા ફેરફારોને પુનઃપ્રાપ્ત કરવા માટે પૃષ્ઠને ફરીથી લોડ કરો."
+   },
+   "qowt_doc_mismatch_title": {
+      "message": "અરેરે!"
+   },
+   "qowt_hyperlink_activate_short_key": {
+      "message": "લિંકને સક્રિય કરવા માટે ALT + Enter દબાવો."
+   },
+   "qowt_hyperlink_dialog": {
+      "message": "હાયપરલિંક"
+   },
+   "qowt_hyperlink_dialog_message_text": {
+      "message": "લિંક પર જાઓ:"
+   },
+   "qowt_modal_confirm_dialog_affirmative_button": {
+      "message": "ઓકે"
+   },
+   "qowt_modal_confirm_dialog_negative_button": {
+      "message": "રદ કરો"
+   },
+   "qowt_modal_dialog_close_button": {
+      "message": "બંધ કરો"
+   },
+   "qowt_modal_dialog_coming_soon_title": {
+      "message": "ટૂંક સમયમાં આવી રહ્યું છે!"
+   },
+   "qowt_modal_dialog_link_text": {
+      "message": "વધુ જાણો"
+   },
+   "qowt_modal_dialog_ok_button": {
+      "message": "ઓકે"
+   },
+   "qowt_modal_dialog_reload_button": {
+      "message": "ફરીથી લોડ કરો"
+   },
+   "qowt_modal_dialog_textbox_editing_description": {
+      "message": "માફ કરશો, અમે ટેક્સ્ટ બોક્સની અંદરની ટેક્સ્ટના સંપાદનનું સમર્થન કરતાં નથી."
+   },
+   "qowt_modal_dialog_textbox_editing_link": {
+      "message": "કૃપા કરીને આને ફિક્સ કરો!"
+   },
+   "qowt_modal_info_dialog_affirmative_button": {
+      "message": "ઓકે"
+   },
+   "qowt_modal_multi_choice_remember_choice": {
+      "message": "મારી પસંદગી યાદ રાખો"
+   },
+   "qowt_modal_query_dialog_affirmative_button": {
+      "message": "હા"
+   },
+   "qowt_modal_query_dialog_negative_button": {
+      "message": "નહીં"
+   },
+   "qowt_modal_query_dialog_reload_button": {
+      "message": "ફરીથી લોડ કરો"
+   },
+   "qowt_modal_single_choice_remember_choice": {
+      "message": "ફરીથી મને યાદ કરાવશો નહીં"
+   },
+   "read_only": {
+      "message": "ફક્ત વાંચવા માટે"
+   },
+   "redo_aria_spoken_word": {
+      "message": "ફરી કરો"
+   },
+   "right_pointed_submenu": {
+      "message": "સબમેનૂ સાથે જમણો પૉઇન્ટર"
+   },
+   "save_aria_spoken_word": {
+      "message": "સાચવો"
+   },
+   "save_now": {
+      "message": "હવે સાચવો"
+   },
+   "security_error_msg": {
+      "message": "જો તમને ભૂલ આવવાનું ચાલુ રહે, તો કૃપા કરીને નીચે સમસ્યાની જાણ કરો."
+   },
+   "security_error_short_msg": {
+      "message": "અરેરે. તમે વિનંતી કરેલ ફાઇલ ખોલવામાં અમે અસમર્થ હતા. આ સમયે, અમે છૂપા મોડમાં ફાઇલોને ખોલવાનું સમર્થન કરતા નથી. કૃપા કરીને તમારી ફાઇલને બિન-છૂપા મોડમાં ખોલો."
+   },
+   "selected": {
+      "message": "પસંદ કરેલ"
+   },
+   "set_sheet_info_error_msg": {
+      "message": "શીટ નામને અપડેટ કરતી વખતે ભૂલ આવી"
+   },
+   "share_button": {
+      "message": "શેર કરો"
+   },
+   "share_promo_conversion_shortmsg": {
+      "message": "અન્ય લોકો સાથે સંપાદિત કરો"
+   },
+   "sheet_delete_column_error_msg": {
+      "message": "ઊફ્ફ. કૉલમને કાઢી નાખવામાં ભૂલ આવી હતી. કૃપા કરીને ફરી પ્રયાસ કરો."
+   },
+   "sheet_delete_row_error_msg": {
+      "message": "ઊફ્ફ. પંક્તિને કાઢી નાખવામાં ભૂલ આવી હતી. કૃપા કરીને ફરી પ્રયાસ કરો."
+   },
+   "sheet_format_cells_error_msg": {
+      "message": "ફોર્મેટિંગ ભૂલ હતી. કૃપા કરીને ફરીથી પ્રયત્ન કરો."
+   },
+   "sheet_insert_column_error_msg": {
+      "message": "ઊફ્ફ. કૉલમ શામેલ કરવામાં ભૂલ આવી હતી. કૃપા કરીને ફરી પ્રયાસ કરો."
+   },
+   "sheet_insert_column_exceed_error_msg": {
+      "message": "કમનસીબે, તમે આ સ્પ્રેડશીટમાં વધુ કૉલમ્સ શામેલ કરી શકતાં નથી, કેમકે અમે માત્ર 256 કૉલમ્સનું જ સમર્થન કરીએ છીએ."
+   },
+   "sheet_insert_column_exceed_error_short_msg": {
+      "message": "માફ કરશો!"
+   },
+   "sheet_insert_row_error_msg": {
+      "message": "ઊફ્ફ. પંક્તિ શામેલ કરવામાં ભૂલ આવી હતી. કૃપા કરીને ફરી પ્રયાસ કરો."
+   },
+   "sheet_insert_row_exceed_error_msg": {
+      "message": "કમનસીબે, તમે આ સ્પ્રેડશીટમાં વધુ પંક્તિઓ શામેલ કરી શકતાં નથી, કેમકે અમે માત્ર 65536 પંક્તિઓનું જ સમર્થન કરીએ છીએ."
+   },
+   "sheet_insert_row_exceed_error_short_msg": {
+      "message": "માફ કરશો!"
+   },
+   "sheet_ocm_promo_conversion_msg": {
+      "message": "તમે શીટ્સમાં સીધા જ Office ફાઇલોને સંપાદિત કરી શકો છો અને સાચવી શકો છો. સંપાદિત કરવા અથવા ટિપ્પણીઓ ઉમેરવા માટે અન્ય લોકોને આમંત્રિત કરવા માટે, Google શીટ્સ તરીકે સાચવો. તમે કોઈપણ સમયે પાછા મૂળ ફોર્મેટમાં સાચવી શકો છો."
+   },
+   "sheet_set_cell_content_invalid_error_msg": {
+      "message": "તમે દાખલ કરેલા ફોર્મૂલામાં ભૂલ હતી. કૃપા કરીને ભૂલ સુધારો."
+   },
+   "sheet_share_promo_conversion_msg": {
+      "message": "આ સ્પ્રેડશીટને શેર કરવાનો પ્રયાસ કરી રહ્યાં છો? તમારી સાથે તેને સંપાદિત કરવા માટે અન્ય લોકોને આમંત્રિત કરવા, તેને Google શીટ્સ પર રૂપાંતરિત કરો."
+   },
+   "sheet_sort_error_title": {
+      "message": "આ કોષ શ્રેણી સૉર્ટ કરવામાં ભૂલ આવી હતી."
+   },
+   "sheet_sort_failure_msg": {
+      "message": "આ કોષ શ્રેણી સૉર્ટ કરવામાં ભૂલ આવી હતી."
+   },
+   "sheet_sort_merged_cell_error": {
+      "message": "મર્જ કરેલા હોય તેવા કોષોને તમે સૉર્ટ કરી શકતા નથી."
+   },
+   "sheet_sort_merged_cell_error_title": {
+      "message": "આ કોષ શ્રેણી સૉર્ટ કરવામાં ભૂલ આવી હતી."
+   },
+   "sheet_sort_one_cell_error": {
+      "message": "કૃપા કરીને સૉર્ટ કરવા માટે એક કરતાં વધુ કોષ પસંદ કરો."
+   },
+   "sheet_sort_one_cell_error_title": {
+      "message": "આ કોષ શ્રેણી સૉર્ટ કરવામાં ભૂલ આવી હતી."
+   },
+   "shift_key": {
+      "message": "Shift"
+   },
+   "shortcut": {
+      "message": "શૉર્ટકટ $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sign_in": {
+      "message": "સાઇન ઇન કરો"
+   },
+   "slash_key": {
+      "message": "Slash"
+   },
+   "something_not_right": {
+      "message": "કંઈક ઠીક નથી"
+   },
+   "storage_quota_exceed_error_msg": {
+      "message": "Chrome માં ખુલ્લા કોઈપણ Office દસ્તાવેજોને બંધ કરો, પછી ફરી પ્રયાસ કરો. જો સમસ્યા ચાલુ રહે છે, તો કૃપા કરીને સમસ્યાની જાણ કરો."
+   },
+   "storage_quota_exceed_error_short_msg": {
+      "message": "માફ કરશો, અમે ફાઇલ ખોલી શક્યાં નથી."
+   },
+   "strikethrough_aria_spoken_word": {
+      "message": "સ્ટ્રાઇકથ્રુ"
+   },
+   "style_aria_spoken_word": {
+      "message": "શૈલી ડ્રોપ ડાઉન સૂચિ"
+   },
+   "submenu_spoken_text": {
+      "message": "$1 $2 $3 $4",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         }
+      }
+   },
+   "temporary_unable_to_open_error_msg": {
+      "message": "પછીથી ફરી પ્રયાસ કરો અથવા જો સમસ્યા ચાલુ રહે છે નીચે સમસ્યાની જાણ કરો."
+   },
+   "temporary_unable_to_open_error_short_msg": {
+      "message": "માફ કરશો, અમે અસ્થાયીરૂપે ફાઇલ ખોલવામાં અસમર્થ છીએ."
+   },
+   "textaligncenter_aria_spoken_word": {
+      "message": "ટેક્સ્ટને મધ્યમાં સંરેખિત કરો"
+   },
+   "textalignjustify_aria_spoken_word": {
+      "message": "ટેક્સ્ટને બંધ બેસતો સંરેખિત કરો"
+   },
+   "textalignleft_aria_spoken_word": {
+      "message": "ટેક્સ્ટને ડાબે સંરેખિત કરો"
+   },
+   "textalignright_aria_spoken_word": {
+      "message": "ટેક્સ્ટને જમણે સંરેખિત કરો"
+   },
+   "textcolor_aria_spoken_word": {
+      "message": "ટેક્સ્ટ રંગ ડ્રોપ ડાઉન સૂચિ"
+   },
+   "textual_edit_error_msg": {
+      "message": "ફોર્મેટિંગ દરમિયાન તમારા દસ્તાવેજમાં એક ભૂલ આવી.\n\nતમારા ફેરફારોને પુનઃપ્રાપ્ત કરવા માટે પૃષ્ઠને ફરીથી લોડ કરો."
+   },
+   "textual_edit_error_short_msg": {
+      "message": "અરેરે!"
+   },
+   "title_error_msg_for_merge_cells": {
+      "message": "એક સમસ્યા આવી હતી"
+   },
+   "title_msg_merging_multiple_cells_with_text": {
+      "message": "ધ્યાન રાખો!"
+   },
+   "togglebulleted_aria_spoken_word": {
+      "message": "બુલેટવાળી સૂચિ"
+   },
+   "togglenumbered_aria_spoken_word": {
+      "message": "ક્રમાંકિત સૂચિ"
+   },
+   "togglezoom_aria_spoken_word": {
+      "message": "ઝૂમ ટોગલ કર્યું"
+   },
+   "tooltip_background_color": {
+      "message": "રંગ ભરો"
+   },
+   "tooltip_bold": {
+      "message": "બોલ્ડ"
+   },
+   "tooltip_border": {
+      "message": "કિનારીઓ"
+   },
+   "tooltip_border_all": {
+      "message": "તમામ કિનારીઓ"
+   },
+   "tooltip_border_bottom": {
+      "message": "તળિયાની કિનારીઓ"
+   },
+   "tooltip_border_horizontal": {
+      "message": "આડી કિનારીઓ"
+   },
+   "tooltip_border_inner": {
+      "message": "આંતરિક કિનારીઓ"
+   },
+   "tooltip_border_left": {
+      "message": "ડાબી કિનારીઓ"
+   },
+   "tooltip_border_none": {
+      "message": "કોઈ કિનારીઓ નહીં"
+   },
+   "tooltip_border_outer": {
+      "message": "બાહ્ય કિનારીઓ"
+   },
+   "tooltip_border_right": {
+      "message": "જમણી કિનારીઓ"
+   },
+   "tooltip_border_top": {
+      "message": "ટોચની કિનારીઓ"
+   },
+   "tooltip_border_vertical": {
+      "message": "ઊભી કિનારીઓ"
+   },
+   "tooltip_cell_align": {
+      "message": "કોષ સંરેખણ"
+   },
+   "tooltip_cell_h_align_center": {
+      "message": "આડું કેન્દ્રમાં"
+   },
+   "tooltip_cell_h_align_left": {
+      "message": "આડું ડાબે"
+   },
+   "tooltip_cell_h_align_right": {
+      "message": "આડું જમણે"
+   },
+   "tooltip_cell_v_align_bottom": {
+      "message": "ઊભું તળિયે"
+   },
+   "tooltip_cell_v_align_center": {
+      "message": "ઊભું કેન્દ્રમાં"
+   },
+   "tooltip_cell_v_align_top": {
+      "message": "ઊભું ટોચ પર"
+   },
+   "tooltip_download": {
+      "message": "ડાઉનલોડ કરો"
+   },
+   "tooltip_dropdown_init_add_shape": {
+      "message": "આકાર"
+   },
+   "tooltip_fill_color": {
+      "message": "ટેક્સ્ટનો રંગ"
+   },
+   "tooltip_font_face": {
+      "message": "ફૉન્ટ"
+   },
+   "tooltip_font_size": {
+      "message": "ફૉન્ટનું કદ"
+   },
+   "tooltip_highlight_color": {
+      "message": "હાઇલાઇટનો રંગ"
+   },
+   "tooltip_init_add_shape": {
+      "message": "ટેક્સ્ટ બોક્સ"
+   },
+   "tooltip_italic": {
+      "message": "ઇટાલિક"
+   },
+   "tooltip_merge": {
+      "message": "કોષોને મર્જ કરો"
+   },
+   "tooltip_merge_dropdown": {
+      "message": "મર્જનો પ્રકાર પસંદ કરો..."
+   },
+   "tooltip_modify_shape_fill_color": {
+      "message": "રંગ ભરો"
+   },
+   "tooltip_modify_shape_outline_color": {
+      "message": "રેખાનો રંગ"
+   },
+   "tooltip_modify_shape_outline_style": {
+      "message": "રેખા ડેશ"
+   },
+   "tooltip_modify_shape_outline_width": {
+      "message": "રેખાની પહોળાઈ"
+   },
+   "tooltip_move_slide": {
+      "message": "$1 સ્લાઇડને ખસેડો",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "tooltip_point": {
+      "message": "સ્લાઇડ્સ હોમ"
+   },
+   "tooltip_point_toggle_bullet": {
+      "message": "બુલેટવાળી સૂચિ"
+   },
+   "tooltip_point_toggle_number": {
+      "message": "ક્રમાંકિત સૂચિ"
+   },
+   "tooltip_presentation": {
+      "message": "પ્રસ્તુતિ"
+   },
+   "tooltip_print": {
+      "message": "છાપો"
+   },
+   "tooltip_redo": {
+      "message": "ફરીથી કરો"
+   },
+   "tooltip_share": {
+      "message": "શેર કરો"
+   },
+   "tooltip_share_for_macroenabledfiles": {
+      "message": "મૅક્રો-સક્ષમ ફાઇલો ફક્ત Google ડ્રાઇવથી જ શેર કરવામાં આવી શકે છે"
+   },
+   "tooltip_sheet": {
+      "message": "શીટ્સ હોમ"
+   },
+   "tooltip_strikethrough": {
+      "message": "સ્ટ્રાઇકથ્રુ"
+   },
+   "tooltip_style": {
+      "message": "શૈલીઓ"
+   },
+   "tooltip_text_align_center": {
+      "message": "કેન્દ્રમાં"
+   },
+   "tooltip_text_align_justify": {
+      "message": "બંધબેસતું"
+   },
+   "tooltip_text_align_left": {
+      "message": "ડાબે સંરેખિત કરો"
+   },
+   "tooltip_text_align_right": {
+      "message": "જમણે સંરેખિત કરો"
+   },
+   "tooltip_text_color": {
+      "message": "ટેક્સ્ટનો રંગ"
+   },
+   "tooltip_toggle_bulleted": {
+      "message": "બુલેટવાળી સૂચિ"
+   },
+   "tooltip_toggle_numbered": {
+      "message": "ક્રમાંકિત સૂચિ"
+   },
+   "tooltip_toggle_zoom": {
+      "message": "ઝૂમને ટૉગલ કરો"
+   },
+   "tooltip_underline": {
+      "message": "નીચે લીટી દોરો"
+   },
+   "tooltip_undo": {
+      "message": "પૂર્વવત્ કરો"
+   },
+   "tooltip_word": {
+      "message": "દસ્તાવેજ હોમ"
+   },
+   "tooltip_wrap_text": {
+      "message": "ટેક્સ્ટ વીંટો"
+   },
+   "tooltip_zoom_in": {
+      "message": "ઝૂમ વધારો"
+   },
+   "tooltip_zoom_out": {
+      "message": "ઝૂમ ઘટાડો"
+   },
+   "try_again": {
+      "message": "ફરી પ્રયત્ન કરો"
+   },
+   "unable_to_execute_msg": {
+      "message": "આ દસ્તાવેજને ખોલવામાં અક્ષમ છે."
+   },
+   "underline_aria_spoken_word": {
+      "message": "નીચે લીટી દોરો"
+   },
+   "undo_aria_spoken_word": {
+      "message": "પૂર્વવત્ કરો"
+   },
+   "unmerge_aria_spoken_word": {
+      "message": "અનમર્જ કરો"
+   },
+   "unsaved_changes": {
+      "message": "વણસાચવેલા ફેરફારો"
+   },
+   "unsaved_changes_warning": {
+      "message": "તમારી પાસે આ ફાઇલમાં વણસાચવેલા ફેરફારો છે. જો તમે આ પૃષ્ઠને સાચવ્યાં વિના છોડો છો, તો તમારા કામને કાયમ માટે ગુમાવશો."
+   },
+   "unsupported_file_format_error_details_p1": {
+      "message": "કમનસીબે, આ ફાઇલમાં Microsoft® Office \"95 અથવા એની પહેલાંના સંસ્કરણની સામગ્રી છે, જેને અમે ખોલવામાં સમર્થ નથી."
+   },
+   "unsupported_file_format_error_details_p2": {
+      "message": "જો તમે Google દસ્તાવેજ પર ફાઇલને રૂપાંતરિત કરવા માગો છો, તો નીચેની લિંકને ક્લિક કરો."
+   },
+   "unsupported_file_format_error_title": {
+      "message": "ઊફ્ફ!"
+   },
+   "unsupported_link_message": {
+      "message": "માફ કરશો, અમે હાલમાં આ પ્રકારના URL નું સમર્થન કરતાં નથી."
+   },
+   "up_key": {
+      "message": "Up"
+   },
+   "updated_shortcut_message": {
+      "message": "અમે અમારા કીબોર્ડ શૉર્ટકટને અપડેટ કર્યા છે, જેથી સમગ્ર Google દસ્તાવેજ ઉત્પાદનોમાં તે સુસંગત રહે. અપડેટ કરેલા શૉર્ટકટ સહાયમાં જુઓ."
+   },
+   "updated_shortcut_title": {
+      "message": "અપડેટ કરેલા કીબોર્ડ શૉર્ટકટ"
+   },
+   "version_info_msg": {
+      "message": "Office અનુરૂપતા મોડનું તમારું સંસ્કરણ છે"
+   },
+   "word_binary_upsave_learnmore": {
+      "message": "વધુ જાણો"
+   },
+   "word_binary_upsave_msg": {
+      "message": "આ ફાઇલ એવા ફોર્મેટમાં છે જે અસમર્થિત છે. તેને સાચવવા માટે, તેને વધુ તાજેતરના ફાઇલ ફોર્મેટમાં રૂપાંતરિત કરવા માટે અમને તમારી પરવાનગીની જરૂર છે અને તમારી મૂળ ફાઇલ પ્રભાવિત થશે નહીં."
+   },
+   "word_binary_upsave_shortmsg": {
+      "message": "તમારા દસ્તાવેજને અપડેટ કરો"
+   },
+   "word_count_label": {
+      "message": "શબ્દો"
+   },
+   "word_count_title": {
+      "message": "શબ્દની સંખ્યા"
+   },
+   "word_ocm_promo_conversion_msg": {
+      "message": "તમે દસ્તાવેજમાં સીધા જ Office ફાઇલોને સંપાદિત કરી શકો છો અને સાચવી શકો છો. સંપાદિત કરવા અથવા ટિપ્પણીઓ ઉમેરવા માટે અન્ય લોકોને આમંત્રિત કરવા માટે, Google દસ્તાવેજ તરીકે સાચવો. તમે કોઈપણ સમયે પાછા મૂળ ફોર્મેટમાં સાચવી શકો છો."
+   },
+   "word_share_promo_conversion_msg": {
+      "message": "આ દસ્તાવેજને શેર કરવાનો પ્રયાસ કરી રહ્યાં છો? તમારી સાથે તેને સંપાદિત કરવા માટે અન્ય લોકોને આમંત્રિત કરવા, તેને Google દસ્તાવેજો પર રૂપાંતરિત કરો."
+   },
+   "wraptext_aria_spoken_word": {
+      "message": "ટેક્સ્ટ વીંટો"
+   },
+   "zoomin_aria_spoken_word": {
+      "message": "ઝૂમ વધારો"
+   },
+   "zoomout_aria_spoken_word": {
+      "message": "ઝૂમ ઘટાડો"
+   }
+}

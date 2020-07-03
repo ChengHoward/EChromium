@@ -1,0 +1,2192 @@
+{
+   "action_create_user_feedback": {
+      "message": "Nahlásit problém"
+   },
+   "alt_key": {
+      "message": "Alt"
+   },
+   "app_error_learn_more": {
+      "message": "Další informace"
+   },
+   "app_error_report_feedback": {
+      "message": "Nahlásit zpětnou vazbu"
+   },
+   "app_icon_aria_spoken_word": {
+      "message": " domovská stránka"
+   },
+   "app_nacl_crash_msg": {
+      "message": "Nahlaste nám problém a pomozte tím s jeho řešením."
+   },
+   "app_nacl_crash_report": {
+      "message": "Nahlásit problém..."
+   },
+   "app_nacl_crash_title": {
+      "message": "Jejda, to se nemělo stát. Změny obnovíte opětovným načtením stránky."
+   },
+   "app_nacl_error_load_failed": {
+      "message": "Omlouváme se, soubor se nepodařilo otevřít. Zavřete ostatní karty Chromu nebo Chrome restartujte a zkuste to znovu. Pokud problém přetrvává, nahlaste jej níže."
+   },
+   "app_nacl_error_title": {
+      "message": "Soubor nelze otevřít."
+   },
+   "app_nacl_error_unsupported_device": {
+      "message": "Rozšíření pro Chrome Úpravy souborů systému Office v Dokumentech, Tabulkách a Prezentacích Google v tomto zařízení není podporováno."
+   },
+   "app_saving_failed_error_msg": {
+      "message": "Omlouváme se, při ukládání souboru došlo k potížím. Zkuste jej uložit znovu. Pokud problém přetrvává, nahlaste jej prosím."
+   },
+   "app_saving_failed_error_short_msg": {
+      "message": "Soubor nelze uložit."
+   },
+   "backgroundcolor_aria_spoken_word": {
+      "message": "rozbalovací seznam barev pozadí buňky"
+   },
+   "bold_aria_spoken_word": {
+      "message": "tučné"
+   },
+   "border_all_aria_spoken_word": {
+      "message": "veškeré ohraničení"
+   },
+   "border_aria_spoken_word": {
+      "message": "rozbalovací seznam ohraničení"
+   },
+   "border_bottom_aria_spoken_word": {
+      "message": "ohraničení dole"
+   },
+   "border_horizontal_aria_spoken_word": {
+      "message": "vodorovné ohraničení"
+   },
+   "border_inner_aria_spoken_word": {
+      "message": "vnitřní ohraničení"
+   },
+   "border_left_aria_spoken_word": {
+      "message": "ohraničení vlevo"
+   },
+   "border_none_aria_spoken_word": {
+      "message": "bez ohraničení"
+   },
+   "border_outer_aria_spoken_word": {
+      "message": "vnější ohraničení"
+   },
+   "border_right_aria_spoken_word": {
+      "message": "ohraničení vpravo"
+   },
+   "border_top_aria_spoken_word": {
+      "message": "ohraničení nahoře"
+   },
+   "border_vertical_aria_spoken_word": {
+      "message": "svislé ohraničení"
+   },
+   "button_ocm_convert_cancel": {
+      "message": "Zrušit"
+   },
+   "button_ocm_promo_conversion_point": {
+      "message": "Uložit jako Prezentaci Google"
+   },
+   "button_ocm_promo_conversion_sheet": {
+      "message": "Uložit jako Tabulku Google"
+   },
+   "button_ocm_promo_conversion_word": {
+      "message": "Uložit jako Dokument Google"
+   },
+   "button_share_convert_cancel": {
+      "message": "Zrušit"
+   },
+   "button_share_promo_conversion_point": {
+      "message": "Uložit jako Prezentaci Google"
+   },
+   "button_share_promo_conversion_sheet": {
+      "message": "Uložit jako Tabulku Google"
+   },
+   "button_share_promo_conversion_word": {
+      "message": "Uložit jako Dokument Google"
+   },
+   "cell_align_aria_spoken_word": {
+      "message": "Zarovnání buňky"
+   },
+   "cellalign_aria_spoken_word": {
+      "message": "rozbalovací seznam zarovnání buňky"
+   },
+   "cellhaligncenter_aria_spoken_word": {
+      "message": "Vodorovně na střed"
+   },
+   "cellhalignleft_aria_spoken_word": {
+      "message": "Vodorovně vlevo"
+   },
+   "cellhalignright_aria_spoken_word": {
+      "message": "Vodorovně vpravo"
+   },
+   "cellvalignbottom_aria_spoken_word": {
+      "message": "Svisle dolů"
+   },
+   "cellvaligncenter_aria_spoken_word": {
+      "message": "Svisle na střed"
+   },
+   "cellvaligntop_aria_spoken_word": {
+      "message": "Svisle nahoru"
+   },
+   "char_count_label": {
+      "message": "Počet znaků"
+   },
+   "char_no_spaces_count_label": {
+      "message": "Počet znaků bez mezer"
+   },
+   "close_dialog_aria_spoken_word": {
+      "message": "Zavřít dialogové okno"
+   },
+   "cmd_dropdown_initaddshape_aria_spoken_word": {
+      "message": "rozbalovací seznam tvarů"
+   },
+   "collapsed": {
+      "message": "Sbaleno"
+   },
+   "collapsed_menu": {
+      "message": "$1 – sbaleno i s podnabídkou.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "color_black": {
+      "message": "Černá"
+   },
+   "color_blaze_orange": {
+      "message": "Zářivě oranžová"
+   },
+   "color_blue": {
+      "message": "Modrá"
+   },
+   "color_brown": {
+      "message": "Hnědá"
+   },
+   "color_cornflower_blue": {
+      "message": "Chrpově modrá"
+   },
+   "color_cyan": {
+      "message": "Azurová"
+   },
+   "color_dark_blue": {
+      "message": "Tmavě modrá"
+   },
+   "color_dark_blue_1": {
+      "message": "Tmavě modrá 1"
+   },
+   "color_dark_blue_2": {
+      "message": "Tmavě modrá 2"
+   },
+   "color_dark_blue_3": {
+      "message": "Tmavě modrá 3"
+   },
+   "color_dark_blue_grey": {
+      "message": "Tmavě modrošedá"
+   },
+   "color_dark_cornflower_blue_1": {
+      "message": "Tmavá chrpově modrá 1"
+   },
+   "color_dark_cornflower_blue_2": {
+      "message": "Tmavá chrpově modrá 2"
+   },
+   "color_dark_cornflower_blue_3": {
+      "message": "Tmavá chrpově modrá 3"
+   },
+   "color_dark_cyan": {
+      "message": "Tmavě azurová"
+   },
+   "color_dark_cyan_1": {
+      "message": "Tmavě azurová 1"
+   },
+   "color_dark_cyan_2": {
+      "message": "Tmavě azurová 2"
+   },
+   "color_dark_cyan_3": {
+      "message": "Tmavě azurová 3"
+   },
+   "color_dark_gray": {
+      "message": "Tmavě šedá"
+   },
+   "color_dark_gray_1": {
+      "message": "Tmavě šedá 1"
+   },
+   "color_dark_gray_2": {
+      "message": "Tmavě šedá 2"
+   },
+   "color_dark_gray_3": {
+      "message": "Tmavě šedá 3"
+   },
+   "color_dark_gray_4": {
+      "message": "Tmavě šedá 4"
+   },
+   "color_dark_green": {
+      "message": "Tmavě zelená"
+   },
+   "color_dark_green_1": {
+      "message": "Tmavě zelená 1"
+   },
+   "color_dark_green_2": {
+      "message": "Tmavě zelená 2"
+   },
+   "color_dark_green_3": {
+      "message": "Tmavě zelená 3"
+   },
+   "color_dark_green_5": {
+      "message": "Tmavě zelená 5"
+   },
+   "color_dark_grey_2": {
+      "message": "Tmavě šedá 2"
+   },
+   "color_dark_grey_5": {
+      "message": "Tmavě šedá 5"
+   },
+   "color_dark_magenta_1": {
+      "message": "Tmavě purpurová 1"
+   },
+   "color_dark_magenta_2": {
+      "message": "Tmavě purpurová 2"
+   },
+   "color_dark_magenta_3": {
+      "message": "Tmavě purpurová 3"
+   },
+   "color_dark_olive_green": {
+      "message": "Tmavě olivově zelená"
+   },
+   "color_dark_orange_1": {
+      "message": "Tmavě oranžová 1"
+   },
+   "color_dark_orange_2": {
+      "message": "Tmavě oranžová 2"
+   },
+   "color_dark_orange_3": {
+      "message": "Tmavě oranžová 3"
+   },
+   "color_dark_purple_1": {
+      "message": "Tmavě nachová 1"
+   },
+   "color_dark_purple_2": {
+      "message": "Tmavě nachová 2"
+   },
+   "color_dark_purple_3": {
+      "message": "Tmavě nachová 3"
+   },
+   "color_dark_red": {
+      "message": "Tmavě červená"
+   },
+   "color_dark_red_1": {
+      "message": "Tmavě červená 1"
+   },
+   "color_dark_red_2": {
+      "message": "Tmavě červená 2"
+   },
+   "color_dark_red_3": {
+      "message": "Tmavě červená 3"
+   },
+   "color_dark_red_berry_1": {
+      "message": "Tmavě brusinková 1"
+   },
+   "color_dark_red_berry_2": {
+      "message": "Tmavě brusinková 2"
+   },
+   "color_dark_red_berry_3": {
+      "message": "Tmavě brusinková 3"
+   },
+   "color_dark_slate_blue": {
+      "message": "Tmavě šedomodrá"
+   },
+   "color_dark_yellow_1": {
+      "message": "Tmavě žlutá 1"
+   },
+   "color_dark_yellow_2": {
+      "message": "Tmavě žlutá 2"
+   },
+   "color_dark_yellow_3": {
+      "message": "Tmavě žlutá 3"
+   },
+   "color_deep_pink": {
+      "message": "Sytě růžová"
+   },
+   "color_deep_sky_blue": {
+      "message": "Sytá nebeská modrá"
+   },
+   "color_eucalyptus_green": {
+      "message": "Eukalyptově zelená"
+   },
+   "color_gold": {
+      "message": "Zlatá"
+   },
+   "color_gray": {
+      "message": "Šedá"
+   },
+   "color_green": {
+      "message": "Zelená"
+   },
+   "color_light_blue": {
+      "message": "Světle modrá"
+   },
+   "color_light_blue_1": {
+      "message": "Světle modrá 1"
+   },
+   "color_light_blue_2": {
+      "message": "Světle modrá 2"
+   },
+   "color_light_blue_3": {
+      "message": "Světle modrá 3"
+   },
+   "color_light_cornflower_blue_1": {
+      "message": "Světlá chrpově modrá 1"
+   },
+   "color_light_cornflower_blue_2": {
+      "message": "Světlá chrpově modrá 2"
+   },
+   "color_light_cornflower_blue_3": {
+      "message": "Světlá chrpově modrá 3"
+   },
+   "color_light_cyan": {
+      "message": "Světle azurová"
+   },
+   "color_light_cyan_1": {
+      "message": "Světle azurová 1"
+   },
+   "color_light_cyan_2": {
+      "message": "Světle azurová 2"
+   },
+   "color_light_cyan_3": {
+      "message": "Světle azurová 3"
+   },
+   "color_light_gray": {
+      "message": "Světle šedá"
+   },
+   "color_light_gray_1": {
+      "message": "Světle šedá 1"
+   },
+   "color_light_gray_2": {
+      "message": "Světle šedá 2"
+   },
+   "color_light_gray_3": {
+      "message": "Světle šedá 3"
+   },
+   "color_light_green": {
+      "message": "Světle zelená"
+   },
+   "color_light_green_1": {
+      "message": "Světle zelená 1"
+   },
+   "color_light_green_2": {
+      "message": "Světle zelená 2"
+   },
+   "color_light_green_3": {
+      "message": "Světle zelená 3"
+   },
+   "color_light_magenta_1": {
+      "message": "Světle purpurová 1"
+   },
+   "color_light_magenta_2": {
+      "message": "Světle purpurová 2"
+   },
+   "color_light_magenta_3": {
+      "message": "Světle purpurová 3"
+   },
+   "color_light_orange_1": {
+      "message": "Světle oranžová 1"
+   },
+   "color_light_orange_2": {
+      "message": "Světle oranžová 2"
+   },
+   "color_light_orange_3": {
+      "message": "Světle oranžová 3"
+   },
+   "color_light_purple": {
+      "message": "Světle nachová"
+   },
+   "color_light_purple_1": {
+      "message": "Světle nachová 1"
+   },
+   "color_light_purple_2": {
+      "message": "Světle nachová 2"
+   },
+   "color_light_purple_3": {
+      "message": "Světle nachová 3"
+   },
+   "color_light_red_1": {
+      "message": "Světle červená 1"
+   },
+   "color_light_red_2": {
+      "message": "Světle červená 2"
+   },
+   "color_light_red_3": {
+      "message": "Světle červená 3"
+   },
+   "color_light_red_berry_1": {
+      "message": "Světle brusinková 1"
+   },
+   "color_light_red_berry_2": {
+      "message": "Světle brusinková 2"
+   },
+   "color_light_red_berry_3": {
+      "message": "Světle brusinková 3"
+   },
+   "color_light_yellow": {
+      "message": "Světle žlutá"
+   },
+   "color_light_yellow_1": {
+      "message": "Světle žlutá 1"
+   },
+   "color_light_yellow_2": {
+      "message": "Světle žlutá 2"
+   },
+   "color_light_yellow_3": {
+      "message": "Světle žlutá 3"
+   },
+   "color_magenta": {
+      "message": "Purpurová"
+   },
+   "color_maroon": {
+      "message": "Kaštanová"
+   },
+   "color_midnight_blue": {
+      "message": "Půlnoční modrá"
+   },
+   "color_navy": {
+      "message": "Námořnická modrá"
+   },
+   "color_olive": {
+      "message": "Olivová"
+   },
+   "color_orange": {
+      "message": "Oranžová"
+   },
+   "color_peach": {
+      "message": "Broskvová"
+   },
+   "color_pink": {
+      "message": "Růžová"
+   },
+   "color_pistachio": {
+      "message": "Jasná zelená"
+   },
+   "color_purple": {
+      "message": "Nachová"
+   },
+   "color_red": {
+      "message": "Červená"
+   },
+   "color_red_berry": {
+      "message": "Brusinková"
+   },
+   "color_royal_blue": {
+      "message": "Královská modrá"
+   },
+   "color_teal": {
+      "message": "Šedozelená"
+   },
+   "color_turquiose": {
+      "message": "Tyrkysová"
+   },
+   "color_white": {
+      "message": "Bílá"
+   },
+   "color_yellow": {
+      "message": "Žlutá"
+   },
+   "command_key": {
+      "message": "Command"
+   },
+   "content_msg_merging_horizontally_across_vertical_section": {
+      "message": "Nelze provést vodorovné sloučení napříč existující svisle sloučenou sekcí."
+   },
+   "content_msg_merging_multiple_cells_with_text": {
+      "message": "Při sloučení buněk bude zachována pouze hodnota vlevo nahoře. Chcete buňky přesto sloučit?"
+   },
+   "content_msg_merging_partially_selected_merged_cells": {
+      "message": "Chcete-li provést nebo zrušit sloučení buněk, musíte vybrat všechny buňky ve sloučeném rozsahu."
+   },
+   "content_msg_merging_vertically_across_horizontal_section": {
+      "message": "Nelze provést svislé sloučení napříč existující vodorovně sloučenou sekcí."
+   },
+   "content_render_error_msg": {
+      "message": "V obsahu dokumentu byly zjištěny problémy."
+   },
+   "context_menu_clipboard_copy": {
+      "message": "Kopírovat"
+   },
+   "context_menu_delete": {
+      "message": "Smazat"
+   },
+   "context_menu_freeze": {
+      "message": "Ukotvit"
+   },
+   "context_menu_insert": {
+      "message": "Vložit"
+   },
+   "context_menu_sort_collation_ascending": {
+      "message": "Seřadit a–z"
+   },
+   "context_menu_sort_collation_descending": {
+      "message": "Seřadit z–a"
+   },
+   "context_menu_unfreeze": {
+      "message": "Zrušit ukotvení"
+   },
+   "control_key": {
+      "message": "Control"
+   },
+   "convert_attempt_when_offline": {
+      "message": "Chcete-li soubor uložit jako Dokument Google, musíte být připojeni k internetu. Zkuste to znovu, až budete opět připojeni."
+   },
+   "convert_attempt_with_invalid_creds": {
+      "message": "Chcete-li tento soubor převést, přihlaste se k účtu Google."
+   },
+   "convert_cancel": {
+      "message": "Zrušit"
+   },
+   "convert_to_google_docs_failed": {
+      "message": "Při převádění dokumentu na Dokument Google došlo k chybě."
+   },
+   "convert_to_google_point_fail_short_msg": {
+      "message": "Jejda"
+   },
+   "convert_to_google_point_short_msg": {
+      "message": "Soubor se ukládá jako Prezentace Google"
+   },
+   "convert_to_google_sheet_fail_short_msg": {
+      "message": "Jejda"
+   },
+   "convert_to_google_sheet_short_msg": {
+      "message": "Soubor se ukládá jako Tabulka Google"
+   },
+   "convert_to_google_word_fail_short_msg": {
+      "message": "Jejda"
+   },
+   "convert_to_google_word_short_msg": {
+      "message": "Soubor se ukládá jako Dokument Google"
+   },
+   "convert_try_again": {
+      "message": "Zkusit znovu"
+   },
+   "converting_to_google_point_fail_msg": {
+      "message": "Soubor momentálně nelze uložit jako Prezentaci Google."
+   },
+   "converting_to_google_point_msg": {
+      "message": "Ukládání nové verze vaší prezentace jako Prezentace Google"
+   },
+   "converting_to_google_sheet_fail_msg": {
+      "message": "Soubor momentálně nelze uložit jako Tabulku Google."
+   },
+   "converting_to_google_sheet_msg": {
+      "message": "Ukládání nové verze vaší tabulky jako Tabulky Google"
+   },
+   "converting_to_google_word_fail_msg": {
+      "message": "Soubor momentálně nelze uložit jako Dokument Google."
+   },
+   "converting_to_google_word_msg": {
+      "message": "Ukládání nové verze vašeho dokumentu jako Dokumentu Google"
+   },
+   "copy_attempt_when_offline": {
+      "message": "K vytvoření kopie na Disku Google musíte být připojeni k internetu. Zkuste to znovu, až budete připojeni."
+   },
+   "copy_attempt_with_invalid_creds": {
+      "message": "K vytvoření kopie musíte být přihlášeni k účtu Google."
+   },
+   "disabled_share_button": {
+      "message": "Soubory s povolenými makry mohou být sdíleny pouze z Disku Google. Vypnuté sdílení."
+   },
+   "disallowed_cut_copy_paste_cmd_copy": {
+      "message": "ke kopírování"
+   },
+   "disallowed_cut_copy_paste_cmd_cut": {
+      "message": "k vyjmutí"
+   },
+   "disallowed_cut_copy_paste_cmd_paste": {
+      "message": "k vložení"
+   },
+   "disallowed_cut_copy_paste_msg": {
+      "message": "Tyto akce nejsou prostřednictvím kontextových nabídek a nabídky Upravit dostupné, můžete ale stále použít:"
+   },
+   "disallowed_cut_copy_paste_title": {
+      "message": "Kopírování a vkládání v režimu kompatibility se systémem Office"
+   },
+   "dismiss": {
+      "message": "Zavřít"
+   },
+   "document_title_aria_spoken_word": {
+      "message": "Název dokumentu:"
+   },
+   "down_key": {
+      "message": "Dolů"
+   },
+   "download_button": {
+      "message": "Stáhnout"
+   },
+   "download_file_timeout_error_msg": {
+      "message": "Otevření souboru trvá déle než obvykle. Zkontrolujte připojení k síti a zkuste to znovu."
+   },
+   "download_file_timeout_error_short_msg": {
+      "message": "Stažení souboru trvá déle než obvykle."
+   },
+   "drive_open_timeout_error_msg": {
+      "message": "Zdá se, že by mohl být problém s připojením k internetu. Zkontrolujte připojení a zkuste soubor otevřít znovu. Pokud se tato chybová zpráva zobrazuje i nadále, ačkoli jste online, nahlaste problém níže."
+   },
+   "drive_open_timeout_error_short_msg": {
+      "message": "Jejda, požadovaný soubor nelze otevřít."
+   },
+   "duplicate_sheet_name_message": {
+      "message": "Zadejte název listu, který není používán jiným listem."
+   },
+   "duplicate_sheet_name_title": {
+      "message": "Tento název listu je již používán."
+   },
+   "edits_not_being_saved": {
+      "message": "Úpravy se nebudou ukládat automaticky."
+   },
+   "edits_now_being_auto_saved": {
+      "message": "Soubor byl uložen. Všechny úpravy se teď budou ukládat automaticky."
+   },
+   "entry_point_error_msg": {
+      "message": "Zkuste to znovu, nebo problém nahlaste níže."
+   },
+   "entry_point_error_short_msg": {
+      "message": "Jejda, nepodařilo se nám zjistit, který soubor jste chtěli otevřít."
+   },
+   "error_occurred": {
+      "message": "Došlo k chybě."
+   },
+   "error_password_required_msg": {
+      "message": "Chráněné soubory momentálně nepodporujeme, avšak pracujeme na tom."
+   },
+   "error_password_required_short_msg": {
+      "message": "Soubor je chráněn heslem."
+   },
+   "expanded": {
+      "message": "Rozbaleno"
+   },
+   "expanded_menu": {
+      "message": "$1 – rozbaleno i s podnabídkou.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "extension_description": {
+      "message": "Soubory z aplikací Microsoft Word, Excel a PowerPoint můžete zobrazit a upravovat v Dokumentech, Tabulkách a Prezentacích Google."
+   },
+   "extension_name": {
+      "message": "Úpravy souborů Office"
+   },
+   "extension_popup_message_body": {
+      "message": "Stávající soubory otevřete přetažením do prohlížeče"
+   },
+   "extension_popup_new_document_header": {
+      "message": "Novinka…"
+   },
+   "extension_popup_new_presentation_document": {
+      "message": "Prezentace aplikace PowerPoint"
+   },
+   "extension_popup_new_spreadsheet_document": {
+      "message": "Tabulka aplikace Excel"
+   },
+   "extension_popup_new_word_document": {
+      "message": "Dokument aplikace Word"
+   },
+   "feedback_textbox_editing": {
+      "message": "Přidejte prosím podporu úprav textu v textových polích."
+   },
+   "feedback_ui_template": {
+      "message": "1 – Popište, k jakému problému došlo.\n2 – Došlo k problému, když jste se pokoušeli otevřít soubor, nebo když jste se ho pokoušeli upravit?\n3 – Dochází k problému pokaždé, když se pokoušíte otevřít nebo upravit kterýkoli soubor, nebo pouze u konkrétních souborů?\n\nPokud k tomuto problému dochází pouze u konkrétního souboru, připojte příslušný soubor k této zprávě. Velice nám to pomůže při důkladnějším řešení problému."
+   },
+   "file_does_not_exist_error_details": {
+      "message": "Soubor neexistuje. Je možné, že jste se pokusili otevřít sdílený odkaz nebo dokument přidaný do záložek. Zkuste soubor otevřít znovu z původního umístění."
+   },
+   "file_does_not_exist_error_title": {
+      "message": "Soubor nebyl nalezen."
+   },
+   "file_loading_spinner_label": {
+      "message": "Načítání"
+   },
+   "file_missing_content_msg": {
+      "message": "Při načítání obsahu tohoto souboru došlo k chybě. Doporučujeme, abyste soubor přejmenovali a zkusili jej otevřít znovu."
+   },
+   "file_missing_content_short_msg": {
+      "message": "V dokumentu chybí obsah."
+   },
+   "file_not_found_error_msg": {
+      "message": "Ověřte si u vlastníka souboru, zda máte oprávnění k němu přistupovat. Pokud se tato chybová zpráva zobrazuje objevuje i nadále, ačkoli oprávnění máte, nahlaste problém níže."
+   },
+   "file_not_found_error_short_msg": {
+      "message": "Jejda, požadovaný soubor se nepodařilo otevřít."
+   },
+   "file_not_found_exception": {
+      "message": "Požadovaný soubor mohl být smazán, přejmenován nebo přesunut do jiného umístění. Pokud chcete pokračovat, klikněte na „Uložit teď“."
+   },
+   "file_not_found_link_text": {
+      "message": "Pokud potřebujete pomoci s více účty, přečtěte si tento článek"
+   },
+   "file_not_found_msg": {
+      "message": "Požadovaný soubor se někam poděl."
+   },
+   "file_not_found_title": {
+      "message": "Soubor nebyl nalezen."
+   },
+   "file_open_crash_error_msg": {
+      "message": "Pokud k chybě dochází i nadále, nahlaste problém níže."
+   },
+   "file_open_crash_error_short_msg": {
+      "message": "Jejda, požadovaný soubor se nepodařilo otevřít."
+   },
+   "file_open_error_msg": {
+      "message": "Obsah tohoto souboru není přístupný."
+   },
+   "file_open_error_short_msg": {
+      "message": "Tento soubor je nejspíš poškozen."
+   },
+   "file_open_fail_download_link_text": {
+      "message": "Stáhnout soubor"
+   },
+   "file_opened_in_incognito_mode_error_details": {
+      "message": "Rozšíření pro upravování souborů Office v anonymním režimu nefunguje. Otevřete tento soubor pomocí běžného okna Chrome. Pokud používáte režim hosta, soubor se otevřít nepodaří. Zkontrolujte, zda váš soubor není poškozený nebo neplatný typ dokumentu a zkuste to znovu."
+   },
+   "file_opened_in_incognito_mode_error_title": {
+      "message": "Jejda. Anonymní režim není podporován"
+   },
+   "file_pdf_type_rename_msg": {
+      "message": "Přejmenujte soubor na $1.pdf a a zkuste to znovu.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_rtf_type_rename_msg": {
+      "message": "Přejmenujte soubor na $1.rtf",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_type_unsupported_msg": {
+      "message": "Tento typ souboru není podporován."
+   },
+   "fillcolor_aria_spoken_word": {
+      "message": "rozbalovací seznam barev textu"
+   },
+   "fontface_aria_spoken_word": {
+      "message": "rozbalovací seznam typů písma"
+   },
+   "fontsize_aria_spoken_word": {
+      "message": "rozbalovací seznam velikostí písma"
+   },
+   "forbidden_access_level_error_msg": {
+      "message": "Ověřte si u vlastníka souboru, zda máte oprávnění tento soubor otevřít. Pokud se tato chybová zpráva zobrazuje objevuje i nadále, ačkoli oprávnění máte, nahlaste problém níže."
+   },
+   "forbidden_access_level_error_short_msg": {
+      "message": "Jejda, požadovaný soubor nelze otevřít."
+   },
+   "forbidden_app_access_error_msg": {
+      "message": "Z nějakého důvodu nemáme oprávnění tento soubor otevřít. Zkuste otevřít soubor z Disku Google, nebo nahlaste problém níže."
+   },
+   "forbidden_app_access_error_short_msg": {
+      "message": "Jejda, požadovaný soubor nelze otevřít."
+   },
+   "forbidden_app_id_error_msg": {
+      "message": "Zdá se, že rozšíření Chrome není správně nakonfigurováno. Jak je to možné? Přesně nevíme. Nahlaste prosím problém níže."
+   },
+   "forbidden_app_id_error_short_msg": {
+      "message": "Jejda, požadovaný soubor nelze otevřít."
+   },
+   "forbidden_blacklist_error_msg": {
+      "message": "Zdá se, že bylo toto rozšíření Chrome přidáno na seznam zakázaných položek. Jednoznačně jde o chybu. Informujte nás o ní tím, že nahlasíte problém níže."
+   },
+   "forbidden_blacklist_error_short_msg": {
+      "message": "Jejda, požadovaný soubor nelze otevřít."
+   },
+   "forbidden_domain_error_msg": {
+      "message": "Zdá se, že vaše doména k tomuto souboru zakázala přístup. Obraťte se na správce domény, nebo nahlaste problém níže."
+   },
+   "forbidden_domain_error_short_msg": {
+      "message": "Jejda, požadovaný soubor nelze otevřít."
+   },
+   "forbidden_internal_error_msg": {
+      "message": "Disk Google bohužel nepracuje tak, jak by měl. Zkuste soubor otevřít znovu, nebo nahlaste problém níže."
+   },
+   "forbidden_internal_error_short_msg": {
+      "message": "Jejda, požadovaný soubor nelze otevřít."
+   },
+   "forbidden_not_installed_error_msg": {
+      "message": "Zdá se, že rozšíření Chrome není správně nainstalováno. Jak je to možné? Přesně nevíme. Nahlaste prosím problém níže."
+   },
+   "forbidden_not_installed_error_short_msg": {
+      "message": "Jejda, požadovaný soubor nelze otevřít."
+   },
+   "generic_error_msg": {
+      "message": "V obsahu dokumentu byly zjištěny problémy."
+   },
+   "generic_error_short_msg": {
+      "message": "Jejda, to se nemělo stát. Změny obnovíte opětovným načtením stránky."
+   },
+   "get_lists_data_error_msg": {
+      "message": "Dokument se může zobrazit s nesprávným formátováním seznamu."
+   },
+   "get_lists_data_error_short_msg": {
+      "message": "Nepodařilo se načíst formátování dokumentu."
+   },
+   "highlightcolor_aria_spoken_word": {
+      "message": "rozbalovací seznam barev zvýraznění textu"
+   },
+   "http_error_zero_msg": {
+      "message": "V případě potíží se sítí zkontrolujte připojení nebo to zkuste znovu. Pokud problém přetrvává, nahlaste jej níže."
+   },
+   "http_error_zero_short_msg": {
+      "message": "Omlouváme se, soubor se nepodařilo otevřít."
+   },
+   "info_file_copied": {
+      "message": "Uloženo"
+   },
+   "info_file_save_cancelled": {
+      "message": "Ukládání bylo zrušeno."
+   },
+   "info_file_save_failed": {
+      "message": "Ukládání se nezdařilo."
+   },
+   "info_file_saved_at_location": {
+      "message": "Všechny změny byly uloženy v umístění $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "info_file_saved_in_drive": {
+      "message": "Všechny změny byly uloženy na Disk."
+   },
+   "info_file_saved_locally": {
+      "message": "Všechny změny byly uloženy místně."
+   },
+   "info_file_saved_offline": {
+      "message": "Všechny změny byly uloženy offline."
+   },
+   "info_file_saving": {
+      "message": "Ukládání…"
+   },
+   "initaddshape_aria_spoken_word": {
+      "message": "přidat textové pole"
+   },
+   "invalid_credentials_error_msg": {
+      "message": "Abyste získali přístup k tomuto souboru, je třeba se přihlásit k účtu Google."
+   },
+   "invalid_credentials_error_short_msg": {
+      "message": "Jejda, požadovaný soubor nelze otevřít."
+   },
+   "invalid_file_format_msg": {
+      "message": "Ačkoli soubor vypadá jako dokument systému Office nebo má koncovku souboru systému Office, ve skutečnosti se jedná o jiný typ souboru, který byl přejmenován nebo nějak změněn, případně o nepodporovaný typ souboru."
+   },
+   "invalid_file_format_short_msg": {
+      "message": "Jejda, vypadá to, že tento typ dokumentu nedokážeme otevřít."
+   },
+   "italic_aria_spoken_word": {
+      "message": "kurzíva"
+   },
+   "keyboard_shortcut_group_actions": {
+      "message": "Akce"
+   },
+   "keyboard_shortcut_group_other": {
+      "message": "Jiné"
+   },
+   "keyboard_shortcut_group_paragraph_formatting": {
+      "message": "Formátování odstavce"
+   },
+   "keyboard_shortcut_group_text_formatting": {
+      "message": "Formátování textu"
+   },
+   "keyboard_shortcut_group_top_menus": {
+      "message": "Nabídky"
+   },
+   "keyboard_shortcut_group_with_slides": {
+      "message": "V Prezentacích"
+   },
+   "keyboard_shortcut_title": {
+      "message": "Klávesové zkratky"
+   },
+   "make_a_copy_fail_msg": {
+      "message": "Kopii momentálně nelze vytvořit."
+   },
+   "menu_button_data": {
+      "message": "Data"
+   },
+   "menu_button_edit": {
+      "message": "Úprava"
+   },
+   "menu_button_file": {
+      "message": "Soubor"
+   },
+   "menu_button_format": {
+      "message": "Formát"
+   },
+   "menu_button_help": {
+      "message": "Nápověda"
+   },
+   "menu_button_insert": {
+      "message": "Vložit"
+   },
+   "menu_button_slide": {
+      "message": "Snímek"
+   },
+   "menu_button_tools": {
+      "message": "Nástroje"
+   },
+   "menu_button_view": {
+      "message": "Zobrazit"
+   },
+   "menu_item_10_point_star": {
+      "message": "Deseticípá hvězda"
+   },
+   "menu_item_12_point_star": {
+      "message": "Dvanácticípá hvězda"
+   },
+   "menu_item_16_point_star": {
+      "message": "Šestnácticípá hvězda"
+   },
+   "menu_item_24_point_star": {
+      "message": "Čtyřiadvaceticípá hvězda"
+   },
+   "menu_item_32_point_star": {
+      "message": "Dvaatřiceticípá hvězda"
+   },
+   "menu_item_4_point_star": {
+      "message": "Čtyřcípá hvězda"
+   },
+   "menu_item_5_point_star": {
+      "message": "Pěticípá hvězda"
+   },
+   "menu_item_6_point_star": {
+      "message": "Šesticípá hvězda"
+   },
+   "menu_item_7_point_star": {
+      "message": "Sedmicípá hvězda"
+   },
+   "menu_item_8_point_star": {
+      "message": "Osmicípá hvězda"
+   },
+   "menu_item_align": {
+      "message": "Zarovnat"
+   },
+   "menu_item_align_center": {
+      "message": "Na střed"
+   },
+   "menu_item_align_justified": {
+      "message": "Do bloku"
+   },
+   "menu_item_align_left": {
+      "message": "Vlevo"
+   },
+   "menu_item_align_right": {
+      "message": "Vpravo"
+   },
+   "menu_item_arrows": {
+      "message": "Šipky"
+   },
+   "menu_item_bent_arrow": {
+      "message": "Ohnutá šipka"
+   },
+   "menu_item_bent_up_arrow": {
+      "message": "Šipka ohnutá nahoru"
+   },
+   "menu_item_bevel": {
+      "message": "Zkosené hrany"
+   },
+   "menu_item_block_arc": {
+      "message": "Ohnutý pruh"
+   },
+   "menu_item_bold": {
+      "message": "Tučné"
+   },
+   "menu_item_callouts": {
+      "message": "Popisky"
+   },
+   "menu_item_can": {
+      "message": "Válec"
+   },
+   "menu_item_chevron": {
+      "message": "Dvojitá šipka"
+   },
+   "menu_item_chord": {
+      "message": "Tětiva"
+   },
+   "menu_item_clear_formatting": {
+      "message": "Vymazat formátování"
+   },
+   "menu_item_cloud": {
+      "message": "Mrak"
+   },
+   "menu_item_cloud_callout": {
+      "message": "Komiksová bublina"
+   },
+   "menu_item_color_none": {
+      "message": "Žádné"
+   },
+   "menu_item_color_transparent": {
+      "message": "Průhledné"
+   },
+   "menu_item_convert_to_docs": {
+      "message": "Uložit jako Dokument Google"
+   },
+   "menu_item_convert_to_sheets": {
+      "message": "Uložit jako Tabulku Google"
+   },
+   "menu_item_convert_to_slides": {
+      "message": "Uložit jako Prezentaci Google"
+   },
+   "menu_item_copy": {
+      "message": "Kopírovat"
+   },
+   "menu_item_cross": {
+      "message": "Kříž"
+   },
+   "menu_item_cube": {
+      "message": "Krychle"
+   },
+   "menu_item_curved_down_arrow": {
+      "message": "Zahnutá šipka dolů"
+   },
+   "menu_item_curved_left_arrow": {
+      "message": "Zahnutá šipka doleva"
+   },
+   "menu_item_curved_right_arrow": {
+      "message": "Zahnutá šipka doprava"
+   },
+   "menu_item_curved_up_arrow": {
+      "message": "Zahnutá šipka nahoru"
+   },
+   "menu_item_cut": {
+      "message": "Vyjmout"
+   },
+   "menu_item_decagon": {
+      "message": "Desetiúhelník"
+   },
+   "menu_item_delete_column": {
+      "message": "Odstranit sloupec"
+   },
+   "menu_item_delete_row": {
+      "message": "Odstranit řádek"
+   },
+   "menu_item_delete_value": {
+      "message": "Smazat hodnotu"
+   },
+   "menu_item_deleteslide": {
+      "message": "Smazat snímek"
+   },
+   "menu_item_diagonal_stripe": {
+      "message": "Šikmý pruh"
+   },
+   "menu_item_diamond": {
+      "message": "Kosočtverec"
+   },
+   "menu_item_divide": {
+      "message": "Děleno"
+   },
+   "menu_item_dodecagon": {
+      "message": "Dvanáctiúhelník"
+   },
+   "menu_item_donut": {
+      "message": "Prstenec"
+   },
+   "menu_item_double_brace": {
+      "message": "Složené závorky"
+   },
+   "menu_item_double_bracket": {
+      "message": "Jednoduché závorky"
+   },
+   "menu_item_down_arrow": {
+      "message": "Šipka dolů"
+   },
+   "menu_item_down_arrow_callout": {
+      "message": "Popisek se šipkou dolů"
+   },
+   "menu_item_duplicateslide": {
+      "message": "Duplicitní Prezentace"
+   },
+   "menu_item_equal": {
+      "message": "Rovná se"
+   },
+   "menu_item_equation": {
+      "message": "Rovnice"
+   },
+   "menu_item_explosion_1": {
+      "message": "Exploze 1"
+   },
+   "menu_item_explosion_2": {
+      "message": "Exploze 2"
+   },
+   "menu_item_flowchart_alternate_process": {
+      "message": "Vývojový diagram: Alternativní postup"
+   },
+   "menu_item_flowchart_card": {
+      "message": "Vývojový diagram: Karta"
+   },
+   "menu_item_flowchart_collate": {
+      "message": "Vývojový diagram: Porovnání"
+   },
+   "menu_item_flowchart_connector": {
+      "message": "Vývojový diagram: Spojka"
+   },
+   "menu_item_flowchart_data": {
+      "message": "Vývojový diagram: Data"
+   },
+   "menu_item_flowchart_decision": {
+      "message": "Vývojový diagram: Rozhodnutí"
+   },
+   "menu_item_flowchart_delay": {
+      "message": "Vývojový diagram: Zpoždění"
+   },
+   "menu_item_flowchart_direct_access_storage": {
+      "message": "Vývojový diagram: Paměť s přímým přístupem"
+   },
+   "menu_item_flowchart_display": {
+      "message": "Vývojový diagram: Zobrazení"
+   },
+   "menu_item_flowchart_document": {
+      "message": "Vývojový diagram: Dokument"
+   },
+   "menu_item_flowchart_extract": {
+      "message": "Vývojový diagram: Vyjmutí"
+   },
+   "menu_item_flowchart_internal_storage": {
+      "message": "Vývojový diagram: Interní paměť"
+   },
+   "menu_item_flowchart_magnetic_disk": {
+      "message": "Vývojový diagram: Magnetický disk"
+   },
+   "menu_item_flowchart_manual_input": {
+      "message": "Vývojový diagram: Ruční vstup"
+   },
+   "menu_item_flowchart_manual_operation": {
+      "message": "Vývojový diagram: Ruční operace"
+   },
+   "menu_item_flowchart_merge": {
+      "message": "Vývojový diagram: Sloučení"
+   },
+   "menu_item_flowchart_multidocument": {
+      "message": "Vývojový diagram: Více dokumentů"
+   },
+   "menu_item_flowchart_off_page_connector": {
+      "message": "Vývojový diagram: Spojka mezi stránkami"
+   },
+   "menu_item_flowchart_or": {
+      "message": "Vývojový diagram: Nebo"
+   },
+   "menu_item_flowchart_predefined_process": {
+      "message": "Vývojový diagram: Předdefinovaný postup"
+   },
+   "menu_item_flowchart_preparation": {
+      "message": "Vývojový diagram: Příprava"
+   },
+   "menu_item_flowchart_process": {
+      "message": "Vývojový diagram: Postup"
+   },
+   "menu_item_flowchart_punched_tape": {
+      "message": "Vývojový diagram: Děrná páska"
+   },
+   "menu_item_flowchart_sequential_access_storage": {
+      "message": "Vývojový diagram: Paměť se sekvenčním přístupem"
+   },
+   "menu_item_flowchart_sort": {
+      "message": "Vývojový diagram: Řazení"
+   },
+   "menu_item_flowchart_stored_data": {
+      "message": "Vývojový diagram: Uložená data"
+   },
+   "menu_item_flowchart_summing_junction": {
+      "message": "Vývojový diagram: Sumační bod"
+   },
+   "menu_item_flowchart_terminator": {
+      "message": "Vývojový diagram: Ukončení"
+   },
+   "menu_item_folded_corner": {
+      "message": "Ohnutý roh"
+   },
+   "menu_item_frame": {
+      "message": "Rám"
+   },
+   "menu_item_half_frame": {
+      "message": "Poloviční rámeček"
+   },
+   "menu_item_heart": {
+      "message": "Srdce"
+   },
+   "menu_item_help_center": {
+      "message": "Centrum nápovědy"
+   },
+   "menu_item_heptagon": {
+      "message": "Sedmiúhelník"
+   },
+   "menu_item_hexagon": {
+      "message": "Šestiúhelník"
+   },
+   "menu_item_hideslide": {
+      "message": "Skrýt snímek"
+   },
+   "menu_item_insert_column": {
+      "message": "Sloupec"
+   },
+   "menu_item_insert_image": {
+      "message": "Obrázek"
+   },
+   "menu_item_insert_row": {
+      "message": "Řádek"
+   },
+   "menu_item_insert_text_box": {
+      "message": "Textové pole"
+   },
+   "menu_item_insertslide": {
+      "message": "Nový snímek"
+   },
+   "menu_item_italic": {
+      "message": "Kurzíva"
+   },
+   "menu_item_keyboard_shortcuts": {
+      "message": "Klávesové zkratky"
+   },
+   "menu_item_l_shape": {
+      "message": "Tvar písmene L"
+   },
+   "menu_item_left_arrow": {
+      "message": "Šipka doleva"
+   },
+   "menu_item_left_arrow_callout": {
+      "message": "Popisek se šipkou doleva"
+   },
+   "menu_item_left_brace": {
+      "message": "Levá složená závorka"
+   },
+   "menu_item_left_bracket": {
+      "message": "Levá závorka"
+   },
+   "menu_item_left_right_arrow": {
+      "message": "Obousměrná vodorovná šipka"
+   },
+   "menu_item_left_right_arrow_callout": {
+      "message": "Popisek s obousměrnou vodorovnou šipkou"
+   },
+   "menu_item_left_right_up_arrow": {
+      "message": "Šipka nahoru, doleva i doprava"
+   },
+   "menu_item_left_up_arrow": {
+      "message": "Šipka doleva a nahoru"
+   },
+   "menu_item_lightning_bolt": {
+      "message": "Blesk"
+   },
+   "menu_item_make_a_copy": {
+      "message": "Vytvořit kopii…"
+   },
+   "menu_item_merge_all": {
+      "message": "Sloučit vše"
+   },
+   "menu_item_merge_cells": {
+      "message": "Sloučit buňky"
+   },
+   "menu_item_merge_horizontally": {
+      "message": "Sloučit vodorovně"
+   },
+   "menu_item_merge_vertically": {
+      "message": "Sloučit svisle"
+   },
+   "menu_item_minus": {
+      "message": "Minus"
+   },
+   "menu_item_moon": {
+      "message": "Měsíc"
+   },
+   "menu_item_moveslidedown": {
+      "message": "Přesunout snímek dolů"
+   },
+   "menu_item_moveslidetoend": {
+      "message": "Přesunout snímek na konec"
+   },
+   "menu_item_moveslidetostart": {
+      "message": "Přesunout snímek na začátek"
+   },
+   "menu_item_moveslideup": {
+      "message": "Přesunout snímek nahoru"
+   },
+   "menu_item_multiply": {
+      "message": "Krát"
+   },
+   "menu_item_new": {
+      "message": "Nové"
+   },
+   "menu_item_no_symbol": {
+      "message": "Symbol „Ne“"
+   },
+   "menu_item_not_equal": {
+      "message": "Nerovná se"
+   },
+   "menu_item_notched_right_arrow": {
+      "message": "Šipka doprava se zářezem"
+   },
+   "menu_item_number_format": {
+      "message": "Formát čísla"
+   },
+   "menu_item_number_menu": {
+      "message": "Číslo"
+   },
+   "menu_item_numbering": {
+      "message": "$1 v nabídce $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "menu_item_octagon": {
+      "message": "Osmiúhelník"
+   },
+   "menu_item_open": {
+      "message": "Otevřít"
+   },
+   "menu_item_oval": {
+      "message": "Elipsa"
+   },
+   "menu_item_oval_callout": {
+      "message": "Oválná bublina"
+   },
+   "menu_item_parallelogram": {
+      "message": "Rovnoběžník"
+   },
+   "menu_item_paste": {
+      "message": "Vložit"
+   },
+   "menu_item_pentagon": {
+      "message": "Pětiúhelník"
+   },
+   "menu_item_pie": {
+      "message": "Výseč"
+   },
+   "menu_item_plaque": {
+      "message": "Plaketa"
+   },
+   "menu_item_plus": {
+      "message": "Plus"
+   },
+   "menu_item_present": {
+      "message": "Prezentovat"
+   },
+   "menu_item_print": {
+      "message": "Tisk"
+   },
+   "menu_item_quad_arrow": {
+      "message": "Čtyřstranná šipka"
+   },
+   "menu_item_quad_arrow_callout": {
+      "message": "Popisek se čtyřstrannou šipkou"
+   },
+   "menu_item_rectangle": {
+      "message": "Obdélník"
+   },
+   "menu_item_rectangular_callout": {
+      "message": "Hranatá bublina"
+   },
+   "menu_item_redo": {
+      "message": "Opakovat"
+   },
+   "menu_item_regular_pentagon": {
+      "message": "Pravidelný pětiúhelník"
+   },
+   "menu_item_report_abuse": {
+      "message": "Nahlásit zneužití"
+   },
+   "menu_item_report_issue": {
+      "message": "Nahlásit problém"
+   },
+   "menu_item_right_arrow": {
+      "message": "Šipka doprava"
+   },
+   "menu_item_right_arrow_callout": {
+      "message": "Popisek se šipkou vpravo"
+   },
+   "menu_item_right_brace": {
+      "message": "Pravá složená závorka"
+   },
+   "menu_item_right_bracket": {
+      "message": "Pravá závorka"
+   },
+   "menu_item_right_triangle": {
+      "message": "Pravoúhlý trojúhelník"
+   },
+   "menu_item_round_diagonal_corner_rectangle": {
+      "message": "Obdélník se zaoblenými rohy napříč"
+   },
+   "menu_item_round_same_side_corner_rectangle": {
+      "message": "Obdélník se zaoblenými rohy na stejné straně"
+   },
+   "menu_item_round_single_corner_rectangle": {
+      "message": "Obdélník s jedním zaobleným rohem"
+   },
+   "menu_item_rounded_rectangle": {
+      "message": "Zaoblený obdélník"
+   },
+   "menu_item_rounded_rectangular_callout": {
+      "message": "Zaoblená bublina"
+   },
+   "menu_item_save": {
+      "message": "Uložit"
+   },
+   "menu_item_save_as": {
+      "message": "Uložit jako…"
+   },
+   "menu_item_shapes": {
+      "message": "Tvary"
+   },
+   "menu_item_share": {
+      "message": "Sdílet"
+   },
+   "menu_item_smiley_face": {
+      "message": "Smajlík"
+   },
+   "menu_item_snip_and_round_single_corner_rectangle": {
+      "message": "Obdélník s oříznutým a zaobleným rohem"
+   },
+   "menu_item_snip_diagonal_corner_rectangle": {
+      "message": "Obdélník s oříznutými rohy napříč"
+   },
+   "menu_item_snip_same_side_corner_rectangle": {
+      "message": "Obdélník s oříznutými rohy na stejné straně"
+   },
+   "menu_item_snip_single_corner_rectangle": {
+      "message": "Obdélník s jedním oříznutým rohem"
+   },
+   "menu_item_strikethrough": {
+      "message": "Přeškrtnuté"
+   },
+   "menu_item_striped_right_arrow": {
+      "message": "Šrafovaná šipka doprava"
+   },
+   "menu_item_subscript": {
+      "message": "Dolní index"
+   },
+   "menu_item_sun": {
+      "message": "Slunce"
+   },
+   "menu_item_superscript": {
+      "message": "Horní index"
+   },
+   "menu_item_teardrop": {
+      "message": "Slza"
+   },
+   "menu_item_trapezoid": {
+      "message": "Lichoběžník"
+   },
+   "menu_item_triangle": {
+      "message": "Trojúhelník"
+   },
+   "menu_item_u_turn_arrow": {
+      "message": "Šipka ve tvaru U"
+   },
+   "menu_item_underline": {
+      "message": "Podtržené"
+   },
+   "menu_item_undo": {
+      "message": "Vrátit zpět"
+   },
+   "menu_item_unhideslide": {
+      "message": "Zrušit skrytí snímku"
+   },
+   "menu_item_unmerge": {
+      "message": "Zrušit sloučení"
+   },
+   "menu_item_up_arrow": {
+      "message": "Šipka nahoru"
+   },
+   "menu_item_up_arrow_callout": {
+      "message": "Popisek se šipkou nahoru"
+   },
+   "menu_item_up_down_arrow": {
+      "message": "Obousměrná svislá šipka"
+   },
+   "menu_item_version_info": {
+      "message": "Informace o verzi"
+   },
+   "menu_item_word_count": {
+      "message": "Počet slov"
+   },
+   "menu_item_wrap_text": {
+      "message": "Obtékání textu"
+   },
+   "menu_item_zoom_in": {
+      "message": "Přiblížit"
+   },
+   "menu_item_zoom_out": {
+      "message": "Oddálit"
+   },
+   "merge_all_aria_spoken_word": {
+      "message": "sloučit vše"
+   },
+   "merge_aria_spoken_word": {
+      "message": "sloučit"
+   },
+   "merge_dropdown_aria_spoken_word": {
+      "message": "rozbalovací nabídka sloučení"
+   },
+   "merge_horizontally_aria_spoken_word": {
+      "message": "sloučit vodorovně"
+   },
+   "merge_vertically_aria_spoken_word": {
+      "message": "sloučit svisle"
+   },
+   "modify_shape_transform_error_msg": {
+      "message": "Při úpravě transformací obrazců došlo k chybě."
+   },
+   "modify_shape_transform_error_short_msg": {
+      "message": "Chyba při úpravě transformací obrazců"
+   },
+   "modifyshapefillcolor_aria_spoken_word": {
+      "message": "rozbalovací seznam barev výplně obrazce"
+   },
+   "modifyshapeoutlinecolor_aria_spoken_word": {
+      "message": "rozbalovací seznam barev obrysu obrazce"
+   },
+   "modifyshapeoutlinestyle_aria_spoken_word": {
+      "message": "rozbalovací seznam stylů obrysu obrazce"
+   },
+   "modifyshapeoutlinewidth_aria_spoken_word": {
+      "message": "rozbalovací seznam šířek obrysu obrazce"
+   },
+   "nacl_load_error_details": {
+      "message": "Zkuste rozšíření přeinstalovat."
+   },
+   "nacl_load_error_title": {
+      "message": "Při načítání aplikace došlo k potížím."
+   },
+   "non_permissible_sheet_name_details": {
+      "message": "Následující znaky nejsou povoleny * ? [ ] ' ; : Délka názvu listu nesmí překročit 31 znaků. Název listu nesmí zůstat prázdný."
+   },
+   "non_permissible_sheet_name_title": {
+      "message": "Při přejmenovávání listu jste zadali neplatný název."
+   },
+   "not_pressed": {
+      "message": "Nestisknuto"
+   },
+   "notselected": {
+      "message": "Nevybráno"
+   },
+   "number_format_label_currency_symbol": {
+      "message": "Symbol měny"
+   },
+   "number_format_label_date_type": {
+      "message": "Typ"
+   },
+   "number_format_label_decimal_places": {
+      "message": "Desetinná místa"
+   },
+   "number_format_label_general": {
+      "message": "Obecné"
+   },
+   "number_format_label_negative_numbers": {
+      "message": "Záporná čísla"
+   },
+   "number_format_label_other": {
+      "message": "Jiné"
+   },
+   "number_format_label_red": {
+      "message": "Červená"
+   },
+   "number_format_label_text": {
+      "message": "Text"
+   },
+   "number_format_label_use_1000_separator": {
+      "message": "Použít oddělovač tisíců"
+   },
+   "number_format_tab_accounting": {
+      "message": "Účetní"
+   },
+   "number_format_tab_currency": {
+      "message": "Měna"
+   },
+   "number_format_tab_date_time": {
+      "message": "Datum a čas"
+   },
+   "number_format_tab_general": {
+      "message": "Obecné"
+   },
+   "number_format_tab_number": {
+      "message": "Číslo"
+   },
+   "number_format_tab_percentage": {
+      "message": "Procenta"
+   },
+   "number_format_tab_scientific": {
+      "message": "Vědecké"
+   },
+   "number_format_title": {
+      "message": "Formáty čísel"
+   },
+   "ocm_promo_conversion_shortmsg": {
+      "message": "Jste v režimu kompatibility se systémem Office"
+   },
+   "office_compatibility_mode": {
+      "message": "Režim kompatibility se systémem Office"
+   },
+   "office_first_time_confirm": {
+      "message": "Rozumím"
+   },
+   "office_first_time_message_p1": {
+      "message": "Soubory aplikací Word, Excel a PowerPoint na vašem pevném disku, na Disku Google, v Gmailu apod. teď můžete upravovat pomocí služeb Dokumenty, Tabulky a Prezentace."
+   },
+   "office_first_time_message_p2": {
+      "message": "Všechny úpravy budou automaticky ukládány a kdykoli je můžete uložit také v původním formátu."
+   },
+   "office_first_time_title": {
+      "message": "Úpravy souborů systému Office v Dokumentech, Tabulkách a Prezentacích Google"
+   },
+   "offline_error_msg": {
+      "message": "Zdá se, že jste v režimu offline. Zkontrolujte připojení k internetu a zkuste to znovu. Pokud se tato chybová zpráva zobrazuje i nadále, ačkoliv jste online, nahlaste problém níže."
+   },
+   "offline_error_short_msg": {
+      "message": "Jejda, požadovaný soubor nelze otevřít."
+   },
+   "option_key": {
+      "message": "Možnosti"
+   },
+   "out_of_memory_error_msg": {
+      "message": "Zkuste tuto kartu zavřít a otevřít soubor znovu nebo zavřít ostatní karty, které máte v prohlížeči otevřené. Pokud tento problém přetrvává, nahlaste problém níže."
+   },
+   "out_of_memory_error_short_msg": {
+      "message": "Jejda, není k dispozici dostatek paměti."
+   },
+   "page_count_label": {
+      "message": "Stránky"
+   },
+   "partial_cell_merge_error_msg": {
+      "message": "Část sloučené buňky nelze změnit."
+   },
+   "partial_cell_merge_error_short_msg": {
+      "message": "Chyba"
+   },
+   "point_ocm_promo_conversion_msg": {
+      "message": "Soubory systému Office můžete upravovat a ukládat přímo v Prezentacích. Chcete-li k úpravám nebo přidávání komentářů pozvat ostatní uživatele, uložte soubor jako Prezentaci Google. Soubory můžete kdykoli uložit zpět do původního formátu."
+   },
+   "point_printing_warning_msg": {
+      "message": "Pracujeme na opravě."
+   },
+   "point_printing_warning_short_msg": {
+      "message": "Momentálně je možno tisknout pouze právě zobrazený snímek."
+   },
+   "point_share_promo_conversion_msg": {
+      "message": "Pokoušíte se tuto prezentaci sdílet? Chcete-li pozvat další uživatele, kteří ji s vámi budou upravovat, převeďte ji na Prezentaci Google."
+   },
+   "pointtogglebullet_aria_spoken_word": {
+      "message": "seznam s odrážkami"
+   },
+   "pointtogglenumber_aria_spoken_word": {
+      "message": "číslovaný seznam"
+   },
+   "present_button": {
+      "message": "Prezentovat"
+   },
+   "pressed": {
+      "message": "Stisknuto"
+   },
+   "print_aria_spoken_word": {
+      "message": "tisk"
+   },
+   "qowt_doc_mismatch_text": {
+      "message": "Při formátování dokumentu došlo k chybě.\n\nZměny obnovíte opětovným načtením stránky."
+   },
+   "qowt_doc_mismatch_title": {
+      "message": "Ojoj!"
+   },
+   "qowt_hyperlink_activate_short_key": {
+      "message": "Odkaz aktivujete stisknutím kombinace kláves Alt + Enter."
+   },
+   "qowt_hyperlink_dialog": {
+      "message": "Hypertextový odkaz"
+   },
+   "qowt_hyperlink_dialog_message_text": {
+      "message": "Přejít na odkaz:"
+   },
+   "qowt_modal_confirm_dialog_affirmative_button": {
+      "message": "OK"
+   },
+   "qowt_modal_confirm_dialog_negative_button": {
+      "message": "Zrušit"
+   },
+   "qowt_modal_dialog_close_button": {
+      "message": "Zavřít"
+   },
+   "qowt_modal_dialog_coming_soon_title": {
+      "message": "Již brzy!"
+   },
+   "qowt_modal_dialog_link_text": {
+      "message": "Další informace"
+   },
+   "qowt_modal_dialog_ok_button": {
+      "message": "OK"
+   },
+   "qowt_modal_dialog_reload_button": {
+      "message": "Načíst znovu"
+   },
+   "qowt_modal_dialog_textbox_editing_description": {
+      "message": "Litujeme, úpravy textu v textových polích nepodporujeme."
+   },
+   "qowt_modal_dialog_textbox_editing_link": {
+      "message": "Opravte to prosím!"
+   },
+   "qowt_modal_info_dialog_affirmative_button": {
+      "message": "OK"
+   },
+   "qowt_modal_multi_choice_remember_choice": {
+      "message": "Zapamatovat si výběr"
+   },
+   "qowt_modal_query_dialog_affirmative_button": {
+      "message": "Ano"
+   },
+   "qowt_modal_query_dialog_negative_button": {
+      "message": "Ne"
+   },
+   "qowt_modal_query_dialog_reload_button": {
+      "message": "Obnovit"
+   },
+   "qowt_modal_single_choice_remember_choice": {
+      "message": "Již nepřipomínat"
+   },
+   "read_only": {
+      "message": "Pouze ke čtení"
+   },
+   "redo_aria_spoken_word": {
+      "message": "opakovat"
+   },
+   "right_pointed_submenu": {
+      "message": "Pravý ukazatel s podnabídkou"
+   },
+   "save_aria_spoken_word": {
+      "message": "uložit"
+   },
+   "save_now": {
+      "message": "Uložit teď"
+   },
+   "security_error_msg": {
+      "message": "Pokud k chybě dochází i nadále, nahlaste problém níže."
+   },
+   "security_error_short_msg": {
+      "message": "Jejda, požadovaný soubor se nepodařilo otevřít. Otevírání souborů v anonymním režimu v současné době nepodporujeme. Otevřete soubor v neanonymním režimu."
+   },
+   "selected": {
+      "message": "Vybráno"
+   },
+   "set_sheet_info_error_msg": {
+      "message": "Při aktualizaci názvu listu došlo k chybě."
+   },
+   "share_button": {
+      "message": "Sdílet"
+   },
+   "share_promo_conversion_shortmsg": {
+      "message": "Úpravy s ostatními"
+   },
+   "sheet_delete_column_error_msg": {
+      "message": "Jejda, při mazání sloupce došlo k chybě. Zkuste to prosím znovu."
+   },
+   "sheet_delete_row_error_msg": {
+      "message": "Jejda, při mazání řádku došlo k chybě. Zkuste to prosím znovu."
+   },
+   "sheet_format_cells_error_msg": {
+      "message": "Došlo k chybě formátování. Zkuste to prosím znovu."
+   },
+   "sheet_insert_column_error_msg": {
+      "message": "Jejda, při vkládání sloupce došlo k chybě. Zkuste to prosím znovu."
+   },
+   "sheet_insert_column_exceed_error_msg": {
+      "message": "Litujeme, do této tabulky již nelze vložit další sloupce. Maximální podporovaný počet sloupců je 256."
+   },
+   "sheet_insert_column_exceed_error_short_msg": {
+      "message": "Je nám líto"
+   },
+   "sheet_insert_row_error_msg": {
+      "message": "Jejda, při vkládání řádku došlo k chybě. Zkuste to prosím znovu."
+   },
+   "sheet_insert_row_exceed_error_msg": {
+      "message": "Litujeme, do této tabulky již nelze vložit další řádky. Maximální podporovaný počet řádků je 65 536."
+   },
+   "sheet_insert_row_exceed_error_short_msg": {
+      "message": "Je nám líto"
+   },
+   "sheet_ocm_promo_conversion_msg": {
+      "message": "Soubory systému Office můžete upravovat a ukládat přímo v Tabulkách. Chcete-li k úpravám nebo přidávání komentářů pozvat ostatní uživatele, uložte soubor jako Tabulku Google. Soubory můžete kdykoli uložit zpět do původního formátu."
+   },
+   "sheet_set_cell_content_invalid_error_msg": {
+      "message": "V zadaném vzorci se vyskytla chyba. Opravte ji prosím."
+   },
+   "sheet_share_promo_conversion_msg": {
+      "message": "Pokoušíte se tuto tabulku sdílet? Chcete-li pozvat další uživatele, kteří ji s vámi budou upravovat, převeďte ji na Tabulku Google."
+   },
+   "sheet_sort_error_title": {
+      "message": "Při řazení tohoto rozsahu buněk došlo k chybě."
+   },
+   "sheet_sort_failure_msg": {
+      "message": "Při řazení tohoto rozsahu buněk došlo k chybě."
+   },
+   "sheet_sort_merged_cell_error": {
+      "message": "Nelze seřadit buňky, které jsou sloučené."
+   },
+   "sheet_sort_merged_cell_error_title": {
+      "message": "Při řazení tohoto rozsahu buněk došlo k chybě."
+   },
+   "sheet_sort_one_cell_error": {
+      "message": "Chcete-li buňky seřadit, vyberte více než jednu buňku."
+   },
+   "sheet_sort_one_cell_error_title": {
+      "message": "Při řazení tohoto rozsahu buněk došlo k chybě."
+   },
+   "shift_key": {
+      "message": "Shift"
+   },
+   "shortcut": {
+      "message": "Zkratka $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sign_in": {
+      "message": "Přihlásit se"
+   },
+   "slash_key": {
+      "message": "Lomítko"
+   },
+   "something_not_right": {
+      "message": "Něco není v pořádku"
+   },
+   "storage_quota_exceed_error_msg": {
+      "message": "Zavřete všechny dokumenty Office otevřené v Chromu a zkuste to znovu. Pokud problém přetrvává, nahlaste jej níže."
+   },
+   "storage_quota_exceed_error_short_msg": {
+      "message": "Omlouváme se, soubor se nepodařilo otevřít."
+   },
+   "strikethrough_aria_spoken_word": {
+      "message": "přeškrtnuté"
+   },
+   "style_aria_spoken_word": {
+      "message": "rozbalovací seznam stylů"
+   },
+   "submenu_spoken_text": {
+      "message": "$1 $2 $3 $4",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         }
+      }
+   },
+   "temporary_unable_to_open_error_msg": {
+      "message": "Pokud problém přetrvává, zkuste to později nebo se obraťte na tým podpory."
+   },
+   "temporary_unable_to_open_error_short_msg": {
+      "message": "Omlouváme se, soubor dočasně nelze otevřít."
+   },
+   "textaligncenter_aria_spoken_word": {
+      "message": "zarovnat na střed"
+   },
+   "textalignjustify_aria_spoken_word": {
+      "message": "zarovnat do bloku"
+   },
+   "textalignleft_aria_spoken_word": {
+      "message": "zarovnat vlevo"
+   },
+   "textalignright_aria_spoken_word": {
+      "message": "zarovnat vpravo"
+   },
+   "textcolor_aria_spoken_word": {
+      "message": "rozbalovací seznam barev textu"
+   },
+   "textual_edit_error_msg": {
+      "message": "Při formátování dokumentu došlo k chybě.\n\nZměny obnovíte opětovným načtením stránky."
+   },
+   "textual_edit_error_short_msg": {
+      "message": "Ojoj!"
+   },
+   "title_error_msg_for_merge_cells": {
+      "message": "Došlo k problému"
+   },
+   "title_msg_merging_multiple_cells_with_text": {
+      "message": "Pozor!"
+   },
+   "togglebulleted_aria_spoken_word": {
+      "message": "seznam s odrážkami"
+   },
+   "togglenumbered_aria_spoken_word": {
+      "message": "číslovaný seznam"
+   },
+   "togglezoom_aria_spoken_word": {
+      "message": "přepnutí lupy"
+   },
+   "tooltip_background_color": {
+      "message": "Barva výplně"
+   },
+   "tooltip_bold": {
+      "message": "Tučné"
+   },
+   "tooltip_border": {
+      "message": "Ohraničení"
+   },
+   "tooltip_border_all": {
+      "message": "Všechno ohraničení"
+   },
+   "tooltip_border_bottom": {
+      "message": "Ohraničení dole"
+   },
+   "tooltip_border_horizontal": {
+      "message": "Ohraničení nahoře"
+   },
+   "tooltip_border_inner": {
+      "message": "Vnitřní ohraničení"
+   },
+   "tooltip_border_left": {
+      "message": "Ohraničení vlevo"
+   },
+   "tooltip_border_none": {
+      "message": "Bez ohraničení"
+   },
+   "tooltip_border_outer": {
+      "message": "Vnější ohraničení"
+   },
+   "tooltip_border_right": {
+      "message": "Ohraničení vpravo"
+   },
+   "tooltip_border_top": {
+      "message": "Ohraničení nahoře"
+   },
+   "tooltip_border_vertical": {
+      "message": "Svislé ohraničení"
+   },
+   "tooltip_cell_align": {
+      "message": "Zarovnání buňky"
+   },
+   "tooltip_cell_h_align_center": {
+      "message": "Vodorovně na střed"
+   },
+   "tooltip_cell_h_align_left": {
+      "message": "Vodorovně vlevo"
+   },
+   "tooltip_cell_h_align_right": {
+      "message": "Vodorovně vpravo"
+   },
+   "tooltip_cell_v_align_bottom": {
+      "message": "Svisle dolů"
+   },
+   "tooltip_cell_v_align_center": {
+      "message": "Svisle na střed"
+   },
+   "tooltip_cell_v_align_top": {
+      "message": "Svisle nahoru"
+   },
+   "tooltip_download": {
+      "message": "Stáhnout"
+   },
+   "tooltip_dropdown_init_add_shape": {
+      "message": "Tvar"
+   },
+   "tooltip_fill_color": {
+      "message": "Barva textu"
+   },
+   "tooltip_font_face": {
+      "message": "Písmo"
+   },
+   "tooltip_font_size": {
+      "message": "Velikost písma"
+   },
+   "tooltip_highlight_color": {
+      "message": "Barva zvýraznění"
+   },
+   "tooltip_init_add_shape": {
+      "message": "Textové pole"
+   },
+   "tooltip_italic": {
+      "message": "Kurzíva"
+   },
+   "tooltip_merge": {
+      "message": "Sloučit buňky"
+   },
+   "tooltip_merge_dropdown": {
+      "message": "Vyberte typ sloučení..."
+   },
+   "tooltip_modify_shape_fill_color": {
+      "message": "Barva výplně"
+   },
+   "tooltip_modify_shape_outline_color": {
+      "message": "Barva čáry"
+   },
+   "tooltip_modify_shape_outline_style": {
+      "message": "Přerušovaná čára"
+   },
+   "tooltip_modify_shape_outline_width": {
+      "message": "Tloušťka čáry"
+   },
+   "tooltip_move_slide": {
+      "message": "Přesunout snímky ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "tooltip_point": {
+      "message": "Domovská stránka Prezentací"
+   },
+   "tooltip_point_toggle_bullet": {
+      "message": "Seznam s odrážkami"
+   },
+   "tooltip_point_toggle_number": {
+      "message": "Číslovaný seznam"
+   },
+   "tooltip_presentation": {
+      "message": "Prezentace"
+   },
+   "tooltip_print": {
+      "message": "Tisk"
+   },
+   "tooltip_redo": {
+      "message": "Opakovat"
+   },
+   "tooltip_share": {
+      "message": "Sdílet"
+   },
+   "tooltip_share_for_macroenabledfiles": {
+      "message": "Soubory s povolenými makry mohou být sdíleny pouze z Disku Google."
+   },
+   "tooltip_sheet": {
+      "message": "Domovská stránka Tabulek"
+   },
+   "tooltip_strikethrough": {
+      "message": "Přeškrtnuté"
+   },
+   "tooltip_style": {
+      "message": "Styly"
+   },
+   "tooltip_text_align_center": {
+      "message": "Na střed"
+   },
+   "tooltip_text_align_justify": {
+      "message": "Do bloku"
+   },
+   "tooltip_text_align_left": {
+      "message": "Zarovnat vlevo"
+   },
+   "tooltip_text_align_right": {
+      "message": "Zarovnat vpravo"
+   },
+   "tooltip_text_color": {
+      "message": "Barva textu"
+   },
+   "tooltip_toggle_bulleted": {
+      "message": "Seznam s odrážkami"
+   },
+   "tooltip_toggle_numbered": {
+      "message": "Číslovaný seznam"
+   },
+   "tooltip_toggle_zoom": {
+      "message": "Přepnout přiblížení"
+   },
+   "tooltip_underline": {
+      "message": "Podtržené"
+   },
+   "tooltip_undo": {
+      "message": "Vrátit zpět"
+   },
+   "tooltip_word": {
+      "message": "Domovská stránka Dokumentů"
+   },
+   "tooltip_wrap_text": {
+      "message": "Obtékání textu"
+   },
+   "tooltip_zoom_in": {
+      "message": "Přiblížit"
+   },
+   "tooltip_zoom_out": {
+      "message": "Oddálit"
+   },
+   "try_again": {
+      "message": "Zkusit znovu"
+   },
+   "unable_to_execute_msg": {
+      "message": "Dokument se nepodařilo otevřít."
+   },
+   "underline_aria_spoken_word": {
+      "message": "podtržené"
+   },
+   "undo_aria_spoken_word": {
+      "message": "vrátit zpět"
+   },
+   "unmerge_aria_spoken_word": {
+      "message": "zrušit sloučení"
+   },
+   "unsaved_changes": {
+      "message": "Neuložené změny"
+   },
+   "unsaved_changes_warning": {
+      "message": "V tomto souboru máte neuložené změny. Pokud tuto stránku opustíte, aniž byste je uložili, navždy o ně přijdete."
+   },
+   "unsupported_file_format_error_details_p1": {
+      "message": "V tomto souboru se vyskytuje obsah z aplikací systému Microsoft® Office 95 nebo starších, který nedokážeme otevřít."
+   },
+   "unsupported_file_format_error_details_p2": {
+      "message": "Chcete-li soubor převést do Dokumentů Google, klikněte na odkaz níže."
+   },
+   "unsupported_file_format_error_title": {
+      "message": "Jejda!"
+   },
+   "unsupported_link_message": {
+      "message": "Je nám líto. Adresy URL tohoto typu v současné době nepodporujeme."
+   },
+   "up_key": {
+      "message": "Nahoru"
+   },
+   "updated_shortcut_message": {
+      "message": "Aktualizovali jsme klávesové zkratky, aby byly v rámci Dokumentů Google konzistentní. Aktualizované zkratky naleznete v nápovědě."
+   },
+   "updated_shortcut_title": {
+      "message": "Aktualizovali jsme klávesové zkratky"
+   },
+   "version_info_msg": {
+      "message": "Vaše verze Režimu kompatibility se systémem Office je"
+   },
+   "word_binary_upsave_learnmore": {
+      "message": "Další informace"
+   },
+   "word_binary_upsave_msg": {
+      "message": "Formát souboru není podporován. Chcete-li jej uložit, potřebujeme od vás povolení k převedení souboru na novější formát. Původní soubor zůstane nedotčen."
+   },
+   "word_binary_upsave_shortmsg": {
+      "message": "Aktualizace dokumentu"
+   },
+   "word_count_label": {
+      "message": "Počet slov"
+   },
+   "word_count_title": {
+      "message": "Počet slov"
+   },
+   "word_ocm_promo_conversion_msg": {
+      "message": "Soubory systému Office můžete upravovat a ukládat přímo v Dokumentech. Chcete-li k úpravám nebo přidávání komentářů pozvat ostatní uživatele, uložte soubor jako Dokument Google. Soubory můžete kdykoli uložit zpět do původního formátu."
+   },
+   "word_share_promo_conversion_msg": {
+      "message": "Pokoušíte se tento dokument sdílet? Chcete-li pozvat další uživatele, kteří jej s vámi budou upravovat, převeďte ho na Dokument Google."
+   },
+   "wraptext_aria_spoken_word": {
+      "message": "obtékání textu"
+   },
+   "zoomin_aria_spoken_word": {
+      "message": "přiblížit"
+   },
+   "zoomout_aria_spoken_word": {
+      "message": "oddálit"
+   }
+}

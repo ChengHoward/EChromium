@@ -1,0 +1,573 @@
+@import url("../common.css");
+@import url("sheetSelector.css");
+@import url("formulaBar.css");
+@import url("numberFormatDialog.css");
+@import url("../ui/scrollbar.css");
+
+/**
+ * Styling for the new Grid design, which uses divs rather than tables.
+ */
+
+#qowt-sheet-workbook {
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  overflow: hidden;
+  -webkit-user-select: none;
+  background: white;
+  cursor: default !important;
+  font-family: Arial, "Arial Unicode MS", Arimo, "Microsoft Sans serif", sans-serif;
+}
+
+.qowt-editor #qowt-sheet-workbook {
+  top: 97px; /* This MUST be the same as the toolbar height, and changed if that changes.*/
+}
+
+#qowt-sheet-workbook div.qowt-sheet-cell-chart {
+  overflow: visible;
+}
+
+#qowt-sheet-workbook .qowt-sheet-cell-chart > div {
+  border: 1px solid #aaa !important;
+  background: #fff;
+}
+
+.qowt-sheet-text-node {
+  position: absolute;
+  left: -99999px;
+  top: -99999px;
+}
+
+#qowt-sheet-workbook .qowt-sheet-row-resize-handle {
+  background-color: #A49AED;
+  float: left;
+  top: 0;
+  left: 0;
+  height: 5px;
+  width: 40px;
+  margin: 0 10px 0 0;
+  position: absolute;
+  z-index: 51;
+}
+
+#qowt-sheet-workbook .qowt-sheet-col-resize-handle {
+  background-color: #A49AED;
+  float: left;
+  top: 0;
+  left: 0;
+  height: 32px;
+  width: 5px;
+  margin: 0 5px 0 5px;
+  position: absolute;
+  z-index: 51;
+}
+
+#qowt-sheet-workbook .qowt-sheet-resizing-line-horizontal {
+  background-color: #BCB5ED;
+  z-index: 50;
+  position: absolute;
+  width: 100%;
+  height: 1px;
+}
+
+#qowt-sheet-workbook .qowt-sheet-resizing-line-vertical {
+  background-color: #BCB5ED;
+  z-index: 50;
+  position: absolute;
+  width: 1px;
+  margin-left: -2px;
+  height: 100%;
+}
+
+#qowt-sheet-workbook .qowt-sheet-frozen-line-horizontal {
+  background-color: #cccecf;
+  z-index: 40;
+  position: absolute;
+  width: 100%;
+  height: 3px;
+}
+
+#qowt-sheet-workbook .qowt-sheet-frozen-header-line-horizontal {
+  background-color: #989C9E;
+  z-index: 40;
+  position: absolute;
+  width: 100%;
+  height: 5px;
+}
+
+#qowt-sheet-workbook .qowt-sheet-frozen-line-vertical {
+  background-color: #cccecf;
+  z-index: 40;
+  position: absolute;
+  width: 3px;
+  height: 100%;
+}
+
+#qowt-sheet-workbook .qowt-sheet-frozen-header-line-vertical {
+  background-color: #989C9E;
+  z-index: 40;
+  position: absolute;
+  width: 5px;
+  height: 100%;
+}
+
+#qowt-sheet-workbook .qowt-sheet-header {
+  /* position MUST be absolute; set inline by qowt */
+  height: 17px;
+  left: 0;
+  top: 0;
+  width: 39px;
+  z-index: 80;
+}
+
+#qowt-sheet-workbook .qowt-sheet-col-header-container,
+#qowt-sheet-workbook .qowt-sheet-row-header-container {
+  cursor: default;
+}
+
+#qowt-sheet-workbook .qowt-sheet-col-header-container {
+  border-right-style: solid;
+  border-right-color: #CCC;
+}
+
+#qowt-sheet-workbook .qowt-sheet-row-header-container {
+  border-bottom-style: solid;
+  border-bottom-color: #CCC;
+}
+
+#qowt-sheet-workbook .qowt-sheet-frozen-col-header-container,
+#qowt-sheet-workbook .qowt-sheet-frozen-row-header-container {
+  z-index: 50;
+}
+
+#qowt-sheet-workbook .qowt-sheet-col-header-container,
+#qowt-sheet-workbook .qowt-sheet-row-header-container {
+  z-index: 40;
+}
+
+#qowt-sheet-workbook .qowt-sheet-frozen-col-header-container,
+#qowt-sheet-workbook .qowt-sheet-col-header-container {
+  /* position MUST be absolute; set inline by qowt */
+  top: 0;
+  left: 40px;
+  height: 19px;
+  right: 0;
+}
+
+#qowt-sheet-workbook .qowt-sheet-frozen-row-header-container,
+#qowt-sheet-workbook .qowt-sheet-row-header-container {
+  /* position MUST be absolute; set inline by qowt */
+  top: 18px;
+  left: 0;
+  width: 41px;
+  bottom: 0;
+}
+
+#qowt-sheet-workbook .qowt-sheet-header {
+  /* position MUST be absolute; set inline by qowt */
+  background: #cde3b6;
+}
+
+#qowt-sheet-workbook .qowt-sheet-container-panes {
+  top: 18px;
+  left: 40px;
+  right: 0;
+  bottom: 0;
+}
+
+#qowt-sheet-workbook .qowt-sheet-zoom-container {
+  /* position MUST be absolute; set inline by qowt */
+  top: 26px;
+  left: 0;
+  bottom: 50px;
+  right: 0;
+  opacity: 0.99
+}
+
+#qowt-sheet-workbook .qowt-sheet-zoom-area {
+  width: 100%;
+  height: 100%;
+  background-color: #F3F3F3;
+}
+
+#qowt-sheet-workbook .qowt-chart-sheet {
+  width: 100%;
+  height: 100%;
+  background-color: #B9B9B9;
+}
+
+.qowt-sheet-container-panes .top-left,
+.qowt-sheet-container-panes .top-right,
+.qowt-sheet-container-panes .bottom-left {
+  background-color: white;
+  border: 0 solid #CCCECF;
+}
+
+.qowt-sheet-container-panes .top-left {
+  height: 0;
+  left: 0;
+  top: 0;
+  width: 0;
+  z-index: 30;
+}
+
+.qowt-sheet-container-panes .top-left-border {
+  border-bottom-width: 3px;
+  border-right-width: 3px;
+}
+
+.qowt-sheet-container-panes .top-right {
+  border-bottom-width: 3px;
+  height: 0;
+  left: 0;
+  /* right property is set by panemanager and should match the width of the
+   scrollbar of the right bottom pane */
+  top: 0;
+  width: 0;
+}
+
+.qowt-sheet-container-panes .bottom-left {
+  border-right-width: 3px;
+  /* bottom property is set by panemanager and should match the width of the
+   scrollbar of the right bottom pane */
+  left: 0;
+  height: 0;
+  top: 0;
+  width: 0;
+}
+
+.qowt-sheet-container-panes .top-right,
+.qowt-sheet-container-panes .bottom-left {
+  z-index: 20;
+}
+
+.qowt-sheet-container-panes .bottom-right {
+  /* this is the main pane, which should be full screen */
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  background-color: white;
+  z-index: 10;
+}
+
+.qowt-sheet-container-panes .qowt-sheet-pane {
+  position: absolute;
+}
+
+.qowt-sheet-container-panes .top-left,
+.qowt-sheet-container-panes .top-right,
+.qowt-sheet-container-panes .bottom-left {
+  overflow: hidden;
+}
+
+#qowt-sheet-workbook .qowt-sheet-row-header {
+  left: -1px;
+}
+
+#qowt-sheet-workbook .qowt-sheet-col-header {
+  top: 0;
+}
+
+#qowt-sheet-workbook .qowt-sheet-col-header,
+#qowt-sheet-workbook .qowt-sheet-row-header {
+  height: inherit;
+  position: absolute;
+  width: inherit;
+}
+
+#qowt-sheet-workbook .qowt-sheet-col-header {
+  /* position MUST be absolute; set inline by qowt */
+  text-align: center;
+  border-left: 1px solid black;
+  background: #cde3b6;
+  height: 99%;
+  -webkit-user-select: none;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+#qowt-sheet-workbook .qowt-sheet-col-header.qowt-sheet-column-header-highlight {
+  background: #c8c8c8;
+}
+
+#qowt-sheet-workbook .qowt-sheet-row-header {
+  /* position MUST be absolute; set inline by qowt */
+  border-top: 1px solid black;
+  background: #cde3b6;
+  width: 99%;
+  -webkit-user-select: none;
+  box-sizing: border-box;
+  overflow: hidden;
+  /* used to animate resizing a row
+  transition:height 3s;
+  -webkit-transition:height 3s;
+  transition:top 3s;
+  -webkit-transition:top 3s;
+  */
+}
+
+#qowt-sheet-workbook .qowt-sheet-row-header.qowt-sheet-row-header-highlight {
+  background: #c8c8c8;
+}
+
+#qowt-sheet-workbook .pane-base .qowt-sheet-col {
+  /* position MUST be absolute; set inline by qowt */
+  border-left: 1px #cecece solid;
+  z-index: 0;
+  box-sizing: border-box;
+}
+
+#qowt-sheet-workbook .pane-base .qowt-sheet-row {
+  /* position MUST be absolute; set inline by qowt */
+  border-top: 1px #cecece solid;
+  z-index: 0;
+  box-sizing: border-box;
+  /* used to animate resizing a row
+  transition:height 3s;
+  -webkit-transition:height 3s;
+  transition:top 3s;
+  -webkit-transition:top 3s;
+  */
+}
+
+#qowt-sheet-workbook .pane-base-no-gridlines .qowt-sheet-col {
+  border: none;
+}
+
+#qowt-sheet-workbook .pane-base-no-gridlines .qowt-sheet-row {
+  border: none;
+}
+
+#qowt-sheet-workbook .qowt-sheet-formatted-row {
+  /* position MUST be absolute; set inline by qowt */
+  z-index: 11;
+  box-sizing: border-box;
+}
+
+#qowt-sheet-workbook .qowt-sheet-formatted-col {
+  /* position MUST be absolute; set inline by qowt */
+  z-index: 10;
+  box-sizing: border-box;
+}
+
+#qowt-sheet-workbook .qowt-sheet-cell-format {
+  /* position MUST be absolute; set inline by qowt */
+  z-index: 20;
+  box-sizing: border-box;
+}
+
+#qowt-sheet-workbook .qowt-sheet-cell-burst-area {
+  /* NOTE burst area should NOT have z-index specified or it will create a
+   local stack order ! */
+  /* position MUST be absolute; set inline by qowt */
+  overflow: hidden;
+  /* like 'nowrap', 'pre' does not allow wrapping, but preserve white space */
+  white-space: pre;
+  background-color: white;
+}
+
+#qowt-sheet-workbook .qowt-sheet-cell-content {
+  /* position MUST be relative; set inline by qowt */
+  z-index: 30;
+  overflow: hidden;
+}
+
+/* MERGE CELLS want background to appear BEHIND borders of cells, rows,
+columns underneath (but above gridlines) */
+#qowt-sheet-workbook .qowt-sheet-merge-cell-floater-background {
+  z-index: 21;
+  box-sizing: border-box;
+}
+
+/* MERGE CELLS want text to appear ABOVE borders of cells, rows, columns
+ underneath (but behind selection box & frozen UI) */
+#qowt-sheet-workbook .qowt-sheet-merge-cell-floater-text {
+  z-index: 35;
+  box-sizing: border-box;
+  background: transparent;
+  overflow: hidden;
+  /* like 'nowrap', 'pre' does not allow wrapping, but preserve white space */
+  white-space: pre;
+}
+
+#qowt-sheet-workbook .qowt-selection-anchor-node-normal {
+  /* position MUST be absolute; set inline by qowt */
+  border: 2px solid #0097f7;
+  box-sizing: border-box;
+  z-index: 37;
+}
+
+#qowt-sheet-workbook .qowt-selection-range-node {
+  background-color: #5292f7;
+  opacity: 0.2;
+  border: 1px solid #0097f7;
+  box-sizing: border-box;
+  position: absolute;
+  z-index: 36;
+}
+
+#qowt-sheet-workbook .scroll-inactive div.qowt-sheet-scroll-btn-container {
+  display: none;
+}
+
+#qowt-sheet-workbook div.qowt-sheet-scroll-btn-container .left {
+  border-right: none;
+}
+
+div.qowt-sheet-scroll-btn-container .left .qowt-sheet-arrow-icon,
+div.qowt-sheet-scroll-btn-container .right .qowt-sheet-arrow-icon {
+  border-bottom: 4px solid transparent;
+  border-top: 4px solid transparent;
+  display: inline-block;
+  height: 0;
+  width: 0;
+}
+
+div.qowt-sheet-scroll-btn-container .left .qowt-sheet-arrow-icon {
+  border-right: 4px solid #000;
+}
+
+div.qowt-sheet-scroll-btn-container .right .qowt-sheet-arrow-icon {
+  border-left: 4px solid #000;
+}
+
+div.qowt-sheet-scroll-btn-container .left:active .qowt-sheet-arrow-icon {
+  border-right: 4px solid #fff;
+}
+
+div.qowt-sheet-scroll-btn-container .right:active .qowt-sheet-arrow-icon {
+  border-left: 4px solid #fff;
+}
+
+#qowt-sheet-workbook .qowt-sheet-label {
+  display: inline-block;
+  font-size: 14pt;
+  background-color: #487b6f;
+  color: white;
+  margin-right: 5px;
+  padding: 10px;
+  cursor: pointer;
+  -moz-border-bottom-right-radius: 10px;
+  -khtml-border-bottom-right-radius: 10px;
+  -webkit-border-bottom-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  -moz-border-bottom-left-radius: 10px;
+  -khtml-border-bottom-left-radius: 10px;
+  -webkit-border-bottom-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+#qowt-sheet-workbook .qowt-sheet-label:hover {
+  background: -webkit-gradient(linear, 0% 100%, 0% 0%, from(#0064A9), to(#0BCCFF));
+  border-bottom: 1px solid grey;
+  color: white;
+  text-shadow: 0.1em 0.1em #333;
+}
+
+#qowt-sheet-workbook .qowt-sheet-active-label,
+#qowt-sheet-workbook .qowt-sheet-active-label:hover {
+  background: #294942;
+  border-bottom: none;
+}
+
+#qowt-sheet-workbook .qowt-sheet-cell-wrap {
+  /* Like 'normal', 'pre-wrap' allows wrapping, but preserves white space */
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  overflow: hidden;
+}
+
+#qowt-sheet-workbook .qowt-hide-left-border {
+  border-left-width: 0;
+}
+
+#qowt-sheet-workbook .qowt-hide-top-border {
+  border-top-width: 0;
+}
+
+#qowt-sheet-workbook .qowt-font-color-blue {
+  color: blue !important;
+}
+
+#qowt-sheet-workbook .qowt-wide-left-border {
+  border-left-width: 3px !important;
+  border-left-color: blue !important;
+}
+
+#qowt-sheet-workbook .qowt-wide-top-border {
+  border-top-width: 3px !important;
+  border-top-color: blue !important;
+}
+
+#xls-menu.qo-viewer-toolbar {
+  /* need to move the xls menu up and to the left a bit
+   * to ensure it floats over the grid and not the sheet
+   * selector; nor (more importantly) the grid scrollbars
+   */
+  bottom: 30px;
+  right: 30px;
+}
+
+#qowt-sheet-workbook .qowt-display-none {
+  display: none;
+}
+
+#qowt-sheet-workbook .qowt-floating-editor {
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.4);
+    white-space: pre;
+    word-wrap: break-word;
+    z-index: 150;
+    /* the next line disables contenteditable's default outline UI */
+    outline: 0px solid transparent;
+    /* the next line is needed to get the blinking cursor to appear */
+    -webkit-user-select: text;
+    overflow-x: hidden;
+    overflow-y: auto;
+    /* this line is needed otherwise the div does not grow vertically */
+    display: inline-block;
+    border: 2px solid #0097f7;
+}
+
+/* If a merged cell has a font family set, it's set in the outer element
+ * (qowt-sheet-merge-cell-floater-text), but the content itself is
+ * in the inner element (span) which does not inherit the font family.
+ * The span needs to inherit the font family from it's parent.
+ */
+#qowt-sheet-workbook .qowt-sheet-merge-cell-floater-text span {
+  font-family: inherit;
+}
+
+#qowt-sheet-workbook .qowt-highlight-box {
+  box-sizing: border-box;
+  border: 2px dashed;
+  z-index: 25;
+}
+
+
+@media print {
+  /* Set page margins to 0mm */
+  @page {
+    size: auto;
+    margin: 0mm;
+  }
+
+  #view-layout {
+    overflow: visible !important;
+  }
+
+  .qowt-main-toolbar {
+    display: none !important;
+  }
+
+  #qowt-sheet-workbook, .qowt-sheet-zoom-container, .qowt-sheet-zoom-area {
+    height: auto !important;
+    width: auto !important;
+    position: relative !important;
+    overflow: visible !important;
+    transform: scale(1) !important;
+    -webkit-transform: scale(1) !important;
+    background-color: white !important;
+  }
+}

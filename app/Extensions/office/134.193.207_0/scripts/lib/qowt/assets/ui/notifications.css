@@ -1,0 +1,11 @@
+
+#view-layout.qowt-editor .qowt-notification-container {
+  display: inline-block;
+  margin-left: 25px;
+  color: #6a6a6a;
+}
+
+/* Matches the Editors where we want the simple status area. */
+#view-layout.qowt-editor .qowt-notification-area {
+  text-align: left;
+}

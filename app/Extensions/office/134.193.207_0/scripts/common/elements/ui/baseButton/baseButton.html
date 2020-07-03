@@ -1,0 +1,56 @@
+/* TODO(davidshimel) Take a second look at how the toolbar is styled (i.e., the
+    CSS of its constituent elements) once the whole toolbar is Polymerized. */
+
+<dom-module id="base-button">
+    <template>
+        <style>
+            :host {
+                display: inline-block;
+
+                cursor: default;
+                margin: 6px 0px 0 -1px;
+                -webkit-border-radius: 2px;
+                border-radius: 2px;
+                vertical-align: middle;
+
+                /* Set a transparent border , overridden on hover/select*/
+                border: solid 1px transparent;
+
+                /* Note(elqursh): These match defaults, why add them */;
+                background-color: transparent;
+                background-position: center center;
+                background-repeat: no-repeat;
+
+                height: 24px;
+            }
+
+            :host([active]:not([disabled])) {
+                background-color: #EEE;
+                border-color: #CCC;
+                box-shadow: inset 0 1px 2px rgba(0, 0, 0, .1);
+                -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, .1);
+            }
+
+            :host([disabled]) {
+                opacity: 0.3;
+            }
+
+            :host(:hover:not([disabled])) {
+                border-color: #c6c6c6 !important;
+                box-shadow: 0 1px 1px rgba(0, 0, 0, .1) !important;
+                -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .1) !important;
+
+                /* Note(elqursh): Not sure why this is needed */
+                color: #222 !important;
+            }
+
+            :host(.focused-button) {
+                border-color: #c6c6c6 !important;
+                box-shadow: 0 1px 1px rgba(0, 0, 0, .1) !important;
+                -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .1) !important;
+                color: #222 !important;
+            }
+
+        </style>
+    </template>
+</dom-module>

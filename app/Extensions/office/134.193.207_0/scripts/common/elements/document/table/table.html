@@ -1,0 +1,40 @@
+<link rel="import" href="../../../../third_party/polymer/polymer.html"/>
+
+<dom-module id="qowt-table">
+  <template>
+    <style>
+:host {
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+    </style>
+    <colgroup id="columns"></colgroup>
+    <style id="tableBorders">
+      content::content > tr:first-of-type > td {
+        @apply(--top-border-style);
+      }
+
+      content::content > tr > td:last-of-type {
+        @apply(--right-border-style);
+      }
+
+      content::content > tr:last-of-type > td {
+        @apply(--bottom-border-style);
+      }
+
+      content::content > tr > td:first-of-type {
+        @apply(--left-border-style);
+      }
+
+      content::content > tr:not(:last-of-type) > td {
+        @apply(--insideHorizontal-border-style);
+      }
+
+      content::content > tr > td:not(:last-of-type) {
+        @apply(--insideVertical-border-style);
+      }
+
+    </style>
+    <content></content>
+  </template>
+</dom-module>

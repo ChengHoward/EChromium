@@ -1,0 +1,30 @@
+<!-- <link rel="import" href="../../ui/polymerCoreDepsVulcanized.html"> -->
+
+<link rel="import" href="../../baseButton/baseButton.html">
+<link rel="import" href="../../baseMenu/baseDropdown.html">
+
+<dom-module id="qowt-merge-dropdown">
+    <template>
+        <style include="base-button base-dropdown">
+          :host {
+            /** Merely an arrow(facing down) doesn't have to be 24px */
+            width: 14px;
+            margin-left: -1px;
+          }
+
+          #collapse {
+            /** align to its sibling (mergeButton) */
+            margin-left: -26px;
+            width: auto;
+
+            /** override padding left and right */
+            padding-left: 0px;
+            padding-right: 0px;
+          }
+        </style>
+        <qowt-merge-menu-button active={{active}}></qowt-merge-menu-button>
+        <div id="collapse">
+            <content></content>
+        </div>
+    </template>
+</dom-module>

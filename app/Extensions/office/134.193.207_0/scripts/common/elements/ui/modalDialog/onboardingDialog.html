@@ -1,0 +1,49 @@
+<link rel="import" href="../../../../third_party/polymer/polymer.html"/>
+<link rel="import" href="./modalDialogStyles.html">
+
+<dom-module id="qowt-onboarding-dialog">
+  <template>
+    <style include="modal-dialog-styles"></style>
+
+    <style>
+      :host {
+        width: 362px;
+      }
+
+      @media (-webkit-min-device-pixel-ratio: 1.3),
+             (min-device-pixel-ratio: 1.3) {
+        .onboarding {
+            background: url('../../../../lib/qowt/assets/img/ui/hiDPI/2x_onboarding.png') center center / 365px 200px no-repeat ;
+         }
+      }
+
+      @media (-webkit-max-device-pixel-ratio: 1.3),
+             (max-device-pixel-ratio: 1.3) {
+        .onboarding {
+            background: url('../../../../lib/qowt/assets/img/ui/lowDPI/1x_onboarding.png') no-repeat center center;
+        }
+      }
+    </style>
+
+    <qowt-localized>
+      <header>__office_first_time_title__</header>
+      <div class="image onboarding"></div>
+      <p>__office_first_time_message_p1__</p>
+      <p>
+        __office_first_time_message_p2__
+        <qowt-platform-anchor
+            CROS="http://support.google.com/chromeos/bin/answer.py?hl=en&answer=2481498"
+            OTHER="https://support.google.com/docs/?p=ocm_intro">
+          __qowt_modal_dialog_link_text__
+        </qowt-platform-anchor>
+      </p>
+
+      <footer>
+        <button class="affirmative" on-click="handleAction_" autofocus>
+          __office_first_time_confirm__
+        </button>
+      </footer>
+    </qowt-localized>
+    <button id="closeButton" on-click="close" aria-label="{{getMessage_('close_dialog_aria_spoken_word')}}" focus-end></button>
+  </template>
+</dom-module>

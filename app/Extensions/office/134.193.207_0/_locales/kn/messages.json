@@ -1,0 +1,2192 @@
+{
+   "action_create_user_feedback": {
+      "message": "ಸಮಸ್ಯೆ ವರದಿಮಾಡಿ"
+   },
+   "alt_key": {
+      "message": "Alt"
+   },
+   "app_error_learn_more": {
+      "message": "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ"
+   },
+   "app_error_report_feedback": {
+      "message": "ಪ್ರತಿಕ್ರಿಯೆ ವರದಿ ಮಾಡಿ"
+   },
+   "app_icon_aria_spoken_word": {
+      "message": " ಮುಖಪುಟ"
+   },
+   "app_nacl_crash_msg": {
+      "message": "ಸಮಸ್ಯೆಯನ್ನು ವರದಿ ಮಾಡುವುದರ ಮೂಲಕ ನಮಗೆ ಸಹಾಯ ಮಾಡಿ."
+   },
+   "app_nacl_crash_report": {
+      "message": "ಸಮಸ್ಯೆಯೊಂದನ್ನು ವರದಿ ಮಾಡಿರಿ..."
+   },
+   "app_nacl_crash_title": {
+      "message": "ಓಹ್. ಇದಾಗಬಾರದಿತ್ತು - ನಿಮ್ಮ ಬದಲಾವಣಿಗಳನ್ನು ಮರುಪಡೆಯಲು ಪುಟವನ್ನು ಮರುಲೋಡ್ ಮಾಡಿ."
+   },
+   "app_nacl_error_load_failed": {
+      "message": "ಕ್ಷಮಿಸಿ, ನಮಗೆ ಫೈಲ್ ಅನ್ನು ತೆರೆಯಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ. ಇತರೆ Chrome ಟ್ಯಾಬ್‌ಗಳನ್ನು ಮುಚ್ಚಿರಿ ಅಥವಾ Chrome ಅನ್ನು ಮರುಪ್ರಾರಂಭಿಸಿ, ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ, ಸಮಸ್ಯೆಗಳು ಮುಂದುವರೆಯುತ್ತಿದ್ದರೆ, ಕೆಳಗೆ ಸಮಸ್ಯೆಯನ್ನು ವರದಿ ಮಾಡಿ."
+   },
+   "app_nacl_error_title": {
+      "message": "ಫೈಲ್ ತೆರೆಯಲಾಗುವುದಿಲ್ಲ."
+   },
+   "app_nacl_error_unsupported_device": {
+      "message": "ಈ ಸಾಧನವು ಡಾಕ್ಸ್‌, ಶೀಟ್‌ಗಳು ಮತ್ತು ಸ್ಲೈಡ್‌ಗಳಿಗೆ Chrome ವಿಸ್ತರಣೆಯ Office ಸಂಪಾದನೆಯನ್ನು  ಬೆಂಬಲಿಸುವುದಿಲ್ಲ."
+   },
+   "app_saving_failed_error_msg": {
+      "message": "ಕ್ಷಮಿಸಿ, ಫೈಲ್ ಅನ್ನು ಉಳಿಸುವಲ್ಲಿ ಸಮಸ್ಯೆ ಕಂಡುಬಂದಿದೆ. ಮತ್ತೆ ಉಳಿಸಲು ಪ್ರಯತ್ನಿಸಿ. ಒಂದು ವೇಳೆ ಇದು ಮುಂದುವರಿದರೆ ದಯವಿಟ್ಟು ಸಮಸ್ಯೆಯನ್ನು ವರದಿಮಾಡಿ."
+   },
+   "app_saving_failed_error_short_msg": {
+      "message": "ಫೈಲ್ ಉಳಿಸಲಾಗುವುದಿಲ್ಲ."
+   },
+   "backgroundcolor_aria_spoken_word": {
+      "message": "ಸೆಲ್ ಹಿನ್ನೆಲೆ ಬಣ್ಣದ ಡ್ರಾಪ್ ಡೌನ್ ಪಟ್ಟಿ"
+   },
+   "bold_aria_spoken_word": {
+      "message": "ದಪ್ಪಕ್ಷರ"
+   },
+   "border_all_aria_spoken_word": {
+      "message": "ಎಲ್ಲಾ ಅಂಚು"
+   },
+   "border_aria_spoken_word": {
+      "message": "ಅಂಚು ಡ್ರಾಪ್ ಡೌನ್ ಪಟ್ಟಿ"
+   },
+   "border_bottom_aria_spoken_word": {
+      "message": "ಕೆಳಭಾಗದ ಅಂಚು"
+   },
+   "border_horizontal_aria_spoken_word": {
+      "message": "ಅಡ್ಡಲಾದ ಅಂಚು"
+   },
+   "border_inner_aria_spoken_word": {
+      "message": "ಒಳಭಾಗದ ಅಂಚು"
+   },
+   "border_left_aria_spoken_word": {
+      "message": "ಎಡ ಅಂಚು"
+   },
+   "border_none_aria_spoken_word": {
+      "message": "ಯಾವುದೇ ಅಂಚು ಇಲ್ಲ"
+   },
+   "border_outer_aria_spoken_word": {
+      "message": "ಹೊರಗಿನ ಅಂಚು"
+   },
+   "border_right_aria_spoken_word": {
+      "message": "ಬಲ ಅಂಚು"
+   },
+   "border_top_aria_spoken_word": {
+      "message": "ಮೇಲ್ಭಾಗದ ಅಂಚು"
+   },
+   "border_vertical_aria_spoken_word": {
+      "message": "ಅಡ್ಡ ಅಂಚು"
+   },
+   "button_ocm_convert_cancel": {
+      "message": "ರದ್ದುಮಾಡಿ"
+   },
+   "button_ocm_promo_conversion_point": {
+      "message": "Google ಸ್ಲೈಡ್‌ಗಳ ರೂಪದಲ್ಲಿ ಉಳಿಸಿ"
+   },
+   "button_ocm_promo_conversion_sheet": {
+      "message": "Google ಶೀಟ್‌ಗಳ ರೂಪದಲ್ಲಿ ಉಳಿಸಿ"
+   },
+   "button_ocm_promo_conversion_word": {
+      "message": "Google ಡಾಕ್ಸ್‌ ರೂಪದಲ್ಲಿ ಉಳಿಸಿ"
+   },
+   "button_share_convert_cancel": {
+      "message": "ರದ್ದುಮಾಡಿ"
+   },
+   "button_share_promo_conversion_point": {
+      "message": "Google ಸ್ಲೈಡ್‌ಗಳ ರೂಪದಲ್ಲಿ ಉಳಿಸಿ"
+   },
+   "button_share_promo_conversion_sheet": {
+      "message": "Google ಶೀಟ್‌ಗಳ ರೂಪದಲ್ಲಿ ಉಳಿಸಿ"
+   },
+   "button_share_promo_conversion_word": {
+      "message": "Google ಡಾಕ್ಸ್‌ ರೂಪದಲ್ಲಿ ಉಳಿಸಿ"
+   },
+   "cell_align_aria_spoken_word": {
+      "message": "ಸೆಲ್ ಒಟ್ಟುಗೂಡಿಸುವಿಕೆ"
+   },
+   "cellalign_aria_spoken_word": {
+      "message": "ಸೆಲ್ ಒಟ್ಟುಗೂಡಿಸುವಿಕೆ ಡ್ರಾಪ್ ಡೌನ್ ಪಟ್ಟಿ"
+   },
+   "cellhaligncenter_aria_spoken_word": {
+      "message": "ಅಡ್ಡಲಾಗಿ ಮಧ್ಯ"
+   },
+   "cellhalignleft_aria_spoken_word": {
+      "message": "ಅಡ್ಡಲಾಗಿ ಎಡ"
+   },
+   "cellhalignright_aria_spoken_word": {
+      "message": "ಅಡ್ಡಲಾಗಿ ಬಲ"
+   },
+   "cellvalignbottom_aria_spoken_word": {
+      "message": "ಲಂಬವಾಗಿ ಕೆಳಭಾಗ"
+   },
+   "cellvaligncenter_aria_spoken_word": {
+      "message": "ಲಂಬವಾಗಿ ಮಧ್ಯ"
+   },
+   "cellvaligntop_aria_spoken_word": {
+      "message": "ಲಂಬವಾಗಿ ಮೇಲ್ಭಾಗ"
+   },
+   "char_count_label": {
+      "message": "ಅಕ್ಷರಗಳು"
+   },
+   "char_no_spaces_count_label": {
+      "message": "ಸ್ಪೇಸ್‌ಗಳನ್ನು ಹೊರತುಪಡಿಸಿದ ಅಕ್ಷರಗಳು"
+   },
+   "close_dialog_aria_spoken_word": {
+      "message": "ಸಂವಾದವನ್ನು ಮುಚ್ಚಿ"
+   },
+   "cmd_dropdown_initaddshape_aria_spoken_word": {
+      "message": "ಆಕಾರ ಡ್ರಾಪ್ ಡೌನ್ ಪಟ್ಟಿ"
+   },
+   "collapsed": {
+      "message": "ಕುಗ್ಗಿಸಲಾಗಿದೆ"
+   },
+   "collapsed_menu": {
+      "message": "ಉಪಮೆನುವಿನೊಂದಿಗೆ ಕುಗ್ಗಿಸಲಾಗಿದೆ $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "color_black": {
+      "message": "ಕಪ್ಪು"
+   },
+   "color_blaze_orange": {
+      "message": "ಬ್ಲೇಜ್ ಕಿತ್ತಳೆ"
+   },
+   "color_blue": {
+      "message": "ನೀಲಿ"
+   },
+   "color_brown": {
+      "message": "ಕಂದು"
+   },
+   "color_cornflower_blue": {
+      "message": "ಎದ್ದುಕಾಣುವ ನೀಲಿ"
+   },
+   "color_cyan": {
+      "message": "ಹಸಿರುನೀಲಿ"
+   },
+   "color_dark_blue": {
+      "message": "ಗಾಢ ನೀಲಿ"
+   },
+   "color_dark_blue_1": {
+      "message": "ಗಾಢ ನೀಲಿ 1"
+   },
+   "color_dark_blue_2": {
+      "message": "ಗಾಢ ನೀಲಿ 2"
+   },
+   "color_dark_blue_3": {
+      "message": "ಗಾಢ ನೀಲಿ 3"
+   },
+   "color_dark_blue_grey": {
+      "message": "ಗಾಢ ನೀಲಿ ಬೂದು"
+   },
+   "color_dark_cornflower_blue_1": {
+      "message": "ಗಾಢ ಎದ್ದುಕಾಣುವ ನೀಲಿ 1"
+   },
+   "color_dark_cornflower_blue_2": {
+      "message": "ಗಾಢ ಎದ್ದುಕಾಣುವ ನೀಲಿ 2"
+   },
+   "color_dark_cornflower_blue_3": {
+      "message": "ಗಾಢ ಎದ್ದುಕಾಣುವ ನೀಲಿ 3"
+   },
+   "color_dark_cyan": {
+      "message": "ಗಾಢ ಹಸಿರುನೀಲಿ"
+   },
+   "color_dark_cyan_1": {
+      "message": "ಗಾಢ ಹಸಿರುನೀಲಿ 1"
+   },
+   "color_dark_cyan_2": {
+      "message": "ಗಾಢ ಹಸಿರುನೀಲಿ 2"
+   },
+   "color_dark_cyan_3": {
+      "message": "ಗಾಢ ಹಸಿರುನೀಲಿ 3"
+   },
+   "color_dark_gray": {
+      "message": "ಗಾಢ ಬೂದು"
+   },
+   "color_dark_gray_1": {
+      "message": "ಗಾಢ ಬೂದು 1"
+   },
+   "color_dark_gray_2": {
+      "message": "ಗಾಢ ಬೂದು 2"
+   },
+   "color_dark_gray_3": {
+      "message": "ಗಾಢ ಬೂದು 3"
+   },
+   "color_dark_gray_4": {
+      "message": "ಗಾಢ ಬೂದು 4"
+   },
+   "color_dark_green": {
+      "message": "ಗಾಢ ಹಸಿರು"
+   },
+   "color_dark_green_1": {
+      "message": "ಗಾಢ ಹಸಿರು 1"
+   },
+   "color_dark_green_2": {
+      "message": "ಗಾಢ ಹಸಿರು 2"
+   },
+   "color_dark_green_3": {
+      "message": "ಗಾಢ ಹಸಿರು 3"
+   },
+   "color_dark_green_5": {
+      "message": "ಗಾಢ ಹಸಿರು 5"
+   },
+   "color_dark_grey_2": {
+      "message": "ಗಾಢ ಬೂದು 2"
+   },
+   "color_dark_grey_5": {
+      "message": "ಗಾಢ ಬೂದು 5"
+   },
+   "color_dark_magenta_1": {
+      "message": "ಗಾಢ ಮಜೆಂತಾ 1"
+   },
+   "color_dark_magenta_2": {
+      "message": "ಗಾಢ ಮಜೆಂತಾ 2"
+   },
+   "color_dark_magenta_3": {
+      "message": "ಗಾಢ ಮಜೆಂತಾ 3"
+   },
+   "color_dark_olive_green": {
+      "message": "ಗಾಢ ಆಲಿವ್ ಹಸಿರು"
+   },
+   "color_dark_orange_1": {
+      "message": "ಗಾಢ ಕಿತ್ತಳೆ 1"
+   },
+   "color_dark_orange_2": {
+      "message": "ಗಾಢ ಕಿತ್ತಳೆ 2"
+   },
+   "color_dark_orange_3": {
+      "message": "ಗಾಢ ಕಿತ್ತಳೆ 3"
+   },
+   "color_dark_purple_1": {
+      "message": "ಗಾಢ ನೇರಳೆ 1"
+   },
+   "color_dark_purple_2": {
+      "message": "ಗಾಢ ನೇರಳೆ 2"
+   },
+   "color_dark_purple_3": {
+      "message": "ಗಾಢ ನೇರಳೆ 3"
+   },
+   "color_dark_red": {
+      "message": "ಗಾಢ ಕೆಂಪು"
+   },
+   "color_dark_red_1": {
+      "message": "ಗಾಢ ಕೆಂಪು 1"
+   },
+   "color_dark_red_2": {
+      "message": "ಗಾಢ ಕೆಂಪು 2"
+   },
+   "color_dark_red_3": {
+      "message": "ಗಾಢ ಕೆಂಪು 3"
+   },
+   "color_dark_red_berry_1": {
+      "message": "ಗಾಢ ಕೆಂಪು ಬೆರ್ರಿ 1"
+   },
+   "color_dark_red_berry_2": {
+      "message": "ಗಾಢ ಕೆಂಪು ಬೆರ್ರಿ 2"
+   },
+   "color_dark_red_berry_3": {
+      "message": "ಗಾಢ ಕೆಂಪು ಬೆರ್ರಿ 3"
+   },
+   "color_dark_slate_blue": {
+      "message": "ಗಾಢ ಬಳಪ ನೀಲಿ"
+   },
+   "color_dark_yellow_1": {
+      "message": "ಗಾಢ ಹಳದಿ 1"
+   },
+   "color_dark_yellow_2": {
+      "message": "ಗಾಢ ಹಳದಿ 2"
+   },
+   "color_dark_yellow_3": {
+      "message": "ಗಾಢ ಹಳದಿ 3"
+   },
+   "color_deep_pink": {
+      "message": "ಗಾಢ ಗುಲಾಬಿ"
+   },
+   "color_deep_sky_blue": {
+      "message": "ಗಾಢ ಆಕಾಶ ನೀಲಿ"
+   },
+   "color_eucalyptus_green": {
+      "message": "ನೀಲಗಿರಿ ಹಸಿರು"
+   },
+   "color_gold": {
+      "message": "ಚಿನ್ನ"
+   },
+   "color_gray": {
+      "message": "ಬೂದು"
+   },
+   "color_green": {
+      "message": "ಹಸಿರು"
+   },
+   "color_light_blue": {
+      "message": "ತಿಳಿ ನೀಲಿ"
+   },
+   "color_light_blue_1": {
+      "message": "ತಿಳಿ ನೀಲಿ 1"
+   },
+   "color_light_blue_2": {
+      "message": "ತಿಳಿ ನೀಲಿ 2"
+   },
+   "color_light_blue_3": {
+      "message": "ತಿಳಿ ನೀಲಿ 3"
+   },
+   "color_light_cornflower_blue_1": {
+      "message": "ತಿಳಿ ಎದ್ದುಕಾಣುವ ನೀಲಿ 1"
+   },
+   "color_light_cornflower_blue_2": {
+      "message": "ತಿಳಿ ಎದ್ದುಕಾಣುವ ನೀಲಿ 2"
+   },
+   "color_light_cornflower_blue_3": {
+      "message": "ತಿಳಿ ಎದ್ದುಕಾಣುವ ನೀಲಿ 3"
+   },
+   "color_light_cyan": {
+      "message": "ತಿಳಿ ಹಸಿರುನೀಲಿ"
+   },
+   "color_light_cyan_1": {
+      "message": "ತಿಳಿ ಹಸಿರುನೀಲಿ 1"
+   },
+   "color_light_cyan_2": {
+      "message": "ತಿಳಿ ಹಸಿರುನೀಲಿ 2"
+   },
+   "color_light_cyan_3": {
+      "message": "ತಿಳಿ ಹಸಿರುನೀಲಿ 3"
+   },
+   "color_light_gray": {
+      "message": "ತಿಳಿ ಬೂದು"
+   },
+   "color_light_gray_1": {
+      "message": "ತಿಳಿ ಬೂದು 1"
+   },
+   "color_light_gray_2": {
+      "message": "ತಿಳಿ ಬೂದು 2"
+   },
+   "color_light_gray_3": {
+      "message": "ತಿಳಿ ಬೂದು 3"
+   },
+   "color_light_green": {
+      "message": "ತಿಳಿ ಹಸಿರು"
+   },
+   "color_light_green_1": {
+      "message": "ತಿಳಿ ಹಸಿರು 1"
+   },
+   "color_light_green_2": {
+      "message": "ತಿಳಿ ಹಸಿರು 2"
+   },
+   "color_light_green_3": {
+      "message": "ತಿಳಿ ಹಸಿರು 3"
+   },
+   "color_light_magenta_1": {
+      "message": "ತಿಳಿ ಮಜೆಂತಾ 1"
+   },
+   "color_light_magenta_2": {
+      "message": "ತಿಳಿ ಮಜೆಂತಾ 2"
+   },
+   "color_light_magenta_3": {
+      "message": "ತಿಳಿ ಮಜೆಂತಾ 3"
+   },
+   "color_light_orange_1": {
+      "message": "ತಿಳಿ ಕಿತ್ತಳೆ 1"
+   },
+   "color_light_orange_2": {
+      "message": "ತಿಳಿ ಕಿತ್ತಳೆ 2"
+   },
+   "color_light_orange_3": {
+      "message": "ತಿಳಿ ಕಿತ್ತಳೆ 3"
+   },
+   "color_light_purple": {
+      "message": "ತಿಳಿ ನೇರಳೆ"
+   },
+   "color_light_purple_1": {
+      "message": "ತಿಳಿ ನೇರಳೆ 1"
+   },
+   "color_light_purple_2": {
+      "message": "ತಿಳಿ ನೇರಳೆ 2"
+   },
+   "color_light_purple_3": {
+      "message": "ತಿಳಿ ನೇರಳೆ 3"
+   },
+   "color_light_red_1": {
+      "message": "ತಿಳಿ ಕೆಂಪು 1"
+   },
+   "color_light_red_2": {
+      "message": "ತಿಳಿ ಕೆಂಪು 2"
+   },
+   "color_light_red_3": {
+      "message": "ತಿಳಿ ಕೆಂಪು 3"
+   },
+   "color_light_red_berry_1": {
+      "message": "ತಿಳಿ ಕೆಂಪು ಬೆರ್ರಿ 1"
+   },
+   "color_light_red_berry_2": {
+      "message": "ತಿಳಿ ಕೆಂಪು ಬೆರ್ರಿ 2"
+   },
+   "color_light_red_berry_3": {
+      "message": "ತಿಳಿ ಕೆಂಪು ಬೆರ್ರಿ 3"
+   },
+   "color_light_yellow": {
+      "message": "ತಿಳಿ ಹಳದಿ"
+   },
+   "color_light_yellow_1": {
+      "message": "ತಿಳಿ ಹಳದಿ 1"
+   },
+   "color_light_yellow_2": {
+      "message": "ತಿಳಿ ಹಳದಿ 2"
+   },
+   "color_light_yellow_3": {
+      "message": "ತಿಳಿ ಹಳದಿ 3"
+   },
+   "color_magenta": {
+      "message": "ಮಜೆಂತಾ"
+   },
+   "color_maroon": {
+      "message": "ಕಡುಗೆಂಪು"
+   },
+   "color_midnight_blue": {
+      "message": "ಕಡುಬಣ್ಣದ ನೀಲಿ"
+   },
+   "color_navy": {
+      "message": "ಕಡು ನೀಲಿ"
+   },
+   "color_olive": {
+      "message": "ಆಲಿವ್"
+   },
+   "color_orange": {
+      "message": "ಕಿತ್ತಳೆ"
+   },
+   "color_peach": {
+      "message": "ಪೀಚ್‌"
+   },
+   "color_pink": {
+      "message": "ಗುಲಾಬಿ"
+   },
+   "color_pistachio": {
+      "message": "ಎಲೆ ಹಸಿರು"
+   },
+   "color_purple": {
+      "message": "ನೇರಳೆ"
+   },
+   "color_red": {
+      "message": "ಕೆಂಪು"
+   },
+   "color_red_berry": {
+      "message": "ಕೆಂಪು ಬೆರ್ರಿ"
+   },
+   "color_royal_blue": {
+      "message": "ಕಡುನೀಲಿ"
+   },
+   "color_teal": {
+      "message": "ಗಾಢ ಹಸಿರು-ನೀಲಿ"
+   },
+   "color_turquiose": {
+      "message": "ಟರ್ಕ್ಯೂಸ್"
+   },
+   "color_white": {
+      "message": "ಬಿಳಿ"
+   },
+   "color_yellow": {
+      "message": "ಹಳದಿ"
+   },
+   "command_key": {
+      "message": "ಆದೇಶ"
+   },
+   "content_msg_merging_horizontally_across_vertical_section": {
+      "message": "ಪ್ರಸ್ತುತ ಲಂಬವಾಗಿ ವಿಲೀನಗೊಂಡ ವಿಭಾಗದಾದ್ಯಂತ ಅಡ್ಡಲಾಗಿ ವಿಲೀನಗೊಳಿಸಲು ನಿಮಗೆ ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ."
+   },
+   "content_msg_merging_multiple_cells_with_text": {
+      "message": "ಸೆಲ್‌ಗಳನ್ನು ವಿಲೀನಗೊಳಿಸುವುದರಿಂದ ಕೇವಲ ಮೇಲ್ಭಾಗದ-ತೀರಾ ಎಡಭಾಗದ ಮೌಲ್ಯವು ಮಾತ್ರ ಸಂರಕ್ಷಿಸಲ್ಪಡುತ್ತದೆ. ಏನೇ ಆಗಲಿ ವಿಲೀನಗೊಳಿಸುವುದೇ?"
+   },
+   "content_msg_merging_partially_selected_merged_cells": {
+      "message": "ವಿಲೀನಗೊಂಡ ಶ್ರೇಣಿಯಲ್ಲಿರುವ ಎಲ್ಲಾ ಸೆಲ್‌ಗಳನ್ನು ವಿಲೀನಗೊಳಿಸಲು ಅಥವಾ ವಿಲೀನಗೊಂಡದ್ದನ್ನು ಬೇರ್ಪಡಿಸಲು ಅವುಗಳನ್ನು ನೀವು ಆಯ್ಕೆಮಾಡಬೇಕು."
+   },
+   "content_msg_merging_vertically_across_horizontal_section": {
+      "message": "ಪ್ರಸ್ತುತ ಅಡ್ಡವಾಗಿ ವಿಲೀನಗೊಂಡ ವಿಭಾಗದಾದ್ಯಂತ ಲಂಬವಾಗಿ ವಿಲೀನಗೊಳಿಸಲು ನಿಮಗೆ ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ."
+   },
+   "content_render_error_msg": {
+      "message": "ಈ ಡಾಕ್ಯುಮೆಂಟಿನ ವಿಷಯದೊಂದಿಗೆ ಸಮಸ್ಯೆಯೊಂದು ಕಂಡುಬಂದಿದೆ."
+   },
+   "context_menu_clipboard_copy": {
+      "message": "ನಕಲಿಸು"
+   },
+   "context_menu_delete": {
+      "message": "ಅಳಿಸಿ"
+   },
+   "context_menu_freeze": {
+      "message": "ಫ್ರೀಜ್ ಮಾಡಿ"
+   },
+   "context_menu_insert": {
+      "message": "ಸೇರಿಸು"
+   },
+   "context_menu_sort_collation_ascending": {
+      "message": "a-z ವಿಂಗಡಿಸು"
+   },
+   "context_menu_sort_collation_descending": {
+      "message": "z-a ವಿಂಗಡಿಸು"
+   },
+   "context_menu_unfreeze": {
+      "message": "ಅನ್‌ಫ್ರೀಜ್ ಮಾಡಿ"
+   },
+   "control_key": {
+      "message": "ನಿಯಂತ್ರಣ"
+   },
+   "convert_attempt_when_offline": {
+      "message": "Google ಡಾಕ್ಸ್‌ ರೂಪದಲ್ಲಿ ಉಳಿಸಲು ನೀವು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿರಬೇಕಾಗುತ್ತದೆ. ನಿಮ್ಮ ಸಂಪರ್ಕ ಮರುಸ್ಥಾಪನೆಗೊಂಡ ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "convert_attempt_with_invalid_creds": {
+      "message": "ಈ ಫೈಲ್ ಅನ್ನು ಪರಿವರ್ತಿಸಲು, ನೀವು ನಿಮ್ಮ Google ಖಾತೆಗೆ ಸೈನ್ ಇನ್ ಆಗಬೇಕಾಗುತ್ತದೆ."
+   },
+   "convert_cancel": {
+      "message": "ರದ್ದುಮಾಡಿ"
+   },
+   "convert_to_google_docs_failed": {
+      "message": "ನಿಮ್ಮ ಡಾಕ್ಯುಮೆಂಟ್‌ ಅನ್ನು Google ಡಾಕ್ಸ್‌ಗೆ ಪರಿವರ್ತಿಸುವಲ್ಲಿ ಸಮಸ್ಯೆ ಎದುರಾಗಿದೆ."
+   },
+   "convert_to_google_point_fail_short_msg": {
+      "message": "ಓಹ್‌"
+   },
+   "convert_to_google_point_short_msg": {
+      "message": "Google ಸ್ಲೈಡ್‌ಗಳ ರೂಪದಲ್ಲಿ ಉಳಿಸಲಾಗುತ್ತಿದೆ"
+   },
+   "convert_to_google_sheet_fail_short_msg": {
+      "message": "ಓಹ್‌"
+   },
+   "convert_to_google_sheet_short_msg": {
+      "message": "Google ಶೀಟ್‌ಗಳ ರೂಪದಲ್ಲಿ ಉಳಿಸಲಾಗುತ್ತಿದೆ"
+   },
+   "convert_to_google_word_fail_short_msg": {
+      "message": "ಓಹ್‌"
+   },
+   "convert_to_google_word_short_msg": {
+      "message": "Google ಡಾಕ್ಸ್‌ ರೂಪದಲ್ಲಿ ಉಳಿಸಲಾಗುತ್ತಿದೆ"
+   },
+   "convert_try_again": {
+      "message": "ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ"
+   },
+   "converting_to_google_point_fail_msg": {
+      "message": "ಸದ್ಯಕ್ಕೆ ನಿಮ್ಮ ಫೈಲ್‌ಗಳನ್ನು Google ಸ್ಲೈಡ್‌‌ಗಳ ರೂಪದಲ್ಲಿ ಉಳಿಸಲು ನಮಗೆ ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ."
+   },
+   "converting_to_google_point_msg": {
+      "message": "ನಿಮ್ಮ ಪ್ರಸ್ತುತಿಯ ಹೊಸ ಆವೃತ್ತಿಯನ್ನು Google ಸ್ಲೈಡ್‌ಗಳ ರೂಪದಲ್ಲಿ ಉಳಿಸಲಾಗುತ್ತಿದೆ."
+   },
+   "converting_to_google_sheet_fail_msg": {
+      "message": "ಸದ್ಯಕ್ಕೆ ನಿಮ್ಮ ಫೈಲ್‌ ಅನ್ನು Google ಶೀಟ್‌‌ಗಳ ರೂಪದಲ್ಲಿ ಉಳಿಸಲು ನಮಗೆ ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ."
+   },
+   "converting_to_google_sheet_msg": {
+      "message": "ನಿಮ್ಮ ಸ್ಪ್ರೆಡ್‌ಶೀಟ್‌ನ ಹೊಸ ಆವೃತ್ತಿಯನ್ನು Google ಶೀಟ್‌ಗಳ ರೂಪದಲ್ಲಿ ಉಳಿಸಲಾಗುತ್ತಿದೆ."
+   },
+   "converting_to_google_word_fail_msg": {
+      "message": "ಸದ್ಯಕ್ಕೆ ನಿಮ್ಮ ಫೈಲ್‌ ಅನ್ನು Google ಡಾಕ್ಸ್‌‌ನ ರೂಪದಲ್ಲಿ ಉಳಿಸಲು ನಮಗೆ ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ."
+   },
+   "converting_to_google_word_msg": {
+      "message": "ನಿಮ್ಮ ಡಾಕ್ಯುಮೆಂಟ್‌ನ ಹೊಸ ಆವೃತ್ತಿಯನ್ನು Google ಡಾಕ್ಸ್‌‌ ರೂಪದಲ್ಲಿ ಉಳಿಸಲಾಗುತ್ತಿದೆ."
+   },
+   "copy_attempt_when_offline": {
+      "message": "Google ಡ್ರೈವ್‌‌‌ನಲ್ಲಿ ನಕಲು ಮಾಡಲು ನೀವು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿರಬೇಕಾಗುತ್ತದೆ. ನಿಮ್ಮ ಸಂಪರ್ಕ ಮರುಸ್ಥಾಪನೆಗೊಂಡಾಗ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "copy_attempt_with_invalid_creds": {
+      "message": "ನಕಲು ಮಾಡುವ ಸಲುವಾಗಿ, ನಿಮ್ಮ Google ಖಾತೆಗೆ ನೀವು ಸೈನ್ ಇನ್ ಮಾಡಬೇಕಾಗುತ್ತದೆ."
+   },
+   "disabled_share_button": {
+      "message": "ಮ್ಯಾಕ್ರೋ-ಸಕ್ರಿಯಗೊಳಿಸಿದ ಫೈಲ್‌ಗಳನ್ನು Google ಡ್ರೈವ್‌ನಿಂದ ಮಾತ್ರ ಹಂಚಿಕೊಳ್ಳಬಹುದಾಗಿದೆ. ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದ ಹಂಚಿಕೆ."
+   },
+   "disallowed_cut_copy_paste_cmd_copy": {
+      "message": "ನಕಲಿಸುವುದಕ್ಕಾಗಿ"
+   },
+   "disallowed_cut_copy_paste_cmd_cut": {
+      "message": "ಕತ್ತರಿಸುವುದಕ್ಕಾಗಿ"
+   },
+   "disallowed_cut_copy_paste_cmd_paste": {
+      "message": "ಅಂಟಿಸುವುದಕ್ಕಾಗಿ"
+   },
+   "disallowed_cut_copy_paste_msg": {
+      "message": "\"ಎಡಿಟ್ ಮಾಡಿ\" ಮತ್ತು \"ಸಂದರ್ಭ ಮೆನು\" ಗಳನ್ನು ಬಳಸಿಕೊಂಡು ನೀವು ಈ ಕ್ರಿಯೆಗಳನ್ನು ನಿರ್ವಹಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ, ಆದರೆ ನೀವು ಇನ್ನೂ ಬಳಸಬಹುದು:"
+   },
+   "disallowed_cut_copy_paste_title": {
+      "message": "Office ಹೊಂದಾಣಿಕೆ ಮೋಡ್‌ನಲ್ಲಿ ನಕಲಿಸಿ ಮತ್ತು ಅಂಟಿಸಿ"
+   },
+   "dismiss": {
+      "message": "ವಜಾಗೊಳಿಸಿ"
+   },
+   "document_title_aria_spoken_word": {
+      "message": "ಡಾಕ್ಯುಮೆಂಟ್ ಶೀರ್ಷಿಕೆ:"
+   },
+   "down_key": {
+      "message": "ಕೆಳಗೆ"
+   },
+   "download_button": {
+      "message": "ಡೌನ್‌ಲೋಡ್"
+   },
+   "download_file_timeout_error_msg": {
+      "message": "ನೀವು ತೆರಯುತ್ತಿರುವ ಫೈಲ್ ಲೋಡ್ ಆಗಲು ನಿರೀಕ್ಷಿಸಿದ್ದಕ್ಕಿಂತಲೂ ಹೆಚ್ಚು ಸಮಯ ತೆಗೆದುಕೊಳ್ಳುತ್ತಿದೆ. ನಿಮ್ಮ ನೆಟ್‌ವರ್ಕ್ ಸಂಪರ್ಕವನ್ನು ಪರೀಕ್ಷಿಸಿ ಹಾಗೂ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "download_file_timeout_error_short_msg": {
+      "message": "ಫೈಲ್ ನಿರೀಕ್ಷಿತ ಸಮಯಕ್ಕಿಂತಲೂ ಹೆಚ್ಚು ಸಮಯ ತೆಗೆದುಕೊಳ್ಳುತ್ತಿದೆ"
+   },
+   "drive_open_timeout_error_msg": {
+      "message": "ನಿಮ್ಮ ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕದಲ್ಲಿ ಸಮಸ್ಯೆ ಇರುವಂತೆ ತೋರುತ್ತಿದೆ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಸಂಪರ್ಕವನ್ನು ಪರೀಕ್ಷಿಸಿ ಬಳಿಕ ಫೈಲ್ ತೆರೆಯಲು ಮರುಪ್ರಯತ್ನಿಸಿ. ನೀವು ಈ ದೋಷ ಹೀಗೆಯೇ ಮುಂದುವರಿದರೆ, ದಯವಿಟ್ಟು ಸಮಸ್ಯೆಯನ್ನು ಕೆಳಗೆ ವರದಿ ಮಾಡಿ."
+   },
+   "drive_open_timeout_error_short_msg": {
+      "message": "ಓಹ್‌. ನೀವು ವಿನಂತಿಸಿದ ಫೈಲ್‌ ನಮಗೆ ತೆರೆಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ."
+   },
+   "duplicate_sheet_name_message": {
+      "message": "ಬೇರೊಂದು ಶೀಟ್‌ನಲ್ಲಿ ಬಳಕೆಯಲ್ಲಿಲ್ಲದ ಶೀಟ್ ಹೆಸರನ್ನು ನಮೂದಿಸಿ"
+   },
+   "duplicate_sheet_name_title": {
+      "message": "ಆ ಶೀಟ್ ಹೆಸರು ಈಗಾಗಲೇ ಬಳಕೆಯಲ್ಲಿದೆ"
+   },
+   "edits_not_being_saved": {
+      "message": "ಸಂಪಾದನೆಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಉಳಿಸಲಾಗುವುದಿಲ್ಲ."
+   },
+   "edits_now_being_auto_saved": {
+      "message": "ಫೈಲ್‌ ಉಳಿಸಲಾಗಿದೆ. ಎಲ್ಲಾ ಸಂಪಾದನೆಗಳನ್ನು ಇದೀಗ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಉಳಿಸಲಾಗುತ್ತದೆ."
+   },
+   "entry_point_error_msg": {
+      "message": "ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ ಅಥವಾ ಕೆಳಗೆ ಸಮಸ್ಯೆಯನ್ನು ವರದಿಮಾಡಿ."
+   },
+   "entry_point_error_short_msg": {
+      "message": "ಓಹ್. ನೀವು ಯಾವ ಫೈಲ್ ತೆರೆಯಲು ಬಯಸುತ್ತಿರುವಿರಿ ಎಂಬುದನ್ನು ನಿರ್ಧರಿಸಲು ನಮಗೆ ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ."
+   },
+   "error_occurred": {
+      "message": "ದೋಷವೊಂದು ಕಾಣಿಸಿಕೊಂಡಿದೆ."
+   },
+   "error_password_required_msg": {
+      "message": "ನಾವು ಇಂದು ಸಂರಕ್ಷಿಸಲಾದ ಫೈಲ್‌ಗಳನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ, ಆದರೆ ಅದರಲ್ಲಿ ನಾವು ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದ್ದೇವೆ."
+   },
+   "error_password_required_short_msg": {
+      "message": "ಈ ಫೈಲ್ ಪಾಸ್‌ವರ್ಡ್ ಸಂರಕ್ಷಿತವಾಗಿದೆ."
+   },
+   "expanded": {
+      "message": "ವಿಸ್ತೃತವಾದ"
+   },
+   "expanded_menu": {
+      "message": "ಉಪಮೆನುವಿನ ಜೊತೆಗೆ ವಿಸ್ತೃತವಾದ $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "extension_description": {
+      "message": "Google ಡಾಕ್ಸ್, ಶೀಟ್‌ಗಳು ಮತ್ತು ಸ್ಲೈಡ್‌ಗಳ ಸಹಾಯದಿಂದ Microsoft Word, Excel, ಮತ್ತು PowerPoint ಫೈಲ್‌ಗಳನ್ನು ವೀಕ್ಷಿಸಿ ಮತ್ತು ಎಡಿಟ್ ಮಾಡಿ"
+   },
+   "extension_name": {
+      "message": "Office ಎಡಿಟ್"
+   },
+   "extension_popup_message_body": {
+      "message": "ಪ್ರಸ್ತುತ ಫೈಲ್‌ಗಳನ್ನು ತೆರೆಯಲು, ಅವುಗಳನ್ನು ಬ್ರೌಸರ್‌ನಲ್ಲಿ ಡ್ರ್ಯಾಗ್ ಮಾಡಿ ಮತ್ತು ಡ್ರಾಪ್ ಮಾಡಿ"
+   },
+   "extension_popup_new_document_header": {
+      "message": "ಹೊಸತು..."
+   },
+   "extension_popup_new_presentation_document": {
+      "message": "PowerPoint ಪ್ರದರ್ಶನ"
+   },
+   "extension_popup_new_spreadsheet_document": {
+      "message": "Excel ಸ್ಪ್ರೆಡ್‌ಶೀಟ್"
+   },
+   "extension_popup_new_word_document": {
+      "message": "Word ಡಾಕ್ಯುಮೆಂಟ್"
+   },
+   "feedback_textbox_editing": {
+      "message": "ಪಠ್ಯ ಬಾಕ್ಸ್‌ಗಳ ಒಳಗೆ ಪಠ್ಯ ಸಂಪಾದಿಸುವುದನ್ನು ಬೆಂಬಲಿಸಿ."
+   },
+   "feedback_ui_template": {
+      "message": "1- ದಯವಿಟ್ಟು ನೀವು ಎದುರಿಸುತ್ತಿರುವ ಸಮಸ್ಯೆಯನ್ನು ವಿವರಿಸಿ.\n2- ಫೈಲ್ ತೆರೆಯುವ ಸಮಯದಲ್ಲಿ ಸಮಸ್ಯೆಯುಂಟಾಗಿದೆಯೇ, ಅಥವಾ ಫೈಲ್ ಎಡಿಟ್ ಮಾಡಲು ಪ್ರಯತ್ನಿಸುತ್ತಿರುವಾಗ ಬಂದಿದೆಯೇ?\n3- ಯಾವುದೇ ಫೈಲ್‌ಗಳನ್ನು ನೀವು ತೆರೆಯಲು ಅಥವಾ ಎಡಿಟ್ ಮಾಡಲು ಪ್ರಯತ್ನಿಸುವಾಗ ಸಂಭವಿಸಿದೆಯೇ, ಅಥವಾ ಕೇವಲ ಒಂದು ನಿರ್ದಿಷ್ಟ ಫೈಲ್‌ಗಳಿಗೆ ಮಾತ್ರವೇ?\n\nಈ ಸಮಸ್ಯೆಯು ಒಂದು ನಿರ್ದಿಷ್ಟ ಫೈಲ್‌ಗೆ ಸೀಮಿಗೊಂಡಿದ್ದರೆ, ದಯವಿಟ್ಟು ಆ ಫೈಲ್ ಅನ್ನು ಈ ವರದಿಯ ಜೊತೆಗೆ ಲಗತ್ತಿಸಲು ಹಿಂಜರಿಯಬೇಡಿ. ಏಕೆಂದರೆ ಸಮಸ್ಯೆಯನ್ನು ಕೂಲಂಕುಷವಾಗಿ ನಿವಾರಿಸುವಲ್ಲಿ ಇದು ನಮಗೆ ತುಂಬಾ ಸಹಕಾರಿಯಾಗಿರುತ್ತದೆ."
+   },
+   "file_does_not_exist_error_details": {
+      "message": "ಈ ಫೈಲ್ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ. ನೀವು ಹಂಚಿಕೊಂಡ ಲಿಂಕ್ ಅಥವಾ ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡಿದ ಡಾಕ್ಯುಮೆಂಟ್ ಅನ್ನು ತೆರೆಯಲು ಪ್ರಯತ್ನಿಸಿರಬಹುದು. ಫೈಲ್ ಅನ್ನು ಅದರ ಮೂಲದಿಂದ ಮರಳಿ ತೆರೆಯಲು ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "file_does_not_exist_error_title": {
+      "message": "ಫೈಲ್ ಕಂಡುಬಂದಿಲ್ಲ."
+   },
+   "file_loading_spinner_label": {
+      "message": "ಲೋಡ್ ಆಗುತ್ತಿದೆ"
+   },
+   "file_missing_content_msg": {
+      "message": "ಈ ಫೈಲ್‌ನ ಇಡೀ ವಿಷಯವನ್ನು ಓದುವಲ್ಲಿ ಸಮಸ್ಯೆ ಎದುರಾಗಿದೆ; ನೀವು ಫೈಲ್‌ ಅನ್ನು ಮರು ಹೆಸರಿಸುವುದು ಮತ್ತು ಮರು ತೆರೆಯುವುದು ಒಳ್ಳೆಯದು ಎಂಬುದು ನಮ್ಮ ಭಾವನೆ."
+   },
+   "file_missing_content_short_msg": {
+      "message": "ಡಾಕ್ಯುಮೆಂಟ್‌ನ ವಿಷಯ ಕಾಣೆಯಾಗಿದೆ."
+   },
+   "file_not_found_error_msg": {
+      "message": "ಫೈಲ್ ಪ್ರವೇಶಿಸಲು ನೀವು ಅನುಮತಿಯನ್ನು ಹೊಂದಿರುವಿರಾ ಎಂಬುದನ್ನು ಖಾತ್ರಿಪಡಿಸಿಕೊಳ್ಳಲು ದಯವಿಟ್ಟು ಅದರ ಮಾಲೀಕರನ್ನು ಸಂಪರ್ಕಿಸಿ. ಈ ದೋಷ ಹೀಗೆಯೇ ಮುಂದುವರಿದರೆ ಮತ್ತು ಅನುಮತಿಯನ್ನು ಹೊಂದಿದ್ದರೆ, ದಯವಿಟ್ಟು ಸಮಸ್ಯೆಯನ್ನು ಕೆಳಗೆ ವರದಿಮಾಡಿ."
+   },
+   "file_not_found_error_short_msg": {
+      "message": "ಓಹ್‌. ನೀವು ವಿನಂತಿಸಿದ ಫೈಲ್‌ ಅನ್ನು ತೆರೆಯಲು ನಮಗೆ ಸಾಧ್ಯವಾಗಲಿಲ್ಲ."
+   },
+   "file_not_found_exception": {
+      "message": "ವಿನಂತಿಸಲಾದ ಫೈಲ್ ಅನ್ನು ಅಳಿಸಿರಬಹುದು, ಮರುಹೆಸರಿಸಿರಬಹುದು ಅಥವಾ ಮತ್ತೊಂದು ಸ್ಥಳಕ್ಕೆ ಸರಿಸಿರಬೇಕು. ಇನ್ನಷ್ಟು  ಮುಂದುವರಿಸಲು ದಯವಿಟ್ಟು 'ಇದೀಗ ಉಳಿಸು' ಕ್ಲಿಕ್ ಮಾಡಿ."
+   },
+   "file_not_found_link_text": {
+      "message": "ಬಹು ಖಾತೆಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಸಹಾಯಕ್ಕಾಗಿ, ದಯವಿಟ್ಟು ಈ ಲೇಖನವನ್ನು ನೋಡಿ"
+   },
+   "file_not_found_msg": {
+      "message": "ನೀವು ವಿನಂತಿಸಲಾದ ಫೈಲ್ ಅನ್ನು ತಡೆಹಿಡಿಯಲಾಗಿದೆ ಮತ್ತು ಸರಿಸಲಾಗಿದೆ."
+   },
+   "file_not_found_title": {
+      "message": "ಫೈಲ್ ಕಂಡುಬಂದಿಲ್ಲ."
+   },
+   "file_open_crash_error_msg": {
+      "message": "ದೋಷ ಮುಂದುವರಿದರೆ, ದಯವಿಟ್ಟು ದೋಷವನ್ನು ಕೆಳಗೆ ವರದಿ ಮಾಡಿ."
+   },
+   "file_open_crash_error_short_msg": {
+      "message": "ಓಹ್‌. ನೀವು ವಿನಂತಿಸಿದ ಫೈಲ್‌ ತೆರೆಯಲು ನಮಗೆ ಸಾಧ್ಯವಾಗಲಿಲ್ಲ."
+   },
+   "file_open_error_msg": {
+      "message": "ಈ ಫೈಲ್‌ನ ವಿಷಯಗಳನ್ನು ಪ್ರವೇಶಿಸಲಾಗುವುದಿಲ್ಲ."
+   },
+   "file_open_error_short_msg": {
+      "message": "ಈ ಫೈಲ್ ದೋಷಪೂರಿತ ಎಂದು ತೋರುತ್ತದೆ."
+   },
+   "file_open_fail_download_link_text": {
+      "message": "ಫೈಲ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ"
+   },
+   "file_opened_in_incognito_mode_error_details": {
+      "message": "ಅದೃಶ್ಯದಲ್ಲಿ Office ಎಡಿಟಿಂಗ್ ವಿಸ್ತರಣೆ ಕಾರ್ಯನಿರ್ವಹಿಸುವುದಿಲ್ಲ. ದಯವಿಟ್ಟು ಸಾಮಾನ್ಯ Chrome ವಿಂಡೋ ಬಳಸಿ ಈ ಫೈಲ್ ಅನ್ನು ತೆರೆಯಿರಿ. ನೀವು ಅತಿಥಿ ಮೋಡ್‌ ಅನ್ನು ಬಳಸುತ್ತಿದ್ದರೆ ಫೈಲ್ ತೆರೆಯಲು ವಿಫಲವಾಗುತ್ತದೆ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಫೈಲ್ ಭ್ರಷ್ಟವಾಗಿಲ್ಲ ಅಥವಾ ಅಮಾನ್ಯವಾದ ಡಾಕ್ಯುಮೆಂಟ್ ಆಗಿಲ್ಲ ಎಂಬುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ ಮತ್ತು ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "file_opened_in_incognito_mode_error_title": {
+      "message": "ಓಹ್! ಅಜ್ಞಾತ ಮೋಡ್ ಬೆಂಬಲಿತವಾಗಿಲ್ಲ"
+   },
+   "file_pdf_type_rename_msg": {
+      "message": "ಫೈಲ್ ಅನ್ನು $1.pdf ಗೆ ಮರುಹೆಸರಿಸಿ ಹಾಗೂ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_rtf_type_rename_msg": {
+      "message": "ಫೈಲ್‌ ಅನ್ನು $1.rtf ಗೆ ಮರುಹೆಸರಿಸಿ",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "file_type_unsupported_msg": {
+      "message": "ಈ ಫೈಲ್ ಪ್ರಕಾರವನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ."
+   },
+   "fillcolor_aria_spoken_word": {
+      "message": "ಪಠ್ಯ ಬಣ್ಣದ ಡ್ರಾಪ್ ಡೌನ್ ಪಟ್ಟಿ"
+   },
+   "fontface_aria_spoken_word": {
+      "message": "ಫಾಂಟ್ ಫೇಸ್ ಡ್ರಾಪ್ ಡೌನ್ ಪಟ್ಟಿ"
+   },
+   "fontsize_aria_spoken_word": {
+      "message": "ಫಾಂಟ್ ಗಾತ್ರ ಡ್ರಾಪ್ ಡೌನ್ ಪಟ್ಟಿ"
+   },
+   "forbidden_access_level_error_msg": {
+      "message": "ಈ ಫೈಲ್ ತೆರೆಯಲು ನೀವು ಅನುಮತಿಯನ್ನು ಹೊಂದಿರುವಿರಾ ಎಂದು ಖಾತ್ರಿಪಡಿಸಿಕೊಳ್ಳಲು ದಯವಿಟ್ಟು ಮಾಲೀಕರನ್ನು ಸಂಪರ್ಕಿಸಿ. ಈ ದೋಷ ಹೀಗೆಯೇ ಮುಂದುವರಿದರೆ ಮತ್ತು ಅನುಮತಿಯನ್ನು ಹೊಂದಿದ್ದರೆ, ದಯವಿಟ್ಟು ಸಮಸ್ಯೆಯನ್ನು ಕೆಳಗೆ ವರದಿಮಾಡಿ."
+   },
+   "forbidden_access_level_error_short_msg": {
+      "message": "ಓಹ್‌. ನೀವು ವಿನಂತಿಸಿದ ಫೈಲ್‌ ನಮಗೆ ತೆರೆಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ."
+   },
+   "forbidden_app_access_error_msg": {
+      "message": "ಕೆಲವು ಕಾರಣಗಳಿಂದಾಗಿ ಈ ಫೈಲ್ ತೆರೆಯಲು ನಮಗೆ ಅನುಮತಿ ಇಲ್ಲ. ದಯವಿಟ್ಟು Google ಡ್ರೈವ್‌ನಿಂದ ಫೈಲ್ ತೆರೆಯಲು ಪ್ರಯತ್ನಿಸಿ, ಅಥವಾ ಸಮಸ್ಯೆಯನ್ನು ಕೆಳಗೆ ವರದಿ ಮಾಡಿ."
+   },
+   "forbidden_app_access_error_short_msg": {
+      "message": "ಓಹ್‌. ನೀವು ವಿನಂತಿಸಿದ ಫೈಲ್‌ ನಮಗೆ ತೆರೆಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ."
+   },
+   "forbidden_app_id_error_msg": {
+      "message": "Chrome ವಿಸ್ತರಣೆಯನ್ನು ಸರಿಯಾಗಿ ಕಾನ್‌ಫಿಗರ್ ಮಾಡಿಲ್ಲದಿರುವಂತೆ ತೋರುತ್ತಿದೆ. ಇದು ಹೇಗೆ ಸಾಧ್ಯ? ನಮಗೆ ಸಂಪೂರ್ಣ ಖಚಿತವಾಗಿ ತಿಳಿದಿಲ್ಲ, ಆದರೆ ದಯವಿಟ್ಟು ಸಮಸ್ಯೆಯನ್ನು ಕೆಳಗೆ ವರದಿ ಮಾಡಿ."
+   },
+   "forbidden_app_id_error_short_msg": {
+      "message": "ಓಹ್‌. ನೀವು ವಿನಂತಿಸಿದ ಫೈಲ್‌ ನಮಗೆ ತೆರೆಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ."
+   },
+   "forbidden_blacklist_error_msg": {
+      "message": "ಈ Chrome ವಿಸ್ತರಣೆಯನ್ನು ಕಪ್ಪುಪಟ್ಟಿಗೆ ಸೇರಿಸಲಾಗಿದೆ ಎಂದು ತೋರುತ್ತಿದೆ. ಇದು ಸಂಪೂರ್ಣ ತಪ್ಪಾಗಿದೆ, ಆದ್ದರಿಂದಾಗಿ ಸಮಸ್ಯೆಯನ್ನು ಕೆಳಗೆ ವರದಿ ಮಾಡುವ ಮೂಲಕ ದಯವಿಟ್ಟು ನಮಗೆ ಅದರ ಕುರಿತು ತಿಳಿಸಿ."
+   },
+   "forbidden_blacklist_error_short_msg": {
+      "message": "ಓಹ್‌. ನೀವು ವಿನಂತಿಸಿದ ಫೈಲ್‌ ನಮಗೆ ತೆರೆಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ."
+   },
+   "forbidden_domain_error_msg": {
+      "message": "ನಿಮ್ಮ ಡೊಮೇನ್ ಈ ಫೈಲ್‌ಗೆ ಪ್ರವೇಶವನ್ನು ನಿಷೇಧಿಸಿದೆ ಎಂದು ತೋರುತ್ತಿದೆ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಡೊಮೇನ್ ನಿರ್ವಾಹಕರನ್ನು ಸಂಪರ್ಕಿಸಿ ಅಥವಾ ಸಮಸ್ಯೆಯನ್ನು ಕೆಳಗೆ ವರದಿಮಾಡಿ."
+   },
+   "forbidden_domain_error_short_msg": {
+      "message": "ಓಹ್‌. ನೀವು ವಿನಂತಿಸಿದ ಫೈಲ್‌ ನಮಗೆ ತೆರೆಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ."
+   },
+   "forbidden_internal_error_msg": {
+      "message": "ದುರದೃಷ್ಟವಶಾತ್, Google ಡ್ರೈವ್ ನಿರೀಕ್ಷಿಸಿದಂತೆ ಕೆಲಸ ಮಾಡುತ್ತಿಲ್ಲ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಫೈಲ್ ಅನ್ನು ಮತ್ತೆ ತೆರೆಯಲು ಪ್ರಯತ್ನಿಸಿ, ಅಥವಾ ಸಮಸ್ಯೆಯನ್ನು ಕೆಳಗೆ ವರದಿಮಾಡಿ."
+   },
+   "forbidden_internal_error_short_msg": {
+      "message": "ಓಹ್‌. ನೀವು ವಿನಂತಿಸಿದ ಫೈಲ್‌ ನಮಗೆ ತೆರೆಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ."
+   },
+   "forbidden_not_installed_error_msg": {
+      "message": "Chrome ವಿಸ್ತರಣೆಯನ್ನು ಸರಿಯಾಗಿ ಸ್ಥಾಪಿಸಿದಂತೆ ತೋರುತ್ತಿಲ್ಲ. ಇದು ಹೇಗೆ ಸಾಧ್ಯ? ನಮಗೆ ಸಂಪೂರ್ಣ ಖಚಿತವಾಗಿ ತಿಳಿದಿಲ್ಲ, ಆದರೆ ದಯವಿಟ್ಟು ಸಮಸ್ಯೆಯನ್ನು ಕೆಳಗೆ ವರದಿ ಮಾಡಿ."
+   },
+   "forbidden_not_installed_error_short_msg": {
+      "message": "ಓಹ್‌. ನೀವು ವಿನಂತಿಸಿದ ಫೈಲ್‌ ನಮಗೆ ತೆರೆಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ."
+   },
+   "generic_error_msg": {
+      "message": "ಈ ಡಾಕ್ಯುಮೆಂಟಿನ ವಿಷಯದೊಂದಿಗೆ ಸಮಸ್ಯೆಯೊಂದು ಕಂಡುಬಂದಿದೆ."
+   },
+   "generic_error_short_msg": {
+      "message": "ಓಹ್. ಇದಾಗಬಾರದಿತ್ತು - ನಿಮ್ಮ ಬದಲಾವಣಿಗಳನ್ನು ಮರುಪಡೆಯಲು ಪುಟವನ್ನು ಮರುಲೋಡ್ ಮಾಡಿ."
+   },
+   "get_lists_data_error_msg": {
+      "message": "ತಪ್ಪಾದ ಪಟ್ಟಿ ಸ್ವರೂಪಗೊಳಿಸುವಿಕೆಯೊಂದಿಗೆ ಡಾಕ್ಯುಮೆಂಟ್ ತೋರಿಸಬಹುದು."
+   },
+   "get_lists_data_error_short_msg": {
+      "message": "ಡಾಕ್ಯುಮೆಂಟ್ ಸ್ವರೂಪಗೊಳಿಸುವಿಕೆಯನ್ನು ಮರುಪಡೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ."
+   },
+   "highlightcolor_aria_spoken_word": {
+      "message": "ಪಠ್ಯ ಹೈಲೈಟ್ ಮಾಡುವ ಬಣ್ಣದ ಡ್ರಾಪ್ ಡೌನ್ ಪಟ್ಟಿ"
+   },
+   "http_error_zero_msg": {
+      "message": "ಒಂದು ವೇಳೆ ಇದು ನೆಟ್‌ವರ್ಕ್‌ ಸಮಸ್ಯೆಯಾಗಿದ್ದರೆ, ದಯವಿಟ್ಟು ನಿಮ್ಮ ಸಂಪರ್ಕವನ್ನು ಪರಿಶೀಲಿಸಿ ಅಥವಾ ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ. ಒಂದು ವೇಳೆ ಸಮಸ್ಯೆ ಮುಂದುವರಿದರೆ, ಸಮಸ್ಯೆಯನ್ನು ಕೆಳಗೆ ವರದಿ ಮಾಡಿ."
+   },
+   "http_error_zero_short_msg": {
+      "message": "ಕ್ಷಮಿಸಿ, ನಮಗೆ ಈ ಫೈಲ್ ಅನ್ನು ತೆರೆಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ."
+   },
+   "info_file_copied": {
+      "message": "ಉಳಿಸಲಾಗಿದೆ"
+   },
+   "info_file_save_cancelled": {
+      "message": "ಉಳಿಸುವಿಕೆಯನ್ನು ರದ್ದುಮಾಡಲಾಗಿದೆ."
+   },
+   "info_file_save_failed": {
+      "message": "ಉಳಿಸಲು ವಿಫಲವಾಗಿದೆ."
+   },
+   "info_file_saved_at_location": {
+      "message": "ಎಲ್ಲಾ ಬದಲಾವಣೆಗಳನ್ನು $1 ನಲ್ಲಿ ಉಳಿಸಲಾಗಿದೆ",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "info_file_saved_in_drive": {
+      "message": "ಎಲ್ಲ ಬದಲಾವಣೆಗಳನ್ನು ಡ್ರೈವ್‌ನಲ್ಲಿ ಉಳಿಸಲಾಗಿದೆ"
+   },
+   "info_file_saved_locally": {
+      "message": "ಎಲ್ಲಾ ಬದಲಾವಣೆಗಳನ್ನು ಸ್ಥಳೀಯವಾಗಿ ಉಳಿಸಲಾಗಿದೆ"
+   },
+   "info_file_saved_offline": {
+      "message": "ಎಲ್ಲಾ ಬದಲಾವಣೆಗಳನ್ನು ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಉಳಿಸಲಾಗಿದೆ"
+   },
+   "info_file_saving": {
+      "message": "ಉಳಿಸಲಾಗುತ್ತಿದೆ..."
+   },
+   "initaddshape_aria_spoken_word": {
+      "message": "ಪಠ್ಯ ಪೆಟ್ಟಿಗೆ ಸೇರಿಸಿ"
+   },
+   "invalid_credentials_error_msg": {
+      "message": "ಈ ಫೈಲ್ ಪ್ರವೇಶಿಸಲು ನಿಮ್ಮ Google ಖಾತೆಗೆ ನೀವು ಸೈನ್ ಇನ್ ಮಾಡಬೇಕಾದ ಅಗತ್ಯವಿದೆ."
+   },
+   "invalid_credentials_error_short_msg": {
+      "message": "ಓಹ್‌. ನೀವು ವಿನಂತಿಸಿದ ಫೈಲ್‌ ನಮಗೆ ತೆರೆಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ."
+   },
+   "invalid_file_format_msg": {
+      "message": "ಫೈಲ್ Office ಡಾಕ್ಯುಮೆಂಟ್‌ನಂತೆ ತೋರುತ್ತಿದ್ದರೂ ಮತ್ತು Office ಫೈಲ್‌ ವಿಸ್ತರಣೆಯನ್ನು ಹೊಂದಿದ್ದರೂ ಕೂಡ, ಇದು ಕೆಲವು ರೀತಿಯಲ್ಲಿ ಮರುಹೆಸರಿಸಿರುವ ಅಥವಾ ಬದಲಾಯಿಸಿರುವ ಒಂದು ವಿಭಿನ್ನ ಫೈಲ್ ಪ್ರಕಾರವಾಗಿದೆ ಅಥವಾ ಇದು ನಾವು ಬೆಂಬಲಿಸದ ಫೈಲ್‌ ಪ್ರಕಾರವಾಗಿದೆ."
+   },
+   "invalid_file_format_short_msg": {
+      "message": "ಓಹ್, ಈ ಪ್ರಕಾರದ ಡಾಕ್ಯುಮೆಂಟ್ ತೆರೆಯಲು ನಮಗೆ ಸಾಧ್ಯವಿಲ್ಲವೆಂದು ತೋರುತ್ತಿದೆ."
+   },
+   "italic_aria_spoken_word": {
+      "message": "ಇಟಾಲಿಕ್"
+   },
+   "keyboard_shortcut_group_actions": {
+      "message": "ಕ್ರಿಯೆಗಳು"
+   },
+   "keyboard_shortcut_group_other": {
+      "message": "ಇತರ"
+   },
+   "keyboard_shortcut_group_paragraph_formatting": {
+      "message": "ಪ್ಯಾರಾಗ್ರಾಫ್ ಫಾರ್ಮ್ಯಾಟ್‌ ಮಾಡುವಿಕೆ"
+   },
+   "keyboard_shortcut_group_text_formatting": {
+      "message": "ಪಠ್ಯ ಫಾರ್ಮ್ಯಾಟಿಂಗ್"
+   },
+   "keyboard_shortcut_group_top_menus": {
+      "message": "ಮೆನುಗಳು"
+   },
+   "keyboard_shortcut_group_with_slides": {
+      "message": "ಸ್ಲೈಡ್‌ಗಳ ಜೊತೆಯಲ್ಲಿ"
+   },
+   "keyboard_shortcut_title": {
+      "message": "ಕೀಬೋರ್ಡ್ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು"
+   },
+   "make_a_copy_fail_msg": {
+      "message": "ಈ ಸಮಯದಲ್ಲಿ ನಕಲು ಮಾಡಲು ನಮಗೆ ಸಾಧ್ಯವಾಗಲಿಲ್ಲ."
+   },
+   "menu_button_data": {
+      "message": "ಡೇಟಾ"
+   },
+   "menu_button_edit": {
+      "message": "ಎಡಿಟ್"
+   },
+   "menu_button_file": {
+      "message": "ಫೈಲ್"
+   },
+   "menu_button_format": {
+      "message": "ಸ್ವರೂಪ"
+   },
+   "menu_button_help": {
+      "message": "ಸಹಾಯ"
+   },
+   "menu_button_insert": {
+      "message": "ಸೇರಿಸು"
+   },
+   "menu_button_slide": {
+      "message": "ಸ್ಲೈಡ್"
+   },
+   "menu_button_tools": {
+      "message": "ಪರಿಕರಗಳು"
+   },
+   "menu_button_view": {
+      "message": "ವೀಕ್ಷಣೆ"
+   },
+   "menu_item_10_point_star": {
+      "message": "10-ಬಿಂದು ನಕ್ಷತ್ರ"
+   },
+   "menu_item_12_point_star": {
+      "message": "12-ಬಿಂದು ನಕ್ಷತ್ರ"
+   },
+   "menu_item_16_point_star": {
+      "message": "16-ಬಿಂದು ನಕ್ಷತ್ರ"
+   },
+   "menu_item_24_point_star": {
+      "message": "24-ಬಿಂದು ನಕ್ಷತ್ರ"
+   },
+   "menu_item_32_point_star": {
+      "message": "32-ಬಿಂದು ನಕ್ಷತ್ರ"
+   },
+   "menu_item_4_point_star": {
+      "message": "4-ಬಿಂದು ನಕ್ಷತ್ರ"
+   },
+   "menu_item_5_point_star": {
+      "message": "5-ಬಿಂದು ನಕ್ಷತ್ರ"
+   },
+   "menu_item_6_point_star": {
+      "message": "6-ಬಿಂದು ನಕ್ಷತ್ರ"
+   },
+   "menu_item_7_point_star": {
+      "message": "7-ಬಿಂದು ನಕ್ಷತ್ರ"
+   },
+   "menu_item_8_point_star": {
+      "message": "8-ಬಿಂದು ನಕ್ಷತ್ರ"
+   },
+   "menu_item_align": {
+      "message": "ಒಟ್ಟುಗೂಡಿಸು"
+   },
+   "menu_item_align_center": {
+      "message": "ಮಧ್ಯಕ್ಕೆ"
+   },
+   "menu_item_align_justified": {
+      "message": "ಸರಿಹೊಂದಿಸಿದೆ"
+   },
+   "menu_item_align_left": {
+      "message": "ಎಡಕ್ಕೆ"
+   },
+   "menu_item_align_right": {
+      "message": "ಬಲಕ್ಕೆ"
+   },
+   "menu_item_arrows": {
+      "message": "ಬಾಣಗಳು"
+   },
+   "menu_item_bent_arrow": {
+      "message": "ಬಾಗಿದ ಬಾಣ"
+   },
+   "menu_item_bent_up_arrow": {
+      "message": "ಮೇಲೆ-ಬಾಗಿದ ಬಾಣ"
+   },
+   "menu_item_bevel": {
+      "message": "ಇಳಿಜಾರು"
+   },
+   "menu_item_block_arc": {
+      "message": "ಬ್ಲಾಕ್ ಆರ್ಕ್"
+   },
+   "menu_item_bold": {
+      "message": "ದಪ್ಪಕ್ಷರ"
+   },
+   "menu_item_callouts": {
+      "message": "ಕಾಲ್ಔಟ್‌ಗಳು"
+   },
+   "menu_item_can": {
+      "message": "ಕ್ಯಾನ್"
+   },
+   "menu_item_chevron": {
+      "message": "ಷೆವ್ರನ್"
+   },
+   "menu_item_chord": {
+      "message": "ವೃತ್ತದ ಭಾಗ"
+   },
+   "menu_item_clear_formatting": {
+      "message": "ಸ್ವರೂಪಗೊಳಿಸುವಿಕೆಯನ್ನು ತೆರವುಗೊಳಿಸಿ"
+   },
+   "menu_item_cloud": {
+      "message": "ಕ್ಲೌಡ್"
+   },
+   "menu_item_cloud_callout": {
+      "message": "ಮೇಘ ಕಾಲ್‌ಔಟ್"
+   },
+   "menu_item_color_none": {
+      "message": "ಯಾವುದೂ ಇಲ್ಲ"
+   },
+   "menu_item_color_transparent": {
+      "message": "ಪಾರದರ್ಶಕ"
+   },
+   "menu_item_convert_to_docs": {
+      "message": "Google ಡಾಕ್ಸ್‌ ರೂಪದಲ್ಲಿ ಉಳಿಸಿ"
+   },
+   "menu_item_convert_to_sheets": {
+      "message": "Google ಶೀಟ್‌ಗಳ ರೂಪದಲ್ಲಿ ಉಳಿಸಿ"
+   },
+   "menu_item_convert_to_slides": {
+      "message": "Google ಸ್ಲೈಡ್‌ಗಳ ರೂಪದಲ್ಲಿ ಉಳಿಸಿ"
+   },
+   "menu_item_copy": {
+      "message": "ನಕಲಿಸು"
+   },
+   "menu_item_cross": {
+      "message": "ಕ್ರಾಸ್"
+   },
+   "menu_item_cube": {
+      "message": "ಘನಾಕೃತಿ"
+   },
+   "menu_item_curved_down_arrow": {
+      "message": "ಕೆಳಕ್ಕೆ ವಕ್ರವಾದ ಬಾಣ"
+   },
+   "menu_item_curved_left_arrow": {
+      "message": "ವಕ್ರವಾದ ಎಡ ಬಾಣ"
+   },
+   "menu_item_curved_right_arrow": {
+      "message": "ಬಲಕ್ಕೆ ವಕ್ರವಾದ ಬಾಣ"
+   },
+   "menu_item_curved_up_arrow": {
+      "message": "ಮೇಲಕ್ಕೆ ತಿರುಗಿದ ಬಾಣ"
+   },
+   "menu_item_cut": {
+      "message": "ಕತ್ತರಿಸು"
+   },
+   "menu_item_decagon": {
+      "message": "ದಶಭುಜ"
+   },
+   "menu_item_delete_column": {
+      "message": "ಕಾಲಮ್ ಅಳಿಸಿ"
+   },
+   "menu_item_delete_row": {
+      "message": "ಸಾಲು ಅಳಿಸಿ"
+   },
+   "menu_item_delete_value": {
+      "message": "ಮೌಲ್ಯ ಅಳಿಸಿ"
+   },
+   "menu_item_deleteslide": {
+      "message": "ಸ್ಲೈಡ್ ಅಳಿಸಿ"
+   },
+   "menu_item_diagonal_stripe": {
+      "message": "ಕರ್ಣರೇಖೆ ಪಟ್ಟಿ"
+   },
+   "menu_item_diamond": {
+      "message": "ವಜ್ರ"
+   },
+   "menu_item_divide": {
+      "message": "ವಿಭಜಿಸಿ"
+   },
+   "menu_item_dodecagon": {
+      "message": "ದ್ವಾದಶಭುಜಾಕೃತಿ"
+   },
+   "menu_item_donut": {
+      "message": "ಡೋನಟ್"
+   },
+   "menu_item_double_brace": {
+      "message": "ಎರಡು ಆವರಣ"
+   },
+   "menu_item_double_bracket": {
+      "message": "ಎರಡು ಆವರಣ"
+   },
+   "menu_item_down_arrow": {
+      "message": "ಕೆಳಗಿನ ಬಾಣದ ಗುರುತು"
+   },
+   "menu_item_down_arrow_callout": {
+      "message": "ಕೆಳ ಬಾಣದ ಕಾಲ್ ಔಟ್"
+   },
+   "menu_item_duplicateslide": {
+      "message": "ನಕಲಿ ಸ್ಲೈಡ್"
+   },
+   "menu_item_equal": {
+      "message": "ಸಮ"
+   },
+   "menu_item_equation": {
+      "message": "ಸಮೀಕರಣ"
+   },
+   "menu_item_explosion_1": {
+      "message": "ಸ್ಫೋಟ 1"
+   },
+   "menu_item_explosion_2": {
+      "message": "ಸ್ಫೋಟ 2"
+   },
+   "menu_item_flowchart_alternate_process": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ಪರ್ಯಾಯ ಪ್ರಕ್ರಿಯೆ"
+   },
+   "menu_item_flowchart_card": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ಕಾರ್ಡ್"
+   },
+   "menu_item_flowchart_collate": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ಸಮಾಂತರ"
+   },
+   "menu_item_flowchart_connector": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ಕನೆಕ್ಟರ್"
+   },
+   "menu_item_flowchart_data": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ಡೇಟಾ"
+   },
+   "menu_item_flowchart_decision": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ನಿರ್ಧಾರ"
+   },
+   "menu_item_flowchart_delay": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ವಿಳಂಬ"
+   },
+   "menu_item_flowchart_direct_access_storage": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ನೇರ ಪ್ರವೇಶ ಸಂಗ್ರಹಣೆ"
+   },
+   "menu_item_flowchart_display": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ಪ್ರದರ್ಶನ"
+   },
+   "menu_item_flowchart_document": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ಡಾಕ್ಯುಮೆಂಟ್"
+   },
+   "menu_item_flowchart_extract": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ಸಂಗ್ರಹಣೆ"
+   },
+   "menu_item_flowchart_internal_storage": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ಆಂತರಿಕ ಸಂಗ್ರಹಣೆ"
+   },
+   "menu_item_flowchart_magnetic_disk": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ಮ್ಯಾಗ್ನೆಟಿಕ್ ಡಿಸ್ಕ್"
+   },
+   "menu_item_flowchart_manual_input": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ಹಸ್ತಚಾಲಿತ ಇನ್‌ಪುಟ್"
+   },
+   "menu_item_flowchart_manual_operation": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ಹಸ್ತಚಾಲಿತ ಕಾರ್ಯಾಚರಣೆ"
+   },
+   "menu_item_flowchart_merge": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ವಿಲೀನಗೊಳಿಸು"
+   },
+   "menu_item_flowchart_multidocument": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ಬಹುಡಾಕ್ಯುಮೆಂಟ್"
+   },
+   "menu_item_flowchart_off_page_connector": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ಆಫ್-ಪೇಜ್ ಕನೆಕ್ಟರ್"
+   },
+   "menu_item_flowchart_or": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ಅಥವಾ"
+   },
+   "menu_item_flowchart_predefined_process": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ಪೂರ್ವನಿರೂಪಿತ ಪ್ರಕ್ರಿಯೆ"
+   },
+   "menu_item_flowchart_preparation": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ತಯಾರಿಕೆ"
+   },
+   "menu_item_flowchart_process": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ಪ್ರಕ್ರಿಯೆ"
+   },
+   "menu_item_flowchart_punched_tape": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ಪಂಚ್ ಮಾಡಿದ ಟೇಪ್"
+   },
+   "menu_item_flowchart_sequential_access_storage": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ಕ್ರಮಾನುಗತ ಪ್ರವೇಶ ಸಂಗ್ರಹಣೆ"
+   },
+   "menu_item_flowchart_sort": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ವಿಂಗಡಿಸಿ"
+   },
+   "menu_item_flowchart_stored_data": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ಸಂಗ್ರಹಿತ ಡೇಟಾ"
+   },
+   "menu_item_flowchart_summing_junction": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ಒಂದುಗೂಡಿಸುವಿಕೆ ಜಂಕ್ಷನ್"
+   },
+   "menu_item_flowchart_terminator": {
+      "message": "ಫ್ಲೋಚಾರ್ಟ್: ಟರ್ಮಿನೇಟರ್"
+   },
+   "menu_item_folded_corner": {
+      "message": "ಮಡಿಸಿದ ಮೂಲೆ"
+   },
+   "menu_item_frame": {
+      "message": "ಫ್ರೇಮ್"
+   },
+   "menu_item_half_frame": {
+      "message": "ಅರ್ಧ ಫ್ರೇಮ್"
+   },
+   "menu_item_heart": {
+      "message": "ಹೃದಯ"
+   },
+   "menu_item_help_center": {
+      "message": "ಸಹಾಯ ಕೇಂದ್ರ"
+   },
+   "menu_item_heptagon": {
+      "message": "ಸಪ್ತಭುಜ"
+   },
+   "menu_item_hexagon": {
+      "message": "ಷಟ್ಕೋಣ"
+   },
+   "menu_item_hideslide": {
+      "message": "ಸ್ಲೈಡ್ ಮರೆಮಾಡಿ"
+   },
+   "menu_item_insert_column": {
+      "message": "ಕಾಲಮ್"
+   },
+   "menu_item_insert_image": {
+      "message": "ಚಿತ್ರ"
+   },
+   "menu_item_insert_row": {
+      "message": "ಸಾಲು"
+   },
+   "menu_item_insert_text_box": {
+      "message": "ಪಠ್ಯ ಪೆಟ್ಟಿಗೆ"
+   },
+   "menu_item_insertslide": {
+      "message": "ಹೊಸ ಸ್ಲೈಡ್"
+   },
+   "menu_item_italic": {
+      "message": "ಇಟಾಲಿಕ್"
+   },
+   "menu_item_keyboard_shortcuts": {
+      "message": "ಕೀಬೋರ್ಡ್ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು"
+   },
+   "menu_item_l_shape": {
+      "message": "L-ಆಕಾರ"
+   },
+   "menu_item_left_arrow": {
+      "message": "ಎಡ ಬಾಣದ ಗುರುತು"
+   },
+   "menu_item_left_arrow_callout": {
+      "message": "ಎಡ ಬಾಣದ ಕಾಲ್ಔಟ್"
+   },
+   "menu_item_left_brace": {
+      "message": "ಎಡ ಬ್ರೇಸ್"
+   },
+   "menu_item_left_bracket": {
+      "message": "ಎಡ ಆವರಣ"
+   },
+   "menu_item_left_right_arrow": {
+      "message": "ಎಡ-ಬಲ ಬಾಣ"
+   },
+   "menu_item_left_right_arrow_callout": {
+      "message": "ಎಡ-ಬಲ ಬಾಣದ ಕಾಲ್ಔಟ್"
+   },
+   "menu_item_left_right_up_arrow": {
+      "message": "ಎಡ-ಬಲ-ಮೇಲಿನ ಬಾಣ"
+   },
+   "menu_item_left_up_arrow": {
+      "message": "ಎಡ-ಮೇಲೆ ಬಾಣ"
+   },
+   "menu_item_lightning_bolt": {
+      "message": "ಹೊಳೆಯುವ ಬೋಲ್ಟ್"
+   },
+   "menu_item_make_a_copy": {
+      "message": "ನಕಲು ಮಾಡಿ…"
+   },
+   "menu_item_merge_all": {
+      "message": "ಎಲ್ಲಾ ವಿಲೀನಗೊಳಿಸು"
+   },
+   "menu_item_merge_cells": {
+      "message": "ಕೋಶಗಳನ್ನು ವಿಲೀನಗೊಳಿಸು"
+   },
+   "menu_item_merge_horizontally": {
+      "message": "ಅಡ್ಡಲಾಗಿ ವಿಲೀನಗೊಳಿಸು"
+   },
+   "menu_item_merge_vertically": {
+      "message": "ಲಂಬವಾಗಿ ವಿಲೀನಗೊಳಿಸು"
+   },
+   "menu_item_minus": {
+      "message": "ಮೈನಸ್"
+   },
+   "menu_item_moon": {
+      "message": "ಚಂದ್ರ"
+   },
+   "menu_item_moveslidedown": {
+      "message": "ಕೆಳಕ್ಕೆ ಸ್ಲೈಡ್‌ ಸರಿಸಿ"
+   },
+   "menu_item_moveslidetoend": {
+      "message": "ಅಂತ್ಯಕ್ಕೆ ಸ್ಲೈಡ್‌ ಸರಿಸಿ"
+   },
+   "menu_item_moveslidetostart": {
+      "message": "ಆರಂಭಕ್ಕೆ ಸ್ಲೈಡ್‌ ಸರಿಸಿ"
+   },
+   "menu_item_moveslideup": {
+      "message": "ಮೇಲಕ್ಕೆ ಸ್ಲೈಡ್‌ ಸರಿಸಿ"
+   },
+   "menu_item_multiply": {
+      "message": "ಗುಣಿಸು"
+   },
+   "menu_item_new": {
+      "message": "ಹೊಸತು"
+   },
+   "menu_item_no_symbol": {
+      "message": "ಇಲ್ಲ ಚಿಹ್ನೆ"
+   },
+   "menu_item_not_equal": {
+      "message": "ಸಮ ಅಲ್ಲ"
+   },
+   "menu_item_notched_right_arrow": {
+      "message": "ತಳ್ಳಿದ ಬಲ ಬಾಣ"
+   },
+   "menu_item_number_format": {
+      "message": "ಸಂಖ್ಯೆ ಸ್ವರೂಪ"
+   },
+   "menu_item_number_menu": {
+      "message": "ಸಂಖ್ಯೆ"
+   },
+   "menu_item_numbering": {
+      "message": "$2 ರಲ್ಲಿ $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "menu_item_octagon": {
+      "message": "ಅಷ್ಟಭುಜ"
+   },
+   "menu_item_open": {
+      "message": "ತೆರೆ"
+   },
+   "menu_item_oval": {
+      "message": "ಅಂಡಾಕೃತಿ"
+   },
+   "menu_item_oval_callout": {
+      "message": "ಅಂಡಾಕೃತಿ ಕಾಲ್ಔಟ್"
+   },
+   "menu_item_parallelogram": {
+      "message": "ಸಮಾಂತರ ಚತುರ್ಭುಜ"
+   },
+   "menu_item_paste": {
+      "message": "ಅಂಟಿಸು"
+   },
+   "menu_item_pentagon": {
+      "message": "ಪಂಚಭುಜಾಕೃತಿ"
+   },
+   "menu_item_pie": {
+      "message": "ಪೈ"
+   },
+   "menu_item_plaque": {
+      "message": "ಫಲಕ"
+   },
+   "menu_item_plus": {
+      "message": "ಪ್ಲಸ್"
+   },
+   "menu_item_present": {
+      "message": "ಪ್ರಸ್ತುತ"
+   },
+   "menu_item_print": {
+      "message": "ಮುದ್ರಿಸು"
+   },
+   "menu_item_quad_arrow": {
+      "message": "ಕ್ವಾಡ್ ಬಾಣ"
+   },
+   "menu_item_quad_arrow_callout": {
+      "message": "ಕ್ವಾಡ್ ಬಾಣದ ಕಾಲ್ಔಟ್"
+   },
+   "menu_item_rectangle": {
+      "message": "ಆಯತ"
+   },
+   "menu_item_rectangular_callout": {
+      "message": "ಆಯತಾಕೃತಿಯ ಕಾಲ್ಔಟ್"
+   },
+   "menu_item_redo": {
+      "message": "ಮತ್ತೆಮಾಡು"
+   },
+   "menu_item_regular_pentagon": {
+      "message": "ಸಾಮಾನ್ಯ ಪಂಚಭುಜ"
+   },
+   "menu_item_report_abuse": {
+      "message": "ದುರುಪಯೋಗವನ್ನು ವರದಿ ಮಾಡಿ"
+   },
+   "menu_item_report_issue": {
+      "message": "ಸಮಸ್ಯೆ ವರದಿಮಾಡಿ"
+   },
+   "menu_item_right_arrow": {
+      "message": "ಬಲ ಬಾಣ"
+   },
+   "menu_item_right_arrow_callout": {
+      "message": "ಬಲ ಬಾಣದ ಕಾಲ್ಔಟ್"
+   },
+   "menu_item_right_brace": {
+      "message": "ಬಲ ಬ್ರೇಸ್"
+   },
+   "menu_item_right_bracket": {
+      "message": "ಬಲ ಆವರಣ"
+   },
+   "menu_item_right_triangle": {
+      "message": "ಬಲ ತ್ರಿಭುಜ"
+   },
+   "menu_item_round_diagonal_corner_rectangle": {
+      "message": "ವೃತ್ತಾಕಾರದ ಕರ್ಣರೇಖೆಯ ಮೂಲೆಯ ಆಯತ"
+   },
+   "menu_item_round_same_side_corner_rectangle": {
+      "message": "ವೃತ್ತಾಕಾರದ ಒಂದೇ ರೀತಿ ಪಾರ್ಶ್ವದ ಆಯತ"
+   },
+   "menu_item_round_single_corner_rectangle": {
+      "message": "ವೃತ್ತಾಕಾರದ ಏಕ ಮೂಲೆಯಿರುವ ಆಯತ"
+   },
+   "menu_item_rounded_rectangle": {
+      "message": "ವೃತ್ತಾಕಾರದ ಆಯತ"
+   },
+   "menu_item_rounded_rectangular_callout": {
+      "message": "ವೃತ್ತಾಕಾರದ ಆಯತಾಕೃತಿಯ ಕಾಲ್‌ಔಟ್"
+   },
+   "menu_item_save": {
+      "message": "ಉಳಿಸು"
+   },
+   "menu_item_save_as": {
+      "message": "ಇದರಂತೆ ಉಳಿಸು..."
+   },
+   "menu_item_shapes": {
+      "message": "ಆಕಾರಗಳು"
+   },
+   "menu_item_share": {
+      "message": "ಹಂಚಿಕೊಳ್ಳು"
+   },
+   "menu_item_smiley_face": {
+      "message": "ನಗುವ ಮುಖ"
+   },
+   "menu_item_snip_and_round_single_corner_rectangle": {
+      "message": "ಕತ್ತರಿಸಿದ ಮತ್ತು ವೃತ್ತಾಕಾರದ ಏಕ ಮೂಲೆಯ ಆಯತ"
+   },
+   "menu_item_snip_diagonal_corner_rectangle": {
+      "message": "ಕತ್ತರಿಸಿದ ಕರ್ಣರೇಖೆ ಮೂಲೆಯ ಆಯತ"
+   },
+   "menu_item_snip_same_side_corner_rectangle": {
+      "message": "ಕತ್ತರಿಸಿದ ಒಂದೇ ಬದಿ ಮೂಲೆಯ ಆಯತ"
+   },
+   "menu_item_snip_single_corner_rectangle": {
+      "message": "ಕತ್ತರಿಸಿದ ಏಕ ಮೂಲೆಯ ಆಯತ"
+   },
+   "menu_item_strikethrough": {
+      "message": "ಸ್ಟ್ರೈಕ್ಥ್ರೂ"
+   },
+   "menu_item_striped_right_arrow": {
+      "message": "ಪಟ್ಟಿಯ ಬಲ ಬಾಣ"
+   },
+   "menu_item_subscript": {
+      "message": "ಉಪಲೇಖ"
+   },
+   "menu_item_sun": {
+      "message": "ಭಾನು"
+   },
+   "menu_item_superscript": {
+      "message": "ಸೂಪರ್‌ಸ್ಕ್ರಿಪ್ಟ್"
+   },
+   "menu_item_teardrop": {
+      "message": "ಕಂಬನಿ"
+   },
+   "menu_item_trapezoid": {
+      "message": "ಸಮಾನಾಂತರವಲ್ಲದ ಚತುರ್ಭುಜ"
+   },
+   "menu_item_triangle": {
+      "message": "ತ್ರಿಭುಜ"
+   },
+   "menu_item_u_turn_arrow": {
+      "message": "U-ತಿರುವು ಬಾಣ"
+   },
+   "menu_item_underline": {
+      "message": "ಅಡಿಗೆರೆ"
+   },
+   "menu_item_undo": {
+      "message": "ರದ್ದುಮಾಡಿ"
+   },
+   "menu_item_unhideslide": {
+      "message": "ಸ್ಲೈಡ್ ಮರೆ ರದ್ದುಮಾಡಿ"
+   },
+   "menu_item_unmerge": {
+      "message": "ವಿಲೀನ ಬೇರ್ಪಡಿಸು"
+   },
+   "menu_item_up_arrow": {
+      "message": "ಮೇಲಿನ ಬಾಣದ ಗುರುತು"
+   },
+   "menu_item_up_arrow_callout": {
+      "message": "ಮೇಲೆ ಬಾಣದ ಕಾಲ್ಔಟ್"
+   },
+   "menu_item_up_down_arrow": {
+      "message": "ಮೇಲೆ-ಕೆಳಗಿನ ಬಾಣ"
+   },
+   "menu_item_version_info": {
+      "message": "ಆವೃತ್ತಿ ಮಾಹಿತಿ"
+   },
+   "menu_item_word_count": {
+      "message": "ಪದ ಎಣಿಕೆ"
+   },
+   "menu_item_wrap_text": {
+      "message": "ವ್ರ್ಯಾಪ್ ಪಠ್ಯ"
+   },
+   "menu_item_zoom_in": {
+      "message": "ಝೂಮ್ ಇನ್"
+   },
+   "menu_item_zoom_out": {
+      "message": "ಝೂಮ್ ಔಟ್"
+   },
+   "merge_all_aria_spoken_word": {
+      "message": "ಎಲ್ಲವನ್ನು ವಿಲೀನಗೊಳಿಸಿ"
+   },
+   "merge_aria_spoken_word": {
+      "message": "ವಿಲೀನಗೊಳಿಸಿ"
+   },
+   "merge_dropdown_aria_spoken_word": {
+      "message": "ಡ್ರಾಪ್ ಡೌನ್ ಮೆನುವನ್ನು ವಿಲೀನಗೊಳಿಸಿ"
+   },
+   "merge_horizontally_aria_spoken_word": {
+      "message": "ಅಡ್ಡಲಾಗಿ ವಿಲೀನಗೊಳಿಸಿ"
+   },
+   "merge_vertically_aria_spoken_word": {
+      "message": "ಲಂಬವಾಗಿ ವಿಲೀನಗೊಳಿಸಿ"
+   },
+   "modify_shape_transform_error_msg": {
+      "message": "ಆಕಾರದ ರೂಪಾಂತರಗಳನ್ನು ಮಾರ್ಪಡಿಸುತ್ತಿರುವಾಗ ದೋಷ ಎದುರಾಗಿದೆ"
+   },
+   "modify_shape_transform_error_short_msg": {
+      "message": "ಆಕಾರದ ರೂಪಾಂತರಗಳನ್ನು ಮಾರ್ಪಡಿಸುತ್ತಿರುವಾಗ ದೋಷ ಎದುರಾಗಿದೆ."
+   },
+   "modifyshapefillcolor_aria_spoken_word": {
+      "message": "ಆಕಾರ ಬಣ್ಣ ತುಂಬುವಿಕೆ ಡ್ರಾಪ್ ಡೌನ್ ಪಟ್ಟಿ"
+   },
+   "modifyshapeoutlinecolor_aria_spoken_word": {
+      "message": "ಆಕಾರ ಔಟ್‌ಲೈನ್ ಬಣ್ಣ ಡ್ರಾಪ್ ಡೌನ್ ಪಟ್ಟಿ"
+   },
+   "modifyshapeoutlinestyle_aria_spoken_word": {
+      "message": "ಆಕಾರ ಔಟ್‌ಲೈನ್ ಶೈಲಿ ಡ್ರಾಪ್ ಡೌನ್ ಪಟ್ಟಿ"
+   },
+   "modifyshapeoutlinewidth_aria_spoken_word": {
+      "message": "ಆಕಾರ ಔಟ್‌ಲೈನ್ ಅಗಲ ಡ್ರಾಪ್ ಡೌನ್ ಪಟ್ಟಿ"
+   },
+   "nacl_load_error_details": {
+      "message": "ವಿಸ್ತರಣೆಯನ್ನು ಮರುಸ್ಥಾಪಿಸಲು ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "nacl_load_error_title": {
+      "message": "ಅಪ್ಲಿಕೇಶನ್ ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ಸಮಸ್ಯೆ ಕಂಡುಬಂದಿದೆ."
+   },
+   "non_permissible_sheet_name_details": {
+      "message": "ಈ ಮುಂದಿನ ಅಕ್ಷರಗಳಿಗೆ ಅನುಮತಿ ಇಲ್ಲ * ? [ ] ' ; : ಶೀಟ್ ಹೆಸರಿನ ಉದ್ದ 31 ಅಕ್ಷರಗಳನ್ನು ಮೀರುವಂತಿಲ್ಲ ಮತ್ತು ಶೀಟ್ ಹೆಸರನ್ನು ಖಾಲಿ ಬಿಡುವಂತಿಲ್ಲ"
+   },
+   "non_permissible_sheet_name_title": {
+      "message": "ಶೀಟ್‌ಗೆ ಮರು ಹೆಸರಿಸುತ್ತಿರುವಾಗ ನೀವು ಅಮಾನ್ಯ ಹೆಸರನ್ನು ನಮೂದಿಸಿರುವಿರಿ"
+   },
+   "not_pressed": {
+      "message": "ಒತ್ತಿಲ್ಲ"
+   },
+   "notselected": {
+      "message": "ಆಯ್ಕೆ ಮಾಡಲಾಗಿಲ್ಲ"
+   },
+   "number_format_label_currency_symbol": {
+      "message": "ಕರೆನ್ಸಿ ಸಂಕೇತ"
+   },
+   "number_format_label_date_type": {
+      "message": "ಪ್ರಕಾರ"
+   },
+   "number_format_label_decimal_places": {
+      "message": "ದಶಮಾಂಶ ಸ್ಥಳಗಳು"
+   },
+   "number_format_label_general": {
+      "message": "ಸಾಮಾನ್ಯ"
+   },
+   "number_format_label_negative_numbers": {
+      "message": "ಋಣಾತ್ಮಕ ಸಂಖ್ಯೆಗಳು"
+   },
+   "number_format_label_other": {
+      "message": "ಇತರ"
+   },
+   "number_format_label_red": {
+      "message": "ಕೆಂಪು"
+   },
+   "number_format_label_text": {
+      "message": "ಪಠ್ಯ"
+   },
+   "number_format_label_use_1000_separator": {
+      "message": "1000 ವಿಭಾಜಕವನ್ನು ಬಳಸಿ"
+   },
+   "number_format_tab_accounting": {
+      "message": "ಅಕೌಂಟಿಂಗ್"
+   },
+   "number_format_tab_currency": {
+      "message": "ಕರೆನ್ಸಿ"
+   },
+   "number_format_tab_date_time": {
+      "message": "ದಿನಾಂಕ ಮತ್ತು ಸಮಯ"
+   },
+   "number_format_tab_general": {
+      "message": "ಸಾಮಾನ್ಯ"
+   },
+   "number_format_tab_number": {
+      "message": "ಸಂಖ್ಯೆ"
+   },
+   "number_format_tab_percentage": {
+      "message": "ಶೇಕಡಾವಾರು"
+   },
+   "number_format_tab_scientific": {
+      "message": "ವೈಜ್ಞಾನಿಕ"
+   },
+   "number_format_title": {
+      "message": "ಸಂಖ್ಯೆ ಸ್ವರೂಪಗಳು"
+   },
+   "ocm_promo_conversion_shortmsg": {
+      "message": "ನೀವು Office ಹೊಂದಾಣಿಕೆ ಮೋಡ್‌ನಲ್ಲಿರುವಿರಿ"
+   },
+   "office_compatibility_mode": {
+      "message": "ಕಛೇರಿ ಹೊಂದಾಣಿಕೆ ಮೋಡ್"
+   },
+   "office_first_time_confirm": {
+      "message": "ಅರ್ಥವಾಯಿತು"
+   },
+   "office_first_time_message_p1": {
+      "message": "ನೀವು ಇದೀಗ ಡಾಕ್ಸ್‌‌, ಶೀಟ್‌ಗಳು ಮತ್ತು ಸ್ಲೈಡ್‌ಗಳನ್ನು ಬಳಸಿಕೊಂಡು ನಿಮ್ಮ ಹಾರ್ಡ್‌ ಡ್ರೈವ್‌, Google ಡ್ರೈವ್‌‌, Gmail ನಿಂದ Word, Excel, ಹಾಗೂ Powerpoint ಫೈಲ್‌ಗಳನ್ನು ಸಂಪಾದಿಸಬಹುದು."
+   },
+   "office_first_time_message_p2": {
+      "message": "ನಿಮ್ಮ ಎಲ್ಲಾ ಸಂಪಾದನೆಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಉಳಿಸಲಾಗಿದೆ ಮತ್ತು ನೀವು ಯಾವಾಗಲೂ ಮೂಲ ಸ್ವರೂಪದಲ್ಲಿಯೂ ಉಳಿಸಬಹುದು."
+   },
+   "office_first_time_title": {
+      "message": "ಡಾಕ್ಸ್‌‌, ಶೀಟ್‌ಗಳು, ಮತ್ತು ಸ್ಲೈಡ್‌ಗಳಿಗಾಗಿ Office ಎಡಿಟ್"
+   },
+   "offline_error_msg": {
+      "message": "ನೀವು ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿರುವಂತೆ ತೋರುತ್ತಿದೆ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕವನ್ನು ಪರಿಶೀಲಿಸಿ ಹಾಗೂ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ. ನೀವು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿರುವಾಗಲೇ ಈ ದೋಷ ಮುಂದುವರಿದಲ್ಲಿ, ದಯವಿಟ್ಟು ಸಮಸ್ಯೆಯನ್ನು ವರದಿ ಮಾಡಿ."
+   },
+   "offline_error_short_msg": {
+      "message": "ಓಹ್‌. ನೀವು ವಿನಂತಿಸಿದ ಫೈಲ್‌ ನಮಗೆ ತೆರೆಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ."
+   },
+   "option_key": {
+      "message": "ಆಯ್ಕೆ"
+   },
+   "out_of_memory_error_msg": {
+      "message": "ಈ ಟ್ಯಾಬ್ ಮುಚ್ಚಿ, ನಿಮ್ಮ ಫೈಲ್‌ ಅನ್ನು ಮರಳಿ ತೆರೆಯಿರಿ ಅಥವಾ ಬ್ರೌಸರ್‌ನಲ್ಲಿ ನೀವು ತೆರೆದಿರಬಹುದಾದ ಇತರ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಮುಚ್ಚಿ. ಈ ಸಮಸ್ಯೆ ಹೀಗೆಯೇ ಮುಂದುವರಿದರೆ, ಅದನ್ನು ಕೆಳಗೆ ವರದಿ ಮಾಡಿ."
+   },
+   "out_of_memory_error_short_msg": {
+      "message": "ಓಹ್. ಮೆಮೊರಿ ಖಾಲಿಯಾಗಿದೆ."
+   },
+   "page_count_label": {
+      "message": "ಪುಟಗಳು"
+   },
+   "partial_cell_merge_error_msg": {
+      "message": "ವಿಲೀನಗೊಂಡ ಸೆಲ್‌ನ ಭಾಗವಾಗಿ ಬದಲಾಯಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ."
+   },
+   "partial_cell_merge_error_short_msg": {
+      "message": "ದೋಷ"
+   },
+   "point_ocm_promo_conversion_msg": {
+      "message": "Office ಫೈಲ್‌ಗಳನ್ನು ಸ್ಲೈಡ್‌ಗಳಲ್ಲಿ ನೇರವಾಗಿ ನೀವು ಸಂಪಾದಿಸಬಹುದು ಮತ್ತು ಉಳಿಸಬಹುದು. ಎಡಿಟ್ ಮಾಡಲು ಅಥವಾ ಕಾಮೆಂಟ್‌ಗಳನ್ನು ಸೇರಿಸುವುದಕ್ಕಾಗಿ ಇತರರನ್ನು ಆಹ್ವಾನಿಸಲು, Google ಸ್ಲೈಡ್‌ಗಳ ರೂಪದಲ್ಲಿ ಉಳಿಸಿ. ಯಾವ ಸಮಯದಲ್ಲಾದರೂ ಮೂಲ ಸ್ವರೂಪದಲ್ಲಿ ನೀವು ಮತ್ತೆ ಉಳಿಸಬಹುದು."
+   },
+   "point_printing_warning_msg": {
+      "message": "ಇದನ್ನು ಹೊಂದಿಸಲು ನಾವು ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದ್ದೇವೆ."
+   },
+   "point_printing_warning_short_msg": {
+      "message": "ಪ್ರಸ್ತುತ, ನೀವು ವೀಕ್ಷಿಸುತ್ತಿರುವ ಸ್ಲೈಡ್ ಅನ್ನು ಮಾತ್ರ ನೀವು ಮುದ್ರಿಸಬಹುದು."
+   },
+   "point_share_promo_conversion_msg": {
+      "message": "ಈ ಪ್ರಸ್ತುತಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳಲು ಪ್ರಯತ್ನಿಸುತ್ತಿರುವಿರಾ? ನಿಮ್ಮ ಜೊತೆಗೆ ಎಡಿಟ್ ಮಾಡಲು ಇತರರನ್ನು ಆಹ್ವಾನಿಸಲು, ಅದನ್ನು Google ಸ್ಲೈಡ್‌ಗಳಾಗಿ ಪರಿವರ್ತಿಸಿ."
+   },
+   "pointtogglebullet_aria_spoken_word": {
+      "message": "ಬುಲೆಟ್ ಮಾಡಲಾದ ಪಟ್ಟಿ"
+   },
+   "pointtogglenumber_aria_spoken_word": {
+      "message": "ಸಂಖ್ಯೆಯ ಪಟ್ಟಿ"
+   },
+   "present_button": {
+      "message": "ಪ್ರಸ್ತುತ"
+   },
+   "pressed": {
+      "message": "ಒತ್ತಿದ"
+   },
+   "print_aria_spoken_word": {
+      "message": "ಮುದ್ರಿಸು"
+   },
+   "qowt_doc_mismatch_text": {
+      "message": "ಸ್ವರೂಪಗೊಳಿಸುವ ಸಂದರ್ಭದಲ್ಲಿ ನಿಮ್ಮ ಡಾಕ್ಯುಮೆಂಟ್ ದೋಷವನ್ನು ಎದುರಿಸಿದೆ.\n\nನಿಮ್ಮ ಬದಲಾವಣೆಗಳನ್ನು ಮರುಪಡೆಯಲು ಪುಟವನ್ನು ಮರುಲೋಡ್ ಮಾಡಿ."
+   },
+   "qowt_doc_mismatch_title": {
+      "message": "ಅಯ್ಯೋ!"
+   },
+   "qowt_hyperlink_activate_short_key": {
+      "message": "ಲಿಂಕ್ ಸಕ್ರಿಯಗೊಳಿಸಲು ALT + Enter ಒತ್ತಿ."
+   },
+   "qowt_hyperlink_dialog": {
+      "message": "ಹೈಪರ್‌ಲಿಂಕ್"
+   },
+   "qowt_hyperlink_dialog_message_text": {
+      "message": "ಲಿಂಕ್‌ಗೆ ಹೋಗಿ:"
+   },
+   "qowt_modal_confirm_dialog_affirmative_button": {
+      "message": "ಸರಿ"
+   },
+   "qowt_modal_confirm_dialog_negative_button": {
+      "message": "ರದ್ದುಮಾಡಿ"
+   },
+   "qowt_modal_dialog_close_button": {
+      "message": "ಮುಚ್ಚು"
+   },
+   "qowt_modal_dialog_coming_soon_title": {
+      "message": "ಅತಿ ಶೀಘ್ರದಲ್ಲಿ ಬರಲಿದೆ!"
+   },
+   "qowt_modal_dialog_link_text": {
+      "message": "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ"
+   },
+   "qowt_modal_dialog_ok_button": {
+      "message": "ಸರಿ"
+   },
+   "qowt_modal_dialog_reload_button": {
+      "message": "ಮರುಲೋಡ್‌ ಮಾಡು"
+   },
+   "qowt_modal_dialog_textbox_editing_description": {
+      "message": "ಕ್ಷಮಿಸಿ, ಪಠ್ಯ ಬಾಕ್ಸ್‌ಗಳ ಒಳಗೆ ಪಠ್ಯ ಸಂಪಾದಿಸುವಿಕೆಯನ್ನು ನಾವು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ."
+   },
+   "qowt_modal_dialog_textbox_editing_link": {
+      "message": "ಇದನ್ನು ಸರಿಪಡಿಸಿ!"
+   },
+   "qowt_modal_info_dialog_affirmative_button": {
+      "message": "ಸರಿ"
+   },
+   "qowt_modal_multi_choice_remember_choice": {
+      "message": "ನನ್ನ ಆಯ್ಕೆಯನ್ನು ಜ್ಞಾಪಿಸಿ"
+   },
+   "qowt_modal_query_dialog_affirmative_button": {
+      "message": "ಹೌದು"
+   },
+   "qowt_modal_query_dialog_negative_button": {
+      "message": "ಇಲ್ಲ"
+   },
+   "qowt_modal_query_dialog_reload_button": {
+      "message": "ಮರುಲೋಡ್‌"
+   },
+   "qowt_modal_single_choice_remember_choice": {
+      "message": "ಮತ್ತೆ ನನಗೆ ಜ್ಞಾಪಿಸಬೇಡ"
+   },
+   "read_only": {
+      "message": "ಓದಲು ಮಾತ್ರ"
+   },
+   "redo_aria_spoken_word": {
+      "message": "ಮತ್ತೆಮಾಡು"
+   },
+   "right_pointed_submenu": {
+      "message": "ಉಪಮೆನು ಜೊತೆಗೆ ಬಲ ಪಾಯಿಂಟರ್"
+   },
+   "save_aria_spoken_word": {
+      "message": "ಉಳಿಸು"
+   },
+   "save_now": {
+      "message": "ಇದೀಗ ಉಳಿಸಿ"
+   },
+   "security_error_msg": {
+      "message": "ದೋಷ ಮುಂದುವರಿದರೆ, ದಯವಿಟ್ಟು ದೋಷವನ್ನು ಕೆಳಗೆ ವರದಿ ಮಾಡಿ."
+   },
+   "security_error_short_msg": {
+      "message": "ಓಹ್‌‌. ನೀವು ವಿನಂತಿಸಲಾದ ಫೈಲ್‌ ತೆರೆಯಲು ನಮಗೆ ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ಈ ಸಮಯದಲ್ಲಿ, ಅದೃಶ್ಯ ಮೋಡ್‌‌ನಲ್ಲಿ ಫೈಲ್‌ಗಳನ್ನು ತೆರೆಯಲು ನಾವು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ. ದಯವಿಟ್ಟು ಅದೃಶ್ಯವಲ್ಲದ ಮೋಡ್‌ನಲ್ಲಿ ನಿಮ್ಮ ಫೈಲ್‌ ಅನ್ನು ತೆರೆಯಿರಿ."
+   },
+   "selected": {
+      "message": "ಆಯ್ಕೆ ಮಾಡಿದ"
+   },
+   "set_sheet_info_error_msg": {
+      "message": "ಶೀಟ್ ಹೆಸರನ್ನು ನವೀಕರಿಸುತ್ತಿರುವಾಗ ದೋಷವೊಂದು ಸಂಭವಿಸಿದೆ"
+   },
+   "share_button": {
+      "message": "ಹಂಚು"
+   },
+   "share_promo_conversion_shortmsg": {
+      "message": "ಇತರ ಜೊತೆಗೆ ಎಡಿಟ್ ಮಾಡಿ"
+   },
+   "sheet_delete_column_error_msg": {
+      "message": "ಓಹ್! ಕಾಲಮ್ ಅಳಿಸುವಲ್ಲಿ ದೋಷ ಕಂಡುಬಂದಿದೆ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "sheet_delete_row_error_msg": {
+      "message": "ಓಹ್! ಸಾಲು ಅಳಿಸುವಲ್ಲಿ ದೋಷ ಕಂಡುಬಂದಿದೆ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "sheet_format_cells_error_msg": {
+      "message": "ಸ್ವರೂಪಗೊಳಿಸುವಿಕೆಯ ದೋಷ ಕಂಡುಬಂದಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "sheet_insert_column_error_msg": {
+      "message": "ಓಹ್! ಕಾಲಮ್ ಅಳವಡಿಸುವುದರಲ್ಲಿ ದೋಷ ಕಂಡುಬಂದಿದೆ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "sheet_insert_column_exceed_error_msg": {
+      "message": "ದುರದೃಷ್ಟವಶಾತ್, ನಾವು ಕೇವಲ 256 ಕಾಲಮ್‌ಗಳನ್ನು ಮಾತ್ರ ಬೆಂಬಲಿಸುತ್ತಿರುವ ಕಾರಣ ನೀವು ಈ ಸ್ಪ್ರೇಡ್‌ಶೀಟ್‌ನಲ್ಲಿ ಹೆಚ್ಚು ಕಾಲಮ್‌ಗಳನ್ನು ಸೇರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ."
+   },
+   "sheet_insert_column_exceed_error_short_msg": {
+      "message": "ಕ್ಷಮಿಸಿ!"
+   },
+   "sheet_insert_row_error_msg": {
+      "message": "ಓಹ್. ಸಾಲು ಸೇರಿಸುವಲ್ಲಿ ದೋಷ ಸಂಭವಿಸಿದೆ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "sheet_insert_row_exceed_error_msg": {
+      "message": "ದುರದೃಷ್ಟವಶಾತ್, ನಾವು ಕೇವಲ 65536 ಸಾಲುಗಳನ್ನು ಮಾತ್ರ ಬೆಂಬಲಿಸುವ ಕಾರಣ ಈ ಸ್ಪ್ರೇಡ್‌ಶೀಟ್‌ನಲ್ಲಿ ನಿಮಗೆ ಹೆಚ್ಚು ಸಾಲುಗಳನ್ನು ಸೇರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ."
+   },
+   "sheet_insert_row_exceed_error_short_msg": {
+      "message": "ಕ್ಷಮಿಸಿ!"
+   },
+   "sheet_ocm_promo_conversion_msg": {
+      "message": "Office ಫೈಲ್‌ಗಳನ್ನು ಶೀಟ್‌ಗಳಲ್ಲಿ ನೀವು ನೇರವಾಗಿ ಸಂಪಾದಿಸಬಹುದು ಮತ್ತು ಉಳಿಸಬಹುದು. ಎಡಿಟ್ ಮಾಡಲು ಅಥವಾ ಕಾಮೆಂಟ್‌ಗಳನ್ನು ಸೇರಿಸುವುದಕ್ಕಾಗಿ ಇತರರನ್ನು ಆಹ್ವಾನಿಸಲು, Google ಶೀಟ್‌ಗಳ ರೂಪದಲ್ಲಿ ಉಳಿಸಿ. ಯಾವ ಸಮಯದಲ್ಲಾದರೂ ಮೂಲ ಸ್ವರೂಪಕ್ಕೆ ನೀವು ಮತ್ತೆ ಉಳಿಸಬಹುದು."
+   },
+   "sheet_set_cell_content_invalid_error_msg": {
+      "message": "ನೀವು ನಮೂದಿಸಿದ ಫಾರ್ಮುಲದಲ್ಲಿ ದೋಷ ಕಂಡುಬಂದಿದೆ. ದಯವಿಟ್ಟು ದೋಷವನ್ನು ಸರಿಪಡಿಸಿ."
+   },
+   "sheet_share_promo_conversion_msg": {
+      "message": "ಈ ಸ್ಪ್ರೆಡ್‌ಶೀಟ್‌ ಹಂಚಿಕೊಳ್ಳಲು ಪ್ರಯತ್ನಿಸುತ್ತಿರುವಿರಾ? ನಿಮ್ಮ ಜೊತೆಗೆ ಸಂಪಾದಿಸುವ ನಿಟ್ಟಿನಲ್ಲಿ ಇತರರನ್ನು ಆಹ್ವಾನಿಸಲು, ಅದನ್ನು Google ಶೀಟ್‌‌ಗಳಾಗಿ ಪರಿವರ್ತಿಸಿ."
+   },
+   "sheet_sort_error_title": {
+      "message": "ಈ ಸೆಲ್ ಶ್ರೇಣಿಯನ್ನು ವಿಂಗಡಿಸುವಲ್ಲಿ ದೋಷ ಕಂಡುಬಂದಿದೆ."
+   },
+   "sheet_sort_failure_msg": {
+      "message": "ಈ ಸೆಲ್ ಶ್ರೇಣಿಯನ್ನು ವಿಂಗಡಿಸುವಲ್ಲಿ ದೋಷ ಕಂಡುಬಂದಿದೆ."
+   },
+   "sheet_sort_merged_cell_error": {
+      "message": "ವಿಲೀನಗೊಳಿಸಲಾದಂತಹ ಸೆಲ್‌ಗಳನ್ನು ನಿಮಗೆ ವಿಂಗಡಿಸಲಾಗುವುದಿಲ್ಲ."
+   },
+   "sheet_sort_merged_cell_error_title": {
+      "message": "ಈ ಸೆಲ್ ಶ್ರೇಣಿಯನ್ನು ವಿಂಗಡಿಸುವಲ್ಲಿ ದೋಷ ಕಂಡುಬಂದಿದೆ."
+   },
+   "sheet_sort_one_cell_error": {
+      "message": "ದಯವಿಟ್ಟು ವಿಂಗಡಿಸಲು ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಸೆಲ್ ಆಯ್ಕೆಮಾಡಿ."
+   },
+   "sheet_sort_one_cell_error_title": {
+      "message": "ಈ ಸೆಲ್ ಶ್ರೇಣಿಯನ್ನು ವಿಂಗಡಿಸುವಲ್ಲಿ ದೋಷ ಕಂಡುಬಂದಿದೆ."
+   },
+   "shift_key": {
+      "message": "Shift"
+   },
+   "shortcut": {
+      "message": "ಶಾರ್ಟ್‌ಕಟ್ $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sign_in": {
+      "message": "ಸೈನ್ ಇನ್"
+   },
+   "slash_key": {
+      "message": "ಸ್ಲ್ಯಾಶ್"
+   },
+   "something_not_right": {
+      "message": "ಏನೋ ಸರಿಯಾಗಿಲ್ಲ"
+   },
+   "storage_quota_exceed_error_msg": {
+      "message": "Chrome ನಲ್ಲಿ ತೆರೆದ ಯಾವುದೇ Office ಡಾಕ್ಯುಮೆಂಟ್‌ಗಳನ್ನು ಮುಚ್ಚಿ, ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ. ಒಂದು ವೇಳೆ ಸಮಸ್ಯೆ ಮುಂದುವರಿದರೆ, ಸಮಸ್ಯೆಯನ್ನು ಕೆಳಗೆ ವರದಿ ಮಾಡಿ."
+   },
+   "storage_quota_exceed_error_short_msg": {
+      "message": "ಕ್ಷಮಿಸಿ, ನಮಗೆ ಈ ಫೈಲ್ ಅನ್ನು ತೆರೆಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ."
+   },
+   "strikethrough_aria_spoken_word": {
+      "message": "ಸ್ಟ್ರೈಕ್‌ಥ್ರೂ"
+   },
+   "style_aria_spoken_word": {
+      "message": "ಶೈಲಿ ಡ್ರಾಪ್ ಡೌನ್ ಪಟ್ಟಿ"
+   },
+   "submenu_spoken_text": {
+      "message": "$1 $2 $3 $4",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         }
+      }
+   },
+   "temporary_unable_to_open_error_msg": {
+      "message": "ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ ಅಥವಾ ಒಂದು ವೇಳೆ ಸಮಸ್ಯೆ ಮುಂದುವರಿದರೆ ಸಮಸ್ಯೆಯನ್ನು ಕೆಳಗೆ ವರದಿಮಾಡಿ."
+   },
+   "temporary_unable_to_open_error_short_msg": {
+      "message": "ಕ್ಷಮಿಸಿ, ನಮಗೆ ತಾತ್ಕಾಲಿಕವಾಗಿ ಫೈಲ್ ಅನ್ನು ತೆರೆಯಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ."
+   },
+   "textaligncenter_aria_spoken_word": {
+      "message": "ಪಠ್ಯವನ್ನು ಮಧ್ಯಕ್ಕೆ ಹೊಂದಿಸಿ"
+   },
+   "textalignjustify_aria_spoken_word": {
+      "message": "ಪಠ್ಯ ಹೊಂದಾಣಿಕೆ ಸಮರ್ಥಿಸಿ"
+   },
+   "textalignleft_aria_spoken_word": {
+      "message": "ಪಠ್ಯವನ್ನು ಎಡಕ್ಕೆ ಹೊಂದಿಸಿ"
+   },
+   "textalignright_aria_spoken_word": {
+      "message": "ಪಠ್ಯವನ್ನು ಬಲಕ್ಕೆ ಹೊಂದಿಸಿ"
+   },
+   "textcolor_aria_spoken_word": {
+      "message": "ಪಠ್ಯ ಬಣ್ಣದ ಡ್ರಾಪ್ ಡೌನ್ ಪಟ್ಟಿ"
+   },
+   "textual_edit_error_msg": {
+      "message": "ಸ್ವರೂಪಗೊಳಿಸುವ ಸಂದರ್ಭದಲ್ಲಿ ನಿಮ್ಮ ಡಾಕ್ಯುಮೆಂಟ್ ದೋಷವನ್ನು ಎದುರಿಸಿದೆ.\n\nನಿಮ್ಮ ಬದಲಾವಣೆಗಳ ಮರುಪ್ರಾಪ್ತಿಗಾಗಿ ಪುಟವನ್ನು ಮರುಲೋಡ್ ಮಾಡಿ."
+   },
+   "textual_edit_error_short_msg": {
+      "message": "ಅಯ್ಯೋ!"
+   },
+   "title_error_msg_for_merge_cells": {
+      "message": "ಸಮಸ್ಯೆ ಇದೆ"
+   },
+   "title_msg_merging_multiple_cells_with_text": {
+      "message": "ಸಾವಧಾನ!"
+   },
+   "togglebulleted_aria_spoken_word": {
+      "message": "ಬುಲೆಟ್ ಮಾಡಲಾದ ಪಟ್ಟಿ"
+   },
+   "togglenumbered_aria_spoken_word": {
+      "message": "ಸಂಖ್ಯೆಯ ಪಟ್ಟಿ"
+   },
+   "togglezoom_aria_spoken_word": {
+      "message": "ಟಾಗಲ್ ಮಾಡಿದ ಝೂಮ್"
+   },
+   "tooltip_background_color": {
+      "message": "ಬಣ್ಣ ತುಂಬಿ"
+   },
+   "tooltip_bold": {
+      "message": "ದಪ್ಪಕ್ಷರ"
+   },
+   "tooltip_border": {
+      "message": "ಅಂಚುಗಳು"
+   },
+   "tooltip_border_all": {
+      "message": "ಎಲ್ಲಾ ಅಂಚುಗಳು"
+   },
+   "tooltip_border_bottom": {
+      "message": "ಕೆಳಭಾಗದ ಅಂಚುಗಳು"
+   },
+   "tooltip_border_horizontal": {
+      "message": "ಅಡ್ಡ ಅಂಚುಗಳು"
+   },
+   "tooltip_border_inner": {
+      "message": "ಒಳಭಾಗದ ಅಂಚುಗಳು"
+   },
+   "tooltip_border_left": {
+      "message": "ಎಡ ಅಂಚುಗಳು"
+   },
+   "tooltip_border_none": {
+      "message": "ಯಾವುದೇ ಅಂಚುಗಳಿಲ್ಲ"
+   },
+   "tooltip_border_outer": {
+      "message": "ಹೊರಗಿನ ಅಂಚುಗಳು"
+   },
+   "tooltip_border_right": {
+      "message": "ಬಲ ಅಂಚುಗಳು"
+   },
+   "tooltip_border_top": {
+      "message": "ಮೇಲ್ಭಾಗದ ಅಂಚುಗಳು"
+   },
+   "tooltip_border_vertical": {
+      "message": "ಅಡ್ಡ ಅಂಚುಗಳು"
+   },
+   "tooltip_cell_align": {
+      "message": "ಸೆಲ್ ಒಟ್ಟುಗೂಡಿಸುವಿಕೆ"
+   },
+   "tooltip_cell_h_align_center": {
+      "message": "ಅಡ್ಡಲಾಗಿ ಮಧ್ಯ"
+   },
+   "tooltip_cell_h_align_left": {
+      "message": "ಅಡ್ಡಲಾಗಿ ಎಡ"
+   },
+   "tooltip_cell_h_align_right": {
+      "message": "ಅಡ್ಡಲಾಗಿ ಬಲ"
+   },
+   "tooltip_cell_v_align_bottom": {
+      "message": "ಲಂಬವಾಗಿ ಕೆಳಭಾಗ"
+   },
+   "tooltip_cell_v_align_center": {
+      "message": "ಲಂಬವಾಗಿ ಮಧ್ಯ"
+   },
+   "tooltip_cell_v_align_top": {
+      "message": "ಲಂಬವಾಗಿ ಮೇಲ್ಭಾಗ"
+   },
+   "tooltip_download": {
+      "message": "ಡೌನ್‌ಲೋಡ್"
+   },
+   "tooltip_dropdown_init_add_shape": {
+      "message": "ಆಕಾರ"
+   },
+   "tooltip_fill_color": {
+      "message": "ಪಠ್ಯದ ಬಣ್ಣ"
+   },
+   "tooltip_font_face": {
+      "message": "ಫಾಂಟ್"
+   },
+   "tooltip_font_size": {
+      "message": "ಫಾಂಟ್ ಗಾತ್ರ"
+   },
+   "tooltip_highlight_color": {
+      "message": "ಹೈಲೈಟ್ ಬಣ್ಣ"
+   },
+   "tooltip_init_add_shape": {
+      "message": "ಪಠ್ಯ ಪೆಟ್ಟಿಗೆ"
+   },
+   "tooltip_italic": {
+      "message": "ಇಟಾಲಿಕ್"
+   },
+   "tooltip_merge": {
+      "message": "ಕೋಶಗಳನ್ನು ವಿಲೀನಗೊಳಿಸು"
+   },
+   "tooltip_merge_dropdown": {
+      "message": "ವಿಲಿನಗೊಳಿಸಿದ ಪ್ರಕಾರವನ್ನು ಆಯ್ಕೆಮಾಡಿ..."
+   },
+   "tooltip_modify_shape_fill_color": {
+      "message": "ಬಣ್ಣ ತುಂಬಿ"
+   },
+   "tooltip_modify_shape_outline_color": {
+      "message": "ಸಾಲು ಬಣ್ಣ"
+   },
+   "tooltip_modify_shape_outline_style": {
+      "message": "ಸಾಲು ಡ್ಯಾಶ್"
+   },
+   "tooltip_modify_shape_outline_width": {
+      "message": "ಸಾಲು ತೂಕ"
+   },
+   "tooltip_move_slide": {
+      "message": "$1 ಸ್ಲೈಡ್‌ಗಳನ್ನು ಸರಿಸಿ",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "tooltip_point": {
+      "message": "ಸ್ಲೈಡ್‌ಗಳ ಮುಖಪುಟ"
+   },
+   "tooltip_point_toggle_bullet": {
+      "message": "ಬುಲೆಟ್ ಮಾಡಲಾದ ಪಟ್ಟಿ"
+   },
+   "tooltip_point_toggle_number": {
+      "message": "ಸಂಖ್ಯೆಯ ಪಟ್ಟಿ"
+   },
+   "tooltip_presentation": {
+      "message": "ಪ್ರಸ್ತುತಿ"
+   },
+   "tooltip_print": {
+      "message": "ಮುದ್ರಿಸು"
+   },
+   "tooltip_redo": {
+      "message": "ಮತ್ತೆಮಾಡು"
+   },
+   "tooltip_share": {
+      "message": "ಹಂಚಿಕೊಳ್ಳು"
+   },
+   "tooltip_share_for_macroenabledfiles": {
+      "message": "ಮ್ಯಾಕ್ರೋ-ಸಕ್ರಿಯಗೊಳಿಸಿದ ಫೈಲ್‌ಗಳನ್ನು Google ಡ್ರೈವ್‌ನಿಂದ ಮಾತ್ರ ಹಂಚಿಕೊಳ್ಳಬಹುದಾಗಿದೆ"
+   },
+   "tooltip_sheet": {
+      "message": "ಶೀಟ್‌ಗಳ ಮುಖಪುಟ"
+   },
+   "tooltip_strikethrough": {
+      "message": "ಸ್ಟ್ರೈಕ್‌ಥ್ರೂ"
+   },
+   "tooltip_style": {
+      "message": "ಶೈಲಿಗಳು"
+   },
+   "tooltip_text_align_center": {
+      "message": "ಮಧ್ಯಕ್ಕೆ"
+   },
+   "tooltip_text_align_justify": {
+      "message": "ಸರಿಹೊಂದಿಸು"
+   },
+   "tooltip_text_align_left": {
+      "message": "ಎಡಕ್ಕೆ ಒಟ್ಟುಗೂಡಿಸು"
+   },
+   "tooltip_text_align_right": {
+      "message": "ಬಲಕ್ಕೆ ಒಟ್ಟುಗೂಡಿಸು"
+   },
+   "tooltip_text_color": {
+      "message": "ಪಠ್ಯದ ಬಣ್ಣ"
+   },
+   "tooltip_toggle_bulleted": {
+      "message": "ಬುಲೆಟ್ ಮಾಡಲಾದ ಪಟ್ಟಿ"
+   },
+   "tooltip_toggle_numbered": {
+      "message": "ಸಂಖ್ಯೆಯ ಪಟ್ಟಿ"
+   },
+   "tooltip_toggle_zoom": {
+      "message": "ಟಾಗಲ್ ಝೂಮ್"
+   },
+   "tooltip_underline": {
+      "message": "ಅಡಿಗೆರೆ"
+   },
+   "tooltip_undo": {
+      "message": "ರದ್ದುಗೊಳಿಸು"
+   },
+   "tooltip_word": {
+      "message": "ಡಾಕ್ಸ್ ಮುಖಪುಟ"
+   },
+   "tooltip_wrap_text": {
+      "message": "ವ್ರ್ಯಾಪ್ ಪಠ್ಯ"
+   },
+   "tooltip_zoom_in": {
+      "message": "ಝೂಮ್ ಇನ್"
+   },
+   "tooltip_zoom_out": {
+      "message": "ಝೂಮ್ ಔಟ್"
+   },
+   "try_again": {
+      "message": "ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ"
+   },
+   "unable_to_execute_msg": {
+      "message": "ಈ ಡಾಕ್ಯುಮೆಂಟ್ ಅನ್ನು ತೆರೆಯಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ."
+   },
+   "underline_aria_spoken_word": {
+      "message": "ಅಡಿಗೆರೆ"
+   },
+   "undo_aria_spoken_word": {
+      "message": "ರದ್ದುಗೊಳಿಸಿ"
+   },
+   "unmerge_aria_spoken_word": {
+      "message": "ವಿಲೀನ ಬೇರ್ಪಡಿಸು"
+   },
+   "unsaved_changes": {
+      "message": "ಉಳಿಸಲಾಗದ ಬದಲಾವಣೆಗಳು"
+   },
+   "unsaved_changes_warning": {
+      "message": "ನೀವು ಈ ಫೈಲ್‌ನಲ್ಲಿ ಉಳಿಸಲಾಗದ ಬದಲಾವಣೆಗಳನ್ನು ಹೊಂದಿರುವಿರಿ. ನೀವು ಈ ಪುಟವನ್ನು ಉಳಿಸದೆಯೇ ಬಿಟ್ಟರೆ, ನಿಮ್ಮ ಕಾರ್ಯವು ಶಾಶ್ವತವಾಗಿ ಕಳೆದುಹೋಗಲಿದೆ."
+   },
+   "unsupported_file_format_error_details_p1": {
+      "message": "ದುರದೃಷ್ಟವಶಾತ್, ಈ ಫೈಲ್ Microsoft® Office \"95 ಅಥವಾ ಮುಂಚಿನ ವಿಷಯವನ್ನು ಒಳಗೊಂಡಿದ್ದು, ಅವುಗಳನ್ನು ನಮಗೆ ತೆರೆಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ."
+   },
+   "unsupported_file_format_error_details_p2": {
+      "message": "ನೀವು ಫೈಲ್ ಅನ್ನು Google ಡಾಕ್ಸ್‌ಗೆ ಮಾರ್ಪಡಿಸಲು ಬಯಸಿದರೆ, ಕೆಳಗಿನ ಲಿಂಕ್ ಕ್ಲಿಕ್ ಮಾಡಿ."
+   },
+   "unsupported_file_format_error_title": {
+      "message": "ಓಹ್!"
+   },
+   "unsupported_link_message": {
+      "message": "ಕ್ಷಮಿಸಿ, ನಾವು ಪ್ರಸ್ತುತ ಈ ಪ್ರಕಾರದ URL ಗಳನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ."
+   },
+   "up_key": {
+      "message": "ಮೇಲಕ್ಕೆ"
+   },
+   "updated_shortcut_message": {
+      "message": "Google ಡಾಕ್ಸ್ ಉತ್ಪನ್ನಗಳಾದ್ಯಂತ ಕೀಬೋರ್ಡ್‌ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳನ್ನು ಸ್ಥಿರಗೊಳಿಸಲು ಅವುಗಳನ್ನು ನಾವು ಅಪ್‌ಡೇಟ್ ಮಾಡಿದ್ದೇವೆ. ಸಹಾಯಕ್ಕಾಗಿ ಅಪ್‌ಡೇಟ್ ಮಾಡಲಾದ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳ ಕಡೆಗೆ ಒಮ್ಮೆ ಗಮನಹರಿಸಿ."
+   },
+   "updated_shortcut_title": {
+      "message": "ಅಪ್‌ಡೇಟ್ ಮಾಡಿದ ಕೀಬೋರ್ಡ್ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು"
+   },
+   "version_info_msg": {
+      "message": "Office ಹೊಂದಾಣಿಕೆ ಮೋಡ್‌ನ ನಿಮ್ಮ ಆವೃತ್ತಿ"
+   },
+   "word_binary_upsave_learnmore": {
+      "message": "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ"
+   },
+   "word_binary_upsave_msg": {
+      "message": "ಈ ಫೈಲ್‌ ಬೆಂಬಲವಿಲ್ಲದ ಸ್ವರೂಪದಲ್ಲಿದೆ. ಇದನ್ನು ಉಳಿಸಲು, ಇದನ್ನು ತೀರಾ ಇತ್ತೀಚಿನ ಫೈಲ್‌ ಸ್ವರೂಪಕ್ಕೆ ಪರಿವರ್ತಿಸಲು ನಮಗೆ ನಿಮ್ಮ ಅನುಮತಿ ಬೇಕಿದೆ ಮತ್ತು ನಿಮ್ಮ ಮೂಲ ಫೈಲ್‌ ಮೇಲೆ ಯಾವುದೇ ಪರಿಣಾಮ ಬೀರುವುದಿಲ್ಲ."
+   },
+   "word_binary_upsave_shortmsg": {
+      "message": "ನಿಮ್ಮ ಡಾಕ್ಯುಮೆಂಟ್ ನವೀಕರಿಸಿ"
+   },
+   "word_count_label": {
+      "message": "ಪದಗಳು"
+   },
+   "word_count_title": {
+      "message": "ಪದ ಎಣಿಕೆ"
+   },
+   "word_ocm_promo_conversion_msg": {
+      "message": "Office ಫೈಲ್‌ಗಳನ್ನು ಡಾಕ್ಸ್‌‌ಗಳಲ್ಲಿ ನೀವು ನೇರವಾಗಿ ಸಂಪಾದಿಸಬಹುದು ಮತ್ತು ಉಳಿಸಬಹುದು. ಎಡಿಟ್ ಮಾಡಲು ಅಥವಾ ಕಾಮೆಂಟ್‌ಗಳನ್ನು ಸೇರಿಸುವುದಕ್ಕಾಗಿ ಇತರರನ್ನು ಆಹ್ವಾನಿಸಲು, Google ಡಾಕ್ಸ್‌‌ \nರೂಪದಲ್ಲಿ ಉಳಿಸಿ. ಯಾವ ಸಮಯದಲ್ಲಾದರೂ ನೀವು ಮೂಲ ಸ್ವರೂಪದಲ್ಲಿ ಮತ್ತೆ ಉಳಿಸಬಹುದು."
+   },
+   "word_share_promo_conversion_msg": {
+      "message": "ಈ ಡಾಕ್ಯಮೆಂಟ್‌ ಹಂಚಿಕೊಳ್ಳಲು ಪ್ರಯತ್ನಿಸುತ್ತಿರುವಿರಾ? ನಿಮ್ಮ ಜೊತೆಗೆ ಸಂಪಾದಿಸುವ ನಿಟ್ಟಿನಲ್ಲಿ ಇತರರನ್ನು ಆಹ್ವಾನಿಸಲು, ಅದನ್ನು Google ಡಾಕ್ಸ್‌ಗೆ ಪರಿವರ್ತಿಸಿ."
+   },
+   "wraptext_aria_spoken_word": {
+      "message": "ವ್ರ್ಯಾಪ್ ಪಠ್ಯ"
+   },
+   "zoomin_aria_spoken_word": {
+      "message": "ಝೂಮ್ ಇನ್"
+   },
+   "zoomout_aria_spoken_word": {
+      "message": "ಝೂಮ್ ಔಟ್"
+   }
+}

@@ -1,0 +1,182 @@
+@import url("viewLayoutControl.css");
+@import url("charts/format.css");
+@import url("charts/tooltip.css");
+@import url("charts/charts.css");
+@import url("ui/feedbackButton.css");
+@import url("ui/toolbar.css");
+@import url("ui/modalShield.css");
+@import url("ui/modalDialog.css");
+@import url("ui/notifications.css");
+@import url("ui/contextMenu.css");
+
+/* support for retina displays */
+@import url('ui/hiDPI.css') (-webkit-min-device-pixel-ratio: 1.3),
+         (-o-min-device-pixel-ratio: 4/3),
+         (min--moz-device-pixel-ratio: 1.3),
+         (min-device-pixel-ratio: 1.3);
+@import url('ui/appIconHiDPI.css') (-webkit-min-device-pixel-ratio: 1.3),
+         (-o-min-device-pixel-ratio: 4/3),
+         (min--moz-device-pixel-ratio: 1.3),
+         (min-device-pixel-ratio: 1.3);
+
+/* support for normal displays */
+@import url('ui/lowDPI.css') (-webkit-max-device-pixel-ratio: 1.3),
+         (-o-max-device-pixel-ratio: 4/3),
+         (max--moz-device-pixel-ratio: 1.3),
+         (max-device-pixel-ratio: 1.3);
+@import url('ui/appIconLowDPI.css') (-webkit-max-device-pixel-ratio: 1.3),
+         (-o-max-device-pixel-ratio: 4/3),
+         (max--moz-device-pixel-ratio: 1.3),
+         (max-device-pixel-ratio: 1.3);
+
+body {
+  margin: 0;
+  font-size: 100%;
+  /*
+   * Ensure all ui by default is non-editable and non-selectable.
+   * Any content that needs to be editable will be made so explicitly by the
+   * appropriate styling/modules.
+   */
+  -webkit-user-modify: none;
+  -webkit-user-select: none;
+}
+
+::selection {
+    background:rgb(214, 224, 245);
+}
+
+/**
+ * Generic css classes - TODO: should make some of these platform specific?
+ * eg scroller
+ */
+.qowt-scroller {
+  overflow: auto;
+}
+
+.qowt-fader {
+  -webkit-transition-property: opacity;
+  -webkit-transition-duration: 0.2s
+  -webkit-transition-timing-function: ease-in-out;
+  -webkit-transition-delay: 0.1s;
+}
+
+/* generic richtext and editable classes
+ * the latter is added to a div to make it editable
+ * Clients can over ride this */
+.qowt-richtext {
+  -webkit-user-modify: read-only;
+  -webkit-user-select: text;
+  word-wrap: break-word;
+  cursor: text;
+}
+
+/**
+ * Turn on WebKits version of Content Editable
+ */
+.qowt-editable {
+  -webkit-user-modify: read-write;
+  -webkit-user-select: text;
+  word-wrap: break-word;
+  cursor: text;
+}
+
+/* Turn off content editable for things we do not support */
+.qowt-editable .qowt-header,
+.qowt-editable .qowt-footer {
+  -webkit-user-modify: read-only;
+  -webkit-user-select: none;
+  cursor: default;
+}
+
+/* This prevents the blue selection border from showing */
+.qowt-editable:focus {
+  /* Comment the following line to see the blue border
+     this is useful for debugging when you need to know which element the cursor
+     is within */
+  outline: none;
+}
+
+/* Used to turn off text-selection capability in v1 (read-only with no clipboard
+ functionality) */
+.qowt-noselect {
+  -webkit-user-select: none;
+}
+
+.qowt-uneditable {
+  -webkit-user-modify: read-only !important;
+  -webkit-user-select: none !important;
+}
+
+
+/*
+Alignment is performed using the webkit flexible box model
+*/
+.qowt-vertical-align-top,
+.qowt-vertical-align-center,
+.qowt-vertical-align-bottom,
+.qowt-horizontal-align-left,
+.qowt-horizontal-align-center,
+.qowt-horizontal-align-right {
+  display: -webkit-inline-flex;
+  -webkit-flex-direction: row;
+  -webkit-flex-wrap: wrap;
+}
+
+/*
+Base rule for aligning content vertically at the top
+*/
+.qowt-vertical-align-top {
+  -webkit-align-items: flex-start;
+}
+
+/*
+Base rule for aligning content vertically in the middle
+*/
+.qowt-vertical-align-center {
+  -webkit-align-items: center;
+}
+
+/*
+Base rule for aligning content vertically at the bottom
+*/
+.qowt-vertical-align-bottom {
+  -webkit-align-items: flex-end;
+}
+
+/*
+Base rule for aligning content horizontally on the left
+*/
+.qowt-horizontal-align-left {
+  -webkit-justify-content: flex-start;
+  text-align: left;
+}
+
+/*
+Base rule for aligning content horizontally in the middle
+*/
+.qowt-horizontal-align-center {
+  -webkit-justify-content: center;
+  text-align: center;
+}
+
+/*
+Base rule for aligning content horizontally on the right
+*/
+.qowt-horizontal-align-right {
+  -webkit-justify-content: flex-end;
+  text-align: right;
+}
+
+.qowt-horizontal-align-justify {
+  text-align: justify;
+}
+
+#qo_app {
+  /* important! webkit box layout is parent FIRST priority aware, app container
+  must be size specified for this reason */
+  height: 100%;
+}
+
+.qowt-text-capitalize {
+  text-transform: capitalize;
+}

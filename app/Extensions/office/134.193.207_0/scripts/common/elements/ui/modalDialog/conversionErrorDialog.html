@@ -1,0 +1,51 @@
+<link rel="import" href="../../../../third_party/polymer/polymer.html"/>
+<link rel="import" href="./modalDialogStyles.html">
+
+<dom-module id="qowt-conversion-error-dialog">
+    <!--
+      Template for the conversion error dialog with a title, a paragraph, report
+      feedback link and two buttons.
+      There are a few attributes that can be set:
+        titleText is the key (in the i18n module) of the string for the title
+        messageText is the key of the string for the message
+        affirmativeButton is the key of the string for the affirmative button.
+            If it's not defined, there will be no affirmative button.
+        negativeButton is the key of the string for the negative button. If it's
+            not defined, there will be no affirmative button.
+
+      Example (dialog with only affirmative button):
+        var dialog = new QowtConversionErrorDialog();
+        dialog.templateId = 'conversionError';
+        dialog.titleText = 'key_to_title';
+        dialog.messageText = 'key_to_message';
+        dialog.affirmativeButton = 'key_to_okay_text';
+        dialog.show();
+    -->
+  <template>
+    <style include="modal-dialog-styles"></style>
+    <style>
+      :host {
+        width: 364px;
+      }
+    </style>
+    <qowt-localized>
+      <header>{{getMessage_(titleText)}}</header>
+      <p>
+        <span>{{getMessage_(messageText)}}</span>
+      </p>
+      <a id="reportFeedback" class="reportFeedback"
+        on-click="handleAction_" href="" target="_blank">
+          __app_error_report_feedback__
+      </a>
+      <footer>
+        <button id="affirmative" class="affirmative" on-click="handleAction_" autofocus>
+          <span>{{getMessage_(affirmativeButton)}}</span>
+        </button>
+        <button id="negative" class="negative" on-click="handleAction_" autofocus>
+          <span>{{getMessage_(negativeButton)}}</span>
+        </button>
+      </footer>
+    </qowt-localized>
+    <button id="closeButton" on-click="close" aria-label="{{getMessage_('close_dialog_aria_spoken_word')}}" focus-end></button>
+  </template>
+</dom-module>

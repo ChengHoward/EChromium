@@ -1,0 +1,41 @@
+<!-- Must always load the Polymer core first.-->
+<link rel="import" href="../../../../third_party/polymer/polymer.html"/>
+
+<dom-module id="qowt-color-swatch">
+  <template>
+    <style>
+      :host {
+        display: inline-block;
+      }
+
+      div {
+        width: 16px;
+        height: 16px;
+        cursor: pointer;
+        border: 1px solid transparent;
+        background-clip: padding-box;
+        -webkit-user-select: none;
+        margin: 0;
+      }
+
+      div:hover {
+        border-color: #000;
+      }
+
+      div.selected {
+        outline: 1px solid #000;
+        background: url('../../../../lib/qowt/assets/img/ui/checkmark.png') no-repeat center center padding-box;
+      }
+
+      div.focus {
+        border-color: #000;
+      }
+
+      div.blur {
+        border-color: transparent;
+      }
+    </style>
+    <div id="_swatch"></div>
+  </template>
+  <!--Don't have to include <script> tag because all.js imports it.-->
+</dom-module>
