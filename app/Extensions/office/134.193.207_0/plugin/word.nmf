@@ -1,7 +1,0 @@
-{
-  "program": {
-    "x86-32": {"url": "../_platform_specific/x86_32/word_x86_32.nexe"},
-    "x86-64": {"url": "../_platform_specific/x86_64/word_x86_64.nexe"},
-    "arm": {"url": "../_platform_specific/arm/word_arm.nexe"}
-  }
-}

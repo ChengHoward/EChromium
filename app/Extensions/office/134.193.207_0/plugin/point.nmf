@@ -1,7 +1,0 @@
-{
-  "program": {
-    "x86-32": {"url": "../_platform_specific/x86_32/point_x86_32.nexe"},
-    "x86-64": {"url": "../_platform_specific/x86_64/point_x86_64.nexe"},
-    "arm": {"url": "../_platform_specific/arm/point_arm.nexe"}
-  }
-}
