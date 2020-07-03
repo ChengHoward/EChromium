@@ -430,14 +430,13 @@ app.on('ready', () => {
     // console.log("ready");
     // createBrowserWindow(true)
     // console.log(process.argv);
-    BrowserWindow.addExtension("D:/NodeProject/Electron-browser-20200410/app/Extensions/jsonview/0.0.32.3_0");
-    // BrowserWindow.addExtension("D:/NodeProject/Electron-browser-20200410/app/Extensions/office/134.193.207_0");
+    BrowserWindow.addExtension("./app/Extensions/jsonview/0.0.32.3_0");
 
-    console.log(BrowserWindow.getExtensions());
+    // console.log(BrowserWindow.getExtensions());
     var data = handleArgv(process.argv);
     if (data == "") { createBrowserWindow() } else if (typeof data == "string") {
         var last_len = data.lastIndexOf(".");
-        var len = data.length;
+        var len = data.length;  
         var pathf = data.substring(last_len, len).toLowerCase();
         if (pathf === ".pdf") {
             new_pdf_win(data);
