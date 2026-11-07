@@ -16,7 +16,7 @@
     "review:ui": "npm run build && node scripts/review-ui.mjs"
   },
   "dependencies": {
-    "vue": "3.5.13"
+    "vue": "3.5.45"
   },
   "devDependencies": {
     "@types/node": "22.13.10",
