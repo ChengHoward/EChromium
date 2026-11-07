@@ -1,5 +1,6 @@
 import { NativePanel, type WebContents, type NativePanelAction } from 'electron'
 import type { Browser, Host, Tab } from './browser'
+import { panelTheme } from './panel-theme'
 import { findPanelContent, type FindPresentation } from '../shared/find-panel'
 
 interface Entry extends FindPresentation {
@@ -61,17 +62,7 @@ export class PageFind {
     )
   }
   private theme(host: Host) {
-    const colors = host.appearance.colors
-    return {
-      mode: host.appearance.dark ? 'dark' : 'light',
-      background: colors.surface,
-      text: colors.ink,
-      muted: colors.muted,
-      border: colors.stroke,
-      accent: colors.accent,
-      fontFamily: 'Segoe UI',
-      fontSize: 13,
-    }
+    return panelTheme(host)
   }
   private anchor(entry: Entry) {
     const origin = entry.host.window.getContentBounds(),

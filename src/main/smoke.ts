@@ -16,6 +16,8 @@ import { smokeSiteInventory } from './smoke-site-inventory'
 import { smokeTabOverview } from './smoke-tab-overview'
 import { smokeChrome } from './smoke-chrome'
 import { smokeOpenedTabs } from './smoke-window-open'
+import { smokeFavicons } from './smoke-favicons'
+import { smokeTabLayout } from './smoke-tab-layout'
 
 async function until(check: () => boolean | Promise<boolean>, label: string) {
   const start = Date.now()
@@ -247,6 +249,16 @@ export async function smoke(browser: Browser, host: Host) {
     )
     try {
       await until(() => !!browser.suggestions.diagnostics(host)?.visible, 'native address suggestions')
+      const previousMode = browser.store.data.preferences.mode
+      const suggestionTheme = () =>
+        (browser.suggestions.diagnostics(host) as unknown as { theme?: { mode: string; background: string } })
+          ?.theme
+      for (const mode of ['dark', 'light'] as const) {
+        await browser.request(host, { action: 'preferences', value: { mode } })
+        await until(() => suggestionTheme()?.mode === mode, 'open suggestions follow the browser theme')
+        assert.equal(suggestionTheme()?.background, host.appearance.colors.surface)
+      }
+      await browser.request(host, { action: 'preferences', value: { mode: previousMode } })
     } catch (error) {
       console.error(
         'Address diagnostics',
@@ -840,6 +852,9 @@ export async function smoke(browser: Browser, host: Host) {
     'chrome alignment, overview shape, native theme menu, automatic mode, translucent layers and tab motion',
     () => smokeChrome(browser, reportFile),
   )
+  await check('Chromium tab geometry aligns icons, add controls and overflow-only title fades', () =>
+    smokeTabLayout(browser, reportFile),
+  )
   await check('beforeunload cancellation retains the actual live WebContents', async () => {
     const owner = browser.hosts.get(tab.hostId)!
     await tab.view!.webContents.executeJavaScript(
@@ -853,6 +868,10 @@ export async function smoke(browser: Browser, host: Host) {
     browser.confirmLeave = () => true
     assert.equal(await browser.closeTab(owner, tab), true)
   })
+  await check(
+    'favicons persist page mappings, refresh expired images, deduplicate requests and isolate private sessions',
+    () => smokeFavicons(browser),
+  )
   const report = {
     at: new Date().toISOString(),
     runtime: process.versions,

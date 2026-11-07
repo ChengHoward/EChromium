@@ -8,6 +8,7 @@ import {
 import type { Browser, Host, Tab } from './browser'
 import { canonicalOrigin } from '../shared/site-policy'
 import { safeOrigin } from '../shared/navigation'
+import { panelTheme } from './panel-theme'
 
 interface Budget {
   epoch: number
@@ -49,6 +50,10 @@ export class PageDialogs {
   }
   panel(sourceId: number) {
     return this.pending.get(sourceId)?.panel
+  }
+  refresh(host: Host) {
+    for (const entry of this.pending.values())
+      if (entry.host === host) entry.panel.update({ theme: panelTheme(host) })
   }
   cancel(sourceId: number) {
     this.pending.get(sourceId)?.finish({ accept: false })
@@ -152,7 +157,6 @@ export class PageDialogs {
         finish({ accept: false })
         return
       }
-      const colors = owner.appearance.colors
       panel = new NativePanel({
         parent: window,
         sourceWebContents: wc,
@@ -247,16 +251,7 @@ export class PageDialogs {
             },
           ],
         },
-        theme: {
-          mode: owner.appearance.dark ? 'dark' : 'light',
-          background: colors.surface,
-          text: colors.ink,
-          muted: colors.muted,
-          border: colors.stroke,
-          accent: colors.accent,
-          fontFamily: 'Segoe UI',
-          fontSize: 13,
-        },
+        theme: panelTheme(owner),
       })
       const currentPanel = panel
       this.pending.set(wc.id, { panel, host: owner, root: tab, sourceId: wc.id, finish })

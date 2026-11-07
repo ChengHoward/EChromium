@@ -2,6 +2,7 @@ import { NativePanel, type NativePanelContent } from 'electron'
 import type { Browser, Host } from './browser'
 import { addressChoices, choiceLabel, type AddressChoice } from '../shared/suggestions'
 import { safeBounds } from '../shared/navigation'
+import { panelTheme } from './panel-theme'
 
 const label = (text: string) =>
   text.replace(/[\u0000-\u001f\u007f-\u009f\u202a-\u202e\u2066-\u2069]/g, '').slice(0, 2000)
@@ -25,6 +26,9 @@ export class AddressSuggestions {
   }
   diagnostics(host: Host) {
     return this.entries.get(host.id)?.panel.getDiagnostics()
+  }
+  refresh(host: Host) {
+    this.entries.get(host.id)?.panel.update({ theme: panelTheme(host) })
   }
   hide(host: Host, dismissed = false) {
     this.entries.get(host.id)?.panel.hide()
@@ -131,16 +135,7 @@ export class AddressSuggestions {
         ],
       })),
     }
-    const theme = {
-      mode: host.appearance.dark ? 'dark' : 'light',
-      background: host.appearance.colors.surface,
-      text: host.appearance.colors.ink,
-      muted: host.appearance.colors.muted,
-      border: host.appearance.colors.stroke,
-      accent: host.appearance.colors.accent,
-      fontFamily: 'Segoe UI',
-      fontSize: 13,
-    }
+    const theme = panelTheme(host)
     try {
       let entry = this.entries.get(host.id)
       if (!entry) {

@@ -1,6 +1,8 @@
 <script setup lang="ts">
 import { computed, nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 import Icon from './Icon.vue'
+import SiteIcon from './SiteIcon.vue'
+import TabTitle from './TabTitle.vue'
 import TabOverview from './TabOverview.vue'
 import HistoryPage from './pages/HistoryPage.vue'
 import DownloadsPage from './pages/DownloadsPage.vue'
@@ -8,6 +10,7 @@ import SettingsPage from './pages/SettingsPage.vue'
 import NewTabPage from './pages/NewTabPage.vue'
 import BookmarksPage from './pages/BookmarksPage.vue'
 import { addressChoices, choiceLabel, type AddressChoice } from '../shared/suggestions'
+import { tabLayout, tabLayoutStyle } from '../shared/tab-layout'
 
 import type { BrowserRequest, BrowserState } from '../shared/model'
 
@@ -47,8 +50,13 @@ const tabDensity = computed(() => {
     pins = tabs.filter((tab) => tab.pinned).length,
     normal = tabs.length - pins,
     activeNormal = active.value && !active.value.pinned ? 1 : 0
-  const remaining = stripWidth.value - 24 - pins * 42 - Math.max(0, tabs.length - 1) * 3 - activeNormal * 112
-  const width = normal > activeNormal ? remaining / (normal - activeNormal) : 203
+  const remaining =
+    stripWidth.value -
+    26 -
+    pins * tabLayout.pinnedWidth -
+    Math.max(0, tabs.length - 1) * 3 -
+    activeNormal * tabLayout.activeMinWidth
+  const width = normal > activeNormal ? remaining / (normal - activeNormal) : tabLayout.maxWidth
   return width < 56 ? 'icons' : width < 84 ? 'dense' : width < 125 ? 'compressed' : 'comfortable'
 })
 async function revealActiveTab() {
@@ -57,6 +65,10 @@ async function revealActiveTab() {
 }
 function toggleOverview() {
   void dispatch({ action: 'tab-overview' })
+}
+function openMenu(event: MouseEvent) {
+  const { x, y, width, height } = (event.currentTarget as HTMLElement).getBoundingClientRect()
+  void dispatch({ action: 'menu', value: { x, y, width, height } })
 }
 function scrollTabs(event: WheelEvent) {
   const strip = tabStrip.value
@@ -68,9 +80,10 @@ function scrollTabs(event: WheelEvent) {
 }
 const bookmarked = computed(() => !!state.value?.bookmarks.some((b) => b.url === active.value?.url))
 const isError = computed(() => active.value?.kind === 'web' && (active.value.error || active.value.crashed))
-const style = computed(() =>
-  Object.fromEntries(Object.entries(state.value?.palette || {}).map(([k, v]) => [`--${k}`, v])),
-)
+const style = computed(() => ({
+  ...Object.fromEntries(Object.entries(state.value?.palette || {}).map(([k, v]) => [`--${k}`, v])),
+  ...tabLayoutStyle(),
+}))
 
 let observer: ResizeObserver | undefined,
   unsubscribe: (() => void) | undefined,
@@ -207,6 +220,7 @@ function startTabDrag(event: DragEvent, id: string) {
 function leavingTab(element: Element) {
   const tab = element as HTMLElement
   tab.style.setProperty('--tab-exit-width', `${tab.getBoundingClientRect().width}px`)
+  tab.classList.toggle('departing-selected', tab.classList.contains('selected'))
   tab.classList.remove('selected')
   tab.setAttribute('aria-selected', 'false')
   tab.setAttribute('aria-hidden', 'true')
@@ -399,7 +413,8 @@ onBeforeUnmount(() => {
             >
               <span class="tab-background" aria-hidden="true"></span>
               <span v-if="tab.loading" class="spinner"></span
-              ><Icon
+              ><SiteIcon v-else-if="tab.kind === 'web'" class="tab-icon" :src="tab.favicon" />
+              <Icon
                 v-else
                 class="tab-icon"
                 :name="
@@ -413,19 +428,19 @@ onBeforeUnmount(() => {
                           ? 'history'
                           : tab.kind === 'downloads'
                             ? 'download'
-                            : 'globe'
+                            : 'newtab'
                 "
                 :size="16"
               />
-              <span class="tab-title">{{ tab.title }}</span>
-              <Icon v-if="tab.audible || tab.muted" class="tab-audio" name="audio" :size="13" />
+              <Icon v-if="tab.audible || tab.muted" class="tab-audio" name="audio" :size="16" />
+              <TabTitle :text="tab.title" />
               <button
                 v-if="!tab.pinned"
                 class="tab-close"
                 aria-label="关闭标签页"
                 @click.stop="dispatch({ action: 'close-tab', id: tab.id })"
               >
-                <Icon name="close" :size="12" />
+                <Icon name="close" :size="tabLayout.closeIcon" />
               </button>
               <span class="tab-separator" aria-hidden="true"></span>
             </div>
@@ -437,7 +452,7 @@ onBeforeUnmount(() => {
           aria-label="新标签页"
           @click="dispatch({ action: 'new-tab' })"
         >
-          <Icon name="plus" />
+          <Icon name="tab-add" :size="16" />
         </button>
         <span v-if="state.private" class="private-badge"><Icon name="private" :size="15" /> 隐私</span>
         <div class="window-controls-space"></div>
@@ -537,12 +552,7 @@ onBeforeUnmount(() => {
             class="notification-dot"
           ></span>
         </button>
-        <button
-          class="icon-button"
-          title="设置及更多"
-          aria-label="设置及更多"
-          @click="dispatch({ action: 'menu' })"
-        >
+        <button class="icon-button" title="设置及更多" aria-label="设置及更多" @click="openMenu">
           <Icon name="menu" />
         </button>
       </div>
@@ -589,7 +599,7 @@ onBeforeUnmount(() => {
           title="管理书签 (Ctrl+Shift+O)"
           @click="dispatch({ action: 'new-tab', value: 'bookmarks' })"
         >
-          <Icon name="folder" :size="14" /><span>书签</span></button
+          <Icon name="folder" :size="16" /><span>书签</span></button
         ><span class="bookmark-divider"></span>
         <button
           v-for="folder in state.bookmarkFolders.filter((f) => !f.parentId).slice(0, 8)"
@@ -598,20 +608,17 @@ onBeforeUnmount(() => {
           :title="folder.title"
           @click="dispatch({ action: 'folder-menu', id: folder.id })"
         >
-          <Icon name="folder" :size="13" /><span>{{ folder.title }}</span>
+          <Icon name="folder" :size="16" /><span>{{ folder.title }}</span>
         </button>
         <button
           v-for="bookmark in state.bookmarks.filter((b) => !b.folderId).slice(0, 15)"
           :key="bookmark.id"
           class="bookmark-item"
-          :title="bookmark.url"
+          :title="`${bookmark.title}\n${bookmark.url}`"
           @click="open(bookmark.url, $event)"
         >
-          <Icon name="globe" :size="13" /><span>{{ bookmark.title }}</span>
+          <SiteIcon :src="bookmark.favicon" /><span>{{ bookmark.title }}</span>
         </button>
-        <span v-if="!state.bookmarks.length && !state.bookmarkFolders.length" class="bookmark-hint"
-          >在喜欢的网页按 Ctrl+D，添加到这里。</span
-        >
         <button
           class="bookmark-item history-entry"
           @click="dispatch({ action: 'new-tab', value: 'history' })"

@@ -3,7 +3,7 @@ import fs from 'node:fs'
 import path from 'node:path'
 import { nativeTheme } from 'electron'
 import type { Browser } from './browser'
-import { buildBrowserMenu } from './menus'
+import { buildBrowserMenu, openBrowserMenu } from './menus'
 import { BrowserStore } from './storage'
 import { transparencyLimits, themeDepthLimits, palette } from '../shared/appearance'
 import { smokeMaterial } from './smoke-material'
@@ -168,8 +168,47 @@ export async function smokeChrome(browser: Browser, report: string) {
     )
     assert.ok(
       centers.every((value: number) => Math.abs(value - centers[2]) < 0.5),
-      'titlebar icon centers align',
+      'titlebar icon centers align: ' + JSON.stringify(centers),
     )
+    const plus = await js(
+      `(()=>{const button=document.querySelector('.new-tab'),r=button.getBoundingClientRect(),bar=document.querySelector('.titlebar').getBoundingClientRect(),last=document.querySelector('.tabs .tab:last-child').getBoundingClientRect(),separator=getComputedStyle(button,'::before');return {width:r.width,height:r.height,gap:bar.bottom-r.bottom,radius:getComputedStyle(button).borderRadius,tabGap:r.left-last.right,separatorWidth:separator.width,separatorHeight:separator.height}})()`,
+    )
+    assert.equal(plus.width, plus.height, 'new-tab button keeps its compact square footprint')
+    assert.equal(plus.radius, '8px')
+    assert.ok(
+      plus.tabGap >= 8 && plus.tabGap <= 12,
+      'new-tab button remains close to the final tab without overlap',
+    )
+    assert.equal(plus.separatorWidth, '2px')
+    assert.equal(plus.separatorHeight, '16px')
+    assert.ok(plus.gap >= 1.9, 'new-tab hover boundary leaves room above the toolbar')
+    if (process.platform === 'win32') {
+      const anchor = await js(
+        `(()=>{const r=document.querySelector('[aria-label="设置及更多"]').getBoundingClientRect();return {x:r.x,y:r.y,width:r.width,height:r.height}})()`,
+      )
+      const menu = openBrowserMenu(browser, host, undefined, anchor)
+      const diagnostics = () =>
+        (
+          menu as unknown as {
+            _getPopupState: () => { contentBounds: { x: number; y: number; width: number } }[]
+          }
+        )._getPopupState()[0]
+      try {
+        await until(() => !!diagnostics()?.contentBounds, 'native menu positioned')
+        const content = diagnostics().contentBounds,
+          window = host.window.getContentBounds()
+        assert.ok(
+          Math.abs(content.x + content.width - (window.x + anchor.x + anchor.width)) < 2,
+          'main menu right-aligns with its toolbar button',
+        )
+        assert.ok(
+          Math.abs(content.y - (window.y + anchor.y + anchor.height + 4)) < 2,
+          'main menu opens below its toolbar button',
+        )
+      } finally {
+        menu.closePopup(host.window)
+      }
+    }
     const gap = await js(`(()=>{document.querySelector('.tabs').scrollLeft=0;
       return document.querySelector('.tab .tab-background').getBoundingClientRect().left -
         document.querySelector('.tab-overview-toggle').getBoundingClientRect().right})()`)
@@ -229,7 +268,7 @@ export async function smokeChrome(browser: Browser, report: string) {
       })
     await motion('no-preference')
     await js(
-      `window.chromeFrames=[];window.observeChromeFrames=true;(()=>{const sample=()=>{if(!window.observeChromeFrames)return;for(const e of document.querySelectorAll('.tab-motion-enter-active,.tab-motion-leave-active')){const s=getComputedStyle(e);window.chromeFrames.push({leave:e.classList.contains('tab-motion-leave-active'),y:parseFloat(s.translate.split(' ')[1])||0,opacity:Number(s.opacity),width:e.getBoundingClientRect().width,inert:e.inert})}requestAnimationFrame(sample)};requestAnimationFrame(sample)})()`,
+      `window.chromeFrames=[];window.observeChromeFrames=true;(()=>{const sample=()=>{if(!window.observeChromeFrames)return;for(const e of document.querySelectorAll('.tab-motion-enter-active,.tab-motion-leave-active')){const s=getComputedStyle(e),content=getComputedStyle(e.querySelector('.tab-icon,.spinner')),base=e.querySelector('.tab-background').getBoundingClientRect(),strip=document.querySelector('.tabs').getBoundingClientRect();window.chromeFrames.push({leave:e.classList.contains('tab-motion-leave-active'),y:parseFloat(content.translate.split(' ')[1])||0,baseGap:Math.abs(base.bottom-strip.bottom),overflow:s.overflow,opacity:Number(s.opacity),width:e.getBoundingClientRect().width,inert:e.inert})}requestAnimationFrame(sample)};requestAnimationFrame(sample)})()`,
     )
     const added = browser.newTab(host)
     await until(
@@ -242,7 +281,15 @@ export async function smokeChrome(browser: Browser, report: string) {
     const enter = await js('window.chromeFrames.filter(frame=>!frame.leave)')
     assert.ok(
       enter.some((frame: { y: number; opacity: number }) => frame.y > 1 && frame.opacity < 0.95),
-      'new tab moves up from below',
+      'new tab contents move up from below',
+    )
+    assert.ok(
+      enter.length > 1 &&
+        enter.every(
+          (frame: { baseGap: number; overflow: string }) =>
+            frame.baseGap < 0.6 && frame.overflow === 'visible',
+        ),
+      'entering tab keeps its reverse corners unclipped and attached to the toolbar',
     )
     await browser.closeTab(host, added)
     await until(
@@ -252,7 +299,15 @@ export async function smokeChrome(browser: Browser, report: string) {
     const leave = await js('window.chromeFrames.filter(frame=>frame.leave)')
     assert.ok(
       leave.some((frame: { y: number; opacity: number }) => frame.y > 1 && frame.opacity < 0.95),
-      'closed tab disappears downward',
+      'closed tab contents disappear downward',
+    )
+    assert.ok(
+      leave.length > 1 &&
+        leave.every(
+          (frame: { baseGap: number; overflow: string }) =>
+            frame.baseGap < 0.6 && frame.overflow === 'visible',
+        ),
+      'departing tab keeps its background on the toolbar baseline',
     )
     assert.ok(
       leave.every((frame: { inert: boolean }) => frame.inert),

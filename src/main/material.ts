@@ -1,6 +1,7 @@
 import { nativeTheme, type BrowserWindow } from 'electron'
 import os from 'node:os'
 import { chromePalette, palette } from '../shared/appearance'
+import { tabLayout } from '../shared/tab-layout'
 import type { Preferences } from '../shared/model'
 
 const applied = new WeakMap<BrowserWindow, { material: string; background: string; overlay: string }>()
@@ -51,7 +52,7 @@ export function applyMaterial(window: BrowserWindow, preferences: Preferences, f
     window.setTitleBarOverlay({
       color: material === 'acrylic' ? '#00000000' : colors.shell,
       symbolColor: colors.ink,
-      height: 42,
+      height: tabLayout.stripHeight,
     })
   applied.set(window, {
     material,

@@ -135,6 +135,28 @@ export async function smokePageDialogs(browser: Browser, host: Host, origin: str
       inputPanel = await panel()
     }
     assert.ok(JSON.stringify(inputPanel.getDiagnostics()).includes(origin))
+    const previousMode = browser.store.data.preferences.mode
+    const promptTheme = () =>
+      (inputPanel.getDiagnostics() as unknown as { theme: { mode: string; background: string } }).theme
+    const promptDraft = inputPanel
+      .getDiagnostics()
+      .controls.find((control) => control.id === 'dialog-input') as { value?: string }
+    for (const mode of ['dark', 'light'] as const) {
+      await browser.request(host, { action: 'preferences', value: { mode } })
+      assert.equal(browser.dialogs.panel(wc.id), inputPanel, 'appearance updates keep the open prompt')
+      assert.equal(promptTheme().mode, mode)
+      assert.equal(promptTheme().background, host.appearance.colors.surface)
+      assert.equal(
+        (
+          inputPanel.getDiagnostics().controls.find((control) => control.id === 'dialog-input') as {
+            value?: string
+          }
+        ).value,
+        promptDraft.value,
+        'theme updates preserve native prompt drafts',
+      )
+    }
+    await browser.request(host, { action: 'preferences', value: { mode: previousMode } })
     act(inputPanel, 'dialog-input', 'change', '中文 reply & <text>')
     act(inputPanel, 'dialog-accept', 'click')
     assert.equal(await prompt, '中文 reply & <text>')

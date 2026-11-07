@@ -10,7 +10,17 @@
     stroke-linejoin="round"
     aria-hidden="true"
   >
-    <path :d="paths[name] || paths.globe" />
+    <g v-if="name === 'newtab'">
+      <rect x="3" y="3" width="18" height="18" rx="3" />
+      <path d="M7 7h10" />
+      <circle v-for="x in [8, 12, 16]" :key="x" :cx="x" cy="13" r="0.8" fill="currentColor" stroke="none" />
+    </g>
+    <g v-else-if="name === 'globe' || !paths[name]">
+      <circle cx="12" cy="12" r="9" />
+      <ellipse cx="12" cy="12" rx="4" ry="9" />
+      <path d="M3 12h18" />
+    </g>
+    <path v-else :d="paths[name]" />
   </svg>
 </template>
 <script setup lang="ts">
@@ -23,7 +33,8 @@ const paths: Record<string, string> = {
   reload: 'M20 10a8 8 0 1 0-1 7M20 4v6h-6',
   close: 'm6 6 12 12M6 18 18 6',
   plus: 'M12 5v14M5 12h14',
-  globe: 'M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0ZM3 12h18M12 3a17 17 0 0 1 0 18 17 17 0 0 1 0-18Z',
+  'tab-add': 'M12 1.5v21M1.5 12h21',
+  globe: '',
   search: 'M11 18a7 7 0 1 0 0-14 7 7 0 0 0 0 14Zm5-2 5 5',
   star: 'm12 3 2.8 5.7 6.3.9-4.6 4.5 1.1 6.3-5.6-3-5.6 3 1.1-6.3L3 9.6l6.2-.9Z',
   menu: 'M5 6h14M5 12h14M5 18h14',

@@ -5,12 +5,14 @@ import { defaults, preferencesPatch } from '../shared/appearance'
 import { webTarget } from '../shared/navigation'
 import type { Bookmark, BookmarkFolder, Preferences, Visit, DownloadState, SiteRule } from '../shared/model'
 import { restoredFolders, folderDestination, saveFolder } from '../shared/bookmark-folders'
+import { FaviconCache, type FaviconRecord } from '../shared/favicon'
 import { restoredDownloads } from '../shared/download-records'
 import { siteRule } from '../shared/site-policy'
 import { bookmarkInput } from '../shared/bookmarks'
 import { restoredSession, type WindowSession } from '../shared/window-session'
 
 interface StoredData {
+  favicons: FaviconRecord[]
   version: 1
   preferences: Preferences
   bookmarks: Bookmark[]
@@ -24,6 +26,7 @@ interface StoredData {
 export class BrowserStore {
   readonly file: string
   data: StoredData = {
+    favicons: [],
     version: 1,
     preferences: { ...defaults },
     bookmarks: [],
@@ -41,6 +44,7 @@ export class BrowserStore {
     try {
       const raw = JSON.parse(fs.readFileSync(this.file, 'utf8'))
       if (raw.version !== 1) throw new Error('Unsupported browser data version')
+      this.data.favicons = new FaviconCache(raw.favicons).records
       this.data.preferences = { ...defaults, ...preferencesPatch(raw.preferences) }
       this.data.bookmarkFolders = restoredFolders(raw.bookmarkFolders)
       const ids = new Set<string>(),
@@ -107,8 +111,10 @@ export class BrowserStore {
     if (id !== undefined && !existing) throw new Error('这个书签已被删除。')
     if (this.data.bookmarks.some((b) => b.url === clean.url && b.id !== id))
       throw new Error('这个网址已在书签中。')
-    if (existing) Object.assign(existing, clean, { folderId })
-    else {
+    if (existing) {
+      if (existing.url !== clean.url) existing.favicon = undefined
+      Object.assign(existing, clean, { folderId })
+    } else {
       if (this.data.bookmarks.length >= 2000) throw new Error('书签已达到 2000 个上限。')
       this.data.bookmarks.push({ id: randomUUID(), ...clean, folderId })
     }

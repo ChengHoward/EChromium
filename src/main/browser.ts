@@ -10,6 +10,8 @@ import { PageFind } from './page-find'
 import { BrowsingData } from './browsing-data'
 import { SiteInventoryService } from './site-inventory'
 import { TabPreviews } from './tab-previews'
+import { FaviconService } from './favicon-service'
+import { tabLayout } from '../shared/tab-layout'
 import {
   restoredSession,
   sessionTab,
@@ -48,6 +50,7 @@ import { inputTarget, nextTab, safeBounds, safeOrigin, webTarget } from '../shar
 import type { BrowserRequest, BrowserState, TabState, UiEvent } from '../shared/model'
 
 export type Tab = {
+  faviconBypassCache?: boolean
   state: TabState
   view?: WebContentsView
   hostId: string
@@ -95,6 +98,7 @@ export class Browser {
   readonly siteData: SiteData
   readonly siteInventory: SiteInventoryService
   readonly previews: TabPreviews
+  readonly favicons: FaviconService
   readonly popupPolicy = new PopupPolicy()
   readonly dialogs: PageDialogs
   readonly find: PageFind
@@ -113,6 +117,7 @@ export class Browser {
   bookmarkExportDestination?: (host: Host) => Promise<string | undefined>
 
   constructor(readonly store: BrowserStore) {
+    this.favicons = new FaviconService(store)
     this.downloads = new Downloads(store, () => this.publish())
     this.suggestions = new AddressSuggestions(this)
     this.siteData = new SiteData(this)
@@ -180,6 +185,8 @@ export class Browser {
           (appearance) => {
             host.appearance = appearance
             this.find.reposition(host)
+            this.suggestions.refresh(host)
+            this.dialogs.refresh(host)
             this.publish()
           },
         ),
@@ -243,7 +250,7 @@ export class Browser {
       ...(process.platform === 'win32'
         ? {
             titleBarStyle: 'hidden' as const,
-            titleBarOverlay: { color: '#DCE8F2', symbolColor: '#263C50', height: 42 },
+            titleBarOverlay: { color: '#DCE8F2', symbolColor: '#263C50', height: tabLayout.stripHeight },
           }
         : process.platform === 'darwin'
           ? { titleBarStyle: 'hiddenInset' as const }
@@ -357,6 +364,7 @@ export class Browser {
         this.permissions.release(profile)
         this.closedTabs.delete(profile)
         this.sessions.delete(profile)
+        this.favicons.release(host.session)
         for (const popup of this.popups.values()) if (popup.profile === profile) popup.window.destroy()
         void host.session.clearStorageData().catch(console.error)
       }
@@ -421,6 +429,12 @@ export class Browser {
         const live = content && !content.isDestroyed()
         return {
           ...t.state,
+          favicon:
+            t.state.kind === 'web'
+              ? this.favicons
+                  .cache(host.session, !host.private && host.profile === 'default')
+                  .page(t.state.url)?.data || t.state.favicon
+              : undefined,
           previewVersion: t.epoch,
           popupStatus: live ? this.popupPolicy.status(content.id, t.permissionEpoch) : undefined,
           dialogStatus: live ? this.dialogs.status(content.id, t.permissionEpoch) : undefined,
@@ -432,7 +446,10 @@ export class Browser {
       palette: host.appearance.colors,
       dark: host.appearance.dark,
       material: host.appearance.material,
-      bookmarks: this.store.data.bookmarks.map((b) => ({ ...b })),
+      bookmarks: this.store.data.bookmarks.map((b) => ({
+        ...b,
+        favicon: this.favicons.normal.page(b.url)?.data,
+      })),
       bookmarkFolders: this.store.data.bookmarkFolders.map((f) => ({ ...f })),
       history: host.private ? [] : this.store.data.history.slice(0, 150),
       downloads: this.downloads.list(host.profile),
@@ -661,6 +678,42 @@ export class Browser {
     wc.setAudioMuted(tab.state.muted)
     wc.setZoomFactor(tab.state.zoom)
     const owner = () => this.hosts.get(tab.hostId)
+    let iconRevision = 0
+    let iconPages = new Set<string>()
+    wc.on('page-favicon-updated', (_event, candidates) => {
+      const revision = ++iconRevision
+      const epoch = tab.epoch
+      const url = wc.getURL()
+      const current = owner()
+      if (!current || !webTarget(url) || tab.state.pendingUrl) return
+      const valid = () =>
+        !wc.isDestroyed() &&
+        !tab.closing &&
+        !tab.state.pendingUrl &&
+        tab.epoch === epoch &&
+        revision === iconRevision &&
+        wc.getURL() === url &&
+        owner()?.session === current.session
+      const force = tab.faviconBypassCache === true
+      tab.faviconBypassCache = false
+      void this.favicons
+        .update(wc, url, candidates, !current.private && current.profile === 'default', valid, force)
+        .then((icon) => {
+          if (!valid()) return
+          const persistent = !current.private && current.profile === 'default'
+          const cache = this.favicons.cache(current.session, persistent)
+          const record = cache.page(url)
+          if (record) for (const alias of iconPages) cache.link(alias, record.iconUrl)
+          if (!candidates.length) for (const alias of iconPages) cache.unlink(alias)
+          if (persistent) this.favicons.save()
+          tab.state.favicon = icon || record?.data
+          this.publish()
+        })
+        .catch(() => {})
+    })
+    wc.on('did-redirect-navigation', (_event, url, _inPlace, main) => {
+      if (main && iconPages.size < 16) iconPages.add(url)
+    })
     const changed = () => {
       if (wc.isDestroyed()) return
       tab.state.canGoBack = wc.navigationHistory.canGoBack()
@@ -683,6 +736,11 @@ export class Browser {
       if (tab.closing) return
       if (main) this.find.closeTab(tab)
       if (main && !inPlace) {
+        iconPages = new Set([url])
+        iconRevision++
+        tab.state.favicon = this.favicons
+          .cache(wc.session, !owner()?.private && owner()?.profile === 'default')
+          .page(url)?.data
         this.previews.forget(tab)
         this.dialogs.cancelRoot(wc.id)
         const h = owner()
@@ -704,6 +762,11 @@ export class Browser {
     const commit = (_event: unknown, url: string) => {
       if (tab.closing) return
       tab.state.url = url
+      const current = owner()
+      if (current)
+        tab.state.favicon = this.favicons
+          .cache(wc.session, !current.private && current.profile === 'default')
+          .page(url)?.data
       tab.state.pendingUrl = undefined
       tab.state.error = undefined
       changed()
@@ -712,6 +775,16 @@ export class Browser {
     wc.on('did-navigate', commit)
     wc.on('did-navigate-in-page', (e, url, main) => {
       if (main) {
+        const current = owner()
+        if (current) {
+          const persistent = !current.private && current.profile === 'default'
+          const cache = this.favicons.cache(current.session, persistent)
+          const previous = cache.page(tab.state.url)
+          if (previous) {
+            cache.link(url, previous.iconUrl)
+            if (persistent) this.favicons.save()
+          }
+        }
         this.previews.forget(tab)
         tab.epoch++
         commit(e, url)
@@ -1169,8 +1242,10 @@ export class Browser {
         current.state.error = undefined
         current.state.crashed = false
         if (current.view) {
-          if (request.value === true) wc().reloadIgnoringCache()
-          else wc().reload()
+          if (request.value === true) {
+            current.faviconBypassCache = true
+            wc().reloadIgnoringCache()
+          } else wc().reload()
           this.layout(host)
         }
         break
@@ -1378,7 +1453,7 @@ export class Browser {
         this.layout(host)
         return this.snapshot(host)
       case 'menu':
-        openBrowserMenu(this, host)
+        openBrowserMenu(this, host, undefined, request.value)
         break
       case 'tab-menu':
         openBrowserMenu(this, host, tab())

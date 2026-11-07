@@ -3,6 +3,8 @@ import type { Browser, Host, Tab } from './browser'
 import type { BrowserRequest } from '../shared/model'
 import { closeTargets } from '../shared/tab-operations'
 import { compatibleWindows } from './tab-transfer'
+import { safeBounds } from '../shared/navigation'
+import { menuTheme } from './panel-theme'
 
 function bookmarkEntries(
   browser: Browser,
@@ -34,7 +36,10 @@ function bookmarkEntries(
 export function openFolderMenu(browser: Browser, host: Host, id: unknown) {
   if (typeof id !== 'string' || !browser.store.data.bookmarkFolders.some((f) => f.id === id))
     throw new Error('文件夹已被删除。')
-  Menu.buildFromTemplate(bookmarkEntries(browser, host, id)).popup({ window: host.window })
+  Menu.buildFromTemplate(bookmarkEntries(browser, host, id)).popup({
+    window: host.window,
+    ...(process.platform === 'win32' ? { appearance: menuTheme(host) } : {}),
+  })
 }
 
 export function buildBrowserMenu(browser: Browser, host: Host, tab?: Tab) {
@@ -174,6 +179,26 @@ export function buildBrowserMenu(browser: Browser, host: Host, tab?: Tab) {
       ]
   return Menu.buildFromTemplate(entries)
 }
-export function openBrowserMenu(browser: Browser, host: Host, tab?: Tab) {
-  buildBrowserMenu(browser, host, tab).popup({ window: host.window })
+export function openBrowserMenu(browser: Browser, host: Host, tab?: Tab, anchor?: unknown) {
+  const menu = buildBrowserMenu(browser, host, tab)
+  if (tab) {
+    menu.popup({
+      window: host.window,
+      ...(process.platform === 'win32' ? { appearance: menuTheme(host) } : {}),
+    })
+    return menu
+  }
+  const size = host.window.getContentSize()
+  const bounds = safeBounds(anchor ?? { x: size[0] - 46, y: 50, width: 32, height: 32 }, size)
+  const width = 320
+  // This runtime adds the two outer padding insets and one border DIP to the row width.
+  const padding = 4
+  const popupWidth = width + (process.platform === 'win32' ? padding * 2 + 1 : 0)
+  menu.popup({
+    window: host.window,
+    x: Math.max(8, Math.round(bounds.x + bounds.width - popupWidth)),
+    y: Math.round(bounds.y + bounds.height + 4),
+    ...(process.platform === 'win32' ? { appearance: { ...menuTheme(host), width, padding } } : {}),
+  })
+  return menu
 }

@@ -32,6 +32,64 @@ import { restoredSession, visibleWindowBounds } from '../src/shared/window-sessi
 import { dataOptions, dataInterval, withinInterval } from '../src/shared/browsing-data'
 import { findPanelContent } from '../src/shared/find-panel'
 import { overviewTabs, tabLocation } from '../src/shared/tab-overview'
+import { FaviconCache, faviconData, faviconMaxAge } from '../src/shared/favicon'
+
+test('favicon mappings preserve page paths and queries, share bitmaps and ignore fragments', () => {
+  const cache = new FaviconCache(),
+    png = 'data:image/png;base64,aGVsbG8='
+  const time = Date.now()
+  cache.set('https://site.test/a?q=1#first', 'https://site.test/a.ico', png, time)
+  cache.link('https://site.test/b', 'https://site.test/a.ico')
+  assert.equal(cache.records.length, 1)
+  assert.equal(cache.page('https://site.test/a?q=1#second')?.data, png)
+  assert.equal(cache.page('https://site.test/a?q=2'), undefined)
+  assert.equal(cache.page('https://other.test/a?q=1'), undefined)
+  assert.equal(cache.fresh(cache.records[0], time + faviconMaxAge), true)
+  assert.equal(cache.fresh(cache.records[0], time + faviconMaxAge + 1), false)
+  cache.set('https://site.test/a?q=1', 'https://site.test/new.ico', png, time)
+  assert.equal(cache.page('https://site.test/b')?.iconUrl, 'https://site.test/a.ico')
+  cache.unlink('https://site.test/a?q=1')
+  assert.equal(cache.page('https://site.test/a?q=1'), undefined)
+  assert.equal(cache.page('https://site.test/b')?.data, png)
+})
+
+test('favicon persistence validates stored thumbnails, bounds data and retains bookmarked page mappings', () => {
+  const png = 'data:image/png;base64,aGVsbG8=',
+    time = Date.now()
+  const cache = new FaviconCache([
+    { iconUrl: 'file:///secret', data: png, updatedAt: time, pages: ['https://site.test/'] },
+    {
+      iconUrl: 'https://site.test/icon',
+      data: 'https://tracker.test/icon',
+      updatedAt: time,
+      pages: ['https://site.test/'],
+    },
+    {
+      iconUrl: 'https://site.test/icon',
+      data: png,
+      updatedAt: time,
+      pages: ['https://site.test/', 'file:///secret'],
+    },
+  ])
+  assert.equal(cache.records.length, 1)
+  assert.deepEqual(cache.records[0].pages, ['https://site.test/'])
+  assert.equal(faviconData('data:image/svg+xml;base64,aGVsbG8='), undefined)
+  for (let index = 0; index < 300; index++)
+    cache.set(`https://site.test/${index}`, `https://site.test/${index}.png`, png, time)
+  assert.equal(cache.records.length, 256)
+  cache.retainPages((url) => url === 'https://site.test/299')
+  assert.equal(cache.records.length, 1)
+  const directory = fs.mkdtempSync(path.join(os.tmpdir(), 'echromium-favicon-'))
+  try {
+    const store = new BrowserStore(directory)
+    store.data.favicons = cache.records
+    store.flush()
+    const reopened = new BrowserStore(directory)
+    assert.equal(new FaviconCache(reopened.data.favicons).page('https://site.test/299')?.data, png)
+  } finally {
+    fs.rmSync(directory, { recursive: true, force: true })
+  }
+})
 test('web links become tabs while explicit dialog features and dispositions stay respected', () => {
   assert.equal(windowOpenTarget('default', ''), 'tab')
   assert.equal(windowOpenTarget('default', 'noopener,noreferrer'), 'tab')
@@ -493,6 +551,11 @@ test('theme depth keeps hue families and text contrast across light and dark the
           `${theme}/${mode}/${themeDepth}: accent buttons retain readable text`,
         )
         const current = lightness(colors.shell)
+        if (dark && themeDepth === 50)
+          assert.ok(
+            (lightness(colors['bar-surface']) + 0.05) / (current + 0.05) >= 1.4,
+            `${theme}: dark titlebar and browser bars retain a distinct luminance step`,
+          )
         assert.ok(current <= previous, 'moving toward deep never lightens the shell')
         previous = current
         {

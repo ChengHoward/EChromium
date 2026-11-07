@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { computed, nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 import Icon from './Icon.vue'
+import SiteIcon from './SiteIcon.vue'
 import { overviewTabs, tabLocation, tabIcon, type TabPreview } from '../shared/tab-overview'
 import type { BrowserRequest, BrowserState } from '../shared/model'
 const props = defineProps<{
@@ -229,7 +230,8 @@ onBeforeUnmount(() => {
             /></span>
           </div>
           <div class="overview-meta">
-            <Icon :name="tabIcon(tab)" :size="16" />
+            <SiteIcon v-if="tab.kind === 'web'" :src="tab.favicon" />
+            <Icon v-else :name="tabIcon(tab)" :size="16" />
             <div>
               <strong>{{ tab.title }}</strong
               ><small>{{ tabLocation(tab) }}</small>

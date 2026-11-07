@@ -3,6 +3,7 @@ import { computed, ref, watch } from 'vue'
 import { folderPath } from '../../shared/bookmark-folders'
 import { parseBookmarkHtml } from '../bookmark-html'
 import Icon from '../Icon.vue'
+import SiteIcon from '../SiteIcon.vue'
 import type { Bookmark, BookmarkFolder, BrowserRequest, BrowserState } from '../../shared/model'
 
 const props = defineProps<{
@@ -330,7 +331,7 @@ async function importFile(event: Event) {
           :title="bookmark.url"
           @click="run({ action: 'new-tab', url: bookmark.url })"
         >
-          <Icon name="star" :size="19" /><span
+          <SiteIcon :src="bookmark.favicon" :size="18" /><span
             ><strong>{{ bookmark.title }}</strong
             ><small>{{ bookmark.url }}</small
             ><small v-if="query.trim() && bookmark.folderId">{{ pathOf(bookmark.folderId) }}</small></span

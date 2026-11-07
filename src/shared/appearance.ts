@@ -135,6 +135,13 @@ export function palette(preferences: Preferences, systemDark: boolean) {
   result['field-surface'] = deepAmount
     ? mix(colors[2], '#000000', deepAmount * (dark ? 0.08 : 0.025))
     : result.surface
+  // Dark titlebars and browser bars need a real luminance step, not only different alpha.
+  // Preserve the titlebar and document surfaces; lift just the surrounding controls.
+  if (dark) {
+    const lift = 0.025 + 0.09 * Math.min(1, depth / themeDepthLimits.default)
+    result['bar-surface'] = mix(result['bar-surface'], '#FFFFFF', lift)
+    result['field-surface'] = mix(result['field-surface'], '#FFFFFF', lift)
+  }
   // Apply at the default depth too: captions and native panels must not inherit a faint base color.
   const backgrounds = [
     'shell',

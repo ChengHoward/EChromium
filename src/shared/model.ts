@@ -19,6 +19,7 @@ export interface Bookmark {
   title: string
   url: string
   folderId?: string
+  favicon?: string
 }
 export interface BookmarkFolder {
   id: string
@@ -50,6 +51,7 @@ export interface TabState {
   title: string
   url: string
   pendingUrl?: string
+  favicon?: string
   loading: boolean
   kind: 'newtab' | 'web' | 'settings' | 'downloads' | 'history' | 'bookmarks'
   pinned: boolean

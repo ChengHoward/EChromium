@@ -92,6 +92,15 @@ export class BrowsingData {
       if (options.cache) await host.session.clearCache()
       const removed = counts()
       if (options.history)
+        this.browser.favicons.forgetHistory(
+          new Set(
+            this.browser.store.data.history.filter((v) => withinInterval(v.at, interval)).map((v) => v.url),
+          ),
+          new Set(
+            this.browser.store.data.history.filter((v) => !withinInterval(v.at, interval)).map((v) => v.url),
+          ),
+        )
+      if (options.history)
         this.browser.store.data.history = this.browser.store.data.history.filter(
           (v) => !withinInterval(v.at, interval),
         )
