@@ -26,7 +26,7 @@
     "prettier": "3.5.3",
     "typescript": "5.7.2",
     "vite": "6.2.0",
-    "vue-tsc": "2.2.8"
+    "vue-tsc": "3.3.14"
   },
   "engines": {
     "node": ">=22.12.0"
