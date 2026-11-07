@@ -1,0 +1,10 @@
+{
+  "distribution": "45.0.0-desktop.3",
+  "platform": "win32",
+  "arch": "x64",
+  "release": "https://github.com/ChengHoward/edist/releases/tag/v45.0.0-desktop.3",
+  "archive": "electron-v45.0.0-desktop.3-win32-x64.zip",
+  "archiveSha256": "0cee4ec2a89ef18e2f075a63970e1a321f83fdfb8bb11f6a789c751587d86bbc",
+  "executableSha256": "5808bd088b261cc0ad0506848a594a76b19a091aa3cac868c85b53db09e3d7ba",
+  "typesSha256": "eeaac9524c8112fff09ed4ce887f993f5d5baeb69754666697068b3460eaef26"
+}
